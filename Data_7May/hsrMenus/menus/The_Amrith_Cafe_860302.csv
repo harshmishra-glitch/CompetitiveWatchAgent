@@ -1,0 +1,219 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Thatte Idli,₹45,,,Veg,4.5,68,,In Stock
+Recommended,,Idli [2 Pieces],₹65,,,Veg,4.4,71,Yes,In Stock
+Recommended,,Poori Saagu,₹135,,,Veg,4.4,34,Yes,In Stock
+Recommended,,Rava Idli,₹80,,,Veg,4.6,24,Yes,In Stock
+Recommended,,Idli Vada,₹120,,,Veg,4.2,44,,In Stock
+Recommended,,Ghee Masala Dosa,₹119,,,Veg,4.5,78,Yes,In Stock
+Recommended,,Ghee Pudi Masala Dosa,₹160,,,Veg,4.8,17,Yes,In Stock
+Recommended,,Ghee Plain Dosa,₹102,,,Veg,3.6,13,,In Stock
+Recommended,,Ghee Rava Dosa,₹145,,,Veg,4.4,6,,In Stock
+Recommended,,Ghee Pongal,₹120,,,Veg,4.7,38,Yes,In Stock
+Recommended,,Gulab Jamun [2 Pieces],₹80,,,Veg,,,,In Stock
+Recommended,,Coffee,₹59,,,Veg,4.7,3,,In Stock
+Recommended,,Tea,₹35,,,Veg,,,,In Stock
+Recommended,,Boost,₹70,,,Veg,,,,In Stock
+Recommended,,Horlicks,₹70,,,Veg,,,,In Stock
+Recommended,,Ginger Coffee,₹59,,,Veg,,,,In Stock
+Recommended,,Jaggery Tea,₹59,,,Veg,,,,In Stock
+Recommended,,Plain Milk,₹52,,,Veg,,,,In Stock
+Recommended,,Apple Juice,₹108,,,Veg,,,,In Stock
+Recommended,,Papaya,₹94,,,Veg,,,,In Stock
+Chinese,,Gobi Fried Rice,₹135,,,Veg,3.8,15,,In Stock
+Chinese,,Lemon Paneer,₹229,,,Veg,,,,In Stock
+Chinese,,Paneer Kabab,₹210,,,Veg,,,,In Stock
+Chinese,,Mushroom Kabab,₹180,,,Veg,,,,In Stock
+Chinese,,Paneer Fried Rice,₹160,,,Veg,,,,In Stock
+Chinese,,Gobi Noodles,₹135,,,Veg,4.1,10,,In Stock
+Chinese,,Mushroom Pepperdry,₹165,,,Veg,,,,In Stock
+Chinese,,Paneer Chilly,₹150,,,Veg,4.8,7,,In Stock
+Chinese,,Paneer Pepperdry,₹150,,,Veg,,,,In Stock
+Chinese,,Paneer Noodles,₹160,,,Veg,,,,In Stock
+Chinese,,Mushroom Chilly,₹155,,,Veg,,,,In Stock
+Chinese,,Mushroom Fried Rice,₹140,,,Veg,,,,In Stock
+Chinese,,Paneer Manchurian,₹140,,,Veg,4.6,12,,In Stock
+Chinese,,Babycorn Pepperdry,₹150,,,Veg,,,,In Stock
+Chinese,,Schzwen Fried Rice,₹148,,,Veg,,,,In Stock
+Chinese,,Mushroom Noodles,₹145,,,Veg,,,,In Stock
+Chinese,,Schzwen Noodles,₹148,,,Veg,,,,In Stock
+Chinese,,Gobi Chilly,₹135,,,Veg,,,,In Stock
+Chinese,,Babycorn Manchurian,₹130,,,Veg,,,,In Stock
+Chinese,,Mushroom Manchurian,₹140,,,Veg,,,,In Stock
+Chinese,,Gobi Manchurian,₹130,,,Veg,,,,In Stock
+Chinese,,Babycorn Chilly,₹135,,,Veg,,,,In Stock
+Chinese,,Tomato Idly Chilli,₹135,,,Veg,,,,In Stock
+Chinese,,Gobi Pepperdry,₹135,,,Veg,,,,In Stock
+Chinese,,Chilly Idly,₹120,,,Veg,,,,In Stock
+Chinese,,Veg Fried Rice,₹120,,,Veg,4.0,5,,In Stock
+Chinese,,Veg Noodles,₹120,,,Veg,3.7,7,,In Stock
+Chinese,,Lemon Idly,₹108,,,Veg,,,,In Stock
+Chinese,,Ghee Rice,₹94,,,Veg,,,,In Stock
+Chinese,,Jeera Rice,₹100,,,Veg,,,,In Stock
+Chinese,,Veg Tawa Pulao,₹120,,,Veg,,,,Check app
+Breakfast,,Thatte Idli,₹45,,,Veg,4.5,68,,In Stock
+Breakfast,,Ghee Pudi Thatte Idli,₹120,,,Veg,4.8,30,Yes,In Stock
+Breakfast,,Idli [2 Pieces],₹65,,,Veg,4.4,71,Yes,In Stock
+Breakfast,,Vada [1 Piece],₹60,,,Veg,4.2,85,Yes,In Stock
+Breakfast,,Ghee Button Idly Dip Sambar,₹120,,,Veg,4.1,33,Yes,In Stock
+Breakfast,,Poori Saagu,₹135,,,Veg,4.4,34,Yes,In Stock
+Breakfast,,Rava Idli,₹80,,,Veg,4.6,24,Yes,In Stock
+Breakfast,,Curd Vada,₹80,,,Veg,4.6,23,Yes,In Stock
+Breakfast,,Mangalore Buns 2pc,₹120,,,Veg,4.5,18,,In Stock
+Breakfast,,Idli Vada,₹120,,,Veg,4.2,44,,In Stock
+Breakfast,,Ghee Pudi Button Idly (10pc),₹135,,,Veg,,,,In Stock
+Breakfast,,Single Idli Single Vada,₹90,,,Veg,3.8,18,,In Stock
+Breakfast,,Ghee Pudi Idly,₹125,,,Veg,,,,In Stock
+Breakfast,,Poori With Avarekalu Curry,₹160,,,Veg,,,,Check app
+Breakfast,,Chow Chow Bath,₹145,,,Veg,4.8,7,,Check app
+Breakfast,,Kesari Bath,₹80,,,Veg,4.4,12,,Check app
+Breakfast,,Khara Bath,₹80,,,Veg,4.6,14,,Check app
+Dosa,,Ghee Masala Dosa,₹119,,,Veg,4.5,78,Yes,In Stock
+Dosa,,Ghee Pudi Masala Dosa,₹160,,,Veg,4.8,17,Yes,In Stock
+Dosa,,Ghee Set Dosa,₹145,,,Veg,4.6,57,,In Stock
+Dosa,,Ghee Onion Dosa [2 pieces],₹160,,,Veg,4.4,10,,In Stock
+Dosa,,Ghee Mysore Masala Dosa,₹145,,,Veg,4.5,4,,In Stock
+Dosa,,Ghee Kali Dosa [2 pieces],₹120,,,Veg,4.9,28,,In Stock
+Dosa,,Paneer Dosa,₹200,,,Veg,,,,In Stock
+Dosa,,Ghee Pudi Kali Dosa [2 pieces],₹145,,,Veg,,,,In Stock
+Dosa,,Ghee Plain Dosa,₹102,,,Veg,3.6,13,,In Stock
+Dosa,,Ghee Rava Onion Dosa,₹150,,,Veg,4.4,3,,In Stock
+Dosa,,Ghee Pudi Rava Onion Masala,₹200,,,Veg,3.8,5,,In Stock
+Dosa,,Ghee Rava Dosa,₹145,,,Veg,4.4,6,,In Stock
+Dosa,,Ghee Rava Masala Dosa,₹160,,,Veg,4.2,3,,In Stock
+Dosa,,Ghee Pudi Onion Dosa [2 pieces],₹180,,,Veg,,,,In Stock
+Dosa,,Ghee Open Butter Masala Dosa,₹150,,,Veg,5.0,8,,In Stock
+Dosa,,Ghee Pudi Plain Dosa,₹130,,,Veg,,,,In Stock
+Dosa,,Akki Roti (2pc),₹120,,,Veg,5.0,3,,In Stock
+Dosa,,Ragi Roti (2pc),₹120,,,Veg,5.0,3,,In Stock
+Dosa,,Cucumber Dosa(2pc),₹150,,,Veg,,,,In Stock
+Dosa,,Khali Dosa With Avarekalu Curry,₹160,,,Veg,4.1,5,,Check app
+Dosa,,Ragi Masala Dosa,₹150,,,Veg,,,,Check app
+Dosa,,Multigrain Dosa(2pc),₹150,,,Veg,,,,Check app
+Dosa,,Neer Dosa 1 Pc,₹90,,,Veg,,,,Check app
+Dosa,,Palak Dosa,₹150,,,Veg,,,,Check app
+Dosa,,Pineapple Dosa(2pc),₹150,,,Veg,,,,Check app
+Dosa,,Tomato Dosa,₹150,,,Veg,,,,Check app
+Hot Beverages,,Boost 3 Cup,₹165,,,Veg,,,,In Stock
+Hot Beverages,,Coffee 3 Cup,₹125,,,Veg,,,,In Stock
+Hot Beverages,,Ginger Tea 3 Cup,₹140,,,Veg,,,,In Stock
+Hot Beverages,,Coffee,₹59,,,Veg,4.7,3,,In Stock
+Hot Beverages,,Jaggery Tea 3 Cup,₹125,,,Veg,,,,In Stock
+Hot Beverages,,Jaggery Coffee 3 Cup,₹125,,,Veg,,,,In Stock
+Hot Beverages,,Boost 2 Cup,₹120,,,Veg,,,,In Stock
+Hot Beverages,,Ginger Coffee 3 Cup,₹125,,,Veg,,,,In Stock
+Hot Beverages,,Tea,₹35,,,Veg,,,,In Stock
+Hot Beverages,,Horlicks 2 Cup,₹120,,,Veg,,,,In Stock
+Hot Beverages,,Coffee 2 Cup,₹93,,,Veg,,,,In Stock
+Hot Beverages,,Ginger Tea 2 Cup,₹105,,,Veg,,,,In Stock
+Hot Beverages,,Tea 3 Cup,₹105,,,Veg,,,,In Stock
+Hot Beverages,,Badam Milk 2 Cup,₹106,,,Veg,,,,In Stock
+Hot Beverages,,Plain Milk 3 Cup,₹105,,,Veg,,,,In Stock
+Hot Beverages,,Jaggery Coffee 2 Cup,₹93,,,Veg,,,,In Stock
+Hot Beverages,,Jaggery Tea 2 Cup,₹93,,,Veg,,,,In Stock
+Hot Beverages,,Black Tea 2 Cup,₹93,,,Veg,,,,In Stock
+Hot Beverages,,Ginger Coffee 2 Cup,₹93,,,Veg,,,,In Stock
+Hot Beverages,,Ginger Tea,₹59,,,Veg,4.8,4,,In Stock
+Hot Beverages,,Tea 2 Cup,₹79,,,Veg,,,,In Stock
+Hot Beverages,,Plain Milk 2 Cup,₹79,,,Veg,,,,In Stock
+Hot Beverages,,Boost,₹70,,,Veg,,,,In Stock
+Hot Beverages,,Horlicks,₹70,,,Veg,,,,In Stock
+Hot Beverages,,Jaggary Coffee,₹59,,,Veg,,,,In Stock
+Hot Beverages,,Badam Milk,₹65,,,Veg,,,,In Stock
+Hot Beverages,,Ginger Coffee,₹59,,,Veg,,,,In Stock
+Hot Beverages,,Jaggery Tea,₹59,,,Veg,,,,In Stock
+Hot Beverages,,Black Coffee,₹59,,,Veg,,,,In Stock
+Hot Beverages,,Plain Milk,₹52,,,Veg,,,,In Stock
+Hot Beverages,,Black Tea,₹35,,,Veg,,,,In Stock
+Hot Beverages,,Lemon Tea,₹59,,,Veg,,,,In Stock
+Hot Beverages,,Badam Milk 3 Cup,₹145,,,Veg,,,,In Stock
+Hot Beverages,,Black Coffee 3 Cup,₹125,,,Veg,,,,In Stock
+Hot Beverages,,Black Tea 3 Cup,₹125,,,Veg,,,,In Stock
+Hot Beverages,,Lemon Tea 3 Cup,₹125,,,Veg,,,,In Stock
+Rice Item,,Ghee Pongal,₹120,,,Veg,4.7,38,Yes,In Stock
+Rice Item,,Curd Rice,₹105,,,Veg,4.8,16,,Check app
+Rice Item,,Ghee Bisibelebath,₹120,,,Veg,4.4,35,,Check app
+Rice Item,,Rice Bath,₹105,,,Veg,4.4,5,,Check app
+Rice Item,,Mushroom Biriyani,₹145,,,Veg,,,,Check app
+Rice Item,,Puliyogare,₹105,,,Veg,2.5,3,,Check app
+Rice Item,,Shavige Bath,₹93,,,Veg,,,,Check app
+Rice Item,,Lemon Rice,₹105,,,Veg,3.5,4,,Check app
+Rice Item,,Jaggery Pongal,₹105,,,Veg,,,,Check app
+Rice Item,,Veg Biriyani,₹80,,,Veg,,,,Check app
+Rice Item,,Mango Rice,₹105,,,Veg,,,,Check app
+Rice Item,,Drumstick Biriyani,₹120,,,Veg,,,,Check app
+Fresh Juice,,Cold Coffee,₹148,,,Veg,,,,In Stock
+Fresh Juice,,Moosambi Soiled,₹135,,,Veg,,,,In Stock
+Fresh Juice,,Cold Badam Milk,₹135,,,Veg,,,,In Stock
+Fresh Juice,,Watermelon Juice,₹60,,,Veg,,,,In Stock
+Fresh Juice,,Mango Juice,₹108,,,Veg,,,,In Stock
+Fresh Juice,,Apple Juice,₹108,,,Veg,,,,In Stock
+Fresh Juice,,Pomogranet,₹108,,,Veg,,,,In Stock
+Fresh Juice,,Musambi Juice,₹94,,,Veg,,,,In Stock
+Fresh Juice,,Papaya,₹94,,,Veg,,,,In Stock
+Fresh Juice,,Beetroot Lime,₹94,,,Veg,,,,In Stock
+Fresh Juice,,Muskmelon,₹94,,,Veg,,,,In Stock
+Fresh Juice,,Pineapple Juice,₹94,,,Veg,,,,In Stock
+Fresh Juice,,Masala Soda,₹81,,,Veg,,,,In Stock
+Fresh Juice,,Lemon Soda,₹74,,,Veg,,,,In Stock
+Fresh Juice,,Fresh Lime Mint,₹74,,,Veg,,,,In Stock
+Fresh Juice,,Lemon Juice,₹67,,,Veg,,,,In Stock
+Fresh Juice,,Carrot,₹94,,,Veg,,,,In Stock
+Fresh Juice,,Greaps,₹94,,,Veg,,,,In Stock
+Fresh Juice,,Orange Juice,₹94,,,Veg,,,,Check app
+Lunch,,Chole Batura (2pc),₹180,,,Veg,,,,In Stock
+Lunch,,Andhra Meals [ltd],₹135,,,Veg,,,,In Stock
+Lunch,,Chole Batura (1pc),₹105,,,Veg,,,,In Stock
+Lunch,,Meals,₹160,,,Veg,5.0,5,,Check app
+Lunch,,Holige Meal,₹216,,,Veg,,,,Check app
+Lunch,,Mini Meal,₹105,,,Veg,4.5,9,,Check app
+Lunch,,Parota 2pcs With Chana Masala,₹135,,,Veg,,,,Check app
+Lunch,,Mudde Meals,₹135,,,Veg,,,,Check app
+Lunch,,Chapati With Tomato Curry (2pc),₹94,,,Veg,,,,Check app
+Snack,,Maddur Vada [2 pieces],₹54,,,Veg,3.6,9,,In Stock
+Snack,,Masala Vada [4 pieces],₹80,,,Veg,4.1,4,,In Stock
+Snack,,Gulab Jamun [2 Pieces],₹80,,,Veg,,,,In Stock
+Snack,,Mysore Pak 2pc,₹80,,,Veg,,,,In Stock
+Snack,,Mysore Pak 250gm,₹215,,,Veg,,,,In Stock
+Snack,,Mysorepak 500gm,₹430,,,Veg,,,,Check app
+Snack,,Pheni With Badam Milk,₹95,,,Veg,,,,Check app
+Snack,,Paddu (8pc),₹100,,,Veg,3.6,3,,Check app
+Snack,,Holige 2pc,₹80,,,Veg,,,,Check app
+Snack,,Masala Mix Bajji (4pc),₹94,,,Veg,,,,Check app
+Snack,,Onion Pakoda,₹94,,,Veg,3.9,4,,Check app
+Snack,,Bajji (4 Pc),₹81,,,Veg,,,,Check app
+Snack,,Kasi Halwa,₹92,,,Veg,,,,Check app
+Snack,,Bonda Soup [2 pieces],₹90,,,Veg,4.9,9,,Check app
+Snack,,Aloo Bonda [4 pieces],₹80,,,Veg,3.8,4,,Check app
+Snack,,Carrot Halwa,₹81,,,Veg,,,,Check app
+Snack,,Bread Pakoda (2pc),₹65,,,Veg,,,,Check app
+Snack,,Kajjaya (2pc),₹65,,,Veg,,,,Check app
+Snack,,Benne Muruku(100grams),₹80,,,Veg,,,,Check app
+Milkshakes,,Butter Fruit Milkshake,₹135,,,Veg,,,,In Stock
+Milkshakes,,Kitkat Milkshake,₹135,,,Veg,,,,In Stock
+Milkshakes,,Chocolate Milkshake,₹121,,,Veg,,,,In Stock
+Milkshakes,,Strawberry Milkshake,₹121,,,Veg,,,,In Stock
+Milkshakes,,Sapota Milkshake,₹121,,,Veg,,,,In Stock
+Milkshakes,,Vanilla Milkshake,₹108,,,Veg,,,,In Stock
+Milkshakes,,Bannana Milkshake,₹108,,,Veg,,,,In Stock
+Milkshakes,,Apple Milkshake,₹121,,,Veg,,,,In Stock
+Milkshakes,,Dray Fruit Milkshake,₹148,,,Veg,,,,In Stock
+Milkshakes,,Mango Milkshake,₹108,,,Veg,,,,In Stock
+Milkshakes,,Musk Melon Milkshake,₹121,,,Veg,,,,In Stock
+Milkshakes,,Oreo Milkshake,₹135,,,Veg,,,,In Stock
+Milkshakes,,Pomogranet Milkshake,₹121,,,Veg,,,,In Stock
+Sandwich,,Veg Cheese Sandwich,₹148,,,Veg,,,,In Stock
+Sandwich,,Peri Peri Paneer,₹162,,,Veg,,,,In Stock
+Sandwich,,Veg Sandwich,₹121,,,Veg,,,,In Stock
+Sandwich,,Corn Sandwich,₹162,,,Veg,,,,In Stock
+Sandwich,,Fruit Sandwich,₹175,,,Veg,,,,Check app
+Lassi,,Punjabi Lassi,₹108,,,Veg,,,,In Stock
+Lassi,,Mango Lassi,₹94,,,Veg,,,,In Stock
+Lassi,,Sweet Lassi,₹81,,,Veg,,,,In Stock
+Lassi,,Salt Lassi,₹81,,,Veg,,,,In Stock
+Lassi,,Strawberry Lassi,₹94,,,Veg,,,,In Stock
+Salads,,Fruit Bowl,₹90,,,Veg,,,,In Stock
+Salads,,Corn Salad,₹80,,,Veg,,,,In Stock
+Salads,,Protein Salad,₹80,,,Veg,,,,In Stock
+Pasta,,Alfredo (white Pasta),₹110,,,Veg,,,,In Stock
+Pasta,,Arabiata (red Pasta),₹110,,,Veg,,,,In Stock
+Pasta,,Pink Pasta,₹120,,,Veg,,,,Check app

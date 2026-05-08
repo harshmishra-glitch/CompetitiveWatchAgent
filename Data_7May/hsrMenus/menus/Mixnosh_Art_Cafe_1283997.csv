@@ -1,0 +1,95 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Sandwich Sillys,,Bombay Chutney & Cheese,₹395,,Mumbaia Street Style Sandwich With Cucumbers Onions Potatoes And Fresh Tomato Tangy Spicy Bombay Chutney&Cheese Between Slices Of Bread.,Veg,,,Yes,In Stock
+Sandwich Sillys,,Classic Grilled Veg Cheese,₹395,,Classic Comfort Food Thats Simple Yet Satisfying Thin Slices Of Cheese Grilled To Perfection Between The Breads,Veg,,,,In Stock
+Sandwich Sillys,,Paneer Tikka Sandwich,₹415,,Char Grilled Paneer Tikka And Cheese Sandwiched And Grilled Between The Breads,Veg,,,,In Stock
+Sandwich Sillys,,Pesto Paneer & Pepper Panini,₹415,,Pesto Marinated Paneer And Roast Red Pepper Topped With Cheddar Cheese And Hot Pressed.,Veg,,,,In Stock
+Sandwich Sillys,,Country Roast Chicken Panini,₹415,,"Slices Of Roasted Chicken, Complemented By Grilled Onions And Olives With Cheese And Grilled To Perfection.",Non-Veg,,,,In Stock
+Steak Maestro,,Spiced Grilled Paprika Paneer,₹500,,"A Delectable Veggie Steak Thick Slices Of Cottage Cheese Marinated In A Blend Of Paprika And Spices, Grilled To Perfection.Served With Herb Rice And Veggies",Veg,,,Yes,In Stock
+Steak Maestro,,Garlic Greek Chicken,₹544,,"Grilled Garlic-Coconut Chicken With Greek Herbs, Crispy Rosemary Potatoes, And A Creamy Mushroom Basil Pesto.",Non-Veg,,,,In Stock
+Steak Maestro,,Grilled Chicken Steak With Mashed Potatoes,₹524,,Summertime Open Grill Style Steak Fillet Marinated And Cooked In Olive Oil,Non-Veg,,,,In Stock
+Steak Maestro,,Tandoori Chicken With Cheesy Makhani Sauce,₹534,,"Grilled Breast Of Chicken In A Tandoori Marinade Accompanied With Jeera Rice,Tandoori Salad And Cheesy Makhani Sauce",Non-Veg,,,,In Stock
+Steak Maestro,,The Codfather Steak (fish),₹554,,"Grilled Fillet Of Basa Accompanied With Cheese Garlic Sauce,Mash Potato And Grilled Veggies",Non-Veg,,,,In Stock
+Wholesome Meals,,Falafel & Hummus Meal With Garlic Yoghurt,₹574,,,Veg,,,,In Stock
+Wholesome Meals,,Indo-italia Meal - Veg,₹574,,"Masala Macaroni, Garlic Bread, Mac & Cheese With Makhani Sauce With Fries, Olives & Jalapenos",Veg,,,,In Stock
+Indo Chini,,Veg Chowmein,₹404,,"Stir-Fried Noodles Tossed With Vibrant Veggies And Savory Spices, Featuring Bold Flavors In Every Bite",Veg,,,,In Stock
+Indo Chini,,Non-veg Chowmein,₹452,,"Stir-Fried Noodles Tossed With Vibrant Veggies, Tender Chicken, And Savory Spices, Delivering Bold Flavors In Every Bite.",Non-Veg,,,,In Stock
+Smoothies,,All Berry Smoothie,₹300,,,Veg,,,,In Stock
+Smoothies,,Banana Berry Smoothie,₹300,,,Veg,,,,In Stock
+Lebanese,,Hummus & Pita,₹364,,"Dive Into A Delightful Duo Of Creamy Hummus And Warm Pita Bread,A Mediterranean Marvel. Served With Baba Gannush",Veg,,,Yes,In Stock
+Lebanese,,Veg Falafel Bites,₹350,,"Crispy On The Outside, Tender And Flavorful On The Inside, Blend Of Chickpeas, Herbs, And Spices Served With Garlic Aloli And Sweet Tom Chilli, Served With Hung Curd & Hummus",Veg,,,,In Stock
+Lebanese,,Mediterranean Kebab Platter,₹868,,"Flavorful Chicken Kebabs, Creamy Hummus, Smoky Grilled Veggies, And Soft Pita Bread",Non-Veg,,,,In Stock
+Lebanese,,Grilled Chicken Strips With Pita,₹454,,"Pita Baked & Crispy, Served With The Perfect Blended Hummus & Succulent Chicken Strips",Non-Veg,,,,In Stock
+French Fries,,Classic Salted Fries,₹284,,"A Timeless Treat, Crispy On The Outside, Fluffy On The Inside, Salted Fries Are A Classic",Veg,,,,In Stock
+French Fries,,Honey Chilli Potato,₹324,,"Crispy Potato Fries Coated In A Sticky Honey-Chilli Glaze, Creating A Mouthwatering Balance Of Flavors",Veg,,,,In Stock
+French Fries,,Peri-peri Fries,₹284,,Peri Peri Fries Are A Delicious Twist On Classic Fries A Spicy And Tangy Kick That Pairs Well With Garlic Mayo,Veg,,,,In Stock
+Burgers,,Peri Peri Chicken Burger,₹424,,Fiery Afro Spiced Grilled Breast Of Chicken Served Under A Bun Topped With Fried Egg And Cheese Sauce A Spicy Lovers Delight,Non-Veg,,,,In Stock
+Burgers,,Tandoori Aloo Chokha,₹374,,Traditional Indian Flavors With A Modern Twist A Hearty Burger Patty Made From Spiced Tandoori Potatoes Sandwiched Between Soft Burger Buns,Veg,,,,In Stock
+Burgers,,Crumb Cottage Cheese,₹384,,"Smooth, Creamy Crispy Cottage Cheese Patty Crumb Fried To Perfection A Must Try",Veg,,,,In Stock
+Burgers,,The Og Chicken Burger,₹424,,A Timeless Classic Grilled Chicken Patty Served Under A Bun With Cheese,Non-Veg,,,,In Stock
+Pastas,,Alfredo Penne Pasta,₹454,,Penne Pasta In Rich Cheesy Bechamel Topped With Parmesan,Veg,,,,In Stock
+Pastas,,Rich Macaroni & Cheese,₹464,,American Inspired Classic Mac N Cheese,Veg,,,,In Stock
+Pastas,,Penne Sugo Al Arrabiata,₹484,,Penne Pasta In Rich Tomato Sauce Flavoured With Garlic And Basil Topped With Parmesan,Veg,,,,In Stock
+Pastas,,Agli E Olio,₹494,,"Traditional Spaghetti In Olive Oil, Sun Dried Tomato, Black Olives And Grated Parmesan",Veg,,,,In Stock
+Pastas,,P.p.p (pesto Penne Pasta),₹512,,"Traditional Spaghetti In Olive Oil, Basil, Sun Dried Tomato, Black Olives And Grated Parmesan",Veg,,,,In Stock
+Salads,,Apple Walnut Salad,₹374,,"Crisp Apple & Toasted Walnut Salad With Citrus-Honey Vinaigrette-Bright, Sweet, And Irresistible",Veg,,,,In Stock
+Salads,,Julius Ceaser Salad,₹350,,"Elegant lettuce and Homemade croutons dressed with parmesan cheese, lemon juice and olive oil choose your way.",Veg,,,,In Stock
+Salads,,Nourishing Nutty Greens Salad,₹404,,"A Refreshing Medley Of Fresh Lettuce, Crisp Cucumber, Juicy Apple, Cherry Tomatoes, Delightful Walnuts, Crunchy Almonds, And A Burst Of Mixed Berries, All Tossed In A Delectable Vinaigrette Dressing",Veg,,,,In Stock
+Salads,,Papaya Wonder Salad,₹374,,"Zesty Papaya Salad Tossed Crisp, Bold, And Bursting",Veg,,,,In Stock
+Rice Bowls,,Chilli Chicken With Fried Rice,₹514,,"A Spicy And Savory Indo-Chinese Delight, Combining Tender Chicken With Flavorful Fried Rice For Soulful Meal.",Non-Veg,,,,In Stock
+Rice Bowls,,Chilli Paneer With Fried Rice,₹460,,"A Spicy And Savory Indo-Chinese Delight, Combining Tender Paneer With Flavorful Fried Rice For Soulful Meal.",Veg,,,,In Stock
+Rice Bowls,,Dal Khichdi With Paapadam,₹424,,"A Comforting And Nutritious Indian Dish Made With Lentils And Rice, Seasoned With Spices, Perfect For A Wholesome Meal",Veg,,,,In Stock
+Rice Bowls,,Supreme Cottage Cheese Grilled With Rice And Veggies,₹450,,In House Seasonings Used To Perfection To Grill The Cottage Cheese Supremo Along With Fresh Veggies And Rice Accompanied With Secret Sauce,Veg,,,,In Stock
+Soups,,Cream Of Chicken (full),₹345,,"Blend of tender chicken and creamy goodness that soothes the soul with every spoonful, accompanied with the Buttery Rustic Bread",Non-Veg,,,,In Stock
+Soups,,Cream Of Mushroom (full),₹315,,A velvety blend of earthy mushrooms and creamy goodness that warms you from the inside out accompanied with the Buttery Rustic Bread,Veg,,,,In Stock
+Soups,,Lemon Coriander Chicken Soup (full),₹345,,"Savor the refreshing tang!!! zesty lemon and aromatic coriander dance in a light, vegetable-infused broth accompanied chicken",Non-Veg,,,,In Stock
+Soups,,Lemon Coriander Soup - Veg (full),₹315,,"Savor the refreshing tang!!! zesty lemon and aromatic coriander dance in a light, vegetable-infused broth accompanied with Kimchi",Veg,,,,In Stock
+Soups,,Roasted Tomato & Basil Pepper(full),₹315,,Smoky peppers and fragrant basil blended to perfection with the Utterly Butterly Garlic Bread.,Veg,,,,In Stock
+Pizzas,,Chicken Tikka Pizza,₹494,,Succulent Cubes Of Chicken Tikka Marinated In In House Yoghurt Marination To Perfection,Non-Veg,,,,In Stock
+Pizzas,,Chicken Half N Half,₹504,,"Grilled Chicken, Per Peri Chicken, Jalapenos, Mozzarella Cheese, Peppers And Onion",Non-Veg,,,,In Stock
+Pizzas,,Classic Margherita Pizza,₹480,,"Perfect Blend Of Marinara Sauce, Tomatoes, Basil Leaves, Mozzarella Cheese Drizzled With Olive Oil",Veg,,,,In Stock
+Pizzas,,Full House Pizza,₹480,,"A Timeless Favorite Featuring Rich Marinara, Seasonal Greens, And Protein-Rich Paneer, All Drizzled With Olive Oil.",Veg,,,,In Stock
+Pizzas,,Garden Fresh Pizza,₹480,,"Seasonal Veggies And Mozzarella Over A Base Of Classic Marinara, Elegantly Topped With Olive Oil.",Veg,,,,In Stock
+Milkshakes,,Java Chip Mocha,₹300,,,Veg,,,,In Stock
+Milkshakes,,Oreographer,₹300,,,Veg,,,,In Stock
+Milkshakes,,The Brown Man,₹300,,,Veg,,,,In Stock
+Milkshakes,,Nutty Nutella,₹300,,,Veg,,,,In Stock
+Milkshakes,,"Cold Coffee, Nosh Special",₹300,,,Veg,,,,In Stock
+Non-veg Appetizers,,Loaded Chicken Nachos,₹400,,"Chicken Piled High On Crunchy Nachos, Smothered In Cheese, Salsa, And Spicy Goodness.",Non-Veg,,,,In Stock
+Non-veg Appetizers,,Chick N Pop,₹400,,Bite-Sized Pieces Of Chicken Breaded And Deep-Fried Till Crispy And Golden Brown Accompanied With Chilli Mayo,Non-Veg,,,,In Stock
+Non-veg Appetizers,,Grilled Chicken Cutlets,₹460,,"A Simple Yet Delicious Dish, Subtle Smokiness From The Grill Cooked To Perfection, With Garlic Mayo",Non-Veg,,,,In Stock
+Non-veg Appetizers,,London Fish & Chips,₹465,,English Style Fish And Chips Served With Fries & Tartar Sauce,Non-Veg,,,,In Stock
+Non-veg Appetizers,,Butter Garlic Prawns,₹494,,"Prawns Tossed In A Rich, Buttery Garlic Sauce With A Hint Of Herbs And Heat.",Non-Veg,,,,In Stock
+Non-veg Appetizers,,"Lord Of The Wings, Bbq",₹424,,Batter Fried Wings Tossed In A Homemade Bbq Sauce Accompanied With Garlic Mayo,Non-Veg,,,,In Stock
+Veg Appetizers,,Loaded Nachos With Cheese,₹385,,"Nachos With Gooey Melted Cheese, Beans, Fresh Salsa, Sour Cream, And Jalapeno, Fiesta Of Flavors In Every Crunchy Bite.",Veg,,,,In Stock
+Veg Appetizers,,Chilli Cheese Toast,₹385,,"Bread Topped With A Spicy Mix Of Melted Cheese, Diced Peppers, & A Hint Of Herbs, Creating A Perfect Blend Of Gooey Goodness",Veg,,,,In Stock
+Veg Appetizers,,Crispy Corn Salt Pepper,₹385,,Dredged Corn Kernels Fried Till Crispy And Tempered With Onion Garlic & Spring Onion With Salt And Crushed Pepper,Veg,,,,In Stock
+Veg Appetizers,,Magic Mushrooms Skewers,₹375,,Button Mushrooms Stuffed With Cheese Onion Filling Cooked In A Grill Accompanied With House Salad,Veg,,,,In Stock
+Veg Appetizers,,Seasoned Garlic Cheese Bread,₹375,,Sliced French Baguette Topped With Garlic Butter And Toasted To Perfection. Top Up With Cheese If A Cheese Lover Make Your Choice,Veg,,,,In Stock
+Veg Appetizers,,Seasoned Garlic Bread Regular,₹350,,Sliced french bagutte topped with garlic butter and toasted to perfection.,Veg,,,,In Stock
+Veg Appetizers,,Legend Of Chilly Paneer,₹375,,"Tossed In A Fiery Blend Of Bell Peppers, Onions, Garlic, And Chili Sauce, Creating A Tantalizing Fusion Of Flavors",Veg,,,,In Stock
+Refreshers,,Fresh Lime Soda,₹224,,,Veg,,,,In Stock
+Refreshers,,Virgin Mojito,₹280,,,Veg,,,,In Stock
+Refreshers,,Iced Tea Peach,₹305,,,Veg,,,,In Stock
+Refreshers,,Carbonated Kombucha,₹355,,,Veg,,,,In Stock
+Refreshers,,Fresh Lime Water,₹205,,,Veg,,,,In Stock
+Refreshers,,Iced Tea Lemon,₹305,,,Veg,,,,In Stock
+Refreshers,,Watermelon Mojito,₹280,,,Veg,,,,In Stock
+Coffee,,Espresso,₹260,,,Veg,,,,In Stock
+Coffee,,Cartado,₹260,,,Veg,,,,In Stock
+Coffee,,Cappuccino,₹283,,,Veg,,,,In Stock
+Coffee,,Hazelnut Delight,₹296,,,Veg,,,,In Stock
+Coffee,,Flat White,₹296,,,Veg,,,,In Stock
+Coffee,,Cafe Mocha,₹294,,,Veg,,,,In Stock
+Coffee,,Americano (hot Or Cold),₹283,,,Veg,,,,In Stock
+Coffee,,Cafe Latte,₹283,,,Veg,,,,In Stock
+Coffee,,Classic Hot Chocolate,₹294,,,Veg,,,,In Stock
+All Day Breakfast,,Mixnosh Veg Breakfast,₹499,,"Sauteed Mushrooms, Baked Beans, Mashed Potatoes, Grilled Veggies With Cheesy Spinach And Corns, Brown Breads",Veg,,,,In Stock
+All Day Breakfast,,Vegan Mixnosh Signature Breakfast,₹499,,"Hash Brown, Sweet Corns, Jalapenos, Peas Tossed With Mushrooms Accompanied With Grilled Onions & Pepper Potatoes, 2 Fried Eggs, Brown Breads",Veg,,,,In Stock
+All Day Breakfast,,Mixnosh Non-veg Signature Breakfast,₹514,,"Chicken Sausages, Chicken Bacon Strips, Mashed Potatoes, 2 Fried Eggs, Brown Breads",Non-Veg,,,,In Stock
+All Day Breakfast,,"Ros Chicken Omelette, Goan Special",₹524,,"The Goan Ros Omelette Is A Delightful Street Food From Goa, Combining A Fluffy Omelette With A Flavorful Chicken Curry, Served With Pau.",Non-Veg,,,,In Stock
+All Day Breakfast,,"Ros Mushroom Omelette, Goan Special",₹499,,"The Goan Ros Omelette Is A Delightful Street Food From Goa, Combining A Fluffy Omelette With A Flavorful Mushroom Curry, Served With Pau.",Non-Veg,,,,In Stock
+All Day Breakfast,,Masala Omlette,₹424,,Everyones Favorite With Vegetables Of The Season,Non-Veg,,,,In Stock
+All Day Breakfast,,"Croissant With Chicken Ham, Egg & Cheese",₹404,,"A Hearty Combination Of Chicken Ham, A Perfectly Cooked Egg, And Gooey Melted Cheese Over Crisp Sourdough Toast",Non-Veg,,,,In Stock
+All Day Breakfast,,Croissant With Classic Cheese,₹400,,"All Time Favorite, Classio Cheese Melting In A Crossiant",Veg,,,,In Stock
+All Day Breakfast,,Shakshuka (non-veg),₹524,,"A Tantalizing Blend Of Poached Eggs In Rich And Spiced Tomato Sauce, Garnished With Herbs And Served With Warm Pau And Garden Salad",Non-Veg,,,,In Stock
+All Day Breakfast,,Shakshuka (veg),₹514,,"A Tantalizing Blend Of Cottage Cheese With Spiced Tomato Sauce, Garnished With Fresh Herbs And Served With Warm Pau And Garden Salad",Veg,,,,In Stock

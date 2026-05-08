@@ -1,0 +1,28 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Barbeque Chicken Pizza,₹450,,"Juicy chicken tossed in barbeque sauce, on a thin crust pizza.",Non-Veg,,,,In Stock
+Recommended,,Mexican Pizza,₹420,,"Corn, jalapeno, olives, red paprika on our in-house pizza sauce and base, with mozzarella cheese",Veg,,,,In Stock
+Recommended,,Farmhouse,₹420,,Thyme-roasted vegetables on pizza with our in-house pizza sauce and mozzarella!,Veg,4.1,4,,In Stock
+Recommended,,Paneer Tikka Pizza,₹450,,"Paneer chunks in Tikka marinade, with Bellpeppers",Veg,,,,In Stock
+Recommended,,Roasted Veggie Sandwich,₹260,,"Roasted vegetables in our multigrain bread, served with a portion of wedges.",Veg,,,,In Stock
+Recommended,,Vegetable Burger,₹260,,"Our in-house vegetable patty, in our seeded bun, served with a portion of wedges.",Veg,4.3,3,,In Stock
+Sandwiches,,Barbeque Chicken Sandwich,₹270,,"Pulled chicken in barbeque sauce in our multigrain bread, served with a portion of wedges.",Non-Veg,,,,In Stock
+Sandwiches,,Chicken Tikka Sandwich,₹270,,"A crowd pleaser! pulled chicken in desi tikka flavour in our multigrain bread, served with a portion of wedges.",Non-Veg,5.0,3,,In Stock
+Sandwiches,,Paneer Tikka Sandwich,₹270,,"A flavourful paneer tikka filling in our multigrain bread, served with a portion of wedges.",Veg,,,,In Stock
+Sandwiches,,Roasted Veggie Sandwich,₹260,,"Roasted vegetables in our multigrain bread, served with a portion of wedges.",Veg,,,,In Stock
+Sandwiches,,Spinach Corn Sandwich,₹260,,"The classic spinach-corn filling in our multigrain bread, served with a portion of wedges.",Veg,,,,In Stock
+Sandwiches,,Pulled-Chicken Hummus Sandwich,₹290,,"Protein powerhouse - a warm sandwich of pulled chicken in peri-peri marinade with hummus as spread. No mayo, no cheese.",Non-Veg,,,,In Stock
+Sandwiches,,Roasted Veggie Hummus Sandwich,₹290,,"Roasted Red, yellow & green peppers, zucchini, with Hummus as spread. Flavoured with Sriracha for a flavourful kick. No mayo, no cheese.",Non-Veg,,,,In Stock
+Pizza,,Barbeque Chicken Pizza,₹450,,"Juicy chicken tossed in barbeque sauce, on a thin crust pizza.",Non-Veg,,,,In Stock
+Pizza,,Mexican Pizza,₹420,,"Corn, jalapeno, olives, red paprika on our in-house pizza sauce and base, with mozzarella cheese",Veg,,,,In Stock
+Pizza,,Farmhouse,₹420,,Thyme-roasted vegetables on pizza with our in-house pizza sauce and mozzarella!,Veg,4.1,4,,In Stock
+Pizza,,Paneer Pesto Pizza,₹450,,"Paneer chunks, roasted in our in-house Pesto, along with Bellpeppers.",Veg,,,,In Stock
+Pizza,,Spicy Chicken,₹450,,A thin crust pizza with cheese and spicy chicken.,Non-Veg,,,,In Stock
+Pizza,,Margherita,₹420,,A simple and classic pizza topped with a generous layer of melted cheese.,Veg,,,,In Stock
+Pizza,,Paneer Tikka Pizza,₹450,,"Paneer chunks in Tikka marinade, with Bellpeppers",Veg,,,,In Stock
+Pastas,,Penne (Chicken ),₹410,,Served with 2 pieces of garlic bread.,Non-Veg,,,,In Stock
+Pastas,,Penne (Veg),₹390,,Served with 2 pieces of garlic bread.,Veg,5.0,7,,In Stock
+Pastas,,Spaghetti ( Veg ),₹390,,Served with 2 pieces of garlic bread.,Veg,,,,In Stock
+Pastas,,Spaghetti (Chicken),₹410,,Served with 2 pieces of garlic bread.,Non-Veg,,,,In Stock
+Burgers,,Minced Chicken Burger,₹270,,"A juicy patty of minced chicken, herbed with celery and leeks, in our seeded bun, served with a portion of wedges.",Non-Veg,,,,In Stock
+Burgers,,Vegetable Burger,₹260,,"Our in-house vegetable patty, in our seeded bun, served with a portion of wedges.",Veg,4.3,3,,In Stock
+Other Stuffs,,Garlic Bread,₹240,,"Bread toasted in parsley-garlic butter, served with our signature cheesy mushroom dip. It's a bestseller!",Veg,4.2,8,,In Stock

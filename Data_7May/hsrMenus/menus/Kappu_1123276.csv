@@ -1,0 +1,43 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Spanish Latte,₹275,ICED: ₹275 | HOT: ₹245,,Veg,,,Yes,In Stock
+Recommended,,Mocha,₹300,ICED: ₹300 | HOT: ₹275,,Veg,,,Yes,In Stock
+Recommended,,Vietnamese Iced Coffee,₹250,,,Veg,,,Yes,In Stock
+Recommended,,Latte,₹235,ICED: ₹235 | HOT: ₹210,,Veg,,,Yes,In Stock
+Recommended,,Americano,₹195,ICED: ₹195 | HOT: ₹180,,Veg,,,,In Stock
+Recommended,,Flat White,₹220,,,Veg,,,,In Stock
+Recommended,,Cortado,₹180,,,Veg,,,,In Stock
+Recommended,,Macchiato,₹180,,,Veg,,,,In Stock
+Recommended,,Espresso,₹155,,,Veg,,,,In Stock
+Recommended,,Aeropress,₹260,ICED: ₹260 | HOT: ₹235,,Veg,,,Yes,In Stock
+Recommended,,V60 Pour Over,₹260,ICED: ₹260 | HOT: ₹253,,Veg,,,,In Stock
+Recommended,,French Press,₹260,ICED: ₹260 | HOT: ₹235,,Veg,,,,In Stock
+Recommended,,Coconut Cold Brew,₹325,,,Veg,,,,In Stock
+Recommended,,Espresso Tonic,₹230,,,Veg,,,,In Stock
+Recommended,,Espresso Ginger Ale,₹230,,,Veg,,,Yes,In Stock
+Recommended,,Matcha Latte,₹300,ICED: ₹300 | HOT: ₹275,,Veg,,,,In Stock
+Recommended,,Hot Chocolate,₹300,,,Veg,,,Yes,In Stock
+Recommended,,Cold Chocolate,₹325,,,Veg,,,,In Stock
+Classic Coffees (hot/iced),,Spanish Latte,₹275,ICED: ₹275 | HOT: ₹245,,Veg,,,Yes,In Stock
+Classic Coffees (hot/iced),,Mocha,₹300,ICED: ₹300 | HOT: ₹275,,Veg,,,Yes,In Stock
+Classic Coffees (hot/iced),,Vietnamese Iced Coffee,₹250,,,Veg,,,Yes,In Stock
+Classic Coffees (hot/iced),,Cappuccino.,₹210,,,Veg,,,Yes,In Stock
+Classic Coffees (hot/iced),,Latte,₹235,ICED: ₹235 | HOT: ₹210,,Veg,,,Yes,In Stock
+Classic Coffees (hot/iced),,Americano,₹195,ICED: ₹195 | HOT: ₹180,,Veg,,,,In Stock
+Classic Coffees (hot/iced),,Flat White,₹220,,,Veg,,,,In Stock
+Classic Coffees (hot/iced),,Cortado,₹180,,,Veg,,,,In Stock
+Classic Coffees (hot/iced),,Macchiato,₹180,,,Veg,,,,In Stock
+Classic Coffees (hot/iced),,Espresso,₹155,,,Veg,,,,In Stock
+Cold Brews,,Classic Cold Brew,₹285,,,Veg,,,Yes,In Stock
+Cold Brews,,Barrel-aged Cold Brew,₹390,,,Veg,,,,In Stock
+Cold Brews,,OJ Cold Brew,₹325,,,Veg,,,,In Stock
+Cold Brews,,Coconut Cold Brew,₹325,,,Veg,,,,In Stock
+Cold Brews,,CJ Cold Brew,₹325,,,Veg,,,,In Stock
+Chocolate Drinks,,Hot Chocolate,₹300,,,Veg,,,Yes,In Stock
+Chocolate Drinks,,Cold Chocolate,₹325,,,Veg,,,,In Stock
+Manual Brews,,Aeropress,₹260,ICED: ₹260 | HOT: ₹235,,Veg,,,Yes,In Stock
+Manual Brews,,Chemex,₹260,ICED: ₹260 | HOT: ₹235,,Veg,,,,In Stock
+Manual Brews,,V60 Pour Over,₹260,ICED: ₹260 | HOT: ₹253,,Veg,,,,In Stock
+Manual Brews,,French Press,₹260,ICED: ₹260 | HOT: ₹235,,Veg,,,,In Stock
+Espresso Specials,,Espresso Tonic,₹230,,,Veg,,,,In Stock
+Espresso Specials,,Espresso Ginger Ale,₹230,,,Veg,,,Yes,In Stock
+Matcha,,Matcha Latte,₹300,ICED: ₹300 | HOT: ₹275,,Veg,,,,In Stock

@@ -1,0 +1,164 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Avocado Papdi Chaat,₹380,,,Veg,3.4,4,,In Stock
+Recommended,,Classic Green Tea,₹150,180 Ml: ₹150 | 400 Ml: ₹240,Pure green tea leaves,Veg,,,,In Stock
+Recommended,,Lemon Black Tea,₹150,180 Ml: ₹150 | 400 Ml: ₹240,Black tea brewed with a sprinkle of lemon juice,Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Italian Alfredo Penne - Veg,₹340,,"Penne pasta tossed in creamy in-house green basil and garlic sauce, exotic veggies and parmesan cheese",Veg,,,Yes,In Stock
+"Pasta, Gnocchi & Ravioli",,Pesto Sauce Pasta - Non Veg,₹380,,"Penne pasta tossed in creamy in-house green basil and garlic sauce, exotic veggies, grilled chicken and parmesan cheese",Non-Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Pink Sauce Penne Pasta - Non Veg,₹380,,"Penne pasta tossed in a unique blend of inhouse red and white sauces, exotic veggies, oregano and chilli flakes with chicken",Non-Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Italian Alfredo Penne Pasta - Non Veg,₹360,,"Penne pasta tossed in creamy in-house white sauce, exotic veggies / grilled chicken, olives and oregano with chicken",Non-Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Mushroom & Truffle Oil Gnocchi Pasta,₹440,,"Potato dumpling gnocchi tossed with creamy garlic butter, sauteed mushrooms and thyme, topped with truffle oil and parmesan cheese",Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Pesto Sauce Pasta - Veg,₹340,,"Penne pasta tossed in creamy in-house green basil and garlic sauce, exotic veggies and parmesan cheese",Veg,4.4,5,,In Stock
+"Pasta, Gnocchi & Ravioli",,Arrabbiata Penne Pasta- Veg,₹340,,"Penne pasta tossed in tangy in-house red sauce, exotic veggies / grilled chicken, olives and chilli flakes",Veg,4.9,3,,In Stock
+"Pasta, Gnocchi & Ravioli",,Spinach & Ricotta Ravioli Pasta,₹480,,Fresh pasta dough filled with ricotta and spinach tossed in creamy in-house parmesan sauce,Non-Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Aglio E Olio Spaghetti Pasta - Non Veg,₹340,,Spaghetti pasta tossed in aromatic olive oil with garlic and a touch of chilli with chicken,Non-Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Arrabbiata Penne Pasta - Non Veg,₹380,,"Penne pasta tossed in tangy in-house red sauce, exotic veggies / grilled chicken, olives and chilli flakes with chicken",Non-Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Butter Emulsion Mushroom Fettuccine Pasta,₹460,,"Fettuccine tossed in butter and truffle oil with button mushrooms, parsley and topped with parmesan cheese",Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Smoked Chicken Fettuccine Pasta,₹440,,"Fettuccine tossed in spicy red bell pepper sauce, smoked chicken and drizzled with olive oil and parmesan cheese",Non-Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Smoked Tomato Fettuccine Pasta,₹440,,"Fettuccine tossed in spicy red bell pepper sauce, sundried tomato, exotic veggies and drizzled with olive oil and parmesan cheese",Veg,,,,In Stock
+"Pasta, Gnocchi & Ravioli",,Pink Sauce Penne Pasta - Veg,₹320,,"Penne pasta tossed in a unique blend of inhouse red and white sauces, exotic veggies, oregano and chilli flakes",Veg,4.3,4,,In Stock
+"Pasta, Gnocchi & Ravioli",,Aglio E Olio Spaghetti Pasta- Veg,₹290,,Spaghetti pasta tossed in aromatic olive oil with garlic and a touch of chilli,Veg,4.8,5,,In Stock
+Sandwiches,,Paneer Tikka Grilled Sandwich,₹360,,"Grilled club sandwich with spicy marinated paneer, capsicum, onion, and iceberg lettuce",Veg,4.0,4,Yes,In Stock
+Sandwiches,,"Avocado, Ricotta & Pesto Cold Sandwich - Veg",₹340,,"Cold club sandwich loaded with avocado, black olives, sun-dried tomatoes & ricotta cheese, basil pesto, lettuce & juicy tomato slices",Veg,,,Yes,In Stock
+Sandwiches,,Chilli Spiked Chicken Grilled Sandwich,₹360,,"Grilled club sandwich with spicy marinated succulent chicken, capsicum, onion, & iceberg lettuce",Non-Veg,3.8,4,Yes,In Stock
+Sandwiches,,Pesto & Grilled Chicken Panini,₹360,,"Panini sandwich with grilled chicken, basil pesto, crisp lettuce and gooey cheese",Non-Veg,4.4,9,,In Stock
+Sandwiches,,Pulled Chicken Cold Sandwich,₹280,,Cold sandwich filled with tender sliced chicken and crisp vegetables in a cheesy mayo spread,Non-Veg,3.5,3,,In Stock
+Sandwiches,,Charred Veg Panini,₹280,,"Panini sandwich with basil pesto spread, crisp lettuce and herb-grilled veggies",Veg,4.4,3,,In Stock
+Sandwiches,,"Avocado, Ricotta & Pesto Cold Sandwich - Non Veg",₹380,,"Cold club sandwich loaded with avocado, black olives, sun-dried tomatoes & ricotta cheese, basil pesto, lettuce & juicy tomato slices with chicken salami",Non-Veg,,,,In Stock
+Sandwiches,,Grilled Cheese Sandwich,₹280,,"Grilled sandwich filled with a cheese triplet, onion and chilli flakes",Veg,3.8,3,,In Stock
+Sandwiches,,Cottage Cheese Cold Sandwich,₹280,,Cold sandwich filled with a slice of cottage cheese and crisp vegetables in a cheesy mayo spread,Veg,,,,In Stock
+Sandwiches,,Italian Egg Panini,₹280,,Panini sandwich with soft fluffy eggs and melted cheese,Non-Veg,,,,In Stock
+All Day Breakfast Platters,,American Breakfast Platter,₹480,,"Choice of Eggs, grilled chicken sausages, golden hash  browns, wilted spinach, earthy mushrooms, baked  beans, a buttered toast, pair of fluffy pancakes along  with a refreshing juice",Non-Veg,4.4,3,Yes,In Stock
+All Day Breakfast Platters,,Avocado Affair Platter,₹580,,"Avocado toast, guacamole, crunchy avocado,  avocado salad, sauteed mushrooms, mashed potato,  baked beans, hash browns, salsa, grilled tomato  along with a refreshing juice",Veg,5.0,4,Yes,In Stock
+All Day Breakfast Platters,,English Breakfast Platter,₹380,,"Choice of eggs, grilled chicken sausages,  golden hash browns, wilted spinach, earthy  mushrooms, baked beans and a buttered  toast",Non-Veg,,,,In Stock
+All Day Breakfast Platters,,Turkish Dawn Platter,₹380,,"Labneh seasoned with sumac powder, herb  oil & chilli oil, poached eggs, sliced avocado,  grilled tomato, hash browns, baked beans  and a buttered toast",Non-Veg,,,Yes,In Stock
+All Day Breakfast Platters,,Meaty Meat Platter,₹580,,"Grilled chicken sausages, sliced smoked chicken,  chicken salami, chicken omelette, mashed potato,  baked beans, hash browns, grilled tomato and a  buttered toast along with a refreshing juice",Non-Veg,,,,In Stock
+All Day Breakfast Platters,,Protein Fix Platter,₹380,,"Grilled paneer strips, roasted broccoli steak,  sauteed mushrooms, grilled tomato, hash  browns, baked beans, side salad & a buttered  toast",Veg,,,,In Stock
+All Day Breakfast Platters,,Mushroom Medley Platter,₹480,,"Sauteed enoki, button & oyster mushrooms, grilled  paneer strips, mashed potato, grilled tomato, hash  browns, baked beans, side salad & a buttered toast  along with a refreshing juice",Veg,,,,In Stock
+All Day Breakfast Platters,,Yolked & Toasted Platter,₹280,,"Classic fluffy omelette, grilled tomato, hash brown, baked beans, side salad & buttered toast",Non-Veg,,,,In Stock
+Exotic Lunch Bowls,,Burrito Bowl - Veg,₹390,,"Fajita paneer, Mexican rice, sweet corn, kidney beans, salad, nachos, salsa",Veg,4.6,3,Yes,In Stock
+Exotic Lunch Bowls,,Burrito Bowl - Non Veg,₹410,,"Fajita chicken, Mexican rice, sweet corn, kidney beans, salad, nachos, salsa",Non-Veg,,,,In Stock
+Exotic Lunch Bowls,,Asian Rice Bowl - Veg,₹360,,"Garlic & kimchi fried rice, garlic & chilli Asian gravy, fried enoki mushroom, cucumber salad",Veg,,,,In Stock
+Exotic Lunch Bowls,,Asian Rice Bowl - Non Veg,₹380,,"Garlic & kimchi fried rice, garlic & chilli Asian gravy with chicken, fried eggs, cucumber salad",Non-Veg,,,,In Stock
+Exotic Lunch Bowls,,Thai Rice Bowl - Non Veg,₹380,,"Thai red curry chicken, steamed rice, kimchi salad",Non-Veg,,,,In Stock
+Exotic Lunch Bowls,,Thai Rice Bowl - Veg,₹360,,"Thai red curry veg, steamed rice, kimchi salad",Veg,,,,In Stock
+Exotic Lunch Bowls,,Dal Kichidi Bowl - Non Veg,₹320,,"Toor dal and rice cooked with traditional Indian spices, tempered with jeera, red chilli & mustard, with grilled chicken for extra protein!",Non-Veg,,,,In Stock
+Exotic Lunch Bowls,,Dal Kichidi Bowl - Veg,₹260,,"Toor dal and rice cooked with traditional Indian spices, tempered with jeera, red chilli & mustard",Veg,,,,In Stock
+Teas,Iced Teas,Hibiscus Iced Tea,₹220,,In-house roselle hibiscus tea decoction with natural sugar,Veg,,,,In Stock
+Teas,Iced Teas,Blue Pea Iced Tea,₹230,,In-house blue pea tea decoction with natural sugar,Veg,4.9,3,,In Stock
+Teas,Iced Teas,Passion Fruit Iced Tea,₹190,,"In-house tea decoction with passion fruit extract, dash of lime and natural sugar",Veg,,,,In Stock
+Teas,Iced Teas,Orange Iced Tea,₹190,,"In-house tea decoction with orange extract, dash of lime, orange slice and natural sugar",Veg,,,,In Stock
+Teas,Iced Teas,Lemon & Mint Iced Tea,₹180,,"In-house tea decoction with mint extract, dash of lime and natural sugar",Veg,3.8,4,,In Stock
+Teas,Iced Teas,Peach Iced Tea,₹190,,"In-house tea decoction with peach extract, dash of lime and natural sugar",Veg,,,,In Stock
+Teas,Floral Teas,Lavender Floral Tea,₹240,180 Ml: ₹240 | 400 Ml: ₹410,Dried lavender buds,Veg,,,,In Stock
+Teas,Floral Teas,Chamomile Floral Tea,₹350,Pot 400 ML: ₹350 | Cup 180 ML: ₹210,Dried chamomile flowers,Veg,,,,In Stock
+Teas,Floral Teas,Hibiscus Floral Tea,₹160,180 Ml: ₹160 | 400 Ml: ₹270,Dried roselle hibiscus flowers,Veg,,,,In Stock
+Teas,Floral Teas,Blue Pea Floral Tea,₹270,Pot 400 ML: ₹270 | Cup 180 ML: ₹160,Dried blue pea flowers,Veg,,,,In Stock
+Teas,Wellness Teas,Spiced Herb & Lime,₹210,180 Ml: ₹210 | 400 Ml: ₹360,"Lemon, ajwain, fennel, cumin, pepper, rock salt, natural sugar & more",Veg,5.0,4,,In Stock
+Teas,Wellness Teas,Handpicked Herbal,₹210,180 Ml: ₹210 | 400 Ml: ₹360,"Green tea with lemongrass, turmeric, rose, peppermint, ginger & stevia",Veg,,,,In Stock
+Teas,Black Teas,Lemon Black Tea,₹150,180 Ml: ₹150 | 400 Ml: ₹240,Black tea brewed with a sprinkle of lemon juice,Veg,,,,In Stock
+Teas,Black Teas,Darjeeling Black Tea,₹210,180 Ml: ₹210 | 400 Ml: ₹360,Pure Black tea from a single-estate in Darjeeling,Veg,,,,In Stock
+Teas,Black Teas,Earl Grey Black Tea,₹160,180 Ml: ₹160 | 400 Ml: ₹270,Black tea flavoured with bergamot oil,Veg,,,,In Stock
+Teas,Green Teas,Mint Green Tea,₹160,180 Ml: ₹160 | 400 Ml: ₹270,Green tea with dried mint leaves,Veg,,,,In Stock
+Teas,Green Teas,Classic Green Tea,₹150,180 Ml: ₹150 | 400 Ml: ₹240,Pure green tea leaves,Veg,,,,In Stock
+Desserts,,Lotus Biscoff Cheesecake,₹350,,A creamy New York-style cheesecake with a Lotus Biscoff topping,Veg,3.6,4,,In Stock
+Desserts,,Blueberry Cheesecake,₹350,,A classic New York-style cheesecake with a blueberry topping,Veg,,,,In Stock
+Desserts,,Brunt Basque Cheesecake,₹350,,"A rich, crust less Basque-style cheesecake with a creamy, melt-in-your-mouth center",Veg,,,,In Stock
+Desserts,,Apple Crumble Pie,₹310,,"Warm spiced apples topped with a buttery crumble, baked to golden perfection",Veg,,,,In Stock
+Desserts,,Choco Mud Pie,₹260,,Rich chocolate pie with a gooey center and crunchy cookie crust,Veg,,,,In Stock
+Desserts,,Apple & Almond Mini Tea Cake,₹220,,A moist tea cake with apple and almonds,Veg,4.3,3,,In Stock
+Desserts,,Whole Wheat Honey & Walnut Mini Tea Cake,₹220,,"A tea cake made with whole wheat, honey, and walnuts",Veg,,,,In Stock
+Desserts,,Millionaire Brownie,₹240,,An indulgent brownie with caramel and chocolate,Veg,,,,In Stock
+Desserts,,Walnut Fudge Brownie,₹190,,A rich nutty brownie with walnut fudge,Veg,,,,In Stock
+Desserts,,Crunchy Chocolate Brownie,₹240,,A delightful brownie with crunchy chocolate topping,Veg,,,,Check app
+Desserts,,Carrot & Cashew Mini Tea Cake,₹220,,A moist tea cake with carrot and cashew,Veg,3.0,4,,Check app
+Fries & Crispers,,Veg Platter,₹360,,"Platter featuring salted fries, veggie fingers, potato wedges and cheese shots, served with four flavorful dips - sour cream, sweet chilli, ketchup and mayo",Veg,,,,In Stock
+Fries & Crispers,,Truffle & Parmesan Crispers,₹360,,Potato crispers seasoned with salt and drizzled with truffle oil & parmesan,Veg,,,,In Stock
+Fries & Crispers,,Cheese Loaded Crispers,₹320,,Potato crispers loaded with in-house cheese melt,Veg,,,,In Stock
+Fries & Crispers,,Truffle & Parmesan Fries,₹340,,Classic fries seasoned with salt and drizzled with truffle oil & parmesan,Veg,,,,In Stock
+Fries & Crispers,,Peri Peri Crispers,₹260,,Potato crispers seasoned peri-peri spices,Veg,,,,In Stock
+Fries & Crispers,,Salted Crispers,₹240,,Potato crispers seasoned with salt,Veg,,,,In Stock
+Fries & Crispers,,Cheese Loaded Fries,₹290,,Crispy fries loaded with in-house cheese melt,Veg,,,,In Stock
+Fries & Crispers,,Salted Fries,₹220,,Classic fries seasoned with salt,Veg,,,,In Stock
+Fries & Crispers,,Tandoori Crispers,₹260,,Potato crispers seasoned with tandoori spices,Veg,,,,In Stock
+Fries & Crispers,,Peri Peri Fries,₹240,,Crispy fries seasoned peri-peri spices,Veg,4.7,4,,In Stock
+Fries & Crispers,,Tandoori Fries,₹240,,Crispy fries seasoned with tandoori spices,Veg,5.0,3,,In Stock
+Salads,,Broccoli & Chicken Salad,₹360,,"Grilled broccoli florets, grilled chicken cubes, cucumber, onion, iceberg lettuce, sunflower & melon seeds in Tahini dressing, lavash crackers",Non-Veg,,,,In Stock
+Salads,,Caesar Salad - Non Veg,₹320,,"Crisp vegetables, Tender grilled chicken & parmesan cheese, tossed in creamy mayo, honey & dijon mustard dressing, served with bread croutons",Non-Veg,,,,In Stock
+Salads,,Protein Pack Avocado Salad,₹360,,"Avocado, black rice, sauteed paneer cubes, parsley seasoned with lime, olive oil, salt and black pepper, served with parmesan croutons",Veg,,,,In Stock
+Salads,,Mediterranean Egg Salad,₹280,,"Pickled & fresh vegetables, boiled eggs, pomegranate & fried cashews, honey, tahini & Sumac vinaigrette, lavash crackers",Non-Veg,,,,In Stock
+Salads,,Greek Salad - Non Veg,₹320,,"Vibrant vegetables, olives, Tender grilled chicken and feta cheese drizzled with zesty lime dressing, served with a side of lavash crackers",Non-Veg,,,,In Stock
+Salads,,Caesar Salad - Veg,₹280,,"Crisp vegetables & parmesan cheese, tossed in creamy mayo, honey & dijon mustard dressing, served with bread croutons",Veg,5.0,5,,In Stock
+Salads,,Greek Salad - Veg,₹280,,"Vibrant vegetables, olives and feta cheese drizzled with zesty lime dressing, served with a side of lavash crackers",Veg,,,,In Stock
+Salads,,Raw Mango & Radish Salad,₹260,,"Raw mango, radish, carrot, spring onion, Thai red chilli, cherry tomatoes drizzled with lime & soya dressing",Veg,,,,In Stock
+Mains,,Classic Chicken Steak,₹460,,"Thyme & mustard grilled chicken, mushroom & black pepper sauce, creamy mash, sauteed vegetables",Non-Veg,4.0,4,Yes,In Stock
+Mains,,Smok'n Hot Chicken Steak,₹480,,"Peri Peri marinated grilled chicken, creamy mash, sauteed vegetables, butter chilli emulsion",Non-Veg,2.8,3,,In Stock
+Mains,,Crispy Fried Chicken,₹460,,"Cajun spiced breaded chicken, crispy potato wedges, house made special cheese melt and a side salad",Non-Veg,,,,In Stock
+Mains,,Fiery Cottage Cheese Steak,₹480,,"Peri Peri marinated grilled cottage cheese, creamy mash, sauteed vegetables, butter chilli emulsion",Veg,,,,In Stock
+Tiny Temptations,,Chicken Croquettes,₹320,,"Panco fried croquettes filled with Indo-conti  spiced chicken, jalape?os & cheese; served with  in-house tartar sauce",Non-Veg,,,,In Stock
+Tiny Temptations,,Loaded Nachos - Veg,₹320,,"Crispy tortilla chips serve as the canvas for a vibrant array of toppings, including savory black beans, sweet corn, juicy tomatoes, crunchy bell peppers, tangy salsa, and melted cheese.",Veg,,,,In Stock
+Tiny Temptations,,Loaded Nachos - Non Veg,₹340,,"Crispy tortilla chips serve as the canvas for a vibrant array of toppings, including savory black beans, sweet corn, juicy tomatoes, crunchy bell peppers, tangy salsa, and melted cheese.",Non-Veg,,,,In Stock
+Tiny Temptations,,Enoki Mushroom Crispies,₹290,,Enoki mushrooms lightly coated in seasoned flour  & crispy fried; served with a side salad & siracha  mayo,Veg,,,,In Stock
+Tiny Temptations,,Beetroot Drop Cutlet,₹240,,"Grated beetroot cutlets, crumb coated and deep  fried; served with an in-house dip",Veg,4.6,17,,In Stock
+Tiny Temptations,,Bread Pakoda,₹240,,"Spiced potato mix sandwiched in bread, coated  in gram flour batter and deep-fried; served with  in-house sauces",Veg,5.0,5,,In Stock
+Tiny Temptations,,Crunchy Avocado,₹290,,"Sliced avocado panko fried, seasoned with cajun  dust; served with in-house salsa & sour cream",Veg,,,,In Stock
+Coffee,,Classic Cold Coffee,₹280,,"Concoction of chilled coffee, creamy milk & vanilla ice cream",Veg,,,,In Stock
+Coffee,,Mocha Cold Coffee,₹300,,"Concoction of chilled coffee, creamy milk & chocolate ice cream",Veg,,,,In Stock
+Coffee,,Vanilla Iced Latte,₹220,,Chilled coffee blended with milk and a hint of vanilla,Veg,,,,In Stock
+Coffee,,Beaten Coffee,₹220,,Whipped coffee added to frothy milk,Veg,,,,In Stock
+Coffee,,Biscoff Caramel Iced Latte,₹240,,"Chilled coffee blended with milk, caramel & Biscoff",Veg,,,,In Stock
+Coffee,,Lavender Iced Black,₹240,,Chilled black coffee infused with lavender,Veg,,,,In Stock
+Coffee,,Classic Iced Black,₹190,,Robust cold brewed coffee with ice,Veg,,,,In Stock
+Coffee,,Black Coffee,₹190,,Pure and robust coffee,Veg,,,,In Stock
+Baker's Toast,,Avocado & Poached Egg Toast,₹280,,Poached eggs and creamy guacamole drizzled with chilli oil,Non-Veg,,,,In Stock
+Baker's Toast,,Wild Mushroom Toast,₹320,,"Sautéed enoki, button & oyster mushrooms seasoned with Ricotta cheese, truffle oil & hollandaise sauce",Non-Veg,,,,In Stock
+Baker's Toast,,Avocado & Cottage Cheese Toast,₹320,,Creamy guacamole and scrambled cottage cheese spread topped with cherry tomatoes,Veg,,,,In Stock
+Baker's Toast,,Chicken Salami & Poached Egg Toast,₹320,,"Chicken salami slices, poached egg, sundried tomatos & ricotta cheese with basil pesto spread",Non-Veg,,,,In Stock
+Baker's Toast,,Chicken & Mushroom Toast,₹280,,Seasoned chicken and creamy sauteed mushrooms tossed in herb-infused sauce with a sprinkle of fresh herbs,Non-Veg,,,,In Stock
+Baker's Toast,,Corn & Spinach Toast,₹260,,Crunchy corn kernels and spinach layered as a cheesy spread with feta & cherry tomatoes,Veg,,,,In Stock
+Omelette,,Avocado Omelette,₹320,,Creamy avocados enveloped in fluffy eggs,Non-Veg,,,,In Stock
+Omelette,,Creamy Chicken Omelette,₹320,,Tender chicken nestled in creamy eggs,Non-Veg,,,,In Stock
+Omelette,,Exotic Veggie Omelette,₹260,,Exotic veggies blended with fluffy eggs,Non-Veg,,,,In Stock
+Omelette,,Classic Omelette,₹240,,Classic fluffy eggs seasoned with pepper and salt,Non-Veg,,,,In Stock
+Omelette,,Shrooms Omelette,₹260,,Earthy mushrooms cocooned with fluffy eggs,Non-Veg,,,,In Stock
+Omelette,,Chilli Relish Omelette,₹260,,Thai fresh chilli relish blended with fluffy eggs,Non-Veg,,,,In Stock
+Pav Tastified,,Paneer Bhurji Pav,₹280,,"Medium Spicy | Scrambled paneer cooked with Indian spices, served with a pair of buttered pav and seasoned onions",Veg,4.2,10,,In Stock
+Pav Tastified,,Anda Bhurji Pav,₹240,,"Scrambled eggs cooked with Indian spices, served with a pair of buttered pav and seasoned onions",Non-Veg,5.0,3,,In Stock
+Pav Tastified,,Chicken Keema Pav,₹280,,"Minced chicken cooked with Indian spices, served with a pair of buttered pav and seasoned onions",Non-Veg,,,,In Stock
+Pav Tastified,,Cheese Vada Pav,₹260,,"Pair of spiced potato vada sandwiched in cheese toasted buttered pav, served with a side of seasoned onions and chilli, tamarind and mint chutneys",Veg,,,,In Stock
+Pav Tastified,,Vada Pav,₹240,,"Pair of spiced potato vada sandwiched in  buttered pav, served with a side of seasoned  onions and chilli, tamarind and mint chutneys",Veg,,,,In Stock
+Chaat,,Avocado Papdi Chaat,₹380,,,Veg,3.4,4,,In Stock
+Chaat,,Lotus Stem Chaat,₹320,,"Crispy lotus stem chips mixed with chopped onions, tomatoes and cucumber seasoned with Indian spices and drizzled with curd, tamarind and mint chutneys",Veg,,,,In Stock
+Chaat,,Makhana Chaat,₹320,,"Crispy makhana and creamy avocado tossed with chopped onions, tomatoes and cucumber seasoned with Indian spices and drizzled with tamarind and mint chutneys",Veg,,,,In Stock
+Chaat,,Cheeselings Bhel,₹250,,"Savoury cheeselings, chopped onion and tomatoes blended with traditional Indian spices",Veg,,,,In Stock
+Chaat,,Khichinga Chaat,₹250,,"Crispy in-house chips topped with chopped onions, tomatoes and pomegranate seasoned with Indian spices and drizzled with tamarind and mint chutneys",Veg,,,,In Stock
+Mini Pancake,,Nutella Mini Pancake,₹340,,"Fluffy pancakes layered with Nutella hazelnut spread, served with maple syrup",Veg,3.7,4,,In Stock
+Mini Pancake,,Blueberry Mini Pancake,₹340,,"Fluffy pancakes layered with blueberry coulis, served with maple syrup",Veg,4.0,4,,In Stock
+Mini Pancake,,Choco Truffle Mini Pancake,₹300,,"Fluffy pancakes layered with chocolate truffle sauce, served with maple syrup",Veg,,,,In Stock
+Mini Pancake,,Banana Caramel Mini Pancake,₹280,,"Fluffy pancakes layered with caramel sauce and topped with sliced bananas & kiwi, served with maple syrup",Veg,,,,In Stock
+Mini Pancake,,Strawberry Mini Pancake,₹280,,"Fluffy pancakes layered with strawberry coulis, served with maple syrup",Veg,,,,In Stock
+Mini Pancake,,Jamun Mini Pancake,₹280,,"Fluffy pancakes layered with jamun coulis, served with maple syrup?",Veg,,,,In Stock
+Smoothies,,Avocado & Berry Smoothie,₹340,,"Fresh avocado chunks and berries blended with creamy milk, yogurt and vanilla ice cream",Veg,5.0,4,,In Stock
+Smoothies,,Vanilla Almond Smoothie,₹320,,"Home-made almond butter blended with vanilla essence, creamy almond milk, yogurt and vanilla ice cream",Veg,,,,In Stock
+Smoothies,,Strawberry Banana Smoothie,₹290,,"Fresh banana and strawberries blended with creamy milk, yogurt and vanilla ice cream",Veg,5.0,4,,In Stock
+Smoothies,,Choco Peanut Smoothie,₹290,,"Dark chocolate and peanut butter blended with fresh banana, cocoa, creamy milk and yogurt",Veg,,,,In Stock
+Shakes,,Matcha Pistachio Shake,₹360,,"Matcha blended with pistachio, honey, vanilla ice cream & creamy milk",Veg,,,,In Stock
+Shakes,,Chocolate Overload,₹280,,"Indulgent chocolate blended with brownie, chocolate ice cream & milk",Veg,,,,In Stock
+Shakes,,Berry Oreo,₹280,,"Oreo biscuits blended with blueberry extract, chocolate ice cream & milk",Veg,,,,In Stock
+Shakes,,Vanilla Fruit Loops,₹260,,Nostalgic fruit loops blended with vanilla ice cream and milk,Veg,,,,In Stock
+Desi Chai,,Ginger Chai,₹210,180 Ml: ₹210 | 400 Ml: ₹390,Black tea brewed with milk and fresh grated ginger,Veg,,,,In Stock
+Desi Chai,,Masala Chai,₹210,180 Ml: ₹210 | 400 Ml: ₹390,Black tea brewed with milk and Indian spices,Veg,,,,In Stock
+Desi Chai,,Elaichi Chai,₹210,180 Ml: ₹210 | 400 Ml: ₹390,Black tea brewed with milk and elaichi,Veg,,,,In Stock
+Desi Chai,,Chai,₹190,180 Ml: ₹190 | 400 Ml: ₹360,Black tea brewed with creamy milk,Veg,4.2,4,,In Stock
+Tea-tails,,Chamomile Lavender Dream,₹280,,In-house chamomile & lavender infusion with natural sweetness,Veg,,,,In Stock
+Tea-tails,,Strawberry Rhododendron Dill Blush,₹280,,In-house strawberry & rhododendron infusion with dill & natural sweetness,Veg,,,,In Stock
+Tea-tails,,Earl Grey Maple Spark,₹240,,In-house earl grey infusion with rich maple sweetness,Veg,,,,In Stock
+Tea-tails,,Rosemary Green Mint Meadow,₹240,,In-house mint green tea infusion with rosemary & honey,Veg,,,,In Stock
+Mocktails,,Kiwi Fizz,₹260,,Fresh kiwi fruit with a hint of orange in fizzy water,Veg,,,,In Stock
+Mocktails,,Passion Fruit Mojito,₹260,,Fresh passion fruit and lemon slices in fizzy water,Veg,,,,In Stock
+Mocktails,,Watermelon Mojito,₹220,,Fresh watermelon chunks with a dash of lime in fizzy water,Veg,,,,In Stock
+Mocktails,,Blueberry Basil Blitz,₹280,,Fresh blueberries & basil with lime in fizzy water,Veg,,,,In Stock
+Drinking Chocolate,,Hazelnut Belgian Drinking Chocolate,₹320,,Rich callebaut Belgian dark chocolate blended with hazelnut extract & creamy milk,Veg,,,,In Stock
+Drinking Chocolate,,Belgian Drinking Chocolate,₹280,,Rich callebaut Belgian dark chocolate blended with creamy milk,Veg,,,,In Stock
+Add On,,A Slice Of Garlic Bread,₹40,,,Veg,5.0,4,,In Stock
+Add On,,A Boiled Egg,₹40,,,Non-Veg,,,,In Stock
+Add On,,An Additional Pav,₹40,,,Veg,,,,In Stock

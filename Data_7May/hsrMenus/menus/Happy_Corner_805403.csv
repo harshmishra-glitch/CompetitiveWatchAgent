@@ -1,0 +1,92 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Chocolate shake,₹99,,"Velvety and rich, this indulgent chocolate shake is a decadent treat that will satisfy your sweet tooth.",Veg,,,,In Stock
+Recommended,,Vanilla shake,₹99,,"A creamy and indulgent treat, this Vanilla Shake is a luscious delight that satisfies your sweet tooth.",Veg,,,,In Stock
+Recommended,,Pista shake,₹80,,"A delectable and refreshing blend of flavors, this pista shake is a veg delight that will leave you wanting more.",Veg,,,,In Stock
+Recommended,,Mix dry fruit shake,₹149,,"A delightful blend of assorted dry fruits, creating a delectable shake perfect for any shake lover.",Veg,,,,In Stock
+Recommended,,Kiwi banana,₹120,,A refreshing and fruity shake with a delightful blend of kiwi and banana flavors.,Veg,,,,In Stock
+Recommended,,Pomegranate shake,₹160,,"A refreshing and luscious blend bursting with the tangy sweetness of pomegranate, this veggie shake is the ultimate treat.",Veg,,,,In Stock
+Recommended,,Apple shake,₹160,,"A refreshing blend of smooth, fruity flavors that capture the essence of juicy apples.",Veg,,,,In Stock
+Recommended,,Banana shake,₹99,,A velvety and refreshing blend that captures the essence of bananas in every sip.,Veg,,,,In Stock
+Recommended,,Protein shake,₹170,,"A nutritious and satisfying blend crafted to energize and nourish your body, providing a burst of flavor in every sip.",Veg,,,,In Stock
+Recommended,,Ginger lemon,₹60,,"A refreshing blend of zesty lemon and invigorating ginger, this vibrant juice is bursting with flavor and vitality.",Veg,,,,In Stock
+Recommended,,Veg maggi,₹70,,A delightful and flavorful vegetarian twist on the classic Maggi dish.,Veg,,,,In Stock
+Recommended,,Plain maggi,₹100,,A simple and comforting vegetarian delight that will warm your heart and tickle your taste buds.,Veg,,,,In Stock
+Recommended,,Cheese chilli,₹120,,"Indulge in a delectable fusion of creamy cheese and a burst of tangy flavors, offering a delightful twist to the classic Maggi.",Veg,,,,In Stock
+Recommended,,Paneer cheese,₹140,,"Creamy paneer cheese in a savory Maggi sauce, a delectable vegetarian delight.",Veg,,,,In Stock
+Recommended,,Egg maggi,₹120,,"A delectable combination of savory flavors, featuring the perfect blend of tender egg and mouthwatering Maggi noodles.",Non-Veg,,,,In Stock
+Recommended,,Pizza Sandwich,₹170,,"Filled with Chopped onion and tomatoes capsicums and chopped paneer melted cheese and sweet corns
+Pizza sauce",Veg,,,,In Stock
+Recommended,,Chocolate grilled sandwich,₹145,,"A delectable grilled sandwich combining the richness of chocolate with a savory twist, perfect for those craving a delightful blend of sweet and savory flavors.",Veg,,,Yes,In Stock
+Recommended,,Peanut butter sandwich,₹125,,"A grilled sandwich that combines the unmistakable creaminess of peanut butter with delightful flavors, creating a harmonious and irresistible bite.",Veg,,,,In Stock
+Recommended,,Boiled eggs,₹66,,"Satisfyingly succulent eggs, perfectly boiled to achieve a deliciously rich and creamy center, making them an irresistible snack option.",Non-Veg,,,,In Stock
+Recommended,,Bread omelette,₹111,,"A delectable fusion of fluffy omelette enveloped in warm, toasted bread, this delightful snack offers a satisfying bite for non-veg lovers.",Non-Veg,,,,In Stock
+Grilled Sandwich,,Pizza Sandwich,₹170,,"Filled with Chopped onion and tomatoes capsicums and chopped paneer melted cheese and sweet corns
+Pizza sauce",Veg,,,,In Stock
+Grilled Sandwich,,Paneer cheese grilled sandwich,₹140,,A delectable grilled sandwich filled with flavorful paneer cheese for a satisfying and savory bite.,Veg,,,,In Stock
+Grilled Sandwich,,Chocolate grilled sandwich,₹145,,"A delectable grilled sandwich combining the richness of chocolate with a savory twist, perfect for those craving a delightful blend of sweet and savory flavors.",Veg,,,Yes,In Stock
+Grilled Sandwich,,Corn cheese grilled sandwich,₹140,,"A mouthwatering grilled sandwich loaded with creamy melted cheese and sweet corn, perfect for a satisfying and delightful meal.",Veg,,,Yes,In Stock
+Grilled Sandwich,,Veg grilled sandwich,₹100,,"Savor the flavors of a delectable grilled sandwich bursting with fresh, succulent vegetables.",Veg,2.1,4,,In Stock
+Grilled Sandwich,,Cheese grilled sandwich,₹130,,"Indulge in a scrumptious grilled sandwich filled with melty cheese, guaranteed to satisfy your cravings.",Veg,,,,In Stock
+Grilled Sandwich,,Veg corn grilled sandwich,₹130,,A delightful combination of grilled goodness and a medley of vegetables.,Veg,,,,In Stock
+Grilled Sandwich,,Peanut butter sandwich,₹125,,"A grilled sandwich that combines the unmistakable creaminess of peanut butter with delightful flavors, creating a harmonious and irresistible bite.",Veg,,,,In Stock
+Sandwich,,Egg sandwich,₹110,,"A delectable non-veg sandwich enveloping a delightful combination of eggs, creating a satisfying and flavorsome treat.",Non-Veg,,,,In Stock
+Rolls,,Veg cheese roll,₹141,,A delectable combination of vegetables and melted cheese rolled into a delightful treat.,Veg,,,Yes,In Stock
+Rolls,,Paneer roll,₹140,,"A delectable, vegetarian delight wrapped in a soft, flaky roll, filled with succulent paneer and a medley of flavorful ingredients.",Veg,2.4,3,,In Stock
+Rolls,,Veg roll,₹120,,"A delectable assortment of freshly-made vegetable fillings wrapped in a soft, warm blanket of dough.",Veg,,,,In Stock
+Rolls,,Veg corn roll,₹130,,"A delightful vegetable roll filled with corn, bursting with flavor and wrapped in a soft, golden crust.",Veg,,,,In Stock
+Rolls,,Egg rolls,₹130,,"Crispy, flavorful rolls filled with savory ingredients that will leave you craving for more.",Non-Veg,,,,In Stock
+Juices,,Watermelon,₹110,,"Refreshing and revitalizing, this vibrant red juice bursts with sweet and juicy flavors, perfectly capturing the essence of the summer season.",Veg,,,,In Stock
+Juices,,Musk melon,₹110,,A refreshing and luscious juice bursting with the sweet essence of Musk Melon.,Veg,,,,In Stock
+Juices,,Lemon,₹89,,"Refreshing and tangy, this veg juice offers a burst of citrusy goodness that will awaken your taste buds.",Veg,,,,In Stock
+Juices,,Ginger lemon,₹60,,"A refreshing blend of zesty lemon and invigorating ginger, this vibrant juice is bursting with flavor and vitality.",Veg,,,,In Stock
+Juices,,Lemon soda,₹79,,A refreshing and tangy citrus delight that will quench your thirst and invigorate your senses.,Veg,,,,In Stock
+Juices,,Mint lime,₹79,,"Refreshing combination of mint and lime, this vibrant juice is the perfect way to quench your thirst and awaken your taste buds.",Veg,,,,In Stock
+Juices,,Pineapple,₹110,,"A refreshing tropical blend bursting with sweet, tangy flavors to quench your thirst.",Veg,,,,In Stock
+Juices,,Pomegrante,₹135,,,Veg,,,,In Stock
+Bread,,Bread jam,₹60,,"A delightful combination of fluffy bread and sweet, fruity jam, bursting with deliciousness.",Veg,,,,In Stock
+Bread,,Bun jam,₹50,,A delightful and flavorful bread creation bursting with tantalizing veggie goodness.,Veg,,,,In Stock
+Lassi,,Lassi,₹95,,Sweet lassi,Veg,,,,In Stock
+Aloo Samosa,,Aloo Samosa,₹45,,"A mouthwatering Indian pastry filled with a delectable potato filling, perfect for a flavorful vegetarian snack.",Veg,,,,In Stock
+Maggi,,Veg maggi,₹70,,A delightful and flavorful vegetarian twist on the classic Maggi dish.,Veg,,,,In Stock
+Maggi,,Plain maggi,₹100,,A simple and comforting vegetarian delight that will warm your heart and tickle your taste buds.,Veg,,,,In Stock
+Maggi,,Cheese maggi,₹110,,A cheesy delight that's bursting with flavor and will leave your taste buds begging for more.,Veg,,,,In Stock
+Maggi,,Cheese chilli,₹120,,"Indulge in a delectable fusion of creamy cheese and a burst of tangy flavors, offering a delightful twist to the classic Maggi.",Veg,,,,In Stock
+Maggi,,Paneer cheese,₹140,,"Creamy paneer cheese in a savory Maggi sauce, a delectable vegetarian delight.",Veg,,,,In Stock
+Maggi,,Egg maggi,₹120,,"A delectable combination of savory flavors, featuring the perfect blend of tender egg and mouthwatering Maggi noodles.",Non-Veg,,,,In Stock
+Fries,,French fries,₹130,,Crispy golden fries that are the epitome of indulgence and the perfect accompaniment to any meal.,Veg,,,Yes,In Stock
+Fries,,Cheese chilli fries,₹140,,"Indulge in a delectable combo of crispy fries, savory cheese, and a delightful hint of spice in this mouthwatering veggie delight.",Veg,,,,In Stock
+Fries,,Masala fries,₹140,,"Crispy fries seasoned with aromatic masala blend, delivering a burst of flavors and irresistible crunch.",Veg,,,,In Stock
+Fries,,Peri peri fries,₹140,,Crispy seasoned fries that perfectly balance savory flavors with a hint of tanginess - it's a veggie fry lover's dream come true.,Veg,,,,In Stock
+Salad,,Egg salad,₹120,,A delectable salad bursting with flavors and textures that'll make your taste buds dance with joy.,Non-Veg,,,,In Stock
+Salad,,Egg and paneer salad,₹135,,A refreshing and protein-packed medley of eggs and paneer combined in a delectable salad.,Non-Veg,,,,In Stock
+Salad,,Egg and veg,₹155,,A delightful combination of eggs and fresh vegetables in a savory salad.,Non-Veg,,,,In Stock
+Salad,,Fruit bowl,₹120,,A refreshing and vibrant medley of fresh fruits bursting with natural flavors and a hint of sweetness.,Veg,,,,In Stock
+Meals,,Protein egg meals,₹180,,"Delicious, protein-packed egg meals that satisfy your cravings for a hearty non-vegetarian meal.",Non-Veg,,,,In Stock
+Meals,,Paneer Protein Meal,₹175,,Chopped all veggies like onion capsicum and tomatoes paneer cubes,Veg,,,,In Stock
+Beverages,,Masala tea,₹40,,"Experience the warm and aromatic flavors of this traditional Indian beverage, bursting with a unique blend of fragrant spices.",Veg,,,,In Stock
+Beverages,,Coffee,₹55,,A delightful and aromatic beverage that invigorates your senses with its rich and smooth flavor.,Veg,,,,In Stock
+Beverages,,Lemon tea,₹60,,"Refreshing and tangy tea infused with the zesty punch of luscious lemons, perfect to quench your thirst and awaken your senses.",Veg,,,,In Stock
+Beverages,,Badam milk,₹65,,A delightful and creamy fusion of milk and almonds for a truly indulgent beverage experience.,Veg,,,,In Stock
+Snacks,,Boiled eggs,₹66,,"Satisfyingly succulent eggs, perfectly boiled to achieve a deliciously rich and creamy center, making them an irresistible snack option.",Non-Veg,,,,In Stock
+Snacks,,Plain omelette,₹88,,"A wholesome and satisfying snack made with eggs, perfect for any time of the day.",Non-Veg,,,,In Stock
+Snacks,,Bread omelette,₹111,,"A delectable fusion of fluffy omelette enveloped in warm, toasted bread, this delightful snack offers a satisfying bite for non-veg lovers.",Non-Veg,,,,In Stock
+Snacks,,Egg bhurji,₹120,,A flavorful and mouthwatering snack bursting with the goodness of eggs and a blend of aromatic spices.,Non-Veg,,,,In Stock
+Snacks,,Paneer bhurji,₹130,,A flavorful and inviting Indian snack bursting with fresh and aromatic flavors.,Veg,,,,In Stock
+Snacks,,Chip and dip,₹50,,"A delightful combination of crispy chips and delectable dip, perfect for snacking.",Veg,,,,In Stock
+Shakes,,Oreo shake,₹160,,Creamy and indulgent shake with a classic cookie twist.,Veg,,,,In Stock
+Shakes,,Boost shake,₹120,,A revitalizing blend bursting with nutrients and flavors that will leave you feeling energized and satisfied.,Veg,,,,In Stock
+Shakes,,Horlicks shake,₹99,,"Creamy, frothy and irresistibly smooth, this indulgent shake is a delightful treat for all veggie lovers.",Veg,,,,In Stock
+Shakes,,Chocolate shake,₹99,,"Velvety and rich, this indulgent chocolate shake is a decadent treat that will satisfy your sweet tooth.",Veg,,,,In Stock
+Shakes,,Vanilla shake,₹99,,"A creamy and indulgent treat, this Vanilla Shake is a luscious delight that satisfies your sweet tooth.",Veg,,,,In Stock
+Shakes,,Pista shake,₹80,,"A delectable and refreshing blend of flavors, this pista shake is a veg delight that will leave you wanting more.",Veg,,,,In Stock
+Shakes,,Cold coffee,₹159,,"A refreshing and creamy blend of chilled coffee, perfect to satisfy your cravings on a hot day.",Veg,,,,In Stock
+Shakes,,Dates banana shake,₹149,,"A delectable blend of luscious dates and creamy bananas, offering a refreshing and indulgent treat in every sip.",Veg,,,,In Stock
+Shakes,,Mix dry fruit shake,₹149,,"A delightful blend of assorted dry fruits, creating a delectable shake perfect for any shake lover.",Veg,,,,In Stock
+Shakes,,Chiku banana,₹149,,"Indulge in a luscious and refreshing shake, blending the flavors of chiku and banana into a delightful treat.",Veg,,,,In Stock
+Shakes,,Kiwi banana,₹120,,A refreshing and fruity shake with a delightful blend of kiwi and banana flavors.,Veg,,,,In Stock
+Shakes,,Kiwi apple,₹160,,"A refreshing blend of tart apples and tangy kiwis, creating a mouthwatering shake with a delightful fruity twist.",Veg,,,,In Stock
+Shakes,,Pomegranate shake,₹160,,"A refreshing and luscious blend bursting with the tangy sweetness of pomegranate, this veggie shake is the ultimate treat.",Veg,,,,In Stock
+Shakes,,Apple shake,₹160,,"A refreshing blend of smooth, fruity flavors that capture the essence of juicy apples.",Veg,,,,In Stock
+Shakes,,Musk melon shake,₹149,,Refreshing melon shake bursting with sweet and fruity flavors.,Veg,,,,In Stock
+Shakes,,Banana shake,₹99,,A velvety and refreshing blend that captures the essence of bananas in every sip.,Veg,,,,In Stock
+Shakes,,Protein shake,₹170,,"A nutritious and satisfying blend crafted to energize and nourish your body, providing a burst of flavor in every sip.",Veg,,,,In Stock

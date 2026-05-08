@@ -1,0 +1,64 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,French Fries,₹150,,Crispy golden fries that are the perfect combination of salty and satisfying.,Veg,,,,In Stock
+Recommended,,Peri Peri Fries,₹170,,Crispy fries with a zesty and flavorful seasoning that will tantalize your taste buds.,Veg,,,,In Stock
+Recommended,,Zinger Sandwich,₹300,,,Non-Veg,,,,In Stock
+Recommended,,Veg Burger,₹130,,"A flavorful and satisfying meatless option, perfect for burger lovers looking for a tasty vegetarian alternative.",Veg,,,,In Stock
+Recommended,,Ducker [Double],₹250,,,Veg,,,,In Stock
+Recommended,,Grill Burger,₹250,,,Veg,,,,In Stock
+Recommended,,Al Faham Burger,₹300,,,Veg,,,,In Stock
+Recommended,,Strawberry milk shake,₹150,,,Veg,,,,In Stock
+Recommended,,Water Melon,₹100,,,Veg,,,,In Stock
+Recommended,,Chikoo,₹110,,,Veg,,,,In Stock
+Sandwich,,Chicken Club Sandwich,₹220,,3 layer,Non-Veg,,,,In Stock
+Sandwich,,Veg Sandwich,₹140,,,Veg,,,,In Stock
+Sandwich,,Chicken Sandwich,₹150,,"Tender grilled chicken layered with fresh toppings between soft, toasted bread.",Non-Veg,,,,In Stock
+Sandwich,,Veg club sandwich,₹200,,3 layer,Veg,,,,In Stock
+Sandwich,,Zinger Sandwich,₹300,,,Non-Veg,,,,In Stock
+Sandwich,,Tandoori Chicken Sandwich,₹250,,"Juicy tandoori chicken nestled between two slices of soft bread, bursting with flavor and satisfaction.",Non-Veg,,,,In Stock
+Burger,,Chicken Burger,₹160,,,Non-Veg,,,,In Stock
+Burger,,Veg Burger,₹130,,"A flavorful and satisfying meatless option, perfect for burger lovers looking for a tasty vegetarian alternative.",Veg,,,,In Stock
+Burger,,Nuggets Burger,₹190,,,Veg,,,,In Stock
+Burger,,Sm spl burger ,₹250,,,Non-Veg,,,,In Stock
+Burger,,Ducker [Double],₹250,,,Veg,,,,In Stock
+Burger,,Zinger Burger,₹250,,,Veg,,,,In Stock
+Burger,,Grill Burger,₹250,,,Veg,,,,In Stock
+Burger,,Tandoori Burger,₹270,,,Veg,,,,In Stock
+Burger,,Al Faham Burger,₹300,,,Veg,,,,In Stock
+Starters,,Gobi Manchurian,₹130,,,Veg,,,,In Stock
+Starters,,Gobi Chill,₹130,,,Veg,,,,In Stock
+Starters,,Paneer Manchuria,₹230,,,Veg,,,,In Stock
+Starters,,Paneer chilli,₹230,,,Veg,,,,In Stock
+Starters,,Baby corn Manchuria,₹200,,,Veg,,,,In Stock
+Starters,,Chilli chicken,₹230,,,Non-Veg,,,,In Stock
+Starters,,Chicken Manchuria,₹230,,,Non-Veg,,,,In Stock
+Starters,,Chicken 65 gravy,₹250,,,Non-Veg,,,,In Stock
+Starters,,Garlic chicken,₹250,,,Non-Veg,,,,In Stock
+Milk shake,,Dry fruit milk shake,₹250,,,Veg,,,,In Stock
+Milk shake,,Badam Milk Shake,₹250,,,Veg,,,,In Stock
+Milk shake,,Musk melon milk shake,₹130,,,Veg,,,,In Stock
+Milk shake,,Chikko milk shake,₹140,,,Veg,,,,In Stock
+Milk shake,,Sm malai milk shake,₹230,,,Veg,,,,In Stock
+Milk shake,,Vanilla milk shake,₹140,,,Veg,,,,In Stock
+Milk shake,,Strawberry milk shake,₹150,,,Veg,,,,In Stock
+Milk shake,,Sharja milk shake,₹150,,,Veg,,,,In Stock
+Milk shake,,Chocolate Milk Shake,₹160,,,Veg,,,,In Stock
+Al faham chicken,,Al Faham Chicken Full,₹700,,8 ps mayo and salad,Non-Veg,,,Yes,In Stock
+Al faham chicken,,Al Faham chicken half,₹380,,4 ps and mayo and salad,Non-Veg,,,,In Stock
+Al faham chicken,,Al Faham chicken 2 ps,₹220,,2 ps mayo and salad,Non-Veg,,,,In Stock
+Shawarma,,Rolls,₹150,,,Veg,,,,In Stock
+Shawarma,,Spel Rolls,₹180,,Delicious vegetable shawarma rolls filled with flavorful seasonings and toppings.,Veg,,,,In Stock
+Shawarma,,Plate,₹240,,,Non-Veg,,,,In Stock
+Shawarma,,Spel Plate,₹260,,,Veg,,,,In Stock
+Fresh juice,,Water Melon,₹100,,,Veg,,,,In Stock
+Fresh juice,,Musk Melon,₹100,,,Veg,,,,In Stock
+Fresh juice,,Grape,₹100,,,Veg,,,,In Stock
+Fresh juice,,Chikoo,₹110,,,Veg,,,,In Stock
+Chines food,,Veg Noodles,₹150,,,Veg,,,,In Stock
+Chines food,,Chicken Noodles,₹220,,,Non-Veg,,,,In Stock
+Chines food,,Egg Noodles,₹160,,,Non-Veg,,,,In Stock
+Tandoori chicken,,Thandoori chicken full,₹700,,8 ps mayo and salad,Non-Veg,,,,In Stock
+Tandoori chicken,,Thandoori chicken half,₹330,,4 ps mayo and salad,Non-Veg,,,,In Stock
+Tandoori chicken,,Thandoori chicken 2 ps,₹200,,2 ps chicken and mayo with salad,Non-Veg,,,,In Stock
+Fries,,French Fries,₹150,,Crispy golden fries that are the perfect combination of salty and satisfying.,Veg,,,,In Stock
+Fries,,Peri Peri Fries,₹170,,Crispy fries with a zesty and flavorful seasoning that will tantalize your taste buds.,Veg,,,,In Stock
+Roll,,Veg Roll,₹120,,,Veg,,,,In Stock

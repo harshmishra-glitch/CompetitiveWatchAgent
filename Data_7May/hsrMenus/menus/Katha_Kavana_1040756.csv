@@ -1,0 +1,124 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Hot Flat White,₹322,,,Veg,,,,In Stock
+Recommended,,Hot Latte,₹322,,,Veg,,,,In Stock
+Recommended,,White Hot Chocolate,₹322,,,Veg,,,,In Stock
+Recommended,,Affogato,₹408,,Espresso with Ice cream,Veg,,,,In Stock
+Recommended,,White Chocolate Mocha,₹394,,,Veg,,,,In Stock
+Recommended,,Iced Mocha,₹358,,,Veg,,,,In Stock
+Recommended,,Iced Americano,₹280,,,Veg,,,,In Stock
+Recommended,,Watermelon Cold Brew,₹394,,,Veg,,,,In Stock
+Recommended,,Orange Cold Brew,₹394,,,Veg,,,,In Stock
+Recommended,,Aero Press,₹358,,,Veg,,,,In Stock
+Recommended,,French Press,₹358,,,Veg,,,,In Stock
+Recommended,,Matcha Latte Hot,₹285,,,Veg,,,,In Stock
+Recommended,,Strawberry Matcha Latte,₹355,,,Veg,,,,In Stock
+Main Course,,Fritto Misto Veggies On Hummas Dip,₹350,,,Veg,,,,In Stock
+Main Course,,Mushroom Stew With Mash & Veggies,₹350,,,Veg,,,,In Stock
+Main Course,,Cottage Cheese With Pepper Rice,₹350,,,Veg,,,Yes,Check app
+Main Course,,Moussaka,₹375,,Baked dish of layer of tomato sauce with grilled zuccini and eggplantand vegetable topped with layered of mosrella chese,Veg,,,,Check app
+Main Course,,Ramen Soup Bowl With Egg,₹350,,,Non-Veg,,,,Check app
+Main Course,,Veg Stroganoff,₹350,,,Veg,,,,Check app
+Main Course,,Mix Veg In Creamy Sauce With Herb Rice,₹350,,,Veg,,,,Check app
+Main Course,,Ramen Soup Bowl With Tofu,₹300,,,Veg,,,,Check app
+Hot Beverages,,Hot Flat White,₹322,,,Veg,,,,In Stock
+Hot Beverages,,Hot Latte,₹322,,,Veg,,,,In Stock
+Hot Beverages,,Hot Americano,₹257,,,Veg,,,,In Stock
+Hot Beverages,,Hot Chocolate - 54%,₹257,,,Veg,,,,In Stock
+Hot Beverages,,Cappuccino,₹322,,Strong coffee,Veg,,,,In Stock
+Hot Beverages,,Macchiato,₹257,,,Veg,,,,In Stock
+Hot Beverages,,Cortado,₹257,,,Veg,,,,In Stock
+Hot Beverages,,Take Away Cup,₹10,,,Veg,,,,In Stock
+Hot Beverages,,White Hot Chocolate,₹322,,,Veg,,,,In Stock
+Hot Beverages,,Espresso,₹257,,Just espresso,Veg,,,,In Stock
+Hot Beverages,,Affogato,₹408,,Espresso with Ice cream,Veg,,,,In Stock
+Hot Beverages,,Hot Mocha,₹394,,,Veg,,,,In Stock
+Hot Beverages,,Piccolo,₹257,,,Veg,,,,In Stock
+Hot Beverages,,Raisin Hot Chocolate,₹257,,,Veg,,,,In Stock
+Hot Beverages,,White Chocolate Mocha,₹394,,,Veg,,,,In Stock
+Matcha,,Matcha Latte Hot,₹285,,,Veg,,,,In Stock
+Matcha,,Strawberry Matcha Latte,₹355,,,Veg,,,,In Stock
+Matcha,,Matcha Iced Latte,₹315,,,Veg,,,Yes,In Stock
+Matcha,,Matcha Americano,₹245,,,Veg,,,,In Stock
+Matcha,,Matcha Mango Latte Iced,₹355,,,Veg,,,,Check app
+Cold Brew,,Omakese Cb,₹394,,,Veg,,,,In Stock
+Cold Brew,,Strawberry Elderflower Cb,₹394,,,Veg,,,,In Stock
+Cold Brew,,Graperfruit Passionfruit CB,₹394,,,Veg,,,,In Stock
+Cold Brew,,Watermelon Cold Brew,₹394,,,Veg,,,,In Stock
+Cold Brew,,Orange Cold Brew,₹394,,,Veg,,,,In Stock
+Cold Brew,,Classic Cold Brew,₹358,,,Veg,,,,In Stock
+Cold Brew,,Peach Cinnamon Cold Brew,₹394,,,Veg,,,,In Stock
+Cold Beverages,,Iced Mocha,₹358,,,Veg,,,,In Stock
+Cold Beverages,,Iced Latte,₹358,,"Available in Vanilla, Rose, Hazelnut and French Vanilla",Veg,,,,In Stock
+Cold Beverages,,Iced Americano,₹280,,,Veg,,,,In Stock
+Cold Beverages,,Blueberry Basil HB,₹386,,,Veg,,,,In Stock
+Cold Beverages,,Vanilla Hazelnut HB,₹386,,,Veg,,,,In Stock
+Cold Beverages,,Brown Butter Aero-cano,₹413,,,Veg,,,,In Stock
+Cold Beverages,,Coconut Cloud Coffee,₹413,,,Veg,,,,In Stock
+Iced Tea,,Lemon Star Anies Iced Tea,₹250,,,Veg,,,,In Stock
+Iced Tea,,Yuzu Jasmine Iced Tea,₹225,,,Veg,,,,In Stock
+Iced Tea,,Peach Basil Iced Tea,₹225,,,Veg,,,,In Stock
+Iced Tea,,Lemon Ice Tea,₹225,,,Veg,,,,In Stock
+Iced Tea,,Peach Ice Tea,₹225,,,Veg,,,,In Stock
+Vietnamese Cold Coffees,,Classic Vietnamese,₹325,,,Veg,,,Yes,In Stock
+Vietnamese Cold Coffees,,Blue Pea Vietnamese,₹275,,,Veg,,,,In Stock
+Vietnamese Cold Coffees,,Cinnamon Vietnamese,₹358,,,Veg,,,,In Stock
+Add Ons,,Brown Butter Syrup,₹40,,,Veg,,,,In Stock
+Add Ons,,Oat Milk,₹40,,,Veg,,,,In Stock
+Add Ons,,Hazelnut Syrup,₹40,,,Veg,,,,In Stock
+Add Ons,,Almond Milk,₹40,,,Veg,,,,In Stock
+Add Ons,,Cheese,₹25,,,Veg,,,,In Stock
+Add Ons,,Eggs,₹55,,,Non-Veg,,,,In Stock
+Add Ons,,French Vanilla Syrup,₹40,,,Veg,,,,In Stock
+Add Ons,,Ice Cream,₹45,,,Non-Veg,,,,In Stock
+Add Ons,,Vanilla Syrup,₹40,,,Veg,,,,In Stock
+Croissant,,Butter Croissant,₹125,,,Non-Veg,,,Yes,In Stock
+Croissant,,Classic Korean Bun,₹293,,,Veg,,,,In Stock
+Seasonal Specials,,Mango Iced Latte,₹285,,,Veg,,,,In Stock
+Seasonal Specials,,Mango Latte,₹285,,,Veg,,,,In Stock
+Fruit Juice,,Orange Juice,₹200,,,Veg,,,,In Stock
+Fruit Juice,,Pineapple Juice,₹200,,,Veg,,,,In Stock
+Fruit Juice,,Watermelon Juice,₹200,,,Veg,,,,In Stock
+Manual Brew,,Aero Press,₹358,,,Veg,,,,In Stock
+Manual Brew,,Chemex,₹358,,A brewer with triple layer paper filter that make an incredibly smooth and clean cup of coffee,Veg,,,,In Stock
+Manual Brew,,Kalita,₹358,,A control hand pour over through a paper filter that produce a single cup of rich clean and balance flavor,Veg,,,,In Stock
+Manual Brew,,French Press,₹358,,,Veg,,,,In Stock
+Manual Brew,,Syphon,₹358,,A vaccum filtration method produce of delicate and aromatic cup of coffee unlike any other manual brew,Veg,,,,In Stock
+Manual Brew,,Pour Over V60,₹358,,,Veg,,,,In Stock
+Starter,,Mushroom On Toast,₹210,,Sauteed mushroom and bread,Veg,,,Yes,Check app
+Starter,,Hash Brown,₹170,,,Veg,,,Yes,Check app
+Starter,,French Fries,₹240,,Potatoes,Veg,,,Yes,Check app
+Starter,,Garlic Bread With Cheese,₹240,,Garlic and butter with yummy bread,Veg,,,Yes,Check app
+Starter,,Garlic Pops,₹240,,Garlic doughtnuts,Veg,,,,Check app
+Starter,,Chilly Cheese Toast,₹210,,"Chilli, cheese mix and bread",Veg,,,,Check app
+Starter,,Cheese Pops,₹200,,,Veg,,,,Check app
+Pasta,,Pink Pasta,₹420,,White and red sauce,Veg,,,,Check app
+Pasta,,Pesto Pasta,₹420,,"Mixed veggies, basil, parsley, nutty and cheese sauce",Veg,,,,Check app
+Pasta,,Aglio E Olio,₹375,,"Olive oil, garlic,black olive, sun dried tomatoes, basil",Veg,,,,Check app
+Pasta,,Mac & Cheese,₹250,,,Veg,,,,Check app
+Pasta,,Alfredo Pasta,₹350,,,Veg,,,,Check app
+Pasta,,Ala Funghi,₹420,,"Spagetti pasta, white sauce and mushroom",Veg,,,,Check app
+Sandwich,,Vegetable Sandwich With Focaccia Bread,₹300,,"Grilled zucchini, carrot, onion, eggplant and tomato",Veg,,,Yes,Check app
+Sandwich,,Paneer Sandwich With Focaccia Bread,₹250,,,Veg,,,,Check app
+Sandwich,,Mushroom Sandwich With Focaccia Bread,₹300,,Suated mushroom with seasoning,Veg,,,,Check app
+Sandwich,,Coleslaw Sandwich,₹250,,,Veg,,,,Check app
+Sandwich,,Cheese Sandwich With Focaccia Bread,₹270,,Cheddar sliced cheese,Veg,,,,Check app
+French Toast,,French Toast Blueberry,₹225,,,Non-Veg,,,,Check app
+French Toast,,French Toast Strawberry,₹225,,,Non-Veg,,,,Check app
+French Toast,,French Toast,₹175,,,Non-Veg,,,,Check app
+Pancake,,Pancake Blueberry,₹225,,,Non-Veg,,,,Check app
+Pancake,,Pancake Strawberry,₹225,,,Non-Veg,,,,Check app
+Pancake,,Classic Pancake,₹200,,,Non-Veg,,,,Check app
+Lunch Box,,Lunch Box With Ramen,₹650,,,Veg,,,,Check app
+Lunch Box,,Lunch Box With Pasta,₹600,,,Veg,,,,Check app
+Omelette,,Egg White Omelette,₹210,,"3 egg white and salt,pepper",Non-Veg,,,Yes,Check app
+Omelette,,Mushroom And Spinach Omelette,₹210,,"3 egg mushroom, spinach and salt,pepper",Non-Veg,,,,Check app
+Omelette,,Cheese Omlette,₹210,,"3 egg with cheese and salt, pepper",Non-Veg,,,,Check app
+Omelette,,Masala Omlette,₹210,,"3 egg onion,tomato,chilli, and salt,pepper",Non-Veg,,,,Check app
+Omelette,,Mushroom Omelette,₹175,,,Non-Veg,,,,Check app
+Omelette,,Scrambled Eggs,₹210,,"2 egg, milk and salt,pepper",Non-Veg,,,,Check app
+Omelette,,Sunny Side Up Omlette,₹210,,"2 egg fried with salt,pepper",Non-Veg,,,,Check app
+Smoothie Bowls,,Chocolate Smoothie,₹569,,,Veg,,,,Check app
+Smoothie Bowls,,Mixed Fruit Smoothie,₹512,,,Veg,,,,Check app
+Soup,,Mushroom Soup,₹270,,"Sauteed mushroom, cream, garlic, celery and thyme",Veg,,,,Check app
+Salads,,Summer Vegetable Salad,₹300,,"Cucumber, onion, sun dried tomato, bell pepers and basil dressing",Veg,,,,Check app
+Salads,,Greek Saladcwith Fruits,₹300,,"Watermelon, muskmelon, feta cheese, lettuce, onion and honey peper dressing",Veg,,,,Check app

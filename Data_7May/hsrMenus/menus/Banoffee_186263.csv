@@ -1,0 +1,219 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+BANOFFEE Brew Bar,Classic Coffee,Americano,₹200,,Double Espresso With Hot Water,Veg,5.0,7,,In Stock
+BANOFFEE Brew Bar,Classic Coffee,Cortado,₹220,,Double Espresso With Equal Part Of Steamed Milk,Veg,5.0,10,,In Stock
+BANOFFEE Brew Bar,Classic Coffee,Flat White,₹240,,Espresso With Steamed Milk & Microfoam,Veg,2.2,3,,In Stock
+BANOFFEE Brew Bar,Classic Coffee,Latte,₹240,,Espresso With Steamed Milk & Thin Layer Of Microfoam,Veg,4.4,13,,In Stock
+BANOFFEE Brew Bar,Classic Coffee,Cappuccino,₹240,,Espresso With Steamed Milk & A Thick Layer Of Microfoam,Veg,4.9,17,,In Stock
+BANOFFEE Brew Bar,Classic Coffee,Mocha,₹260,,Espresso With Dark Chocolate & Steamed Milk,Veg,3.9,7,,In Stock
+BANOFFEE Brew Bar,BANOFFEE Speciality,Cranberry Mocha,₹290,Hot: ₹290 | Iced: ₹290,"Espresso, Steamed Milk, Chocolate & Cranberry",Veg,,,,In Stock
+BANOFFEE Brew Bar,BANOFFEE Speciality,BANOFFEE Latte,₹290,Hot: ₹290 | Iced: ₹290,"Espresso, Steamed Milk, Banana & Toffee",Veg,,,,In Stock
+BANOFFEE Brew Bar,BANOFFEE Speciality,Italian Tiramisu Latte,₹290,Hot: ₹290 | Iced: ₹290,"Espresso, Steamed Milk & Italian Tiramisu",Veg,4.8,13,,In Stock
+BANOFFEE Brew Bar,BANOFFEE Speciality,Rose Cardamom Latte,₹290,Hot: ₹290 | Iced: ₹290,"Espresso, Steamed Milk, Rose & Cardamom",Veg,,,,In Stock
+BANOFFEE Brew Bar,BANOFFEE Speciality,Turkish Hazelnut Latte,₹290,Hot: ₹290 | Iced: ₹290,"Espresso, Steamed Milk & Turkish Hazelnut",Veg,4.8,4,,In Stock
+BANOFFEE Brew Bar,BANOFFEE Speciality,Spanish Latte,₹290,Hot: ₹290 | Iced: ₹290,"Espresso, Steamed Milk & Condensed Milk",Veg,,,,In Stock
+BANOFFEE Brew Bar,BANOFFEE Speciality,Nutella Latte,₹290,Hot: ₹290 | Iced: ₹290,"Espresso, Steamed Milk & Nutella",Veg,,,,In Stock
+BANOFFEE Brew Bar,BANOFFEE Speciality,Belgian Biscoff Latte,₹290,Hot: ₹290 | Iced: ₹290,"Espresso, Steamed Milk & Belgian Biscoff",Veg,,,,In Stock
+BANOFFEE Brew Bar,Speciality Cold Brew,Classic Cold Brew,₹270,,"Signature roast, 18 hour slow steep. Smooth & bold.",Veg,5.0,3,,In Stock
+BANOFFEE Brew Bar,Speciality Cold Brew,Cranberry Cold Brew,₹290,,"Signature roast, 18 hour slow steep, cranberry notes.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Speciality Cold Brew,Coconut Passion Cold Brew,₹290,,"Signature roast, 18 hour slow steep, coconut and passion fruit notes.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Speciality Cold Brew,Lychee Lemon Cold Brew,₹290,,"Signature roast, 18 hour slow steep, lychee and lemon notes.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Speciality Cold Brew,Orange Cold Brew,₹290,,"Signature roast, 18 hour slow steep, orange notes.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Speciality Cold Brew,Vietnamese Cold Brew,₹290,,"Signature roast, 18 hour slow steep, with condensed milk.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Iced Coffee,Iced Americano,₹200,,"Double Espresso, Ice & Water",Veg,1.5,3,,In Stock
+BANOFFEE Brew Bar,Iced Coffee,Iced Latte,₹240,,"Double Espresso, Ice & Milk",Veg,2.7,6,,In Stock
+BANOFFEE Brew Bar,Iced Coffee,Iced Cappuccino,₹240,,"Double Espresso, Ice & Foamed Milk",Veg,4.5,3,,In Stock
+BANOFFEE Brew Bar,Iced Coffee,Vietnamese Iced Coffee,₹270,,"Double Espresso, Ice, Condensed Milk & Cinnamon",Veg,3.8,14,,In Stock
+BANOFFEE Brew Bar,Cold Coffee,Classic Cold Coffee,₹275,,Double Espresso & Chilled Milk,Veg,4.0,22,,In Stock
+BANOFFEE Brew Bar,Cold Coffee,BANOFFEE Cold Coffee,₹325,,"Double Espresso, Chilled Milk, Banana & Toffee",Veg,3.2,11,,In Stock
+BANOFFEE Brew Bar,Cold Coffee,Vietnamese Cold Coffee,₹325,,"Double Espresso, Chilled Milk & Condensed Milk",Veg,5.0,15,,In Stock
+BANOFFEE Brew Bar,Cold Coffee,Tiramisu Frappe,₹325,,"Double Espresso, Chilled Milk & Tiramisu",Veg,,,,In Stock
+BANOFFEE Brew Bar,Cold Coffee,Mocha Choco Chip Frappe,₹325,,"Double Espresso, Chilled Milk, Dark Chocolate & Choco Chips",Veg,3.7,3,,In Stock
+BANOFFEE Brew Bar,Cold Coffee,Salted Caramel Frappe,₹325,,"Double Espresso, Chilled Milk & Salted Caramel",Veg,,,,In Stock
+BANOFFEE Brew Bar,Tea,Kashmiri Kahwa,₹200,,"Green Tea, Saffron, Dry Ginger, Cardamom, Cinnamon, Black Pepper, Almond, Clove, Dried Rose Petals",Veg,3.5,8,,In Stock
+BANOFFEE Brew Bar,Tea,English Breakfast Tea,₹200,,Assam Black Tea & Darjeeling Black Tea,Veg,4.2,8,,In Stock
+BANOFFEE Brew Bar,Tea,Chamomile Tea,₹200,,Black Tea & Dried Chamomile Flower,Veg,5.0,4,,In Stock
+BANOFFEE Brew Bar,Tea,Jasmine Tea,₹200,,Black Tea & Pure Fresh Jasmine,Veg,,,,In Stock
+BANOFFEE Brew Bar,Tea,Earl Grey Tea,₹200,,"Black Tea, Natural Bergamot Oil, Cornflower Petals",Veg,,,,In Stock
+BANOFFEE Brew Bar,Tea,Green Tea,₹200,,Organic Green Tea,Veg,,,,In Stock
+BANOFFEE Brew Bar,Iced Tea,Lemon Iced Tea,₹240,,Chilled refreshing black tea with lemon.,Veg,,,,In Stock
+BANOFFEE Brew Bar,Iced Tea,Peach Iced Tea,₹240,,Chilled refreshing black tea with peach.,Veg,,,,In Stock
+BANOFFEE Brew Bar,Iced Tea,Cranberry Iced Tea,₹240,,Chilled refreshing black tea with cranberry.,Veg,,,,In Stock
+BANOFFEE Brew Bar,Iced Tea,Hibiscus Iced Tea,₹240,,Chilled refreshing black tea with hibiscus.,Veg,,,,In Stock
+BANOFFEE Brew Bar,Iced Tea,Lemongrass Iced Tea,₹240,,Chilled refreshing black tea with lemongrass.,Veg,,,,In Stock
+BANOFFEE Brew Bar,Chocolate,Belgian Hot Chocolate,₹280,,"Rich, smooth dark chocolate, marshmallows.",Veg,4.7,32,,In Stock
+BANOFFEE Brew Bar,Chocolate,Hazelnut Hot Chocolate,₹320,,"Dark chocolate, roasted hazelnut, marshmallows.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Chocolate,Mexican Hot Chocolate,₹320,,"Dark chocolate, cinnamon, chilli, marshmallows.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Chocolate,Orange Hot Chocolate,₹320,,"Dark chocolate, orange, marshmallows.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Milkshakes,Movie Night Shake,₹325,,Salted Caramel & Popcorn,Veg,,,,In Stock
+BANOFFEE Brew Bar,Milkshakes,Lotus Biscoff Shake,₹325,,The Og Lotus Biscoff Shake,Veg,,,,In Stock
+BANOFFEE Brew Bar,Milkshakes,Triple Chocolate Shake,₹295,,"Belgian Dark Chocolate, Chocolate Sauce & Choco Chips",Veg,,,,In Stock
+BANOFFEE Brew Bar,Milkshakes,Fudge Brownie Shake,₹295,,Fudge Brownie & Belgian Dark Chocolate,Veg,,,,In Stock
+BANOFFEE Brew Bar,Milkshakes,Strawberry Oreo Shake,₹295,,Strawberry & Oreo,Veg,,,,In Stock
+BANOFFEE Brew Bar,Milkshakes,Mango Shake,₹295,,Classic Mango Shake,Veg,,,,In Stock
+BANOFFEE Brew Bar,Smoothie,Choco Berry Smoothie,₹325,,"Dark Chocolate, Blueberry, Cranberry & Black Currant Blended With Greek Yogurt",Veg,,,,In Stock
+BANOFFEE Brew Bar,Smoothie,Mango Peach Smoothie,₹325,,Mango & Peach Blended With Greek Yogurt,Veg,,,,In Stock
+BANOFFEE Brew Bar,Smoothie,Nutella Strawberry Smoothie,₹325,,Nutella & Strawberry Blended With Greek Yogurt,Veg,,,,In Stock
+BANOFFEE Brew Bar,Smoothie,Peanut Butter & Banana Smoothie,₹325,,Peanut Butter & Banana Blended With Greek Yogurt,Veg,,,,In Stock
+BANOFFEE Brew Bar,Craft Mocktail,Melon Oasis Elixir,₹275,,"Watermelon, Cranberry, Galangal & Basil",Veg,2.2,3,,In Stock
+BANOFFEE Brew Bar,Craft Mocktail,Oceans Ode,₹275,,"Litchi, Lavender, Galangal & Butterfly Pea Flower Tea",Veg,,,,In Stock
+BANOFFEE Brew Bar,Craft Mocktail,Amalfi Blue,₹275,,"Pineapple, Cranberry, Blue Curacao & Basil",Veg,,,,In Stock
+BANOFFEE Brew Bar,Craft Mocktail,Mango Cremoso,₹275,,"Mango, Pineapple & Fresh Cream",Veg,,,,In Stock
+BANOFFEE Brew Bar,Kombucha,Alphonso Mango,₹250,,Naturally fermented sparkling tea with rich Alphonso mango.,Veg,,,,In Stock
+BANOFFEE Brew Bar,Kombucha,Berry Mix,₹250,,"Naturally fermented sparkling tea with Strawberry, Blueberry & Blackberry.",Veg,,,,In Stock
+BANOFFEE Brew Bar,Kombucha,Passion Blossom,₹250,,Naturally fermented sparkling tea with Passionfruit & Jasmine flower.,Veg,,,,In Stock
+All Day Breakfast,,Full English Breakfast,₹430,Chicken: ₹430 | Pork: ₹550,"Fried eggs, bacon, sausages, hash brown, sauteed mushrooms, grilled tomato, baked beans, toast & butter.",Non-Veg,4.1,131,Yes,In Stock
+All Day Breakfast,,Full American Breakfast,₹430,Chicken: ₹430 | Pork: ₹550,"Scrambled eggs, bacon, sausages, pancakes, maple butter, baked beans, toast & butter.",Non-Veg,4.6,70,Yes,In Stock
+All Day Breakfast,,The Original Full Monty,₹480,,"Fried eggs, pork bacon, chicken sausages, hash brown, sauteed mushrooms, grilled tomato, baked beans, toast & butter.",Non-Veg,,,,In Stock
+All Day Breakfast,,Kings Legacy,₹480,,"Spinach & cheese egg quesadilla, pork bacon, pancakes, maple butter, baked beans & mashed potato.",Non-Veg,,,,In Stock
+All Day Breakfast,,The Full House Waffle Edition,₹480,Chicken: ₹480 | Pork: ₹600,"Waffles, maple butter, fried egg, bacon, sausages, cherry tomato confit, sauteed mushrooms & baked beans.",Non-Veg,,,,In Stock
+All Day Breakfast,,The Butchers Feast,₹480,Chicken: ₹480 | Pork: ₹600,"Scrambled eggs, bacon, sausages, ham, roasted baby potatoes, grilled tomato & garlic tzatziki.",Non-Veg,3.4,3,,In Stock
+All Day Breakfast,,The English Muffin Breakfast,₹550,,"English muffin, scrambled eggs, pork bacon, chicken sausages, hash brown, sauteed mushrooms, cherry tomato confit & baked beans.",Non-Veg,5.0,4,,In Stock
+All Day Breakfast,,Morning In Britain,₹550,,"Scrambled eggs, pork bacon, wilted spinach, sauteed mushrooms, grilled tomato, baked beans & toasted garlic butter bagel.",Non-Veg,,,,In Stock
+All Day Breakfast,,French Breakfast,₹380,,"Fried eggs, chicken sausages, French toast, maple butter, sauteed mushrooms, grilled tomato & baked beans.",Non-Veg,4.6,158,Yes,In Stock
+All Day Breakfast,,Persian Breakfast,₹380,Chicken: ₹380 | Pork: ₹500,"Scrambled eggs, ham, sausages, hash brown, grilled tomato, toast & butter.",Non-Veg,4.9,15,,In Stock
+All Day Breakfast,,Italian Sausage Breakfast,₹380,,"Scrambled eggs with chicken sausages, spinach, tomato & feta, served with hash brown, toast & butter.",Non-Veg,4.3,48,,In Stock
+All Day Breakfast,,Canadian Breakfast,₹580,,"Fried eggs, grilled BUFF patty, chicken sausages, hash brown, sauteed mushrooms & grilled tomato.",Non-Veg,3.9,9,,In Stock
+All Day Breakfast,,Belgian Breakfast,₹380,,"Fried eggs, pancakes, maple butter, Biscoff toast & hash brown.",Non-Veg,4.9,36,,In Stock
+All Day Breakfast,,Spanish Breakfast,₹380,,"Spanish omelette, chicken ham, roasted baby potatoes, cheese sauce & cherry tomato confit sourdough.",Non-Veg,,,,In Stock
+All Day Breakfast,,Mexican Breakfast,₹350,,"Mexican tortilla, refried beans, roasted baby potatoes, corn chips, salsa, sour cream & guacamole.",Veg,4.7,9,,In Stock
+All Day Breakfast,,Turkish Eggs,₹350,,"Poached eggs, labneh, spiced butter & toasted sourdough.",Non-Veg,,,,In Stock
+All Day Breakfast,,Eggs Florentine,₹400,,"Poached eggs, English muffin, wilted spinach & hollandaise.",Non-Veg,3.1,3,,In Stock
+All Day Breakfast,,Eggs Royale,₹430,,"Poached eggs, English muffin, chicken ham & hollandaise.",Non-Veg,,,,In Stock
+All Day Breakfast,,The OG Eggs Benedict,₹450,,"Poached eggs, English muffin, pork bacon & hollandaise.",Non-Veg,,,,In Stock
+All Day Breakfast,,Eggs On The Beach,₹350,,"French omelette, baked beans, hash brown, sauteed mushrooms, toast & butter.",Non-Veg,3.0,25,,In Stock
+All Day Breakfast,,Avocado Hash Stack,₹500,,"Smashed avocado, hash browns, poached egg, pork bacon & sriracha drizzle.",Non-Veg,,,,In Stock
+All Day Breakfast,,The Farmers Breakfast,₹380,,"Hash browns, baked beans, mashed potato, sauteed mushrooms, wilted spinach, grilled tomato, toast & butter.",Veg,,,,In Stock
+All Day Breakfast,,Thursday Breakfast,₹430,,"Cottage cheese & spinach scramble, hash brown, mashed potato, sauteed mushrooms, grilled tomato, baked beans, toast & butter.",Veg,4.2,165,Yes,In Stock
+All Day Breakfast,,Moroccan Eggs,₹350,,"Poached eggs in Moroccan spiced tomato sauce, warm pita & roasted baby potatoes.",Non-Veg,,,,In Stock
+All Day Breakfast,,BANOFFEE Shakshuka,₹350,,"Slow cooked Middle Eastern tomato sauce, chickpea mash, olives, capers, feta & toasted sourdough.",Veg,4.2,4,,In Stock
+All Day Breakfast,,Southern Sunrise Feast,₹450,,"Pancakes, maple butter, southern fried apples, hash brown, sauteed mushrooms, baked beans, toast & butter.",Veg,,,,In Stock
+All Day Breakfast,,Greek Eggs,₹380,,"Poached eggs, warm pita, garlic tzatziki, feta, olives, wilted spinach & cherry tomato confit, finished with olive oil.",Non-Veg,,,,In Stock
+Sourdough Toast,,Avocado Toast,₹345,,"Toasted sourdough slice with house guacamole, and crumbled feta.",Veg,4.5,21,Yes,In Stock
+Sourdough Toast,,Alfredo Mushroom Toast,₹275,,Toasted sourdough slice with creamy Alfredo mushrooms.,Veg,,,,In Stock
+Sourdough Toast,,Caesar Chicken Toast,₹245,,"Toasted sourdough slice with chicken, lettuce, Caesar dressing, and Parmesan.",Non-Veg,,,,In Stock
+Sourdough Toast,,Egg Florentine Toast,₹225,,"Toasted sourdough slice with Fluffy scrambled eggs, spinach and Parmesan.",Non-Veg,4.7,3,,In Stock
+Sourdough Toast,,Shakshuka Bean Toast,₹225,,"Toasted sourdough slice with slow cooked American beans in a spiced Mediterranean sauce, feta, and capers.",Veg,,,,In Stock
+Sourdough Toast,,Smoky Hummus Toast,₹275,,"Toasted sourdough slice with chickpea hummus, olives, jalapenos, a drizzle of olive oil, and smoked paprika.",Veg,,,,In Stock
+Bagel,,Cream Cheese Bagel,₹245,,Soft and chewy multigrain bagel with smooth cream cheese and fresh dill.,Veg,3.2,23,,In Stock
+Bagel,,New York Style Bagel,₹395,,"Soft and chewy multigrain bagel with scrambled eggs, melted cheese, and crispy pork bacon.",Non-Veg,4.2,22,,In Stock
+Bagel,,The Sloppy Joe Bagel,₹345,,"Soft and chewy multigrain bagel with minced BUFF, melted cheese, and pickled jalapenos.",Non-Veg,,,,In Stock
+Bagel,,Avocado Feta Bagel,₹345,,"Soft and chewy multigrain bagel with smashed avocado, arugula, and crumbled feta.",Veg,,,,In Stock
+Bagel,,Ham & Cheese Bagel,₹325,,Soft and chewy multigrain bagel with chicken ham and melted cheese.,Non-Veg,3.4,3,,In Stock
+Bagel,,Onion & Mushroom Bagel,₹275,,Soft and chewy multigrain bagel with caramelised onions and sauteed mushrooms.,Veg,,,,In Stock
+Omelette,,Masala Omelette,₹235,,"French omelette with onions, bell peppers, green chillies, and tomatoes, served with hash brown, grilled tomato, toasted bread, and butter.",Non-Veg,4.7,225,,In Stock
+Omelette,,Mushroom Spinach & Cheese Omelette,₹275,,"French omelette with sauteed mushrooms, fresh spinach, and melted cheese, served with hash brown, grilled tomato, toasted bread, and butter.",Non-Veg,4.5,17,,In Stock
+Omelette,,Jalapeno Corn & Cheese Omelette,₹255,,"French omelette with sweet corn, jalapenos, and melted cheese, served with hash brown, grilled tomato, toasted bread, and butter.",Non-Veg,,,,In Stock
+Omelette,,Grilled Chicken Omelette,₹275,,"French omelette with tender grilled chicken, served with hash brown, grilled tomato, toasted bread, and butter.",Non-Veg,4.3,105,,In Stock
+Omelette,,Bacon Temptation Omelette,₹375,,"French omelette with crispy pork bacon and English cheddar, served with hash brown, grilled tomato, toasted bread, and butter.",Non-Veg,4.9,6,,In Stock
+Omelette,,Cowboy Omelette,₹375,,"French omelette with minced BUFF and melted cheese, served with hash brown, grilled tomato, toasted bread, and butter.",Non-Veg,,,,In Stock
+French Toast,,Tiramisu French Toast,₹275,,"Thick brioche French toast with espresso, mascarpone and cocoa, served with maple butter.",Non-Veg,2.9,3,,In Stock
+French Toast,,BANOFFEE French Toast,₹245,,"Thick brioche French toast with fresh banana and toffee sauce, served with maple butter.",Non-Veg,5.0,4,Yes,In Stock
+French Toast,,Cheesy Bacon French Toast,₹345,,"Thick brioche French toast with melted cheese and crispy pork bacon, served with maple butter.",Non-Veg,,,,In Stock
+French Toast,,Cinnamon French Toast,₹225,,"Thick brioche French toast with cinnamon sugar, served with maple butter.",Non-Veg,4.1,6,,In Stock
+French Toast,,Lotus Biscoff French Toast,₹295,,"Thick brioche French toast with Lotus Biscoff spread and biscuit, served with maple butter.",Non-Veg,,,,In Stock
+French Toast,,Strawberry Banana French Toast,₹245,,"Thick brioche French toast with strawberry compote and fresh banana, served with maple butter.",Non-Veg,4.8,7,,In Stock
+Pancake,,Blueberry Pancake,₹295,,"Vanilla pancakes with blueberry compote, served with maple butter.",Veg,4.1,147,Yes,In Stock
+Pancake,,Nutella Pancake,₹325,,"Vanilla pancakes with Nutella, served with maple butter.",Veg,4.6,112,Yes,In Stock
+Pancake,,Lotus Biscoff Pancake,₹325,,"Vanilla pancakes with Lotus Biscoff spread and biscuit, served with maple butter.",Veg,4.7,9,,In Stock
+Pancake,,BANOFFEE Pancake,₹275,,"Vanilla pancakes with fresh banana and toffee sauce, served with maple butter.",Veg,4.5,83,,In Stock
+Pancake,,Chocolate Pancake,₹295,,"Chocolate pancakes with dark chocolate, served with maple butter.",Veg,5.0,3,,In Stock
+Pancake,,White Forest Pancake,₹325,,"Vanilla pancakes with cherry compote and white chocolate, served with maple butter.",Veg,,,,In Stock
+Waffle,,Nutella Waffle,₹325,,"Vanilla waffle, Nutella, maple butter.",Veg,,,,In Stock
+Waffle,,BANOFFEE Waffle,₹295,,"Vanilla waffle, banana, toffee sauce, maple butter.",Veg,5.0,3,,In Stock
+Waffle,,Black Forest Waffle,₹345,,"Chocolate waffle, cherry compote, whipped cream, maple butter.",Veg,,,,In Stock
+Waffle,,Blueberry Waffle,₹295,,"Vanilla waffle, blueberry compote, maple butter.",Veg,,,,In Stock
+Waffle,,Dubai Kunafa Waffle,₹375,,"Chocolate waffle, Kunafa pistachio filling, milk chocolate, maple butter.",Veg,,,,In Stock
+Waffle,,Kitkat Crush Waffle,₹345,,"Chocolate waffle, KitKat, white chocolate, maple butter.",Veg,,,,In Stock
+Soup,,Broccoli Almond Soup,₹230,,"Creamy blended broccoli soup, finished with garlic and almond flakes.",Veg,4.8,16,,In Stock
+Soup,,Cream Of Chicken Soup,₹250,,"Classic creamy chicken soup with tender shreds of chicken, and fresh herbs.",Non-Veg,4.5,27,,In Stock
+Soup,,Roast Pumpkin Soup,₹230,,"Silky roasted pumpkin puree, subtly spiced and finished with cream & herbs.",Veg,4.7,17,,In Stock
+Soup,,Chicken Clear Soup,₹250,,"Light, aromatic chicken broth with tender chicken, vegetables, and herbs.",Non-Veg,4.2,8,,In Stock
+Salad,,Roman Caesar Salad,₹345,Chicken: ₹345 | Veg: ₹295,"Crisp lettuce, cherry tomatoes, olives, crunchy croutons, and parmesan tossed in a creamy Caesar dressing.",Veg,,,,In Stock
+Salad,,Watermelon Feta Salad,₹345,,"Juicy watermelon, crumbly feta, peppery arugula, and toasted pumpkin seeds, finished with a tangy balsamic drizzle.",Veg,,,,In Stock
+Salad,,Golden Egg Salad,₹295,,"Boiled eggs tossed with cucumber, apple, cherry tomatoes, and onion in a creamy mayo and Greek yogurt dressing.",Non-Veg,,,,In Stock
+Salad,,Avocado Chicken Salad,₹395,,"Grilled chicken, ripe avocado, lettuce, cherry tomatoes, bell peppers, and a sriracha lemon vinaigrette.",Non-Veg,,,,In Stock
+Appetizer,,Fish & Chips,₹480,,Crumbed fish fillet served with English chips and tartar dip.,Non-Veg,3.9,42,,In Stock
+Appetizer,,Peri Peri Fries,₹270,,"Crispy golden fries tossed in peri peri spice, served with ketchup and garlic dip.",Veg,4.2,14,,In Stock
+Appetizer,,Cheese Garlic Bread,₹250,,Toasted French bread with garlic butter and melted mozzarella.,Veg,4.8,27,,In Stock
+Appetizer,,Hummus & Pita,₹350,,Creamy chickpea and tahini hummus served with warm pita and house pickles.,Veg,3.7,37,,In Stock
+Appetizer,,Butter Garlic Prawns,₹480,,Prawns grilled in a butter garlic sauce.,Non-Veg,5.0,7,,In Stock
+Appetizer,,Jalapeno Cheese Poppers,₹280,,Golden fried cheese and jalapeno poppers served with a jalapeno cheese dip.,Veg,,,,In Stock
+Appetizer,,Panko Chicken,₹350,,Crispy panko coated chicken served with hot sriracha sauce.,Non-Veg,4.4,7,,In Stock
+Appetizer,,Quesadilla,₹280,,"Grilled tortilla with sauteed vegetables, Mexican beans, jalapenos, and cheese, served with salsa and sour cream.",Veg,,,,In Stock
+Appetizer,,BANOFFEE Nachos Grande,₹350,,"House made corn chips with refried beans, cheese sauce, salsa, jalapenos, sour cream and guacamole.",Veg,4.5,14,,In Stock
+Appetizer,,Aglio E Olio Lotus Stem,₹350,,"Crispy lotus stem tossed in garlic, olive oil, and mild chilli flakes.",Veg,,,,In Stock
+Appetizer,,BANOFFEE Nachos Grande Chicken,₹380,,"House made corn chips with chicken, refried beans, cheese sauce, salsa, jalapenos, sour cream and guacamole.",Non-Veg,,,,In Stock
+Appetizer,,BBQ Cheese Potato Wedges,₹290,,Crispy potato wedges topped with smoky BBQ sauce and cheese sauce.,Veg,,,,In Stock
+Appetizer,,BBQ Chicken Wings,₹330,,Grilled chicken wings tossed in a smoky BBQ glaze.,Non-Veg,,,,In Stock
+Appetizer,,Butter Garlic Scramble,₹250,,"Soft scrambled eggs cooked in a creamy butter garlic sauce, served with English muffin.",Non-Veg,,,,In Stock
+Appetizer,,Chilli Plum Water Chestnuts,₹350,,Crunchy water chestnuts tossed in a tangy chilli plum sauce.,Veg,,,,In Stock
+Appetizer,,Classic Salted Fries,₹250,,"Crispy golden fries seasoned with salt, served with ketchup and garlic dip.",Veg,,,,In Stock
+Appetizer,,Classic Salted Potato Wedges,₹250,,"Crispy potato wedges seasoned with salt, served with ketchup and garlic dip.",Veg,,,,In Stock
+Appetizer,,Formaggio Di Patate,₹280,,Baby potatoes tossed in aglio olio and finished with house cheese sauce.,Veg,,,,In Stock
+Appetizer,,Garlic Parmesan Potato Wedges,₹290,,"Crispy potato wedges finished with roasted garlic and parmesan, served with ketchup and garlic dip.",Veg,,,,In Stock
+Appetizer,,Korean Bun,₹250,,Korean style bun with cream cheese and garlic butter.,Veg,,,,In Stock
+Appetizer,,Loaded Cheesy Fries,₹290,,"Crispy golden fries topped with house cheese sauce, olives and jalapenos.",Veg,,,,In Stock
+Appetizer,,Mozarella Sticks,₹350,,Golden fried mozzarella sticks served with chipotle dip.,Veg,,,,In Stock
+Appetizer,,Parmesan Chicken Wings,₹350,,Crispy chicken wings tossed with roasted garlic and parmesan.,Non-Veg,,,,In Stock
+Appetizer,,Pattaya Chicken,₹350,,Grilled Thai style chicken skewers served with peanut sauce.,Non-Veg,,,,In Stock
+Appetizer,,Peri Peri Potato Wedges,₹270,,"Crispy potato wedges tossed in peri peri spice, served with ketchup and garlic dip.",Veg,,,,In Stock
+Appetizer,,Quesadilla Chicken,₹320,,"Grilled tortilla with spiced chicken, Mexican beans, jalapenos, and cheese, served with salsa and sour cream.",Non-Veg,,,,In Stock
+Appetizer,,Truffle Parmesan Fries,₹320,,"Crispy golden fries finished with truffle oil and parmesan, served with ketchup and garlic dip.",Veg,,,,In Stock
+Sourdough Sandwich,,Chipotle Cottage Melt,₹400,,"Spiced cottage cheese, onion, mozzarella & chipotle mayo.",Veg,2.0,10,,In Stock
+Sourdough Sandwich,,Caprese Sandwich,₹400,,"Bocconcini, cherry tomato confit, basil pesto & balsamic drizzle.",Veg,,,,In Stock
+Sourdough Sandwich,,Sriracha Egg Sandwich,₹300,,"Boiled eggs, caramelised onion, jalapeno & sriracha mayo.",Non-Veg,,,,In Stock
+Sourdough Sandwich,,Bacon & Cheddar Melt,₹450,,"Pork bacon, caramelised onion, jalapeno & English cheddar.",Non-Veg,,,,In Stock
+Sourdough Sandwich,,Cheeseburger Melt,₹450,,"Minced BUFF, jalapeno, onion & English cheddar.",Non-Veg,,,,In Stock
+Sourdough Sandwich,,Ham Tomato Cream Cheese Melt,₹400,,"Chicken ham, cherry tomato confit & cream cheese.",Non-Veg,,,,In Stock
+Sourdough Sandwich,,Mediterranean Falafel Sandwich,₹380,,"Falafel, lettuce, olives, feta, hummus & jalapeno.",Veg,,,,In Stock
+Sourdough Sandwich,,Mushroom Onion Melt,₹350,,"Sauteed mushrooms, caramelised onion & mozzarella.",Veg,,,,In Stock
+Sourdough Sandwich,,Paprika Chicken Sandwich,₹400,,"Smoked paprika chicken, onion & mozzarella.",Non-Veg,,,,In Stock
+Sourdough Sandwich,,Smoky Pulled Chicken Melt,₹430,,"Pulled chicken, gherkins, English cheddar & hot sauce.",Non-Veg,,,,In Stock
+Sourdough Sandwich,,Spinach Corn Cheese Melt,₹330,,"Sauteed spinach, sweet corn & processed cheese.",Veg,,,,In Stock
+Sourdough Sandwich,,Triple Cheese Melt,₹300,,"Mozzarella, English cheddar & processed cheese.",Veg,,,,In Stock
+Burger,,American Cheese Veg Burger,₹400,,"Veg patty, cheese patty, melted cheese, lettuce & signature burger sauce.",Veg,4.4,3,,In Stock
+Burger,,Crispy Chicken Burger,₹330,,"Fried chicken, melted cheese, lettuce, gherkins, garlic mayo & signature burger sauce.",Non-Veg,3.7,6,,In Stock
+Burger,,American Cheese Chicken Burger,₹430,,"Grilled chicken patty, cheese patty, melted cheese, lettuce & signature burger sauce.",Non-Veg,4.2,11,,In Stock
+Burger,,Sweet Onion Lamb Burger,₹450,,"Lamb patty, melted cheese, lettuce, caramelised onion, gherkins & signature burger sauce.",Non-Veg,,,,In Stock
+Burger,,American Cheese BUFF Burger,₹500,,"BUFF patty, cheese patty, melted cheese, lettuce & signature burger sauce.",Non-Veg,,,,In Stock
+Burger,,American Cheese Lamb Burger,₹550,,"Lamb patty, cheese patty, melted cheese, lettuce & signature burger sauce.",Non-Veg,,,,In Stock
+Burger,,Broccoli Cheddar Burger,₹370,,"Broccoli patty, melted cheese, lettuce, grilled onion, jalapeno, garlic mayo & signature burger sauce.",Veg,,,,In Stock
+Burger,,Chipotle Chicken Burger,₹330,,"Grilled chicken patty, melted cheese, lettuce, caramelised onion, chipotle mayo & signature burger sauce.",Non-Veg,,,,In Stock
+Burger,,Classic Veg Burger,₹300,,"Crispy veg patty, melted cheese, lettuce & signature burger sauce.",Veg,,,,In Stock
+Burger,,El Diablo Burger,₹400,,"BUFF patty, melted cheese, lettuce, caramelised onion, jalapenos & signature burger sauce.",Non-Veg,,,,In Stock
+Burger,,Habibi Falafel Burger,₹330,,"Falafel, lettuce, jalapeno, hummus, mustard mayo & signature burger sauce.",Veg,,,,In Stock
+Burger,,Mexican Black Bean Burger,₹350,,"Black bean patty, melted cheese, lettuce, salsa, guacamole, jalapeno & signature burger sauce.",Veg,,,,In Stock
+Burger,,Smokehouse Bacon BUFF Burger,₹450,,"BUFF patty, pork bacon, melted cheese, lettuce, caramelised onion, gherkins, smoky BBQ sauce & signature burger sauce.",Non-Veg,,,,In Stock
+Burger,,The Breakfast Stack Burger,₹400,,"Fried egg, pork bacon, melted cheese, lettuce, hash brown & signature burger sauce.",Non-Veg,,,,In Stock
+Burger,,Truffle Mushroom Burger,₹400,,"Mushroom patty, melted cheese, lettuce, parmesan, truffle mayo & signature burger sauce.",Veg,,,,In Stock
+Sourdough Pizza,,Italian Margherita,₹425,,"San Marzano tomato sauce, mozzarella, bocconcini, fresh basil, and EVOO on artisanal sourdough.",Veg,,,,In Stock
+Sourdough Pizza,,Aloha Island,₹425,,"San Marzano tomato sauce, mozzarella, BBQ grilled pineapple, red onions, jalapenos, and EVOO on artisanal sourdough.",Veg,,,,In Stock
+Sourdough Pizza,,Quattro Formaggi,₹445,,"San Marzano tomato sauce, mozzarella, English cheddar, bocconcini, parmesan, and EVOO on artisanal sourdough.",Veg,,,,In Stock
+Sourdough Pizza,,Santorini Slice,₹445,,"San Marzano tomato sauce, mozzarella, feta, zucchini, black olives, roasted bell peppers, red onions, cherry tomatoes, and EVOO on artisanal sourdough.",Veg,,,,In Stock
+Sourdough Pizza,,Cottage Cheese Picante,₹475,,"San Marzano tomato sauce, mozzarella, spiced cottage cheese, red onions, jalapenos, and EVOO on artisanal sourdough.",Veg,,,,In Stock
+Sourdough Pizza,,Fire Grilled Chicken,₹445,,"San Marzano tomato sauce, mozzarella, BBQ grilled chicken, red onions, and EVOO on artisanal sourdough.",Non-Veg,,,,In Stock
+Sourdough Pizza,,Spicy Chicken Crumble,₹445,,"San Marzano tomato sauce, mozzarella, spiced minced chicken, red onions, jalapenos, and EVOO on artisanal sourdough.",Non-Veg,,,,In Stock
+Sourdough Pizza,,Smokey Bacon & Jalapeno,₹525,,"San Marzano tomato sauce, mozzarella, English cheddar, pork bacon, caramelised onions, jalapenos, and EVOO on artisanal sourdough.",Non-Veg,,,,In Stock
+Pasta,,Penne Alfredo,₹430,Chicken: ₹430 | Veg: ₹350,"Penne Pasta In A Rich, Creamy Alfredo Sauce With Olives, Garlic & Parmesan Cheese",Veg,,,,In Stock
+Pasta,,Penne Arrabiata,₹430,Chicken: ₹430 | Veg: ₹350,"Penne Pasta In A Tangy & Spicy Arrabiata Sauce With Olives, Garlic & Parmesan Cheese",Veg,4.0,16,,In Stock
+Pasta,,Penne Pesto,₹480,Chicken: ₹480 | Veg: ₹400,"Penne Pasta In Basil Pesto Sauce With Olives, Garlic & Parmesan Cheese",Veg,,,,In Stock
+Pasta,,Mac & Cheese,₹430,Chicken: ₹430 | Veg: ₹350,Creamy Macaroni Baked With Sweet Corn & Mozzarella Cheese,Veg,4.8,4,,In Stock
+Pasta,,Spaghetti Aglio E Olio,₹430,Chicken: ₹430 | Veg: ₹350,"Spaghetti Pasta With Garlic, Olive Oil, Red Pepper Flakes, Olives & Parmesan Cheese",Veg,3.6,32,,In Stock
+Pasta,,Lasagne,₹450,Chicken: ₹450 | Veg: ₹370,"Layers Of Tender Pasta Baked With Rich Sauce, Creamy Bechamel & Mozzarella Cheese",Veg,3.4,19,,In Stock
+Pasta,,Spaghetti Carbonara,₹600,,Spaghetti Pasta In Roman Carbonara Sauce With Pork Bacon & Parmesan Cheese,Non-Veg,3.3,12,,In Stock
+Pasta,,Spaghetti Bolognese,₹500,,Spaghetti Pasta In Bolognese Sauce With Minced BUFF & Parmesan Cheese,Non-Veg,3.8,13,,In Stock
+Main Course,,Mushroom Parmesan Florentine Cottage Cheese Steak,₹480,,"Cottage Cheese Stuffed with Mushroom, Parmesan Cheese, and Spinach, In Peri Peri Sauce, served with Mashed Potatoes and Sauteed Vegetables",Veg,4.8,7,,In Stock
+Main Course,,Pimento Glazed Vegetables,₹400,,"Exotic Grilled Vegetables Cooked In Pimento Sauce, Served With Charred Corn Rice",Veg,4.0,3,,In Stock
+Main Course,,Cheesy Butter Garlic Mushroms,₹430,,Mushroom Cooked In Creamy Cheese Sauce Served With Herb Rice,Veg,5.0,4,,In Stock
+Main Course,,Country Veg Steak,₹400,,"Crispy Mix Veg Patty In Paprika Sauce, Served With Mashed Potatoes & Sauteed Vegetables",Veg,,,,In Stock
+Main Course,,Grilled Chicken Steak,₹480,,Grilled Chicken Steak In Peri Peri Sauce Served With Mashed Potatoes & Sauteed Vegetables,Non-Veg,4.5,75,Yes,In Stock
+Main Course,,BANOFFEE Mushroom Chicken Roulade,₹530,,"Flattened Chicken Breast Rolled With Mushroom & Parmesan Cheese, Served With Mushroom Pepper Sauce, Mashed Potatoes & Sauteed Vegetables",Non-Veg,,,,In Stock
+Main Course,,Lemon Butter Fish,₹550,,Grilled Fish In Lemon Butter Sauce Served With Mashed Potatoes & Sauteed Vegetables,Non-Veg,4.4,6,,In Stock
+Main Course,,Grilled Chilli Basil Prawns,₹600,,Grilled Prawns In Chilli Basil Sauce Served With Spinach Rice,Non-Veg,,,,In Stock
+Main Course,,Rosemary Lamb Steak,₹600,,Minced Lamb Steak In Rosemary Infused Brown Sauce Served With Mashed Potatoes & Sauteed Vegetables,Non-Veg,4.2,11,,In Stock
+Main Course,,Bbq Pork Ribs,₹650,,Pork Ribs In BBQ Sauce Served With Mashed Potatoes & Sauteed Vegetables,Non-Veg,4.7,5,,In Stock
+Main Course,,Tenderloin Steak,₹650,,"Grilled BUFF Tenderloin Steak In Red Wine Sauce, Served With Mashed Potatoes & Sauteed Green Beans",Non-Veg,3.4,33,,In Stock
+Dessert,,BANOFFEE Pie,₹300,,"Pie Crust, Dulce De Leche, Banana & Whipped Cream",Veg,4.8,112,,In Stock
+Dessert,,Basque Burnt Cheesecake,₹300,,"Inspired by Spain’s Basque region, this rich, crustless cheesecake features a beautifully caramelized top and a creamy center.",Non-Veg,3.2,9,,In Stock
+Dessert,,Tiramisu,₹350,,Classic Italian dessert with espresso-soaked savoiardi biscuits and layers of whipped mascarpone cream.,Non-Veg,4.7,13,Yes,In Stock
+Dessert,,Sticky Toffee Pudding,₹300,,"Warm date sponge cake, drenched in toffee sauce and served with vanilla ice cream.",Non-Veg,4.3,10,,In Stock

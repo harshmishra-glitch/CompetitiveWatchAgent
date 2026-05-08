@@ -1,0 +1,95 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Bacon,₹190,,,Non-Veg,5.0,3,Yes,In Stock
+Recommended,,Hash Brown,₹150,,,Veg,4.9,6,Yes,In Stock
+Recommended,,Chicken Sausage,₹180,,,Non-Veg,3.6,170,,In Stock
+Recommended,,Mashed Potato,₹170,,,Veg,3.5,150,,In Stock
+Recommended,,Chicken Pepperoni,₹180,,,Non-Veg,3.3,7,,In Stock
+Recommended,,Chicken Salami,₹180,,,Non-Veg,3.8,20,,In Stock
+Recommended,,Chicken Ham,₹180,,,Non-Veg,3.9,13,,In Stock
+Recommended,,Chocolate Milkshake,₹240,,,Veg,4.6,49,,In Stock
+All Day Breakfast,,All Mighty English Breakfast,₹499,,"A breakfast spread comprising of chicken sausages, bacon(pork)/ additional chicken sausage, 2 eggs (sunny side up/ both side fried/  scrambled egg, plain omelette), baked beans, sauteed mushrooms, mashed potato/hash brown & grilled tomato. Served along with 2 slices of bread and butter.",Non-Veg,4.1,15,Yes,In Stock
+All Day Breakfast,,Cant Get Any Pigger,₹579,,"A breakfast spread of bacon (pork), pork sausages, pork ham,2 eggs(sunny side up/both side fried/scrambled/plain omelette) sauteed mushrooms, mashed potato/hash brown & grilled tomato. Served along with 2 slices of bread and butter.",Non-Veg,4.4,8,Yes,In Stock
+All Day Breakfast,,Nice To Meat You - Chicken,₹575,,"A breakfast mix of chicken salami, chicken ham, chicken sausages tossed with veggies and hash brown, topped up with both side fried/scrambled/plain omelette. Served along with 2 slices of bread and butter.",Non-Veg,4.4,6,,In Stock
+All Day Breakfast,,Sunshine In A Pan (Egg Only),₹485,,"A breakfast with 2 eggs pan fried (single side fried) topped with mushrooms, spinach and cheese alongside sauteed mushrooms, baked beans, mashed potato, grilled tomato. Served along with 2 slices of bread and butter.",Non-Veg,4.5,395,,In Stock
+All Day Breakfast,,Murrican Invasion,₹499,,"A breakfast comprising bacon(pork)/ chicken sausages, 2 eggs( sunny side up/ both side fried/ scrambled egg/ plain omelette),2 pancakes with maple syrup. Served along with 2 slices of bread and butter.",Non-Veg,2.6,5,,In Stock
+All Day Breakfast,,Hash Hotch Potch,₹480,,"A breakfast mix of cottage cheese, corns, peas, mushrooms, capsicum, olives, jalapenos and hash browns. Served along with 2 slices of bread and butter.",Veg,4.4,144,Yes,In Stock
+All Day Breakfast,,Goan Gala,₹620,,Sauteed goan sausage (pork) on a bed of mashed potato. This breakfast is served along with 2 slices of bread and butter.,Non-Veg,4.6,31,,In Stock
+All Day Breakfast,,Nice To Meat You - Pork,₹620,,"A breakfast mix of pork pepperoni, bacon, pork sausage tossed with veggies and hash brown, topped up with both side fried/scrambled/plain omelette. Served along with 2 slices of bread and butter.",Non-Veg,4.5,132,,In Stock
+All Day Breakfast,,Sunshine in A Pan (Non-Veg),₹520,,"2 eggs pan fried (single side fried) topped with meat of your choice (chicken sausage/pork sausage/bacon)and cheese alongside sauteed mushrooms, baked beans, mashed potato/hash brown, grilled tomato. This breakfast is served along with 2 slices of bread and butter.",Non-Veg,4.0,3,,In Stock
+All Day Breakfast,,A Brave Heart For Frittata,₹580,,"A 4 egg italian omelette with a mix of bacon, mushrooms, spinach, capsicum. Served along with 2 slices of bread and butter.",Non-Veg,5.0,9,,In Stock
+All Day Breakfast,,Spoiled Brat (Non Veg),₹520,,"A breakfast where a cheesy baked egg  lie on a mildly spicy bed of mushroom, capsicum , assorted veggies and two meats of your choice",Non-Veg,3.4,60,,In Stock
+All Day Breakfast,,A Heart For Frittata (Egg Only),₹499,,"A 4 egg italian omelette with a mix of mushrooms, spinach, capsicum and potato. Served along with 2 slices of bread and butter.",Non-Veg,4.8,93,,In Stock
+All Day Breakfast,,Helen Of Soy,₹470,,"A delicious soy patty pan-grilled to perfection and drizzled with hickory barbeque sauce, served with a bit of house salad !",Veg,4.2,3,,In Stock
+All Day Breakfast,,Vegetably Yours,₹449,,"A  breakfast spread comprising of scrambled soya, baked beans, mashed potato/hash brown, sauteed mushroom and grilled tomato. Served along with 2 slices of bread and butter.",Veg,4.1,62,,In Stock
+All Day Breakfast,,Spoiled Brat (Egg Only),₹470,,"A breakfast where a cheesy baked egg lie on a mildly spicy bed of mushroom, capsicum and other assorted veggies.",Non-Veg,5.0,14,,In Stock
+All Day Breakfast,,Eggstra Curricular Activity (Egg Only),₹449,,"A breakfast spread with 3 eggs (sunny side up/ sunny side down/ scrambled egg/ plain omelette), baked beans, sauteed mushrooms, mashed potato/hash brown & grilled tomato. Served along with 2 slices of bread and butter.",Non-Veg,4.3,165,,In Stock
+Brawny Burgers,,Cowboy Hog Burger,₹599,,Cheesy beef patty filled with barbeque pulled pork! House favourite!.,Non-Veg,4.9,7,Yes,In Stock
+Brawny Burgers,,B4 (Bruhat Bengaluru) Burger,₹680,,"Burger filled with chicken sausages, chicken salami, bacon, pork ham, scrambled eggs, hash brown and veggies.",Non-Veg,4.9,45,,In Stock
+Brawny Burgers,,Hickory Dickory Shock,₹599,,"Buff patty, topped up with bacon bits, crunchy fried onions and a bit of our smoky hickory barbeque sauce",Non-Veg,4.8,4,,In Stock
+Brawny Burgers,,The Triple Barrel Burger,₹680,,"A burger with juicy pork patty, topped with cheese, diced pork sausage and bacon!",Non-Veg,4.0,30,,In Stock
+Brawny Burgers,,A Cheesy Moo-Tation Burger,₹470,,Classic beef cheese burger!,Non-Veg,4.3,5,,In Stock
+Brawny Burgers,,The Shrimpig Burger,₹660,,Marinated pork patty topped up with herb-tossed shrimp and paprika mayo!,Non-Veg,4.2,8,,In Stock
+Brawny Burgers,,Lamborghini  Burger,₹499,,A classic lamb cheese patty burger!,Non-Veg,5.0,35,,In Stock
+Brawny Burgers,,Age of Pork Burger,₹525,,Pulled pork and coleslaw between the buns.,Non-Veg,5.0,17,,In Stock
+Brawny Burgers,,Cheeky Chicken Burger,₹460,,Grilled chicken crumb fried with coleslaw and home made secret sauces!.,Non-Veg,4.1,154,,In Stock
+Brawny Burgers,,Cheesy Affair Burger,₹420,,A burger with chicken cheese patty and veggies.,Non-Veg,4.1,100,,In Stock
+Brawny Burgers,,Holy Paneer Burger,₹420,,"Crunchy paneer drizzled with smoked sweet chilli sauce, served with crisp lettuce, sliced cheese, tomato, onion and creamy mayo",Veg,4.9,12,,In Stock
+Brawny Burgers,,Traditionally Veggie Burger,₹369,,Potato patty burger  served with lettuce onion and tomato.,Veg,3.7,51,,In Stock
+Brawny Burgers,,Badmassh Badshah Burger,₹379,,A burger with red kidney bean patty along with lettuce onion and tomato.,Veg,4.2,3,,In Stock
+Sandwiches,,Chicken Frankenstein Sandwich,₹470,,"Double layered sandwich filled with shredded grilled chicken, chicken salami, fried eggs and veggies.",Non-Veg,4.9,13,Yes,In Stock
+Sandwiches,,Lets Go Clubbing (non-veg) Sandwich,₹470,,"Double layered classic club sandwich with chicken, bacon and eggs. .",Non-Veg,5.0,16,Yes,In Stock
+Sandwiches,,Beloved Belt Sandwich,₹430,,Classic bacon egg lettuce tomato sandwich.,Non-Veg,4.6,28,,In Stock
+Sandwiches,,Lets Go Clubbing Veg Sandwich,₹370,,"Veg club sandwich with lettuce, tomato, onion, cucumber and cheese.",Veg,4.0,147,,In Stock
+Sandwiches,,Phony Pepperoni - Pork Sandwich,₹430,,Pork pepperoni sandwich.,Non-Veg,5.0,4,,In Stock
+Sandwiches,,Twice The Grilliant Sandwich,₹420,,Double layered shredded grilled chicken sandwich with veggies.,Non-Veg,4.6,60,,In Stock
+Sandwiches,,Phony Pepperoni - Chicken Sandwich,₹330,,Chicken Pepperoni sandwich.,Non-Veg,5.0,36,,In Stock
+Sandwiches,,Eggonomy Sandwich,₹299,,"A simple egg sandwich with soft eggs mashed with in-house mayo, served with chips.",Non-Veg,5.0,3,,In Stock
+Sandwiches,,Peaceful Peanuts Sandwich,₹320,,"Peanut butter, honey and banana sandwich.",Veg,5.0,3,,In Stock
+Sandwiches,,Thats My Ham Sandwich,₹470,,Classic chicken ham and cheese sandwich with a twist of jalapenos!,Non-Veg,4.8,8,,In Stock
+Sandwiches,,Pact with Paneer Sandwich,₹320,,Spinach and paneer in creamy cheese.,Veg,3.0,51,,In Stock
+Sandwiches,,Green Corn Sandwich,₹299,,Spinach and corn in creamy cheese.,Veg,4.9,71,,In Stock
+Sandwiches,,Tribute To Canteen Sandwich,₹265,,"An uncomplicated veg cheese sandwich with cucumber,tomato, lettuce and onions. Served along with chips.",Veg,3.4,17,,In Stock
+Extras,,Bacon,₹190,,,Non-Veg,5.0,3,Yes,In Stock
+Extras,,Hash Brown,₹150,,,Veg,4.9,6,Yes,In Stock
+Extras,,Chicken Sausage,₹180,,,Non-Veg,3.6,170,,In Stock
+Extras,,Pork Pepper Sausage,₹220,,,Non-Veg,4.6,30,,In Stock
+Extras,,Pork Breakfast Sausage,₹220,,,Non-Veg,4.0,63,,In Stock
+Extras,,Mashed Potato,₹170,,,Veg,3.5,150,,In Stock
+Extras,,Pork Pepperoni,₹200,,,Non-Veg,1.8,10,,In Stock
+Extras,,Chicken Pepperoni,₹180,,,Non-Veg,3.3,7,,In Stock
+Extras,,Baked Beans ,₹160,,,Veg,3.8,64,,In Stock
+Extras,,Additional Fried Egg,₹20,,,Non-Veg,4.6,61,,In Stock
+Extras,,Chicken Salami,₹180,,,Non-Veg,3.8,20,,In Stock
+Extras,,Chicken Ham,₹180,,,Non-Veg,3.9,13,,In Stock
+Extras,,Additional Toast,₹20,,,Veg,4.2,92,,In Stock
+Sluggish Bites,,Brioche French Toast,₹350,,The timeless french toast! Served with maple syrup.,Non-Veg,4.9,44,Yes,In Stock
+Sluggish Bites,,Piggy Wrap - Chicken,₹649,,Chicken chunks wrapped with bacon!.,Non-Veg,4.5,39,,In Stock
+Sluggish Bites,,Piggy Wrap - Prawns,₹649,,Prawns wrapped with bacon.,Non-Veg,5.0,23,,In Stock
+Sluggish Bites,,Cheesy Fries,₹320,,French fries loaded with cheese!.,Veg,5.0,3,,In Stock
+Sluggish Bites,,Just French Fries,₹299,,The perennial french fries.,Veg,4.6,101,,In Stock
+Sluggish Bites,,Nachos,₹260,,Nachos with Salsa dip,Veg,1.6,24,,In Stock
+Hot Dogs,,The Sub That Broke The Internet,₹520,,"Chunks of grilled chicken, bacon, cheese, tomato and basil, drizzled with hickory barbeque sauce.",Non-Veg,4.7,6,,In Stock
+Hot Dogs,,Piggy Bank Hot Dog,₹510,,"Hot dog stuffed with cheese ,bacon (pork) and ham (pork).",Non-Veg,3.8,4,,In Stock
+Hot Dogs,,Chorizo De Souza Hot Dog,₹525,,A tangy hot dog made of goan pork sausages(chorizo) and special sauces. Served along with chips.,Non-Veg,4.6,11,,In Stock
+Hot Dogs,,Sandwichcraft Hot Dog,₹350,,A hot dog with your choice of fillings,Veg,5.0,14,,In Stock
+Hot Dogs,,Oh Honey Never Sing Hot Dog,₹470,,Honey mustard chicken inside a hot dog. Sweet!!. Served along with chips,Non-Veg,1.9,15,,In Stock
+Hot Dogs,,Mushy Mushroom Hot Dog,₹399,,"Hot dog with mushrooms, capsicum, onion and cheese. Served with chips",Veg,5.0,9,,In Stock
+Hot Dogs,,Mr. Greasy Monkey Hot Dog,₹470,,"Hot dog filled with mushrooms, grilled chicken , cheese and teriyaki sauce. Served with chips",Non-Veg,4.5,17,,In Stock
+Beverages,Milkshakes,Oreo Milkshake,₹250,,,Veg,4.0,46,,In Stock
+Beverages,Milkshakes,Chocolate Milkshake,₹240,,,Veg,4.6,49,,In Stock
+Beverages,Milkshakes,Peanut Butter & Banana Milkshake,₹250,,,Veg,3.9,82,,In Stock
+Beverages,Milkshakes,Vanilla Milkshake,₹199,,,Veg,4.9,5,,In Stock
+Beverages,Milkshakes,Blueberry Oreo Milkshake,₹260,,,Veg,5.0,9,,In Stock
+Beverages,Milkshakes,Pink Guava Juice (Added Sugar),₹170,,A sweet and refreshing juice made from ripe pink guavas with a touch of added sugar for a delightful experiemce,Veg,,,,In Stock
+Beverages,Milkshakes,Banana Milkshake,₹199,,,Veg,3.9,69,,In Stock
+Beverages,Refreshments,Cold Coffee,₹260,,,Veg,4.5,3,,In Stock
+Beverages,Refreshments,Cold Coffee Chocolate Flavour,₹270,,,Veg,4.8,61,,In Stock
+Beverages,Refreshments,Water Melon Juice,₹180,,Refreshing and hydrating juice made from sweet and juicy watermelon.,Veg,4.5,3,,In Stock
+Beverages,Refreshments,Ginger Lime Soda,₹190,,,Veg,4.4,34,,In Stock
+Beverages,Refreshments,Fresh Lime Soda,₹160,,,Veg,4.8,64,,In Stock
+Beverages,Refreshments,Fresh Lime Juice,₹130,,,Veg,5.0,39,,In Stock
+Omelettes,,The Theory of Omelette,₹399,,A Fluffy Cheese Omelette With Your Choice Of Filling.,Non-Veg,5.0,9,Yes,In Stock
+Omelettes,,Meaty Minion Omelette,₹499,,"Chicken, bacon(pork),Cheese, basil and tomato stuffed in an omelette.Served along with 2 slices of bread and butter.",Non-Veg,4.6,44,,In Stock
+Omelettes,,Hen Solo Omelette,₹499,,"A spicy chicken cheese omelette with grilled chicken ,chicken salami , tomato, basil, coriander and chilly. Accompanied with bread and butter.",Non-Veg,4.9,6,,In Stock
+Omelettes,,Pull Me Closer Omelette,₹599,,"An omelette with slow cooked barbecue pulled pork, mushrooms, jalepenos , cheese and pepperoni. Accompanied with bread and butter",Non-Veg,4.7,34,,In Stock
+Pancake,,Pally Pancake,₹350,,"2 pieces of pancake stuffed with cashews , raisins and choco chips. Served with maple syrup.",Non-Veg,5.0,3,,In Stock

@@ -1,0 +1,61 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Woofilicious Pet Menu,,Mango Ambrosia (Pet Food),₹150,,Mango ice cream made of greek yogurt (naturally lactose free),Veg,5.0,18,Yes,In Stock
+Woofilicious Pet Menu,,Evas Secret Risotto (Pet Food),₹199,Small Plate: ₹199 | Large Plate: ₹299,"Made of goat milk, pumpkin, loaded with vegetables, focused on improving gut health and immunity.",Veg,4.4,18,Yes,In Stock
+Woofilicious Pet Menu,,Blueberry Ambrosia (Pet Food),₹175,,Blueberry ice cream made of cashews and goat milk,Veg,4.6,10,Yes,In Stock
+Woofilicious Pet Menu,,Jimmys Pancakes (Pet Food),₹150,Small Plate: ₹150 | Large Plate: ₹250,"Pancakes made of go at milk and go at clarified butter, served with honey",Veg,4.3,19,Yes,In Stock
+Woofilicious Pet Menu,,Artisan Egg And Chicken Pupcake (Pet Food),₹175,,,Non-Veg,3.3,9,,In Stock
+Woofilicious Pet Menu,,Tuna Fish Pupcake (Pet Food),₹175,,,Non-Veg,4.6,8,,In Stock
+Woofilicious Pet Menu,,Digestive Cookies 200 Gm (Treats),₹399,,,Veg,,,,In Stock
+Woofilicious Pet Menu,,Eva's Buddha Growl(pet Food),₹299,,"Pumpkin, yogurt peanut butter sauce, steamed veggies",Veg,,,,In Stock
+Woofilicious Pet Menu,,Fresh Baked Goat Milk Cookies 150gm (Treats),₹299,,"Egg,multigrain flour,goat milk",Non-Veg,,,,In Stock
+Queens Asian,,Burmese Lotus Root Curry Served With Spiced Pilaf Jasmine Rice (Vegan),₹615,,,Veg,,,,In Stock
+Queens Asian,,Japanese Buckwheat Soba Noodles,₹595,,,Veg,,,,In Stock
+Queens Asian,,Kung Pao Tofu Fried Rice,₹615,,"Served with delicious tofu with kung pao sauce, red and yellow bell peppers, peanuts and cashew allergens: nuts and soy",Veg,,,,In Stock
+Queens Asian,,Kinoko Whole Wheat Ramen Noodles ,₹595,,,Veg,,,,In Stock
+Queens Asian,,Thai Yellow Vegan Chicken Curry Noodles (Vegan),₹595,,"Tender plant-based chicken simmered in fragrant thai yellow curry, paired with wok-tossed chow mein noodies and scallion oil.",Veg,,,,In Stock
+Queens Asian,,Thai Basil Drunken Noodles,₹520,,"Rice noodles served with thai basil, seasonal vegetables, mushroom and fried garlic allergens: soy",Veg,3.5,3,,In Stock
+Queens Asian,,Mee Goreng,₹475,,"Indonesian yellow noodles, tofu, seasonal vegetables chili sambal, fried shallots and lime allergens: gluten and soy",Veg,,,,In Stock
+Queens Asian,,Korean Street-style Lo Mein (Vegan),₹510,,"Chewy to mein noodles stir-fried in a soy-ginger sauce, tossed with scallions, seasonal vegetables, and a hint of sesame for street-style authenticity.",Veg,,,,In Stock
+All Day Breakfast,Fifth Avenue Sourdough Toast,Favourite,₹300,Half: ₹300 | Full: ₹475,"Sliced avocado, plant based cream and hemp heart trail mix allergens: gluten, nuts",Veg,,,,In Stock
+All Day Breakfast,Fifth Avenue Sourdough Toast,Caprese,₹300,Half: ₹300 | Full: ₹475,"Hummus, plant based cream cheese, cherry tomato, basil and balsamic reduction allergens: gluten, nuts",Veg,5.0,3,,In Stock
+All Day Breakfast,Fifth Avenue Sourdough Toast,Caramelized Mushroom,₹275,Half: ₹275 | Full: ₹450,"Mushroom, onion, and truffle oil allergens: gluten, nuts",Veg,,,,In Stock
+All Day Breakfast,East Village Bagels,Jalapeno And Cheddar Bagel,₹275,,Allergens: gluten and dairy,Veg,4.7,4,,In Stock
+All Day Breakfast,East Village Bagels,Sun Dried Tomato And Basil Pesto Bagel,₹275,,"Allergens: gluten, nuts",Veg,5.0,3,,In Stock
+All Day Breakfast,American Pancakes,Fluffy Vanilla Pancakes,₹275,,"Served with maple syrup and dairy free whipped cream, allergens: gluten and dairy",Veg,,,,In Stock
+All Day Breakfast,American Pancakes,Chocolate Delight,₹295,,,Veg,,,,In Stock
+All Day Breakfast,Bagels,Bagel And Cream Cheese (Vegan),₹275,,,Veg,5.0,3,Yes,In Stock
+All Day Breakfast,Times Square Smoothie Bowls,Avocado Delight,₹420,,"Avocado, pineapple, banana, kiwi, coconut milk, toasted coconut flakes, jaggery powder",Veg,,,,In Stock
+Pizza,New York-style Flatbread Pizza,Jalapeno &Popper Cream Cheese Pizza,₹450,,,Veg,,,,In Stock
+Pizza,New York-style Flatbread Pizza,Genovese Pizza,₹475,,"Spicy red pesto and basil pesto, jalapeno, bell pepper, onion allergens: gluten and dairy",Veg,,,,In Stock
+Pizza,New York-style Flatbread Pizza,Tuscan Pizza,₹450,,"Button mushroom, shitake mushroom, pickled onion, mozzarella and truffle oil allergens: gluten and dairy",Veg,,,,In Stock
+Pizza,New York-style Flatbread Pizza,Margherita Pizza,₹375,,"Sliced tomato, mozzarella, basil and extra virgin olive oil allergens: gluten and dairy",Veg,,,,In Stock
+Pizza,Others,Greektown Flatbread Pizza,₹450,,,Veg,,,,In Stock
+Pizza,Others,Peri Peri Chicken Pizza,₹450,,"A fiery fusion of bold flavors, this plant-based peri peri pizza is topped with juicy mock chicken, layered over a zesty, spiced tomato sauce.",Veg,,,,In Stock
+Super Bowl Soups,,China Town Soupy Dumplings,₹300,,Asian vegetables and spring onion allergens: gluten,Veg,4.5,5,,In Stock
+Super Bowl Soups,,Miso Glazed Shitake Mushroom Soup,₹295,,,Veg,,,,In Stock
+Super Bowl Soups,,Japanese Whole Wheat Ramen Soup (Vegan),₹295,,"Hearty whole wheat ramen in a soothing veg broth, brimming with carrots, bok choy, tofu, and earthy shiitake mushrooms.",Veg,,,,In Stock
+Super Bowl Soups,,Thai Tom Kha Soup,₹300,,"Thai fresh herbs, asian vegetables, coconut milk and plant based chicken dumplings allergens: gluten and soy",Veg,,,,In Stock
+Super Bowl Soups,,Southwest Jalapeno Corn Soup,₹300,,"Sweet corn, spicy jalapenos and potato in a creamy blend, served with texas toast.",Veg,,,,In Stock
+Central Park Salads,,Founders Favorite Avocado Salad,₹425,,"Avocado, mixed greens, red onion, bell peppers, english cucumber, apples, toasted sunflower seeds and dressing topped with crispy rice noodles",Veg,,,,In Stock
+Central Park Salads,, Smoky Corn Salad,₹375,,,Veg,,,,In Stock
+Central Park Salads,,Greek Town Vegan Feta Salad,₹375,,,Veg,,,,In Stock
+Central Park Salads,,Asian Dumpling Salad,₹450,,,Veg,,,,In Stock
+Theatre District Desserts,,Orange And Ginger Tea Cake,₹295,,,Veg,,,Yes,In Stock
+Theatre District Desserts,,The Red Dragon,₹375,,A strawberry panna cotta,Veg,,,,In Stock
+East Harlem Mexican Delights,,Queso Quesadilla,₹425,,"Melted mexican cheese, peppers, sauted onions, corn and tomatoes. Served with pico de gallo, sour cream allergens: gluten and dairy",Veg,,,,In Stock
+East Harlem Mexican Delights,,Tex Mex Fajita Wraps,₹425,,"Super delicious fajita wrap with mixed peppers, sauted onions, tomatoes and corn served with sour cream allergens: gluten and dairy",Veg,5.0,4,,In Stock
+Little Italy,Pasta  Risotto,Penne Pastaa,₹395,,"Allergens: gluten, dairy and nuts",Veg,,,,In Stock
+Little Italy,Pasta  Risotto,Spaghetti Pastaa,₹395,,"Allergens: gluten, dairy and nuts",Veg,,,,In Stock
+Little Italy,Pasta  Risotto,Al Limone Spaghetti & Roasted Mushrooms,₹425,,,Veg,,,,In Stock
+Little Italy,Pasta  Risotto,Spiced Tomato Penne Aglio Olio,₹425,,,Veg,,,,In Stock
+"Big Apple Burger, Fries Or Roasted Root",,Plant Based Chicken Patty,₹420,,"Vegetables spiced tomato dip, sundried tomato, coleslaw and cheddar cheese served with peri peri fries allergens: gluten, soy and dairy",Veg,4.8,3,,In Stock
+"Big Apple Burger, Fries Or Roasted Root",,Jalapeno & Avocado Burger,₹420,,,Veg,,,,In Stock
+Sandwiches,,Neworleans Remoulade With Shitake Mushrooms Sandwich,₹450,,,Veg,,,,In Stock
+Sandwiches,,Caramelized Onion & Miso Butter Sandwich With Garlic Parmesan Fries,₹425,,,Veg,,,,In Stock
+Sandwiches,,Smoky Tofu Blt Sandwich(vegan),₹375,Small: ₹375 | Large: ₹450,,Veg,,,,In Stock
+Small Plates  Bowls,Carnegie Hill Appetizers,Crispy Vegetable Rolls,₹375,,Special handmade rolls cooked golden and served with spicy sriracha dip allergens: gluten,Veg,,,,In Stock
+Small Plates  Bowls,Carnegie Hill Appetizers,Crispy Mexican Empanadas,₹400,,"Mexican favorite delight with chipotle flavored corn, carrot, black beans and peppers allergens: gluten and dairy",Veg,,,,In Stock
+Small Plates  Bowls,Others,Japanese Onion Rings,₹325,,,Veg,,,,In Stock
+Greenwich Village Bake House,,Vegan Oatmeal And Cranberry Cookie,₹65,,,Veg,,,,In Stock
+Small Plate Bowls,,Cyprus Garden Falafel Platter,₹450,,"Crispy falafel served with hummus, olives and pita bread.",Veg,,,,In Stock
+Holiday Special Menu,,Brooklyn Fire Butter Pizza,₹450,,,Veg,,,,In Stock
