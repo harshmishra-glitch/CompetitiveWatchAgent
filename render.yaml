@@ -42,8 +42,7 @@ services:
     region: singapore                # closest to India / Neon HSR data
     branch: main
     autoDeploy: true
-    buildCommand: bundle install
-    preDeployCommand: bundle exec rails db:migrate
+    buildCommand: bundle install && bundle exec rails db:migrate
     startCommand: bundle exec puma -C config/puma.rb
     healthCheckPath: /health
     envVars:
