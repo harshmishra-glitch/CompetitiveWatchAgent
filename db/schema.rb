@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2026_05_10_120025) do
+ActiveRecord::Schema[7.0].define(version: 2026_05_10_120026) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -274,6 +274,9 @@ ActiveRecord::Schema[7.0].define(version: 2026_05_10_120025) do
     t.datetime "set_at", precision: 0, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.datetime "last_bootstrap_at", precision: 0
+    t.string "last_bootstrap_job_id"
+    t.index ["last_bootstrap_at"], name: "index_pilot_restaurants_on_last_bootstrap_at"
     t.index ["restaurant_id"], name: "index_pilot_restaurants_on_restaurant_id", unique: true
   end
 

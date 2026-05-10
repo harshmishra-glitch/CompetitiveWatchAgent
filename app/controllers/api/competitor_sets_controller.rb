@@ -1,5 +1,6 @@
 module Api
   class CompetitorSetsController < BaseController
+    BOOTSTRAP_COOLDOWN = 5.minutes
     # GET /api/competitor_sets?pilot_restaurant_id=
     def index
       pilot_id = params[:pilot_restaurant_id].presence || current_pilot_restaurant&.id
@@ -17,6 +18,12 @@ module Api
 
     # POST /api/competitor_sets
     # Body: { pilot_restaurant_id, restaurant_ids: [..], name? }
+    #
+    # On success this also bootstraps the dashboard for this pilot:
+    #   - runs Score::CompetitiveHealth inline (fast, no LLM) so the leaderboard
+    #     endpoint returns data immediately,
+    #   - enqueues BootstrapPilotJob to compute threat assessments + today's
+    #     daily digest in the background (~70s for a 6-competitor set).
     def create
       pilot_id       = params.require(:pilot_restaurant_id)
       restaurant_ids = Array(params[:restaurant_ids]).map(&:to_i).uniq
@@ -40,7 +47,12 @@ module Api
         CompetitorSetMember.insert_all!(rows) if rows.any?
       end
 
-      render json: { competitor_set: set_payload(@set, with_members: true) }, status: :created
+      bootstrap = bootstrap_after_create(pilot, @set)
+
+      render json: {
+        competitor_set: set_payload(@set, with_members: true),
+        bootstrap:      bootstrap
+      }, status: :created
     end
 
     # GET /api/competitor_sets/:id/leaderboard?date=
@@ -101,6 +113,63 @@ module Api
     end
 
     private
+
+    # Inline scoring (cheap, no LLM) + async LLM jobs.
+    # Returns the status hash that goes back to the FE.
+    def bootstrap_after_create(pilot, set)
+      {
+        scoring:  run_scoring(set),
+        llm_jobs: enqueue_llm_jobs(pilot)
+      }
+    end
+
+    def run_scoring(set)
+      Score::CompetitiveHealth.compute_for_set(competitor_set_id: set.id, date: Date.current)
+      { status: "completed", date: Date.current.iso8601 }
+    rescue => e
+      Rails.logger.error("[bootstrap_pilot] scoring failed: #{e.class}: #{e.message}")
+      { status: "failed", error: "#{e.class}: #{e.message}" }
+    end
+
+    def enqueue_llm_jobs(pilot)
+      force = ActiveModel::Type::Boolean.new.cast(params[:force]) || false
+
+      if !force && pilot.last_bootstrap_at && pilot.last_bootstrap_at > BOOTSTRAP_COOLDOWN.ago
+        retry_after = (pilot.last_bootstrap_at + BOOTSTRAP_COOLDOWN - Time.current).to_i.clamp(0, BOOTSTRAP_COOLDOWN.to_i)
+        return {
+          status:            "skipped",
+          reason:            "cooldown",
+          last_bootstrap_at: pilot.last_bootstrap_at.iso8601,
+          last_job_id:       pilot.last_bootstrap_job_id,
+          retry_after:       retry_after,
+          polls:             poll_endpoints(pilot)
+        }
+      end
+
+      job = BootstrapPilotJob.perform_later(pilot.id)
+      pilot.update_columns(
+        last_bootstrap_at:     Time.current,
+        last_bootstrap_job_id: job&.job_id
+      )
+
+      {
+        status:  "enqueued",
+        job:     "BootstrapPilotJob",
+        job_id:  job&.job_id,
+        forced:  force,
+        polls:   poll_endpoints(pilot)
+      }
+    rescue => e
+      Rails.logger.error("[bootstrap_pilot] enqueue failed: #{e.class}: #{e.message}")
+      { status: "failed", error: "#{e.class}: #{e.message}" }
+    end
+
+    def poll_endpoints(pilot)
+      {
+        threat_assessments: "/api/pilot_restaurants/#{pilot.id}/threat_assessments",
+        daily_digest:       "/api/pilot_restaurants/#{pilot.id}/daily_digest"
+      }
+    end
 
     def set_payload(set, with_members: false)
       base = {
