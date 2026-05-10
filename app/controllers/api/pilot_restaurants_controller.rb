@@ -77,6 +77,12 @@ module Api
       }
     end
 
+    # GET /api/pilot_restaurants/:id/suggested_questions
+    def suggested_questions
+      pilot = PilotRestaurant.find(params[:id])
+      render json: Chatbot::QuestionSuggester.call(pilot)
+    end
+
     private
 
     def pilot_payload(pilot)
