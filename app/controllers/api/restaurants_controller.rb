@@ -134,6 +134,49 @@ module Api
       }
     end
 
+    # GET /api/restaurants/:id/google_reviews?since=&limit=
+    def google_reviews
+      restaurant = Restaurant.find(params[:id])
+      since_date = parse_since(params[:since], default_days: 30)
+      limit      = (params[:limit].presence || 50).to_i.clamp(1, 200)
+
+      scrapes = GoogleReviewScrape
+                  .where(restaurant_id: restaurant.id)
+                  .where("scrapped_at_date >= ?", since_date)
+                  .order(scrapped_at_date: :desc)
+
+      reviews = scrapes.flat_map { |s|
+        Array(s.reviews).map { |r| r.merge("scrapped_at_date" => s.scrapped_at_date.to_s) }
+      }
+      reviews = reviews.first(limit)
+
+      ratings = reviews.map { |r| r["rating"] }.compact
+      summary = {
+        count: reviews.size,
+        avg_rating: ratings.any? ? (ratings.sum.to_f / ratings.size).round(2) : nil,
+        rating_breakdown: (1..5).map { |star| [star, ratings.count(star)] }.to_h
+      }
+
+      render json: {
+        restaurant_id: restaurant.id,
+        since:         since_date,
+        summary:       summary,
+        reviews:       reviews.map { |r|
+          {
+            review_id:      r["review_id"],
+            reviewer_name:  r["reviewer_name"],
+            local_guide:    r["local_guide"],
+            rating:         r["rating"],
+            review_text:    r["review_text"],
+            likes:          r["likes"],
+            date_raw:       r["date_raw"],
+            attributes:     r["attributes"],
+            scrapped_at_date: r["scrapped_at_date"]
+          }
+        }
+      }
+    end
+
     # GET /api/restaurants/:id/serp_presence?date=
     def serp_presence
       restaurant = Restaurant.find(params[:id])

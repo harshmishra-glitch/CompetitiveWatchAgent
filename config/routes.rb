@@ -36,6 +36,7 @@ Rails.application.routes.draw do
         get :activity_feed
         get :social_signals
         get :serp_presence
+        get :google_reviews
       end
     end
 

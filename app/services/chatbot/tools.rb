@@ -234,6 +234,42 @@ module Chatbot
         },
         {
           schema: {
+            name: "get_recent_reviews",
+            description: "Recent Google reviews for a restaurant — useful for sentiment / complaint analysis and quoting customer feedback.",
+            parameters: {
+              type: "object",
+              properties: {
+                restaurant_id: { type: "integer" },
+                since:         { type: "string", description: "e.g. '7d', '30d'.", default: "30d" },
+                limit:         { type: "integer", description: "Max reviews to return.", default: 20 }
+              },
+              required: ["restaurant_id"]
+            }
+          },
+          call: ->(args, _pilot) {
+            since = parse_since(args["since"], default_days: 30)
+            limit = (args["limit"] || 20).to_i.clamp(1, 50)
+            scrapes = GoogleReviewScrape
+                        .where(restaurant_id: args["restaurant_id"])
+                        .where("scrapped_at_date >= ?", since)
+                        .order(scrapped_at_date: :desc)
+            reviews = scrapes.flat_map { |s| Array(s.reviews) }.first(limit)
+            ratings = reviews.map { |r| r["rating"] }.compact
+            avg = ratings.any? ? (ratings.sum.to_f / ratings.size).round(2) : nil
+            {
+              since:      since,
+              count:      reviews.size,
+              avg_rating: avg,
+              reviews:    reviews.map { |r|
+                { rating: r["rating"], reviewer: r["reviewer_name"],
+                  text: r["review_text"]&.then { |t| t.length > 250 ? t[0, 247] + "..." : t },
+                  date: r["date_raw"], likes: r["likes"] }
+              }
+            }
+          }
+        },
+        {
+          schema: {
             name: "get_threat_assessments",
             description: "Pre-computed threat scores for the pilot vs each competitor.",
             parameters: { type: "object", properties: {} }
