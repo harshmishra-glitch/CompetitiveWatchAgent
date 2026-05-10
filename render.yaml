@@ -30,6 +30,9 @@ envVarGroups:
         value: "true"
       - key: BUNDLE_WITHOUT
         value: development:test
+      # API-only Rails — skip Render's auto-injected rake assets:precompile.
+      - key: DISABLE_ASSET_COMPILATION
+        value: "true"
 
 services:
   # ---------------------------------------------------------------------------
