@@ -17,6 +17,7 @@ module Digest
     end
 
     def call
+      @competitor_set = @pilot_restaurant.active_competitor_set
       context = build_context
       digest  = upsert_digest(quiet_day: context[:competitors].all? { |c| c[:events].empty? } &&
                                           context[:pilot][:events].empty?)
@@ -42,8 +43,7 @@ module Digest
 
     def build_context
       pilot_restaurant = @pilot_restaurant.restaurant
-      set = @pilot_restaurant.active_competitor_set
-      competitor_ids = set ? set.active_members.pluck(:restaurant_id) : []
+      competitor_ids = @competitor_set ? @competitor_set.active_members.pluck(:restaurant_id) : []
 
       {
         date: @date.iso8601,
@@ -73,6 +73,7 @@ module Digest
     def upsert_digest(quiet_day:)
       digest = DailyDigest.find_or_initialize_by(
         pilot_restaurant_id: @pilot_restaurant.id,
+        competitor_set_id:   @competitor_set&.id,
         digest_date:         @date
       )
       digest.assign_attributes(

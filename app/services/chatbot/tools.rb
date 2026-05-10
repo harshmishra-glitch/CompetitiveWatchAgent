@@ -267,8 +267,9 @@ module Chatbot
           call: ->(args, pilot) {
             return { error: "no pilot" } if pilot.nil?
             date = parse_date(args["date"], default: Date.current)
-            digest = DailyDigest.find_by(pilot_restaurant_id: pilot.id, digest_date: date)
-            return { date: date, digest: nil } if digest.nil?
+            return { error: "future_date", date: date } if date > Date.current
+
+            digest = DailyDigest.fetch_or_generate(pilot_restaurant_id: pilot.id, date: date)
             {
               date: date,
               summary: digest.summary,

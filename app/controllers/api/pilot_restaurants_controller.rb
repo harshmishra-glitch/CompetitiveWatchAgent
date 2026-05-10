@@ -55,9 +55,9 @@ module Api
     def daily_digest
       pilot = PilotRestaurant.find(params[:id])
       date  = parse_date(params[:date], default: Date.current)
-      digest = DailyDigest.find_by(pilot_restaurant_id: pilot.id, digest_date: date)
-      return render_error(:not_found, "no_digest", "No digest for #{date}") if digest.nil?
+      return render_error(:bad_request, "future_date", "Cannot generate a digest for a future date") if date > Date.current
 
+      digest = DailyDigest.fetch_or_generate(pilot_restaurant_id: pilot.id, date: date)
       render json: { daily_digest: digest_payload(digest) }
     end
 
