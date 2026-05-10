@@ -1,0 +1,266 @@
+[
+    {
+        "#debug": {
+            "requestId": "7YmBpjyioETwNJx",
+            "url": "http://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting",
+            "loadedUrl": "http://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Amintiri - Cafe | Patisserie | Gifting",
+            "url": "http://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting",
+        "hasNextPage": true,
+        "serpProviderCode": "L",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Amintiri cafe patisserie gifting reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+cafe+patisserie+gifting+reviews&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAg_EAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting timings",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+cafe+patisserie+gifting+timings&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhTEAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+cafe+patisserie+gifting+menu&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhQEAE"
+            },
+            {
+                "title": "Amintiri Cafe patisserie gifting photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+Cafe+patisserie+gifting+photos&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhOEAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+cafe+patisserie+gifting+price&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhLEAE"
+            },
+            {
+                "title": "Amintiri Reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+Reviews&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhHEAE"
+            },
+            {
+                "title": "Amintiri photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+photos&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhFEAE"
+            },
+            {
+                "title": "Top 10 cake shops in Bangalore",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Top+10+cake+shops+in+Bangalore&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhCEAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+cafe+patisserie+gifting+reviews&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAg_EAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting timings",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+cafe+patisserie+gifting+timings&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhTEAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+cafe+patisserie+gifting+menu&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhQEAE"
+            },
+            {
+                "title": "Amintiri Cafe patisserie gifting photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+Cafe+patisserie+gifting+photos&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhOEAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+cafe+patisserie+gifting+price&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhLEAE"
+            },
+            {
+                "title": "Amintiri Reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+Reviews&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhHEAE"
+            },
+            {
+                "title": "Amintiri photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Amintiri+photos&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhFEAE"
+            },
+            {
+                "title": "Top 10 cake shops in Bangalore",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Top+10+cake+shops+in+Bangalore&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0Q1QJ6BAhCEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Map",
+                "url": "http://www.amintiri.in/",
+                "displayedUrl": "",
+                "description": "",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Amintiri: Online Cake Delivery Near Me | Order Best Cakes in ...",
+                "url": "https://amintiri.in/?srsltid=AfmBOop1bTh2U5xreHVkqLk5JMcBGvSGFjxgobZNwM-ZBybq3ZnYiDwv",
+                "displayedUrl": "https://amintiri.in",
+                "description": "Best Customized Cakes for all Occasions. Choose from the widest varieties of cakes Online. Freshly prepared cakes delivered anywhere in Bangalore\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [
+                    {
+                        "title": "Cafe",
+                        "url": "https://amintiri.in/pages/cafe?srsltid=AfmBOop0Ez8AaqzOXCbgdDEK8E20eAlntDx89g4mKm4WMlGNSq368hyx",
+                        "description": "Access to our cafe menu including all the food, desserts and ..."
+                    },
+                    {
+                        "title": "Hampers",
+                        "url": "https://amintiri.in/collections/hampers?srsltid=AfmBOopaL92gvd8nmiczudAet6iMjqvwsmi-WYJYVS7K3_K_5y3CoASU",
+                        "description": "... Amintiri \u00b7 Cart 0. Collection. Collection. Celebration Cakes ..."
+                    },
+                    {
+                        "title": "More results from amintiri.in\u00a0\u00bb",
+                        "url": "https://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting+site:amintiri.in&sca_esv=460606e7be098232&hl=en&sa=X&ved=2ahUKEwjP7KSo-quUAxWOQvEDHaE1Cb0QrAN6BAg0EAE",
+                        "description": ""
+                    }
+                ],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "(@amintiriindia) \u2022 Instagram photos and videos",
+                "url": "https://www.instagram.com/amintiriindia/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0amintiriindia",
+                "description": "Simple joy, beautifully done! \u2728Cakes | Cafe | Gifts | Flowers Museum Road HSR Breakfast: 8:30am to 11:30am. Lunch: 1pm onwards. Order Now    .Read more",
+                "emphasizedKeywords": [
+                    "Museum Road HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "50,9K+ followers",
+                "channelName": "amintiriindia",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "AMINTIRI - PATISSERIE | CAFE | CAKE SHOP, Bengaluru",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g297628-d24976820-Reviews-Amintiri_Patisserie_Cafe_Cake_Shop-Bengaluru_Bangalore_District_Karnataka.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Bengaluru Restaurants",
+                "description": "Stylish bakery & cafe creating handmade cakes & desserts, plus pasta plates & salads.Amintiri - Patisserie | Cafe | Cake ShopRead more",
+                "emphasizedKeywords": [
+                    "Stylish bakery & cafe creating handmade cakes & desserts"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Amintiri, Church Street, Bangalore",
+                "url": "https://www.zomato.com/bangalore/amintiri-church-street-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Church Street",
+                "description": "Amintiri. Desserts, Bakery, Fast Food, Beverages, Pasta, Italian, Cafe, Finger Food. 10, Shanthala Nagar, Museum Road, Church Street, Bangalore. Open now8:30am\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "10, Shanthala Nagar, Museum Road, Church Street, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Amintiri - Flagship Store",
+                "url": "https://amintiricafe.dotpe.in/",
+                "displayedUrl": "https://amintiricafe.dotpe.in",
+                "description": "11 Items. Espresso. \u20b9160. Add. Double Espresso. \u20b9180. Add. Mini Cappuccino. \u20b9170. Add. Americano. \u20b9190. Add. Cappuccino. \u20b9230. Add. Caf\u00e9 Latte. \u20b9230. Add. Flat\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "11 Items"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Amintiri - Cafe | Patisserie | Gifting, Bengaluru, India",
+                "url": "https://wanderlog.com/place/details/2365574/amintiri-cafe--patisserie--gifting",
+                "displayedUrl": "https://wanderlog.com \u203a place \u203a details \u203a amintiri-cafe--...",
+                "description": "Amintiri is a trendy bakery and cafe located in Ashok Nagar, known for its handmade cakes, desserts, pasta dishes, and salads. The establishment offers an\u00a0...",
+                "emphasizedKeywords": [
+                    "Amintiri is a trendy bakery and cafe located in Ashok Nagar"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "What to order at Amintiri - Cafe | Patisserie | Gifting",
+                "url": "https://skip.menu/at/31305-amintiri-cafe-patisserie-gifting",
+                "displayedUrl": "https://skip.menu \u203a 31305-amintiri-cafe-patisserie-gifting",
+                "description": "Best dishes at Amintiri - Cafe | Patisserie | Gifting. AI-analyzed from real Google reviews. See what to order, ratings, and address.",
+                "emphasizedKeywords": [
+                    "Best dishes at Amintiri - Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "\ud83d\udccdAmintiri - Cafe | Patisserie | Gifting 85/1, Parangi Palaya, ...",
+                "url": "https://www.facebook.com/1705820194/videos/amintiri-cafe-patisserie-gifting851-parangi-palaya-sector-2-hsr-layout-bengaluru/1458824072281849/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Nicky Smart",
+                "description": "Amintiri - Cafe | Patisserie | Gifting 85/1, Parangi Palaya, Sector 2, HSR Layout, Bengaluru, Karnataka 560102 Follow me @dive_into_delicacy\u00a0...",
+                "emphasizedKeywords": [
+                    "85/1, Parangi Palaya, Sector 2, HSR Layout, Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "reactions": "1 reaction",
+                "lastUpdated": "2 months ago",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Suraj Madhnani - Founder and First Employee at Amintiri | LinkedIn.",
+                "question": "Who is the owner of amintiri?",
+                "title": "Suraj Madhnani - Founder and First Employee at Amintiri | LinkedIn",
+                "url": "https://in.linkedin.com/in/suraj-madhnani-02821018#:~:text=Suraj%20Madhnani%20%2D%20Founder%20and%20First%20Employee%20at%20Amintiri%20%7C%20LinkedIn",
+                "date": null
+            },
+            {
+                "answer": "Address.Popular Dishes. Blueberry Cheesecake, Hot Chocolate, Cakes, Desserts.People Say This Place Is Known For. Elegant Decor, Humble Staff, Excellent Location, Served Quickly, Clean and Hygienic Place, Mouth Watering Food.Average Cost. \u20b91,100 for two people (approx.)More Info.",
+                "question": "What's famous in Amintiri?",
+                "title": "Amintiri, Church Street, Bangalore - Zomato",
+                "url": "https://www.zomato.com/bangalore/amintiri-church-street-bangalore",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Which is the best cake in Amintiri?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Does Amintiri - HSR Layout restaurant have a bar or serve alcohol? No, Amintiri - HSR Layout does not serve alcohol.",
+                "question": "Does Amintiri serve alcohol?",
+                "title": "Menu of Amintiri - HSR Layout, HSR, South Bengaluru - EazyDiner",
+                "url": "https://www.eazydiner.com/bengaluru/amintiri-cafe-patisserie-gifting-hsr-south-bengaluru-712950/menu#:~:text=Does%20Amintiri%20%2D%20HSR%20Layout%20restaurant,Layout%20does%20not%20serve%20alcohol.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/318KEUIEJi2zHu9Mt/records/7YmBpjyioETwNJx-0.html?signature=1lHQ5KIbtYXL4iAGsEWpC"
+    }
+]

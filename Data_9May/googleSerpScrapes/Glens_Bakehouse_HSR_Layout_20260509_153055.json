@@ -1,0 +1,211 @@
+[
+    {
+        "#debug": {
+            "requestId": "syczm2iHnXIJdf0",
+            "url": "http://www.google.com/search?q=Glen%27s+Bakehouse+%28HSR+Layout%29",
+            "loadedUrl": "http://www.google.com/search?q=Glen%27s+Bakehouse+%28HSR+Layout%29",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Glen's Bakehouse (HSR Layout)",
+            "url": "http://www.google.com/search?q=Glen%27s+Bakehouse+%28HSR+Layout%29",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Glen%27s+Bakehouse+%28HSR+Layout%29",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Glen's bakehouse hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Glen%27s+bakehouse+hsr+layout+reviews&sa=X&ved=2ahUKEwjn3tSx-auUAxX8kmoFHZJUBkUQ1QJ6BAh3EAE"
+            },
+            {
+                "title": "Glen's Bakehouse, hsr Layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Glen%27s+Bakehouse,+hsr+Layout+menu&sa=X&ved=2ahUKEwjn3tSx-auUAxX8kmoFHZJUBkUQ1QJ6BQiIARAB"
+            },
+            {
+                "title": "Glen's Bakehouse, HSR Layout Photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Glen%27s+Bakehouse,+HSR+Layout+Photos&sa=X&ved=2ahUKEwjn3tSx-auUAxX8kmoFHZJUBkUQ1QJ6BQiLARAB"
+            },
+            {
+                "title": "Glen's Bakehouse, HSR Layout offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Glen%27s+Bakehouse,+HSR+Layout+offers&sa=X&ved=2ahUKEwjn3tSx-auUAxX8kmoFHZJUBkUQ1QJ6BQiCARAB"
+            },
+            {
+                "title": "Glen's bakehouse hsr layout prices",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Glen%27s+bakehouse+hsr+layout+prices&sa=X&ved=2ahUKEwjn3tSx-auUAxX8kmoFHZJUBkUQ1QJ6BQiEARAB"
+            },
+            {
+                "title": "Glen Bakehouse, Sarjapur",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Glen+Bakehouse,+Sarjapur&sa=X&ved=2ahUKEwjn3tSx-auUAxX8kmoFHZJUBkUQ1QJ6BQiHARAB"
+            },
+            {
+                "title": "Glen's Bake house Menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Glen%27s+Bake+house+Menu&sa=X&ved=2ahUKEwjn3tSx-auUAxX8kmoFHZJUBkUQ1QJ6BQiBARAB"
+            },
+            {
+                "title": "Glens bakehouse Cake Menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Glens+bakehouse+Cake+Menu&sa=X&ved=2ahUKEwjn3tSx-auUAxX8kmoFHZJUBkUQ1QJ6BAh8EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Glen`s Bakehouse, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/glen-s-bakehouse-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Glen`s Bakehouse \u00b7 Bakery \u00b7 Cafe \u00b7 Italian. 2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore. ClosedOpens at 9am. Order online. Order Online. Offers\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 542,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Glen's Bakehouse, HSR Layout, Bangalore",
+                "url": "https://www.glensbakehouse.com/contact-us/hsr-layout",
+                "displayedUrl": "https://www.glensbakehouse.com \u203a contact-us \u203a hsr-layout",
+                "description": "Discover the magic of freshly baked and cooked artisanal items at Glen's Bakehouse.",
+                "emphasizedKeywords": [
+                    "freshly baked and cooked artisanal items"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Glen's Bakehouse - Simply Delectable Cakes, Pastries, Pizzas ...",
+                "url": "https://www.glensbakehouse.com/",
+                "displayedUrl": "https://www.glensbakehouse.com",
+                "description": "Choose from a wide array of pastries, cakes, pizzas, burgers, salads, kinds of pasta, milkshakes, cold drinks, hot beverages and quick bites.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Glen's Bakehouse",
+                "url": "https://www.instagram.com/glens.bakehouse/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0glens.bakehouse",
+                "description": "6.9K+ followers \u00b7 20 following \u00b7 893 posts \u00b7 @glens.bakehouse: \u201cFreshly Baked, Always Loved BLR (16 Outlets) | Mysore | Chennai | Pune\u201d",
+                "emphasizedKeywords": [
+                    "bakehouse"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "6.9K+ followers",
+                "channelName": "glens.bakehouse",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Glen`s Bakehouse | HSR, Bangalore | Bakery Restaurant",
+                "url": "https://www.district.in/dining/bangalore/glen-s-bakehouse-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a glen-s-bakehouse-hsr-b...",
+                "description": "Glen`s Bakehouse. 2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore. See all outlets. Get directions \u00b7 +919513734879. Select Location. location. Use Current\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Glen's Bakehouse on Instagram: \"Have you visited Glen's ...",
+                "url": "https://www.instagram.com/reel/CfEQSAzlqwl/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0glens.bakehouse",
+                "description": "A cozy little escape where every corner feels warm and welcoming At Glens Bakehouse, it's more than just food, it's the aroma of desserts in\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "110+ likes",
+                "lastUpdated": "3 years ago",
+                "channelName": "reel",
+                "reelLength": "0:13",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Menu of Glen`s Bakehouse, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/glen-s-bakehouse-hsr-bangalore/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR \u203a Glen`s Bakehouse",
+                "description": "2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore. Open now9am \u2013 11:30pm (Today). Order online. Order Online. Glen`s Bakehouse Menu. Food Menu menu\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 543,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Glen's Bakehouse",
+                "url": "https://www.snapchat.com/place/glens-bakehouse/1e642df8-b194-11ec-a9c7-972cad347891",
+                "displayedUrl": "https://www.snapchat.com \u203a place \u203a glens-bakehouse",
+                "description": "Address 2337, Sector 1, 24th Main, HSR Layout, 17th Cross, Bengaluru, Karnataka ; Order with Zomato ; Call 095137 34879 ; Website glensbakehouse.com ; Closed Monday\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "2337, Sector 1, 24th Main, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Glen's Bakehouse Story Glen's Bakehouse is a renowned and cherished bakehouse that has captured the hearts and taste buds of foodies with its exceptional baked goods. Glen's Bakehouse has become a go-to destination for those seeking delicious treats made with love and attention to detail.",
+                "question": "Is Glen's Bakehouse famous?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "HSR Layout is a locality in the south-eastern area of Bangalore. The locality is surrounded by areas such as Koramangala, BTM Layout, Bommanahalli, etc. The HSR Layout pin code is 560102, and its proximity to the Outer Ring Road and Hosur Road makes it convenient to reach other locations.",
+                "question": "Which part of Bangalore is HSR Layout?",
+                "title": "HSR Layout, Bangalore - Map, Pincode, Property Rates ... - NoBroker",
+                "url": "https://www.nobroker.in/locality-iq/hsr-layout-bangalore-liqlt#:~:text=HSR%20Layout%20is%20a%20locality,convenient%20to%20reach%20other%20locations.",
+                "date": null
+            },
+            {
+                "answer": "Glen's Bakehouse is renowned for its heavenly desserts that are sure to satisfy any sweet tooth. From classic favorites to creative confections, our dessert menu offers a delightful array of treats that are both visually stunning and irresistibly delicious.",
+                "question": "What is Glens Bake House known for?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "No, Glen's Bakehouse does not serve alcohol.",
+                "question": "Does Glens Bakehouse serve alcohol?",
+                "title": "Glen's Bakehouse - Bannerghatta Road, South Bengaluru - EazyDiner",
+                "url": "https://www.eazydiner.com/bengaluru/glens-bakehouse-bannerghatta-road-south-bengaluru-701139/about#:~:text=No%2C%20Glen's%20Bakehouse%20does%20not%20serve%20alcohol.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/eTBn9Igq0munRtnLf/records/syczm2iHnXIJdf0-0.html?signature=1RyrPIr3lyJbvXA3z7Pl3"
+    }
+]

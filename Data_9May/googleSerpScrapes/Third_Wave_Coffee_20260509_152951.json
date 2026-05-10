@@ -1,0 +1,250 @@
+[
+    {
+        "#debug": {
+            "requestId": "Cj2Zh8shP0IRn2e",
+            "url": "http://www.google.com/search?q=Third+Wave+Coffee",
+            "loadedUrl": "http://www.google.com/search?q=Third+Wave+Coffee",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Third Wave Coffee",
+            "url": "http://www.google.com/search?q=Third+Wave+Coffee",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Third+Wave+Coffee",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Third Wave coffee India",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+coffee+India&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAgyEAE"
+            },
+            {
+                "title": "Third Wave coffee menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+coffee+menu&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Third Wave Coffee near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+Coffee+near+me&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Third Wave coffee Bangalore",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+coffee+Bangalore&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Third Wave Coffee Hyderabad",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+Coffee+Hyderabad&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Third Wave Coffee Delhi",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+Coffee+Delhi&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg1EAE"
+            },
+            {
+                "title": "Third wave coffee map",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+wave+coffee+map&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg0EAE"
+            },
+            {
+                "title": "Third Wave Coffee Mumbai",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+Coffee+Mumbai&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAgzEAE"
+            },
+            {
+                "title": "Third Wave coffee India",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+coffee+India&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAgyEAE"
+            },
+            {
+                "title": "Third Wave coffee menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+coffee+menu&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Third Wave Coffee near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+Coffee+near+me&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Third Wave coffee Bangalore",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+coffee+Bangalore&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Third Wave Coffee Hyderabad",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+Coffee+Hyderabad&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Third Wave Coffee Delhi",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+Coffee+Delhi&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg1EAE"
+            },
+            {
+                "title": "Third wave coffee map",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+wave+coffee+map&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAg0EAE"
+            },
+            {
+                "title": "Third Wave Coffee Mumbai",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Third+Wave+Coffee+Mumbai&sa=X&ved=2ahUKEwiQyJmS-auUAxW1BfsDHX3DLFEQ1QJ6BAgzEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Third-wave coffee",
+                "url": "https://en.wikipedia.org/wiki/Third-wave_coffee",
+                "displayedUrl": "https://en.wikipedia.org \u203a wiki \u203a Third-wave_coffee",
+                "description": "Third-wave coffee is a term primarily in the United States coffee industry emphasizing higher quality, single-origin farms and light roastRead more",
+                "emphasizedKeywords": [
+                    "Third",
+                    "wave coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Third Wave Coffee Roasters: Best coffee brands in India",
+                "url": "https://www.thirdwavecoffeeroasters.com/",
+                "displayedUrl": "https://www.thirdwavecoffeeroasters.com",
+                "description": "FRESHLY ROASTED. We specially roast your coffee in our in-house, state-of-the-art coffee roaster with specific profiles to ensure optimal flavour notes.Read more",
+                "emphasizedKeywords": [
+                    "coffee",
+                    "coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Too afraid to ask: What is third wave coffee? : r/espresso",
+                "url": "https://www.reddit.com/r/espresso/comments/1363wmk/too_afraid_to_ask_what_is_third_wave_coffee/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/espresso",
+                "description": "3rd wave (2000s): Comprises the idea of \"speciality\" coffee, characterised by fewer defects, smaller lots, traceability, and fair compensation (\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "3rd wave",
+                    "coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "commentsAmount": "50+ comments",
+                "lastUpdated": "3 years ago",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "The Differences Between 1st, 2nd, and 3rd Wave Coffee",
+                "url": "https://www.drivencoffee.com/blogs/blog/coffee-waves-explained?srsltid=AfmBOorLJP1olYL3QMPVPnB1MJcYGm5OlDu4E25qlmKtCMqyNIDYsrZa",
+                "displayedUrl": "https://www.drivencoffee.com \u203a coffee-waves-explained",
+                "description": "The 3 coffee waves have to do with bean quality, sourcing practices, and a handful of other elements. See how coffee is evolving and where it's headed.",
+                "emphasizedKeywords": [
+                    "bean quality, sourcing practices, and a handful of other elements"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "what does first, second, and third wave coffee mean?",
+                "url": "https://presscoffee.com/pages/first-second-and-third-wave-coffee-whats-the-difference?srsltid=AfmBOord1yEQs9qJQefXxnj39GVs36RgyesGW9yZF9S1bxOTc-tJ7yGJ",
+                "displayedUrl": "https://presscoffee.com \u203a pages \u203a first-second-and-third...",
+                "description": "Third wave coffee emerged in the 2000s, and is characterized by a focus on the quality of the coffee bean itself. Third wave coffee shops often source high-\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "is characterized by a focus on the quality of the coffee bean itself"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "TOP 10 BEST Third Wave Coffee in Houston, TX",
+                "url": "https://www.yelp.com/search?find_desc=Third+Wave+Coffee&find_loc=Houston%2C+TX",
+                "displayedUrl": "https://www.yelp.com \u203a Food",
+                "description": "Top 10 Best Third Wave Coffee Near Houston, Texas \u00b7 1. Fifth Vessel Coffee \u00b7 2. Blacksmith \u00b7 3. Third Gen Coffee \u00b7 4. Campesino Coffee House \u00b7 5. Mazajj Organic\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "1. Fifth Vessel Coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "What Is \u201cThird Wave Coffee\u201d, & How Is It Different to ...",
+                "url": "https://perfectdailygrind.com/2017/04/what-is-third-wave-coffee-how-is-it-different-to-specialty/",
+                "displayedUrl": "https://perfectdailygrind.com \u203a Barista",
+                "description": "Key Features of The Third Wave. Increasing coffee quality, more direct trade, a greater emphasis on sustainability, lighter roast profiles,\u00a0...Read more",
+                "date": "2017-04-10T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Increasing coffee quality, more direct trade, a greater emphasis on sustainability"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "A Deep Dive into the Third-Wave Coffee Trend",
+                "url": "https://kbcbakery.com/a-deep-dive-into-the-third-wave-coffee-trend/",
+                "displayedUrl": "https://kbcbakery.com \u203a a-deep-dive-into-the-third-wav...",
+                "description": "Third-wave coffee is an artisanal movement. It's a shift from seeing coffee as a mere drink to cherishing it as a craft.Read more",
+                "emphasizedKeywords": [
+                    "an artisanal movement"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What is a 3rd wave coffee?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "We generally attribute the rise of second wave coffee to brands like Starbucks and Caribou Coffee that revolutionized cafe culture in the United States. These roasters and cafes brought coffee to life in a new way in the late 1900's by introducing coffee lovers to a wider variety of coffee experiences.",
+                "question": "Is Starbucks second or third wave?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Third Wave Coffee is an Indian brand that was founded by Sushant Goel, Ayush Bathwal, and Anirudh Sharma in Bengaluru. However, none of them had a background to run a coffee chain, but it was their passion for the brew that made them take the risk and take the brand where it is today.",
+                "question": "Who is the owner of third wave coffee?",
+                "title": "Third Wave Coffee is an Indian brand that was founded by Sushant Goel ...",
+                "url": "https://www.instagram.com/p/C4XYhKjyhaV/#:~:text=karo_startup_-,Third%20Wave%20Coffee%20is%20an%20Indian%20brand%20that%20was%20founded,brand%20where%20it%20is%20today",
+                "date": "Mar 11, 2024"
+            },
+            {
+                "answer": null,
+                "question": "What are the four enemies of coffee?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "aiOverview": {
+            "type": "live",
+            "content": "",
+            "sources": []
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/fta4gydvxp29BfQVB/records/Cj2Zh8shP0IRn2e-0.html?signature=zuX2hKvnWraRaVAE8AYV"
+    }
+]

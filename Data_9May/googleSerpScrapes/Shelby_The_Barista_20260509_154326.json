@@ -1,0 +1,205 @@
+[
+    {
+        "#debug": {
+            "requestId": "XesL6KrcdGpUTgk",
+            "url": "http://www.google.com/search?q=Shelby+The+Barista",
+            "loadedUrl": "http://www.google.com/search?q=Shelby+The+Barista",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Shelby The Barista",
+            "url": "http://www.google.com/search?q=Shelby+The+Barista",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Shelby+The+Barista",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Shelby the barista menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Shelby+the+barista+menu&sa=X&ved=2ahUKEwjFkvqX_KuUAxUyqJUCHaRpIPwQ1QJ6BAhcEAE"
+            },
+            {
+                "title": "Shelby the barista HSR",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Shelby+the+barista+HSR&sa=X&ved=2ahUKEwjFkvqX_KuUAxUyqJUCHaRpIPwQ1QJ6BAhxEAE"
+            },
+            {
+                "title": "Shelby the barista bangalore",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Shelby+the+barista+bangalore&sa=X&ved=2ahUKEwjFkvqX_KuUAxUyqJUCHaRpIPwQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Shelby the barista owner",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Shelby+the+barista+owner&sa=X&ved=2ahUKEwjFkvqX_KuUAxUyqJUCHaRpIPwQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Shelby the barista photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Shelby+the+barista+photos&sa=X&ved=2ahUKEwjFkvqX_KuUAxUyqJUCHaRpIPwQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Shelby cafe Nagarbhavi",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Shelby+cafe+Nagarbhavi&sa=X&ved=2ahUKEwjFkvqX_KuUAxUyqJUCHaRpIPwQ1QJ6BAhkEAE"
+            },
+            {
+                "title": "Shelby and Co",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Shelby+and+Co&sa=X&ved=2ahUKEwjFkvqX_KuUAxUyqJUCHaRpIPwQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "Chelvies coffee",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chelvies+coffee&sa=X&ved=2ahUKEwjFkvqX_KuUAxUyqJUCHaRpIPwQ1QJ6BAheEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "SHELBYTHEBARISTA (@shelby.the.barista) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/shelby.the.barista/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0shelby.the.barista",
+                "description": "700 Followers, 322 Following, 48 Posts - SHELBYTHEBARISTA (@shelby.the.barista) on Instagram: \"Let Coffee Connect Us. Banglore. Founder: @mr_m0tte\"",
+                "emphasizedKeywords": [
+                    "SHELBYTHEBARISTA"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "710+ followers",
+                "channelName": "shelby.the.barista",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "SHELBYTHEBARISTA (@shelby.the.barista) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/shelby.the.barista/reels/",
+                "displayedUrl": "https://www.instagram.com \u203a shelby.the.barista",
+                "description": "Dec 21, 2024 \u2014 715 followers \u00b7 51 posts \u00b7 Let Coffee Connect Us. Banglore. Founder: @mr_m0tte.",
+                "date": "2024-12-21T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "715 followers"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "shelby.the.barista",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Day 2: The place where I find peace between the chaos of ...",
+                "url": "https://www.instagram.com/reel/DPlDBX_CS03/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0saiyameditz",
+                "description": "Today we are at Shelby one of the only midnight spots of HSR they easily sell 500 cups of their iconic Shelby signature coffee and it's worth the hype.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "24K+ likes",
+                "lastUpdated": "7 months ago",
+                "channelName": "reel",
+                "reelLength": "0:41",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Shelby The Barista - 358, 25th B Main Rd, 2nd Sector ...",
+                "url": "https://www.corner.inc/place/1474964",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "VIBE. Late-night coffee counter that stays open until 1am when everything else shuts down. Minimal seating, mostly people grabbing drinks to go.Read more",
+                "emphasizedKeywords": [
+                    "Late-night coffee counter that stays open until 1am"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Part 1 \u2728 Barista Spotlight: Shelby! \u2728 Meet ...",
+                "url": "https://www.facebook.com/revecoffeelab/videos/part-1-barista-spotlight-shelby-meet-shelbyher-energy-and-smile-are-as-bright-an/663030699391009/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0R\u00eave Coffee Lab, River Ranch",
+                "description": "Next time you stop by R\u00eave River Ranch, be sure to say hi to Shelby\u2014she'll serve you up a killer latte and probably make you laugh while she's\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "reactions": "4 reactions",
+                "lastUpdated": "1 year ago",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "[I Ate] Dinner almost turned into a full night out. The Coorg ...",
+                "url": "https://www.reddit.com/r/indiafood/comments/1p71js5/i_ate_dinner_almost_turned_into_a_full_night_out/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/indiafood",
+                "description": "[I Ate] Dinner almost turned into a full night out. The Coorg Food Co \u2192 coffee at Nombre \u2192 ended up at Shelby the Barista! Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "ended up at Shelby the Barista"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "5 months ago",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Sahil Raikar | \ud83d\udccd Shelby The Barista 358, 25th B ...",
+                "url": "https://www.instagram.com/reel/DRsEE6eE7Yf/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0thatcheesyguy_ka22",
+                "description": "All Days Open ( Mon - Sun ) 11:00 am - 01:00 am. Review: I had a fantastic experience thanks to Shelby, the barista. From the moment I walked in\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "100+ likes",
+                "lastUpdated": "5 months ago",
+                "channelName": "reel",
+                "reelLength": "0:17",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "SHAHABAS MOTTAMMAL - SHELBY - THE BARISTA",
+                "url": "https://in.linkedin.com/in/shahabas-mottammal-68a2bb202",
+                "displayedUrl": "LinkedIn\u00a0\u203a\u00a0SHAHABAS MOTTAMMAL",
+                "description": "Full time dreamer \u263a\ufe0f \u00b7 Experience: SHELBY - THE BARISTA \u00b7 Education: Vogue institute of fashion technology \u00b7 Location: Bengaluru \u00b7 257 connections on\u00a0...",
+                "emphasizedKeywords": [
+                    "Experience: SHELBY - THE BARISTA"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "personalInfo": {
+                    "location": "Bengaluru, Karnataka, India",
+                    "companyName": "SHELBY - THE BARISTA",
+                    "rawText": "Bengaluru, Karnataka, India \u00b7 SHELBY - THE BARISTA"
+                },
+                "followersAmount": "330+ followers",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Meet Milk & Honey: A new Shelby coffee company crafted ...",
+                "url": "https://www.richlandsource.com/2025/08/21/meet-milk-honey-a-new-shelby-coffee-company-crafted-with-purpose/",
+                "displayedUrl": "https://www.richlandsource.com \u203a 2025/08/21 \u203a meet-...",
+                "description": "Milk & Honey's lead barista is coming to Shelby after working for Goldberry Roasting Company, a well-known craft coffee roaster and coffeehouse\u00a0...Read more",
+                "date": "2025-08-21T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Milk & Honey's lead barista is coming to Shelby"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/i6Gi4gwgmiG2pSdVV/records/XesL6KrcdGpUTgk-0.html?signature=1pZESh32dTuxALBFDFhxq"
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "#debug": {
+            "requestId": "av0VHcAU5tDGXiI",
+            "url": "http://www.google.com/search?q=Cafe+Hustle",
+            "loadedUrl": "http://www.google.com/search?q=Cafe+Hustle",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Cafe Hustle",
+            "url": "http://www.google.com/search?q=Cafe+Hustle",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Cafe+Hustle",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Cafe hustle hsr",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+hustle+hsr&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhfEAE"
+            },
+            {
+                "title": "Cafe hustle menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+hustle+menu&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhyEAE"
+            },
+            {
+                "title": "Beanlore Caf\u00e9",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+Caf%C3%A9&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhxEAE"
+            },
+            {
+                "title": "Caf\u00e9s near Me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Caf%C3%A9s+near+Me&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhqEAE"
+            },
+            {
+                "title": "The Faith Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+Faith+Cafe&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAheEAE"
+            },
+            {
+                "title": "Cafes in HSR",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafes+in+HSR&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhoEAE"
+            },
+            {
+                "title": "Hebe's Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Hebe%27s+Cafe&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "L81 Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=L81+Cafe&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhhEAE"
+            },
+            {
+                "title": "Cafe hustle hsr",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+hustle+hsr&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhfEAE"
+            },
+            {
+                "title": "Cafe hustle menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+hustle+menu&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhyEAE"
+            },
+            {
+                "title": "Beanlore Caf\u00e9",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+Caf%C3%A9&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhxEAE"
+            },
+            {
+                "title": "Caf\u00e9s near Me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Caf%C3%A9s+near+Me&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhqEAE"
+            },
+            {
+                "title": "The Faith Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+Faith+Cafe&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAheEAE"
+            },
+            {
+                "title": "Cafes in HSR",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafes+in+HSR&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhoEAE"
+            },
+            {
+                "title": "Hebe's Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Hebe%27s+Cafe&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "L81 Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=L81+Cafe&sa=X&ved=2ahUKEwiFqrrp-auUAxXPzwIHHdniCRUQ1QJ6BAhhEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Cafe Hustle | HSR (@cafe_hustle)",
+                "url": "https://www.instagram.com/cafe_hustle/?hl=en",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cafe_hustle",
+                "description": "We're open for Dine-in! Coffee | Food | Music | Events | Hangouts \u00b7 At Cafe Hustle, HSR, every cup tells a story, and every sip is \u00b7 Board games and brews \u2013 the\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Cafe Hustle"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "720+ followers",
+                "channelName": "cafe_hustle",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Hustle & Dough",
+                "url": "https://www.hustleanddoughmemphis.com/",
+                "displayedUrl": "https://www.hustleanddoughmemphis.com",
+                "description": "All-day bakery and cafe in downtown Memphis. Visit our full-scale sourdough bakery operation, selling retail breads, pastries, and a \u201cbread-focused\u201d cafe\u00a0...",
+                "emphasizedKeywords": [
+                    "All-day bakery and cafe in downtown Memphis"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Cafe Hustle (@HustleHSR) - About",
+                "url": "https://m.facebook.com/HustleHSR/about/",
+                "displayedUrl": "https://m.facebook.com \u203a ... \u203a Restaurant \u203a Cafe Hustle",
+                "description": "Cafe Hustle, Bangalore. 506 likes \u00b7 261 were here. Reasons to visit us - Excellent Food. Music. Games. Entertainment. Great Ambiance. Activities and...",
+                "emphasizedKeywords": [
+                    "Excellent Food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 5,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "HUSTLE BUSTLE - Restaurant Reviews",
+                "url": "https://www.yelp.com/biz/hustle-bustle-tucson",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Breakfast & Brunch",
+                "description": "HUSTLE BUSTLE - Try Our New Menu - 5975 W Western Way Cir, Ste 106, Tucson, AZ 85713, 66 Photos, (520) 638-5637, Mon - 7:00 am - 2:00 pm, Tue - 7:00 am\u00a0...",
+                "emphasizedKeywords": [
+                    "5975 W Western Way Cir, Ste 106, Tucson, AZ 85713"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.6,
+                "numberOfReviews": 80,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Cafe Hustle | HSR (@cafe_hustle)",
+                "url": "https://www.instagram.com/cafe_hustle/reels/",
+                "displayedUrl": "https://www.instagram.com \u203a cafe_hustle",
+                "description": "We're open for Dine-in! Coffee | Food | Music | Events | Hangouts \u00b7 Your coffee \u2615 is on the house! \u00b7 Just another day at @cafe_hustle HSR Layout, Bengaluru #\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Dine-in! Coffee | Food | Music | Events | Hangouts"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "cafe_hustle",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Hustle & Dough Cafe and Bakery",
+                "url": "https://www.memphistravel.com/restaurants/hustle-dough-cafe-and-bakery",
+                "displayedUrl": "https://www.memphistravel.com \u203a restaurants \u203a hustle-do...",
+                "description": "477 South Main St. Memphis, TN, 38103 \u00b7 (901) 701-7577. About. Hustle & Dough / Bar Hustle, an all-day bakery and\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "477 South Main St. Memphis, TN, 38103"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Hustle & Grind Coffee Bar - menu",
+                "url": "https://www.bestfoodtrucks.com/truck/hustle-grind-coffee-bar/menu",
+                "displayedUrl": "https://www.bestfoodtrucks.com \u203a truck \u203a menu",
+                "description": "At our mobile coffee bar, we bring the essence of a quaint caf\u00e9 directly to you, whether it's a bustling event or a serene outdoor gathering. What sets us apart\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "essence of a quaint caf\u00e9 directly to you"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Buy tickets \u2013 Pretty Hustle Cafe",
+                "url": "https://www.tickettailor.com/events/prettyhustlecafe",
+                "displayedUrl": "https://www.tickettailor.com \u203a events \u203a prettyhustlecafe",
+                "description": "Located in the heart of the city, the cafe blends with unique experiences like networking events, creative workshops, brunch gatherings, and live entertainment.Read more",
+                "emphasizedKeywords": [
+                    "Located in the heart of the city"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "Is a caf\u00e9 business profitable?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Gen Z prefers customised, cold, visually appealing drinks over traditional coffee. Specialty coffee terminology alienates younger consumers seeking accessibility and convenience. Gen Z values sustainability but demands relevant experiences. Trending drinks create entry points for building long-term customer loyalty.",
+                "question": "What does Gen Z look for in a coffee shop?",
+                "title": "What does Gen Z actually want from specialty coffee? - Perfect Daily Grind",
+                "url": "https://perfectdailygrind.com/2026/02/what-does-gen-z-want-from-specialty-coffee/#:~:text=Gen%20Z%20prefers%20customised%2C%20cold,building%20long%2Dterm%20customer%20loyalty.",
+                "date": "Feb 11, 2026"
+            },
+            {
+                "answer": "You can open a coffee shop with no money, but you will have to leverage your knowledge and your business savvy to do so. Certainly, having enough funds to plan, set up, and keep your coffee business afloat until it is profitable will be important as you move forward.",
+                "question": "Can I start a caf\u00e9 with no money?",
+                "title": "Seven Ways to Open Your Coffee Shop With No Money",
+                "url": "https://coffeeshopstartups.com/seven-proven-ways-open-coffee-shop-no-money/#:~:text=You%20can%20open%20a%20coffee,important%20as%20you%20move%20forward.",
+                "date": null
+            },
+            {
+                "answer": "What Food to Sell in a Coffee Shop\nCroissants.Muffins.Fresh cakes.Scones.Doughnut.Cookies.Brownies.Danishes.",
+                "question": "What food to sell in a caf\u00e9?",
+                "title": "What to Sell in a Coffee Shop",
+                "url": "https://esquirescoffee.co.uk/news/what-to-sell-coffee-shop/",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/fBkWUD4KsRuSgQIAO/records/av0VHcAU5tDGXiI-0.html?signature=PBIF7V4y5hi2FbEaArLD"
+    }
+]

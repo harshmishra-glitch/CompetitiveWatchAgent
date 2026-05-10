@@ -1,0 +1,227 @@
+[
+    {
+        "#debug": {
+            "requestId": "CFhS9akqoiUKiIS",
+            "url": "http://www.google.com/search?q=Caf%C3%A9+Coffee+Day",
+            "loadedUrl": "http://www.google.com/search?q=Caf%C3%A9+Coffee+Day",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Caf\u00e9 Coffee Day",
+            "url": "http://www.google.com/search?q=Caf%C3%A9+Coffee+Day",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Caf%C3%A9+Coffee+Day",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Caf\u00e9 coffee day near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Caf%C3%A9+coffee+day+near+me&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhLEAE"
+            },
+            {
+                "title": "Caf\u00e9 coffee day menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Caf%C3%A9+coffee+day+menu&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "Cafe Coffee Day owner net worth",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Coffee+Day+owner+net+worth&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhWEAE"
+            },
+            {
+                "title": "Cafe coffee day photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+coffee+day+photos&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhUEAE"
+            },
+            {
+                "title": "Cafe Coffee Day Menu with prices pdf",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Coffee+Day+Menu+with+prices+pdf&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhPEAE"
+            },
+            {
+                "title": "Is caf\u00e9 Coffee Day closed",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Is+caf%C3%A9+Coffee+Day+closed&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhOEAE"
+            },
+            {
+                "title": "Cafe Coffee Day near me on Highway",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Coffee+Day+near+me+on+Highway&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhNEAE"
+            },
+            {
+                "title": "Who is ceo of caf\u00e9 coffee day",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Who+is+ceo+of+caf%C3%A9+coffee+day&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhMEAE"
+            },
+            {
+                "title": "Caf\u00e9 coffee day near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Caf%C3%A9+coffee+day+near+me&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhLEAE"
+            },
+            {
+                "title": "Caf\u00e9 coffee day menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Caf%C3%A9+coffee+day+menu&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "Cafe Coffee Day owner net worth",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Coffee+Day+owner+net+worth&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhWEAE"
+            },
+            {
+                "title": "Cafe coffee day photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+coffee+day+photos&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhUEAE"
+            },
+            {
+                "title": "Cafe Coffee Day Menu with prices pdf",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Coffee+Day+Menu+with+prices+pdf&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhPEAE"
+            },
+            {
+                "title": "Is caf\u00e9 Coffee Day closed",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Is+caf%C3%A9+Coffee+Day+closed&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhOEAE"
+            },
+            {
+                "title": "Cafe Coffee Day near me on Highway",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Coffee+Day+near+me+on+Highway&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhNEAE"
+            },
+            {
+                "title": "Who is ceo of caf\u00e9 coffee day",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Who+is+ceo+of+caf%C3%A9+coffee+day&sa=X&ved=2ahUKEwiojLyM-auUAxX5mSsGHZw5CwsQ1QJ6BAhMEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Caf\u00e9 Coffee Day",
+                "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Coffee_Day",
+                "displayedUrl": "https://en.wikipedia.org \u203a wiki \u203a Caf\u00e9_Coffee_Day",
+                "description": "Caf\u00e9 Coffee Day (CCD) is an Indian multinational chain of coffeehouses headquartered in Bengaluru, Karnataka. It is a subsidiary of Coffee Day Enterprises\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "an Indian multinational chain of coffeehouses"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Caf\u00e9 Coffee Day | A Lot Can Happen Over Coffee",
+                "url": "https://www.cafecoffeeday.com/",
+                "displayedUrl": "https://www.cafecoffeeday.com",
+                "description": "Find the best place to hang out with friends. Visit Caf\u00e9 Coffee Day and enjoy hot coffees, cold coffees, snacks and more. CCD is the best place to spend\u00a0...",
+                "emphasizedKeywords": [
+                    "hot coffees, cold coffees, snacks and more"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Cafe Coffee Day (@cafecoffeeday)",
+                "url": "https://www.instagram.com/cafecoffeeday/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cafecoffeeday",
+                "description": "A Lot Can Happen Over A Coffee Defining India's Caf\u00e9 Culture Since 1996 400+ Caf\u00e9s | Billions of Stories \u00b7 SUMMER MENU IS HERE!\u2600\ufe0f     Cafe Coffee Day located in\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Cafe Coffee Day"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "176K+ followers",
+                "channelName": "cafecoffeeday",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "How do I get the best coffee out of this CCD machine at my ...",
+                "url": "https://www.reddit.com/r/IndiaCoffee/comments/1oczgh8/how_do_i_get_the_best_coffee_out_of_this_ccd/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/IndiaCoffee",
+                "description": "So we\u2019ve got this ccd coffee machine in our office, and honestly\u2026 the espresso tastes pretty bad and the latte isn\u2019t much better. \ud83d\ude05\n\nIm guessing ...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "commentsAmount": "160+ comments",
+                "lastUpdated": "6 months ago",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Cafe Coffee Day (@cafecoffeeday)",
+                "url": "https://www.facebook.com/cafecoffeeday/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Cafe Coffee Day",
+                "description": "From first ball to last sip \u2615   We've got your cravings covered. Order now on Zomato and Swiggy. Link in bio #ccd #cafecoffeeday #homedelivery.Read more",
+                "emphasizedKeywords": [
+                    "Order now on Zomato and Swiggy"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "4.4M+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Cafe Coffee Day on Instagram: \"What's your CCD coffee go-to ...",
+                "url": "https://www.instagram.com/reel/DHVkW25SsuL/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cafecoffeeday",
+                "description": "CCD has now introduced three amazing new beverages which are perfect alternatives to regular frappes. Spanish Cold Brew, slightly sweet and\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "610+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:29",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Why would someone go to a Cafe Coffee Day to buy ...",
+                "url": "https://www.quora.com/Why-would-someone-go-to-a-Cafe-Coffee-Day-to-buy-a-coffee-worth-%E2%82%B9100-when-it-is-available-at-%E2%82%B920-from-a-normal-shop",
+                "displayedUrl": "30+ answers  \u00b7  12 years ago",
+                "description": "Why would someone go to a Cafe Coffee Day to buy a coffee worth \u20b9100 when it is available at \u20b920 from a normal shop?",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Caf\u00e9 Coffee Day, a part of Coffee Day Global Limited, is India's favourite hangout for coffee and conversations. Popularly known as CCD, we strive to provide the best experience to our guests.",
+                "question": "Is coffee day and Caf\u00e9 Coffee Day the same?",
+                "title": "About Us | Caf\u00e9 Coffee Day",
+                "url": "https://www.cafecoffeeday.com/about-us#:~:text=Caf%C3%A9%20Coffee%20Day%2C%20a%20part,best%20experience%20to%20our%20guests.",
+                "date": null
+            },
+            {
+                "answer": "After the passing of founder V.G. Siddhartha, the company was left with \u20b97,000+ crore in debt, uncertainty, and a shaken workforce. Instead of stepping away, Malavika Hegde stepped in.",
+                "question": "What happened to Caf\u00e9 Coffee Day?",
+                "title": "In 2019, Caf\u00e9 Coffee Day was facing its toughest phase. After ... - Facebook",
+                "url": "https://www.facebook.com/marketinggrowmatics/posts/in-2019-caf%C3%A9-coffee-day-was-facing-its-toughest-phaseafter-the-passing-of-founde/870386485755345/#:~:text=its%20toughest%20phase.-,After%20the%20passing%20of%20founder%20V.G.,away%2C%20Malavika%20Hegde%20stepped%20in.",
+                "date": "Jan 10, 2026"
+            },
+            {
+                "answer": "Caf\u00e9 Coffee Day (CCD) is an Indian multinational chain of coffeehouses headquartered in Bengaluru, Karnataka. It is a subsidiary of Coffee Day Enterprises Limited. Internationally, CCD is present in Austria, the Czech Republic, Malaysia, Nepal, and Egypt.",
+                "question": "Does Caf\u00e9 Coffee Day exist?",
+                "title": "Caf\u00e9 Coffee Day - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Coffee_Day#:~:text=Caf%C3%A9%20Coffee%20Day%20(CCD)%20is,Malaysia%2C%20Nepal%2C%20and%20Egypt.",
+                "date": null
+            },
+            {
+                "answer": "Recommended (20)\nCapital Spice Combo. Costs: 478 rupees, Description: Cool coffee meets spicy cheese, its perfect contrast, perfect bite. ... Knight Bite Combo. ... Classic Cold Brew. ... Cold Brew Cloud. ... Matcha Cloud. ... Spanish Cold Brew. ... Choco Croissant. ... Korean Cheese Bun.",
+                "question": "What to eat in Caf\u00e9 Coffee Day?",
+                "title": "Cafe Coffee Day - New BEL Road - Swiggy",
+                "url": "https://www.swiggy.com/city/bangalore/cafe-coffee-day-new-bel-road-rest29657",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/1H1Lcovv0iW18onAi/records/CFhS9akqoiUKiIS-0.html?signature=7UDDYwrdSlj9oRiFzc6Z"
+    }
+]

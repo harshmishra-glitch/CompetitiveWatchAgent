@@ -31,7 +31,9 @@ namespace :ingest do
     folders.each do |path|
       next unless Dir.exist?(File.join(path, "googleReviews")) ||
                   Dir.exist?(File.join(path, "restaurantsAndMenus")) ||
-                  Dir.exist?(File.join(path, "restaurantAndMenus"))
+                  Dir.exist?(File.join(path, "restaurantAndMenus")) ||
+                  Dir.exist?(File.join(path, "instagramScrapes")) ||
+                  Dir.exist?(File.join(path, "googleSerpScrapes"))
       stats = Ingest::Day.new(folder: path).call
       puts "[#{File.basename(path)}] #{stats.inspect}"
     rescue => e

@@ -1,0 +1,218 @@
+[
+    {
+        "#debug": {
+            "requestId": "P7GkPhYqNV3bTBv",
+            "url": "http://www.google.com/search?q=Kapoor%27s+Cafe+-+HSR+Branch",
+            "loadedUrl": "http://www.google.com/search?q=Kapoor%27s+Cafe+-+HSR+Branch",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Kapoor's Cafe - HSR Branch",
+            "url": "http://www.google.com/search?q=Kapoor%27s+Cafe+-+HSR+Branch",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Kapoor%27s+Cafe+-+HSR+Branch",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Kapoor's cafe hsr branch menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Kapoor%27s+cafe+hsr+branch+menu&sa=X&ved=2ahUKEwjR6bn_-KuUAxWjRzABHZ5GGaIQ1QJ6BAheEAE"
+            },
+            {
+                "title": "Kapoor's cafe hsr branch address",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Kapoor%27s+cafe+hsr+branch+address&sa=X&ved=2ahUKEwjR6bn_-KuUAxWjRzABHZ5GGaIQ1QJ6BAh_EAE"
+            },
+            {
+                "title": "Kapoor's cafe hsr branch phone number",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Kapoor%27s+cafe+hsr+branch+phone+number&sa=X&ved=2ahUKEwjR6bn_-KuUAxWjRzABHZ5GGaIQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "Kapoor's cafe hsr branch contact number",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Kapoor%27s+cafe+hsr+branch+contact+number&sa=X&ved=2ahUKEwjR6bn_-KuUAxWjRzABHZ5GGaIQ1QJ6BAh1EAE"
+            },
+            {
+                "title": "Kapoors cafe hsr branch reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Kapoors+cafe+hsr+branch+reviews&sa=X&ved=2ahUKEwjR6bn_-KuUAxWjRzABHZ5GGaIQ1QJ6BAhxEAE"
+            },
+            {
+                "title": "Kapoor's cafe hsr timings",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Kapoor%27s+cafe+hsr+timings&sa=X&ved=2ahUKEwjR6bn_-KuUAxWjRzABHZ5GGaIQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Kapoors cafe hsr branch photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Kapoors+cafe+hsr+branch+photos&sa=X&ved=2ahUKEwjR6bn_-KuUAxWjRzABHZ5GGaIQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Kapoor's cafe sarjapur",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Kapoor%27s+cafe+sarjapur&sa=X&ved=2ahUKEwjR6bn_-KuUAxWjRzABHZ5GGaIQ1QJ6BAhkEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Kapoor's Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/kapoors-cafe-hsr",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Kapoor's Cafe Bangalore, HSR; View reviews, menu, contact, location, and more for Kapoor's Cafe Restaurant.",
+                "emphasizedKeywords": [
+                    "Kapoor's Cafe Bangalore, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.5,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Kapoor's Cafe - HSR Branch | Bangalore",
+                "url": "https://www.facebook.com/KapoorsCafeHSR/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Kapoor's Cafe - HSR Branch",
+                "description": "Lip-smacking Rice Dishes @ Kapoor's Cafe Dine-in Open - 11.00 a.m. to 10.00 p.m. Free Home Delivery via - Zomato & Swiggy Contact # 8527844455 #We #Are #\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Dine-in Open - 11.00 a.m. to 10.00 p.m"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 50,
+                "followersAmount": "980+ followers",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Kapoor's Cafe - HSR Layout",
+                "url": "https://www.swiggy.com/city/bangalore/kapoors-cafe-hsr-layout-rest27746",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Kapoor's Cafe. (Outlet:HSR Layout). 337, 27Th Main,Sector1 Hsr Layout Bangalore 02. For better experience, download the Swiggy app now. Download Android App\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Kapoor's Cafe",
+                    "HSR",
+                    "Hsr"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Kapoor's Cafe - HSR Branch - WM42+62M, 337, 27th Main ...",
+                "url": "https://www.corner.inc/place/604242",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "North Indian decor with traditional beds and bolsters creates a homey atmosphere. Menu highlights include chola bhatura, aloo paratha, and a hearty Punjabi\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "North Indian decor with traditional beds and bolsters creates a homey atmosphere"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Menu of Kapoor's Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/kapoors-cafe-hsr/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR \u203a Kapoor's Cafe",
+                "description": "337, 27th Main, Sector 2, HSR, Bangalore. ClosedOpens at 10am. Order Online. Kapoor's Cafe Menu. Food Menu menu. Food Menu. 13 pages. Beverages menu\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "337, 27th Main, Sector 2, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.5,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Kapoor's Cafe - LBB",
+                "url": "https://lbb.in/bangalore/kapoors-cafe-458730/",
+                "displayedUrl": "https://lbb.in \u203a ... \u203a Kapoor's Cafe \u203a Kapoor's Cafe",
+                "description": "Kapoor's Cafe, HSR, Bengaluru ... A selection of stuffed parathas all topped with a dollop of homemade white butter is what's on the menu at the Whitefield, HSR,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Kapoor's Cafe, HSR, Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Kapoor's Cafe - HSR Branch",
+                "url": "https://www.instagram.com/explore/locations/257318804677196/kapoors-cafe-hsr-branch/",
+                "displayedUrl": "https://www.instagram.com \u203a kapoors-cafe-hsr-branch",
+                "description": "Kapoor's Cafe - HSR Branch. 560102. Punjabi Restaurant\u20221,809 posts. $$$$\u2022Open until 4:00 PM. +91 97392 67702.Read more",
+                "emphasizedKeywords": [
+                    "Punjabi Restaurant"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "explore",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Kapoor's Cafe, Now At HSR Layout!",
+                "url": "https://thephotowali.wordpress.com/2017/04/19/kapoors-cafe-now-at-hsr-layout/",
+                "displayedUrl": "https://thephotowali.wordpress.com \u203a 2017/04/19 \u203a kap...",
+                "description": "The new Kapoor's Cafe branch is located on the bustling 27th Main in HSR Layout, and finding it is, really, a no-brainer.Read more",
+                "date": "2017-04-19T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "located on the bustling 27th Main in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Kapoor's Cafe | HSR, Bangalore | North Indian Restaurant",
+                "url": "https://www.district.in/dining/bangalore/kapoors-cafe-hsr",
+                "displayedUrl": "https://www.district.in \u203a bangalore \u203a kapoors-cafe-hsr",
+                "description": "Kapoor's Cafe. 3.5. 337, 27th Main, Sector 2, HSR, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "Kapoor's Cafe",
+                    "HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Arpit Kapoor - Kapoor's Cafe | LinkedIn.",
+                "question": "Who is the owner of Kapoor's Cafe?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Punjabi flavours that hit home! \ud83c\udf1f At Kapoor's Cafe, every dish is a warm hug for your soul. Savor the authentic taste of Punjab, from sizzling tandoors to rich, creamy curries.",
+                "question": "What type of cuisine is served at Kapoor Cafe?",
+                "title": null,
+                "url": "https://www.corner.inc/place/604242",
+                "date": "May 2, 2026"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/GKH7g3VpNzcR2OvpJ/records/P7GkPhYqNV3bTBv-0.html?signature=sdcUkLNMljGVaiekw26S"
+    }
+]

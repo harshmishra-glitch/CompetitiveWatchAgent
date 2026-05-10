@@ -1,0 +1,172 @@
+[
+    {
+        "#debug": {
+            "requestId": "lgN0iwf3EEcWgey",
+            "url": "http://www.google.com/search?q=NKT+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=NKT+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "NKT Cafe",
+            "url": "http://www.google.com/search?q=NKT+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=NKT+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "L",
+        "resultsTotal": null,
+        "relatedQueries": [],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Nkt Cafe, \u043a\u0430\u0444\u0435, \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440",
+                "url": "https://yandex.ru/maps/org/nkt_cafe/113753559710/",
+                "displayedUrl": "https://yandex.ru \u203a ... \u203a \u041a\u0430\u0444\u0435",
+                "description": "\u041a\u0430\u0444\u0435 Nkt Cafe \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440, \u260e\ufe0f +91 9880 64 45 42. \u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0447\u0430\u0441\u044b \u0440\u0430\u0431\u043e\u0442\u044b. \u041f\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043c\u0430\u0440\u0448\u0440\u0443\u0442 \u0432 \u042f\u043d\u0434\u0435\u043a\u0441 \u041a\u0430\u0440\u0442\u0430\u0445.",
+                "emphasizedKeywords": [
+                    "\u041a\u0430\u0444\u0435 Nkt Cafe \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Nkt Cafe in Hsr Layout,Bangalore - Best Coffee Shops near ...",
+                "url": "https://www.justdial.com/Bangalore/Nkt-Cafe-Hsr-Layout/080PXX80-XX80-220630020201-B7K8_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Nkt-Cafe-Hsr-La...",
+                "description": "Nkt Cafe in Hsr Layout,Bangalore well known for Coffee Shops in Bangalore . Rated 4.6 based on 72 Customer Reviews and Ratings with 10 Photos.",
+                "emphasizedKeywords": [
+                    "Nkt Cafe in Hsr Layout,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.6,
+                "numberOfReviews": 72,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Location: - NKT cafe. (Naatu Karuppa Cafe) They serve ...",
+                "url": "https://www.instagram.com/reel/Cp709-TsduT/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0yolonandita",
+                "description": "Location: - NKT cafe. (Naatu Karuppa Cafe) They serve authentic Indian traditional herbal tea(kesar tea, ,karupatti tea,chiku which is so\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "They serve authentic Indian traditional herbal tea"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "110+ likes",
+                "lastUpdated": "3 years ago",
+                "channelName": "reel",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Picture of Nkc Ice Cafe, Nouakchott - Tripadvisor",
+                "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g293815-d6949601-i145344788-Nkc_Ice_Cafe-Nouakchott.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a LocationPhotoDirectLin...",
+                "description": "Nkc Ice Cafe, Nouakchott Picture: nkt ice cafe - Check out Tripadvisor members' 30 candid photos and videos of Nkc Ice Cafe.",
+                "emphasizedKeywords": [
+                    "Nkc Ice Cafe, Nouakchott"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "#nkt",
+                "url": "https://www.instagram.com/p/DSc5wmvky-e/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0wifi_cafe_nkt",
+                "description": "Mocktails: Blue angel 160, Virgin Mojito 160, Cindrella 160, Sunrise 200, Fruit Punch 200, Purple Galaxy 200, Lemonade 150, Mint Lemonade\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Mocktails"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "30+ likes",
+                "lastUpdated": "4 months ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "For our first launch, we have coffee from the NKT Estate in ...",
+                "url": "https://www.instagram.com/p/Cu4TvI6snSX/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0ocdculture",
+                "description": "For our first launch, we have coffee from the NKT Estate in Kodaikanal, Tamil Nadu. We will be having an Instagram live on 23rd July,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "NKT Estate in Kodaikanal, Tamil Nadu"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "70+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Sky Rooftop Restaurant on Instagram: \"Sky cafe Nkt ...",
+                "url": "https://www.instagram.com/reel/DP0g761ko8m/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0sky_restro_nkt",
+                "description": "Sky cafe Nkt. \u00b7 Sunset Cafe Nuh \u00b7 \u201c\u0928\u0942\u0939 \u0915\u0940 \u0922\u0932\u0924\u0940 \u0936\u093e\u092e \u0914\u0930 \u092f\u0947 \u0938\u0924\u0930\u0902\u0917\u0940 \u0906\u0938\u092e\u093e\u0901\u201d \u00b7 Song\u2026. Cafe hotels \u00b7 SUNSET CAFE NUH \u00b7 Hotel yashoday rooftop cafe and restaurant #\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "40+ likes",
+                "lastUpdated": "6 months ago",
+                "channelName": "reel",
+                "reelLength": "0:11",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Caf\u00e9 et restaurant le palais NKT | Nouakchott",
+                "url": "https://www.facebook.com/61558584274084/?locale=ru_RU",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Caf\u00e9 et restaurant le palais NKT",
+                "description": "Caf\u00e9 et restaurant le palais NKT \u00b7 \u0421\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u00b7 \u041a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f.Read more",
+                "emphasizedKeywords": [
+                    "Caf\u00e9 et restaurant le palais NKT"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "4 followers",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "NKT Rolls & More, Shadipur, New Delhi",
+                "url": "https://www.zomato.com/ncr/nkt-rolls-more-shadipur-new-delhi",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a West Delhi \u203a Shadipur",
+                "description": "2151/E4/A2, Ground Floor, New Patel Nagar, Shadipur, New Delhi. Order Online. Menu. See all menus. Menu menu. Menu. 3 pages. Address. image.Read more",
+                "emphasizedKeywords": [
+                    "2151/E4/A2, Ground Floor, New Patel Nagar, Shadipur, New Delhi"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.4,
+                "numberOfReviews": 157,
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/eY6dldaIN4RRlEqoo/records/lgN0iwf3EEcWgey-0.html?signature=1QC8na2dYXIQvcVAObfSn"
+    }
+]

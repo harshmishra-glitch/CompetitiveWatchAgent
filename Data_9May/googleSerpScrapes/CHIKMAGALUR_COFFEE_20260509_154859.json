@@ -1,0 +1,247 @@
+[
+    {
+        "#debug": {
+            "requestId": "eQQ2Yj7S6T8BKP4",
+            "url": "http://www.google.com/search?q=CHIKMAGALUR+COFFEE",
+            "loadedUrl": "http://www.google.com/search?q=CHIKMAGALUR+COFFEE",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "CHIKMAGALUR COFFEE",
+            "url": "http://www.google.com/search?q=CHIKMAGALUR+COFFEE",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=CHIKMAGALUR+COFFEE",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Chikmagalur coffee powder",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+powder&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhbEAE"
+            },
+            {
+                "title": "Chikmagalur coffee powder 1kg price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+powder+1kg+price&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Chikmagalur coffee brands",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+brands&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Chikmagalur coffee near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+near+me&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Chikmagalur coffee beans",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+beans&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Chikmagalur coffee owner",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+owner&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhlEAE"
+            },
+            {
+                "title": "Chikmagalur coffee website",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+website&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Chikmagalur Coffee shop",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+Coffee+shop&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "Chikmagalur coffee powder",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+powder&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhbEAE"
+            },
+            {
+                "title": "Chikmagalur coffee powder 1kg price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+powder+1kg+price&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Chikmagalur coffee brands",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+brands&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Chikmagalur coffee near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+near+me&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Chikmagalur coffee beans",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+beans&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Chikmagalur coffee owner",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+owner&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhlEAE"
+            },
+            {
+                "title": "Chikmagalur coffee website",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+coffee+website&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Chikmagalur Coffee shop",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Chikmagalur+Coffee+shop&sa=X&ved=2ahUKEwi_ifK1_auUAxVLU6QEHQx7LWQQ1QJ6BAhgEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Panduranga Coffee Works | Best Chikmagalur Coffee",
+                "url": "https://www.pandurangacoffee.com/",
+                "displayedUrl": "https://www.pandurangacoffee.com",
+                "description": "Shop Best Chikmagalur Coffee Online from Panduranga Coffee Works. Buy Coffee Powder, Roasted Beans, Tea, Spices, Brewing Accessories.",
+                "emphasizedKeywords": [
+                    "Shop Best Chikmagalur Coffee Online"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Chikmagalur Coffee Cafe",
+                "url": "https://www.chikmagalurcoffeecafe.com/",
+                "displayedUrl": "https://www.chikmagalurcoffeecafe.com",
+                "description": "\"Our mission is to provide high-quality, sustainable coffee that brings people together and enriches their lives. We are committed to sourcing and roasting the\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "provide high-quality, sustainable coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Need suggestions to buy coffee in Chikkamagaluru.",
+                "url": "https://www.reddit.com/r/IndiaCoffee/comments/1blk0iz/need_suggestions_to_buy_coffee_in_chikkamagaluru/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/IndiaCoffee",
+                "description": "I visited the Siri Coffee Bar in the town, which is worth checking out. There is also the World of Coffee Experience Cafe. You will get to taste & buy in both\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Siri Coffee Bar in the town"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "commentsAmount": "7 comments",
+                "lastUpdated": "2 years ago",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Chikmagalur Estate Coffee",
+                "url": "https://chikmagalurestatecoffee.com/",
+                "displayedUrl": "https://chikmagalurestatecoffee.com",
+                "description": "Grown on our family-owned estate, each bean is handpicked, sun-dried, and roasted in small batches. We're proud to bring you bold, smooth coffee with the true\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "each bean is handpicked, sun-dried, and roasted in small batches"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "CoffeeGo.in -Chikmagalur Coffee Company Buy Fresh ...",
+                "url": "https://coffeego.in/?srsltid=AfmBOooEPUji__p_ddNF-x61XXq3iTgMr7X3-B-X5NJ5Gg4kUWxy61OY",
+                "displayedUrl": "https://coffeego.in",
+                "description": "CoffeeGo.in is a Chikmagalur Coffee Company. We explore Chikmagalur Best Filter Coffee For Our Coffee Lovers. Here You Can Order And Taste Chikmagalur Best\u00a0...",
+                "emphasizedKeywords": [
+                    "Chikmagalur Best Filter Coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Speciality Single Origin Chikmagalur Region",
+                "url": "https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-chikmagalur-region",
+                "displayedUrl": "https://www.thirdwavecoffeeroasters.com \u203a products \u203a sp...",
+                "description": "Situated in the beautiful Chikmagalur region of Karnataka, we are proud producers of hand-picked and sun-dried Arabica coffee. Our coffee plants grow\u00a0...",
+                "emphasizedKeywords": [
+                    "hand-picked and sun-dried Arabica coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Nick Of Time Indian Coffee Ground | 100% Arabica AA ...",
+                "url": "https://www.amazon.com/Ground-Coffee-Chicory-Arabica-Chikmagalur/dp/B077TQ9XHH",
+                "displayedUrl": "https://www.amazon.com \u203a Ground-Coffee-Chicory-Ar...",
+                "description": "Our coffee is crafted from 100% Arabica Dark Roast AA Grade beans, carefully sourced from the renowned Chikmagalur region, and roasted in small batches on\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "carefully sourced from the renowned Chikmagalur region"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Ideal altitude and climate conditions for arabica cultivation. The Western Ghats blessed Chikmagalur with the perfect elevation sweet spot for growing premium arabica coffee. Sitting comfortably between 3,000 to 5,000 feet above sea level, these hills create an environment where coffee plants absolutely thrive.",
+                "question": "Why is Chikmagalur famous for coffee?",
+                "title": "How Chikmagalur gave birth to Coffee in India - 5 Senses Tours",
+                "url": "https://5sensestours.com/how-chikmagalur-gave-birth-to-coffee-in-india/#:~:text=Ideal%20altitude%20and%20climate%20conditions,where%20coffee%20plants%20absolutely%20thrive.",
+                "date": "Nov 22, 2025"
+            },
+            {
+                "answer": null,
+                "question": "What coffee is good for gastritis?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Panduranga Coffee\nGRAND AROMA, Panduranga Coffee Chickmagalur (85%COFFEE 15%CHICORY ) ... AROMA GOLD (70% Premium Coffee + 30% Chicory) ... MADE IN CHIKMAGALUR (80% Premium Coffee + 20% Chicory) ... Masala Chai - Premium Tea Blend. ... Happy Day Grand Aroma Pure Coffee Without Chicory Chikmagalur Coffee.",
+                "question": "Which coffee to buy from Chikmagalur?",
+                "title": "Buy Chikmagalur Panduranga Coffee Online - CoffeeGo.in",
+                "url": "https://coffeego.in/collections/panduranga-coffee",
+                "date": null
+            },
+            {
+                "answer": "Chikmagalur, nestled in the serene Western Ghats of Karnataka, is renowned for its lush coffee plantations, scenic beauty, and tranquil ambience. Beyond its picturesque landscapes, the region offers a treasure trove of unique local products for perfect souvenirs or gifts.",
+                "question": "What is the Speciality of Chikmagalur?",
+                "title": "Chikmagalur Famous Things to Buy - The Serai",
+                "url": "https://www.theserai.in/chikmagalur-resort/blogs/chikmagalur-famous-things-to-buy.html#:~:text=Chikmagalur%2C%20nestled%20in%20the%20serene,for%20perfect%20souvenirs%20or%20gifts.",
+                "date": null
+            }
+        ],
+        "aiOverview": {
+            "type": "live",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://www.pandurangacoffee.com/",
+                    "title": "Panduranga Coffee Works | Best Chikmagalur Coffee |Shop Online",
+                    "description": "Panduranga Coffee is a company that sells filter coffee. They offer a variety of products, including: * **Grand Aroma Filter Coffe..."
+                },
+                {
+                    "url": "https://www.reddit.com/r/IndiaCoffee/comments/1blk0iz/need_suggestions_to_buy_coffee_in_chikkamagaluru/",
+                    "title": "Need suggestions to buy coffee in Chikkamagaluru.",
+                    "description": "Mar 23, 2024 \u2014 There are a few places to buy coffee in Chikmagaluru: * **Siri Coffee Bar** Located in the town, this place has a nice cup of coff..."
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=bXHyNDjpBKM&t=18",
+                    "title": "What makes Chikmagalur Coffee so special? | Stories That ...",
+                    "description": "Dec 14, 2024 \u2014 making it an accessible pleasure for millions across the country india stands as the sixth largest coffee producer globally with K..."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/g70Fnea0oy9RZIiNK/records/eQQ2Yj7S6T8BKP4-0.html?signature=1rxSgjynVstF1tYNdihnH"
+    }
+]

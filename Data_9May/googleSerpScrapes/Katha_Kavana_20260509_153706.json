@@ -1,0 +1,232 @@
+[
+    {
+        "#debug": {
+            "requestId": "LatyalXdOCI2UCN",
+            "url": "http://www.google.com/search?q=Katha+Kavana",
+            "loadedUrl": "http://www.google.com/search?q=Katha+Kavana",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Katha Kavana",
+            "url": "http://www.google.com/search?q=Katha+Kavana",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Katha+Kavana",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Katha Kavana offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Katha+Kavana+offers&sa=X&ved=2ahUKEwi-2unj-quUAxX2A7kGHW-gI0YQ1QJ6BAh1EAE"
+            },
+            {
+                "title": "Katha kavana jayanagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Katha+kavana+jayanagar&sa=X&ved=2ahUKEwi-2unj-quUAxX2A7kGHW-gI0YQ1QJ6BQiLARAB"
+            },
+            {
+                "title": "Katha Kavana owner",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Katha+Kavana+owner&sa=X&ved=2ahUKEwi-2unj-quUAxX2A7kGHW-gI0YQ1QJ6BQiJARAB"
+            },
+            {
+                "title": "Katha kavana hsr menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Katha+kavana+hsr+menu&sa=X&ved=2ahUKEwi-2unj-quUAxX2A7kGHW-gI0YQ1QJ6BQiEARAB"
+            },
+            {
+                "title": "Katha coffee",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Katha+coffee&sa=X&ved=2ahUKEwi-2unj-quUAxX2A7kGHW-gI0YQ1QJ6BAh_EAE"
+            },
+            {
+                "title": "Katha Hyderabad",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Katha+Hyderabad&sa=X&ved=2ahUKEwi-2unj-quUAxX2A7kGHW-gI0YQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "Le k\u00c9ne Caf\u00e9",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+k%C3%89ne+Caf%C3%A9&sa=X&ved=2ahUKEwi-2unj-quUAxX2A7kGHW-gI0YQ1QJ6BAh7EAE"
+            },
+            {
+                "title": "The Faith Cafe menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+Faith+Cafe+menu&sa=X&ved=2ahUKEwi-2unj-quUAxX2A7kGHW-gI0YQ1QJ6BAh4EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Katha Kavana (@katha_kavana) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/katha_kavana/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0katha_kavana",
+                "description": "A caf\u00e9 with a soul. Serving coffee that's as rich as its stories. Crafted for thinkers, dreamers, and sippers alike. \ud83d\udccdHSR layout, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "A caf\u00e9 with a soul"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "2.3K+ followers",
+                "channelName": "katha_kavana",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Katha Kavana, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/katha-kavana-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Katha Kavana \u00b7 Cafe \u00b7 Coffee \u00b7 Fast Food. 243, 17th Cross, 9th Main, Sector 6, HSR, Bangalore. ClosedOpens at 10:45am. Order online. Order Online.Read more",
+                "emphasizedKeywords": [
+                    "243, 17th Cross, 9th Main, Sector 6, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.2,
+                "numberOfReviews": 25,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Katha Kavana | HSR, Bangalore | Book Table",
+                "url": "https://www.district.in/dining/bangalore/katha-kavana-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a katha-kavana-hsr-bang...",
+                "description": "Katha Kavana Bangalore; Katha Kavana, HSR: View menu, reviews, photos, contact details, location, phone number, book a table and more for Katha Kavana",
+                "emphasizedKeywords": [
+                    "Katha Kavana, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Katha Kavana - Literal meaning is Story and Cafe (kavana is ...",
+                "url": "https://www.instagram.com/reel/DFjnrHsvg5Z/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0what_i_love_shreya",
+                "description": "Cafe has ample space to sit and read books and work from as well. Location: Katha kavana, sector 6, 17th cross, Hsr Layout, Bangalore. Keep\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "3.5K+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:19",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Order Food Online from Katha Kavana in Sector 6, Bangalore",
+                "url": "https://www.swiggy.com/city/bangalore/katha-kavana-sector-6-hsr-rest1040756",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR",
+                "description": "Enjoy delicious meals from Katha Kavana in Sector 6, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery on Swiggy.",
+                "emphasizedKeywords": [
+                    "Katha Kavana in Sector 6, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.7,
+                "numberOfReviews": 8,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Katha Kavana, HSR Layout, Bengaluru Katha Kavana cafe in ...",
+                "url": "https://www.instagram.com/reel/DE30P9nyxtW/?hl=en",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0miss.explorer_blr",
+                "description": "Katha Kavana cafe in HSR Layout, Bengaluru, offers a delightful ambiance that strikes the perfect balance between tradition and modernity. The\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "7.3K+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:13",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Menu of Katha Kavana, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/katha-kavana-hsr-bangalore/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR \u203a Katha Kavana",
+                "description": "Katha Kavana \u00b7 Cafe \u00b7 Coffee \u00b7 Fast Food. 243, 17th Cross, 9th Main, Sector 6, HSR, Bangalore. Open now10:45am \u2013 9:45pm (\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "243, 17th Cross, 9th Main, Sector 6, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.2,
+                "numberOfReviews": 25,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Katha Kavana, HSR, Bangalore - Restaurant",
+                "url": "https://magicpin.in/Bangalore/Hsr/Restaurant/Katha-Kavana/store/1731397/?srsltid=AfmBOoqpLnzvb-23Ki5yHviFrytoqzl_feD7ba0XUHFAfQUtV6QswxF0",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Bangalore \u203a HSR \u203a Restaurant",
+                "description": "Katha Kavana serves customers as a restaurant within HSR, Bangalore. It offers Cafe, Street Food, Coffee, etc. Savings options are available through the\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "serves customers as a restaurant within HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "KATHA KAVANA HSR layout Absolutely love the architecture ...",
+                "url": "https://www.instagram.com/reel/DL36mnzzja2/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0sharadamurthy",
+                "description": "This HSR spot is perfect for slow evenings & sweet cravings \u2728 Check this place Piro in HSR Layout for Coffee Dates and Cozy Vibes Tag your\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "4.2K+ likes",
+                "lastUpdated": "10 months ago",
+                "channelName": "reel",
+                "reelLength": "0:11",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Katha means a story that starts with you, Kavana is where coffee and connection meet. A sip, a pause, a new conversation, Every cup is an invitation to linger. Come, experience the story brewed just for you.",
+                "question": "What is the meaning of Katha Kavana?",
+                "title": null,
+                "url": null,
+                "date": "Jan 20, 2025"
+            },
+            {
+                "answer": "Additionally, Katha Powder is valued for oral health, aiding in gum strength and fresh breath. Its antioxidant-rich profile also promotes skin clarity and overall wellness. Regular use of Katha Powder can help maintain digestive balance, enhance oral hygiene, and contribute to a healthy, rejuvenated body.",
+                "question": "What are the benefits of Katha Kavana?",
+                "title": null,
+                "url": null,
+                "date": "Oct 9, 2025"
+            },
+            {
+                "answer": null,
+                "question": "Who is the owner of Katha coffee?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Best Food in Bangalore: A Summary\nBenne Dosa. Unlike the thin-crust dosas of Tamil Nadu, Benne Dosa, is a crispy, golden crepe which is the most authentic Banglore food you can find. ... Akki Roti. ... Thatte Idli. ... Bisi Bele Bath. ... Mangalorean Fish Curry. ... Rava Idli. ... Filter Coffee. ... Puliyogare.",
+                "question": "What food is commonly served at Bangalore cafes?",
+                "title": "Bangalore Famous Food: Uncover the City's Most Delicious Hidden Gems",
+                "url": "https://www.nuego.in/blog/bangalore-famous-food",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/uhijVhJSJSTxLiWeF/records/LatyalXdOCI2UCN-0.html?signature=1xCFC3bc8y8wQSBiWY5dB"
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "#debug": {
+            "requestId": "9uVlvpX5u7e123y",
+            "url": "http://www.google.com/search?q=Casa+Fresco%2C+HSR%3A+All-Day+Dining+%26+Caf%C3%A9",
+            "loadedUrl": "http://www.google.com/search?q=Casa+Fresco%2C+HSR%3A+All-Day+Dining+%26+Caf%C3%A9",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Casa Fresco, HSR: All-Day Dining & Caf\u00e9",
+            "url": "http://www.google.com/search?q=Casa+Fresco%2C+HSR%3A+All-Day+Dining+%26+Caf%C3%A9",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Casa+Fresco%2C+HSR%3A+All-Day+Dining+%26+Caf%C3%A9",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Casa Fresco, HSR all day dining caf\u00e9 menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Casa+Fresco,+HSR+all+day+dining+caf%C3%A9+menu&sa=X&ved=2ahUKEwj-iv6p-auUAxWrSvEDHRYhNXoQ1QJ6BAhrEAE"
+            },
+            {
+                "title": "Casa Fresco, Indiranagar all day dining caf\u00e9",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Casa+Fresco,+Indiranagar+all+day+dining+caf%C3%A9&sa=X&ved=2ahUKEwj-iv6p-auUAxWrSvEDHRYhNXoQ1QJ6BAh9EAE"
+            },
+            {
+                "title": "Casa fresco hsr all day dining & caf\u00e9 review",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Casa+fresco+hsr+all+day+dining+%26+caf%C3%A9+review&sa=X&ved=2ahUKEwj-iv6p-auUAxWrSvEDHRYhNXoQ1QJ6BAh6EAE"
+            },
+            {
+                "title": "Casa Fresco Indiranagar all day dining caf\u00e9 menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Casa+Fresco+Indiranagar+all+day+dining+caf%C3%A9+menu&sa=X&ved=2ahUKEwj-iv6p-auUAxWrSvEDHRYhNXoQ1QJ6BAh3EAE"
+            },
+            {
+                "title": "Casa Fresco, HSR all day dining Caf\u00e9 reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Casa+Fresco,+HSR+all+day+dining+Caf%C3%A9+reviews&sa=X&ved=2ahUKEwj-iv6p-auUAxWrSvEDHRYhNXoQ1QJ6BAh1EAE"
+            },
+            {
+                "title": "Casa Fresco, HSR all day dining caf\u00e9 photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Casa+Fresco,+HSR+all+day+dining+caf%C3%A9+photos&sa=X&ved=2ahUKEwj-iv6p-auUAxWrSvEDHRYhNXoQ1QJ6BAhzEAE"
+            },
+            {
+                "title": "Casa fresco by tea brew indiranagar all day dining & caf\u00e9 offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Casa+fresco+by+tea+brew+indiranagar+all+day+dining+%26+caf%C3%A9+offers&sa=X&ved=2ahUKEwj-iv6p-auUAxWrSvEDHRYhNXoQ1QJ6BAhyEAE"
+            },
+            {
+                "title": "Casa fresco menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Casa+fresco+menu&sa=X&ved=2ahUKEwj-iv6p-auUAxWrSvEDHRYhNXoQ1QJ6BAhvEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Casa Fresco | All Day Dining Restaurant and Cafe in ...",
+                "url": "https://casafresco.in/",
+                "displayedUrl": "https://casafresco.in",
+                "description": "Enjoy a range of Italian, American, and caf\u00e9 favourites at Casa Fresco, including pizzas, pastas, English breakfast, burgers, sizzlers, bubble tea,\u00a0...",
+                "emphasizedKeywords": [
+                    "Italian, American, and caf\u00e9 favourites"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Casa Fresco, HSR Layout (@casafrescohsr) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/casafrescohsr/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0casafrescohsr",
+                "description": "All Day Dining & Caf\u00e9 \ud83c\udf7d\ufe0f | Delicious Food , Happy Vibes | HSR & Indiranagar (@casafrescoind) | hello@casafresco.in | \u260e\ufe0f 080 49927445.Read more",
+                "emphasizedKeywords": [
+                    "All Day Dining & Caf\u00e9"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "7.1K+ followers",
+                "channelName": "casafrescohsr",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Casa Fresco, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/casa-fresco-1-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "See all 2 Casa Fresco outlets in Bengaluru. Popular Dishes. Bubble Teas, Alfredo Pasta, Chicken Steak, Momos, Pizzas, Burgers\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Popular Dishes"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Casa Fresco, HSR - Bengaluru Restaurants",
+                "url": "https://www.tripadvisor.ie/Restaurant_Review-g297628-d25207862-Reviews-Casa_Fresco_Hsr_All_day_Dining_Cafe-Bengaluru_Bangalore_District_Karnataka.html",
+                "displayedUrl": "https://www.tripadvisor.ie \u203a ... \u203a Bengaluru Restaurants",
+                "description": "All Day Dining at Casa Fresco! Enjoy a range of Italian, American, and caf\u00e9 favourites at Casa Fresco, including pizzas, pastas, English breakfast, burgers,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "All Day Dining at Casa Fresco"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Casa Fresco, HSR Layout | Bangalore",
+                "url": "https://www.facebook.com/teabrewhsr/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Casa Fresco, HSR Layout",
+                "description": "Casa Fresco, HSR, #73, 27th Main Road, HSR Layout, Bangalore, India, 560102. \udb82\udd77. Bellandur, Karnataka, India \u00b7 HSR Layout, Karnataka, India \u00b7 Koramangala,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "73, 27th Main Road, HSR Layout, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 5,
+                "followersAmount": "1.7K+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Casa Fresco | HSR, Bangalore | Continental Restaurant",
+                "url": "https://www.district.in/dining/bangalore/casa-fresco-1-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a casa-fresco-1-hsr-banga...",
+                "description": "Casa Fresco. 4.3. 73, Sector 1, 27th Main Road, HSR, Bangalore. \u20b9800 for two. Closes in 53 minute(s). Directions Share Call All outlets. All offers; MenuRead more",
+                "emphasizedKeywords": [
+                    "73, Sector 1, 27th Main Road, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Casa Fresco, HSR",
+                "url": "https://casafresco.in/casa-fresco%2C-hsr",
+                "displayedUrl": "https://casafresco.in \u203a casa-fresco,-hsr",
+                "description": "Address. Casa Fresco, HSR: All-Day Dining & Caf\u00e9, 73, 27th Main Road, Phase 3, 1st Sector, HSR Layout, Bengaluru, Karnataka, India. Call Us 080 49927445\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "73, 27th Main Road, Phase 3, 1st Sector, HSR Layout, Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Casa Fresco, HSR: All-Day Dining & Caf\u00e9 - Corner",
+                "url": "https://www.corner.inc/place/760637",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "Perfect spot for a leisurely brunch or light meal. Standouts include French toast, pancakes, and unique drinks like berry ice tea and apple Turkish tea.Read more",
+                "emphasizedKeywords": [
+                    "Perfect spot for a leisurely brunch or light meal"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Casa Fresco, HSR Layout | Our dishes, your clicks\u2014pure ...",
+                "url": "https://www.instagram.com/p/DH0o7v2JjRh/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0casafrescohsr",
+                "description": ": Casa Fresco, HSR: All-Day Dining & Caf\u00e9 , 73, 27th Main Rd, Phase 3, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102 #food \u00b7 #dinner\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "73, 27th Main Rd, Phase 3, 1st Sector, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "9 likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/9lpUf0wjCtFPokBqM/records/9uVlvpX5u7e123y-0.html?signature=1Knh93pvPY2WDLCNEInd0"
+    }
+]

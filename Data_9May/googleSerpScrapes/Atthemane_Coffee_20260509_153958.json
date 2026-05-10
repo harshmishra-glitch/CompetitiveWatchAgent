@@ -1,0 +1,190 @@
+[
+    {
+        "#debug": {
+            "requestId": "l9RQgcly610FjTl",
+            "url": "http://www.google.com/search?q=Atthemane+Coffee",
+            "loadedUrl": "http://www.google.com/search?q=Atthemane+Coffee",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Atthemane Coffee",
+            "url": "http://www.google.com/search?q=Atthemane+Coffee",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Atthemane+Coffee",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Atthemane coffee menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Atthemane+coffee+menu&sa=X&ved=2ahUKEwiYrpu2-6uUAxXFVaQEHVbmGgkQ1QJ6BAg0EAE"
+            },
+            {
+                "title": "Atthemane coffee review",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Atthemane+coffee+review&sa=X&ved=2ahUKEwiYrpu2-6uUAxXFVaQEHVbmGgkQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Atthemane coffee price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Atthemane+coffee+price&sa=X&ved=2ahUKEwiYrpu2-6uUAxXFVaQEHVbmGgkQ1QJ6BAg1EAE"
+            },
+            {
+                "title": "Atthemane restaurant HSR Layout",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Atthemane+restaurant+HSR+Layout&sa=X&ved=2ahUKEwiYrpu2-6uUAxXFVaQEHVbmGgkQ1QJ6BAgzEAE"
+            },
+            {
+                "title": "Atthemane coffee menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Atthemane+coffee+menu&sa=X&ved=2ahUKEwiYrpu2-6uUAxXFVaQEHVbmGgkQ1QJ6BAg0EAE"
+            },
+            {
+                "title": "Atthemane coffee review",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Atthemane+coffee+review&sa=X&ved=2ahUKEwiYrpu2-6uUAxXFVaQEHVbmGgkQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Atthemane coffee price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Atthemane+coffee+price&sa=X&ved=2ahUKEwiYrpu2-6uUAxXFVaQEHVbmGgkQ1QJ6BAg1EAE"
+            },
+            {
+                "title": "Atthemane restaurant HSR Layout",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Atthemane+restaurant+HSR+Layout&sa=X&ved=2ahUKEwiYrpu2-6uUAxXFVaQEHVbmGgkQ1QJ6BAgzEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Atthemane Coffee (@atthemane_coffee) - Instagram",
+                "url": "https://www.instagram.com/atthemane_coffee/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0atthemane_coffee",
+                "description": "We're your neighbourhood adda serving the freshest and most delicious of specialty filter coffee (and other beverages) and thindis.Read more",
+                "emphasizedKeywords": [
+                    "freshest and most delicious of specialty filter coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "890+ followers",
+                "channelName": "atthemane_coffee",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Attemane Coffee in Hsr Layout,Bangalore",
+                "url": "https://www.justdial.com/Bangalore/Attemane-Coffee-Hsr-Layout/080PXX80-XX80-240826220638-J3A1_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Attemane-Coffee...",
+                "description": "Attemane Coffee in Hsr Layout,Bangalore well known for Coffee Shops in Bangalore . Rated 4.3 based on 141 Customer Reviews and Ratings with 15 Photos.",
+                "emphasizedKeywords": [
+                    "Attemane Coffee in Hsr Layout,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 141,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Found Cockroach in Filter Coffee at \"Mane by Atthemane ...",
+                "url": "https://www.reddit.com/r/bangalore/comments/1pismmo/found_cockroach_in_filter_coffee_at_mane_by/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/bangalore",
+                "description": "No. They are fraud coz they don't keep cleanliness but have been running multiple restaurants. Have political backing. So no one checks anything\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "They are fraud"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "commentsAmount": "10+ comments",
+                "lastUpdated": "5 months ago",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Atthemane Coffee (@atthemane_coffee) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/atthemane_coffee/reels/",
+                "displayedUrl": "https://www.instagram.com \u203a atthemane_coffee",
+                "description": "We're your neighbourhood adda serving the freshest and most delicious of specialty filter coffee (and other beverages) and thindis.Read more",
+                "emphasizedKeywords": [
+                    "freshest and most delicious of specialty filter coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "atthemane_coffee",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Namma HSR | Bengaluru \u2764\ufe0f on Instagram: \"Atthemane ...",
+                "url": "https://www.instagram.com/reel/DPT9Ib8EVru/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0hsr_layout",
+                "description": "Known for manual brewing techniques and Arabica coffee, the caf\u00e9 offers a cozy, high-end atmosphere with a diverse food menu, including\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "90+ likes",
+                "lastUpdated": "7 months ago",
+                "channelName": "reel",
+                "reelLength": "1:17",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Atthemane Coffee - HSR Layout Sector 5, Kasavanahalli",
+                "url": "https://magicpin.in/Bangalore/Hsr-Layout-Sector-5/Restaurant/Atthemane-Coffee/store/1984533/?srsltid=AfmBOoolvz_WcYCcr7uek-k-I-s2a3mEktTUNbUypwrLVsSlrkQMhMAP",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "Atthemane Coffee is a restaurant located in HSR Layout Sector 5, Kasavanahalli, Bangalore. Visit the store for more information. \u20b9800 for two\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Atthemane Coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "sugar or jaggery! Freshly sourced coffee beans ...",
+                "url": "https://www.instagram.com/p/DEfSM5ZiNHW/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0eatravel_film",
+                "description": "Open till 1 AM for all you late-night coffee lovers! Atthemane Coffee Opposite HSR BDA Complex, HSR Layout \u2728Atthemane Coffee Served in eco-\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Atthemane Coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "180+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Atthemane Coffee in Hsr Layout,Bangalore",
+                "url": "https://www.justdial.com/Bangalore/Atthemane-Coffee-Opposite-Bda-Complex-Hsr-Layout/080PXX80-XX80-241110020246-L5J5_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Atthemane-Coffe...",
+                "description": "Nestled near Opposite Bda Complex in Hsr Layout, Atthemane Coffee is a convenient stop for both locals and visitors exploring the city. The restaurant's\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Atthemane Coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 140,
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/QBZtvPlBdwM1ii67G/records/l9RQgcly610FjTl-0.html?signature=5du7uGaXvuz2eklGgcCF"
+    }
+]

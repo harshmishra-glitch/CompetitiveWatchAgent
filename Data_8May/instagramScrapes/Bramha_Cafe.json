@@ -1,0 +1,512 @@
+{
+    "profile_posts": [
+        {
+            "post_id": "3892350888489058741",
+            "shortcode": "DYEaIKxkQG1",
+            "post_url": "https://www.instagram.com/p/DYEaIKxkQG1/",
+            "post_type": "carousel",
+            "is_video": false,
+            "caption": "Weekend breakfast scenes done right \u2728\nCrispy benne dosa, soft idlis, hot filter coffee & full Bangalore vibes \u2615\ud83e\udd0d\n\ud83d\udccd Bramha Cafe Heritage\u201d",
+            "caption_length": 136,
+            "caption_word_count": 23,
+            "caption_line_count": 3,
+            "hashtag_count": 0,
+            "reading_time_seconds": 6,
+            "has_call_to_action": true,
+            "has_link_reference": false,
+            "has_discount_code": false,
+            "is_promotional": true,
+            "caption_sentiment": "neutral",
+            "caption_sentiment_score": 0,
+            "detected_language": "English",
+            "detected_themes": [
+                "general"
+            ],
+            "content_category": "general",
+            "likes_count": 87,
+            "comments_count": 9,
+            "engagement_score": 96,
+            "like_comment_ratio": 9.67,
+            "estimated_reach": 870,
+            "estimated_impressions": 1305,
+            "taken_at": 1778224405,
+            "timestamp": "2026-05-08T07:13:25",
+            "day_of_week": "Friday",
+            "hour_of_day": 7,
+            "is_weekend_post": false,
+            "is_peak_hour_post": false,
+            "post_age_days": 1,
+            "post_age_hours": 27,
+            "thumbnail_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689268947_18345383332245005_5282194640925514121_n.jpg?stp=c0.504.3024.3024a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=1gIkE6x3TacQ7kNvwFVug9U&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM0OTI3MTUwOTQyOTAyNQ%3D%3D.3.c-ccb7-5&oh=00_Af4_URtlAvJQMTAqKfYT3LbZdao4T_bKB5otRBMpcoT1UQ&oe=6A04FAC4&_nc_sid=8b3546",
+            "display_resources": [
+                {
+                    "url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689268947_18345383332245005_5282194640925514121_n.jpg?se=-1&stp=c0.504.3024.3024a_dst-jpegr_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMDI0Lmhkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=1gIkE6x3TacQ7kNvwFVug9U&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7wXB5Jjpv9neNRXTNDqStrSAeUaJDx8jnjwHMVqQ0Uxw&oe=6A04FAC4&_nc_sid=8b3546",
+                    "width": 150,
+                    "height": 150
+                },
+                {
+                    "url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689268947_18345383332245005_5282194640925514121_n.jpg?se=-1&stp=c0.504.3024.3024a_dst-jpegr_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMDI0Lmhkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=1gIkE6x3TacQ7kNvwFVug9U&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iAik0Exm_lQHXyDODVNDD_RAnURjFEw-VrRGesq0Wjw&oe=6A04FAC4&_nc_sid=8b3546",
+                    "width": 240,
+                    "height": 240
+                },
+                {
+                    "url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689268947_18345383332245005_5282194640925514121_n.jpg?se=-1&stp=c0.504.3024.3024a_dst-jpegr_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMDI0Lmhkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=1gIkE6x3TacQ7kNvwFVug9U&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6CWxJXwwtAM10a8P3vS2WZib25PECUDZ8XfOJi4EKhQQ&oe=6A04FAC4&_nc_sid=8b3546",
+                    "width": 320,
+                    "height": 320
+                },
+                {
+                    "url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689268947_18345383332245005_5282194640925514121_n.jpg?se=-1&stp=c0.504.3024.3024a_dst-jpegr_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMDI0Lmhkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=1gIkE6x3TacQ7kNvwFVug9U&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7mV_bVcfTgC2XWSUu3_Uk-60sFMFL4lt5bN-VbJe7cFg&oe=6A04FAC4&_nc_sid=8b3546",
+                    "width": 480,
+                    "height": 480
+                },
+                {
+                    "url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689268947_18345383332245005_5282194640925514121_n.jpg?se=-1&stp=c0.504.3024.3024a_dst-jpegr_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMDI0Lmhkci5yZWd1bGFyX3Bob3RvLmMyIn0&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=1gIkE6x3TacQ7kNvwFVug9U&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6WBlSHP9A03_D7-qL0UOEogfJCj4wMADF6gw5pidxSJA&oe=6A04FAC4&_nc_sid=8b3546",
+                    "width": 640,
+                    "height": 640
+                }
+            ],
+            "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689268947_18345383332245005_5282194640925514121_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=1gIkE6x3TacQ7kNvwFVug9U&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM0OTI3MTUwOTQyOTAyNQ%3D%3D.3-ccb7-5&oh=00_Af648M_7MSUho1BMXx3jTKp7Joecdexbxc_rlyeDDEpTBw&oe=6A04FAC4&_nc_sid=8b3546",
+            "carousel_media_count": 8,
+            "carousel_media": [
+                {
+                    "id": "3892349271509429025",
+                    "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689268947_18345383332245005_5282194640925514121_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=1gIkE6x3TacQ7kNvwFVug9U&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM0OTI3MTUwOTQyOTAyNQ%3D%3D.3-ccb7-5&oh=00_Af648M_7MSUho1BMXx3jTKp7Joecdexbxc_rlyeDDEpTBw&oe=6A04FAC4&_nc_sid=8b3546",
+                    "is_video": false,
+                    "accessibility_caption": null
+                },
+                {
+                    "id": "3892349281290536946",
+                    "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/695829324_18345383341245005_3671614320174665994_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=RK3lolnNtEoQ7kNvwE_dSY7&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM0OTI4MTI5MDUzNjk0Ng%3D%3D.3-ccb7-5&oh=00_Af6cmy2GF1UZuJYUrd1gnFcZYFOarGfeq3V4ETJofZPE_Q&oe=6A04D356&_nc_sid=8b3546",
+                    "is_video": false,
+                    "accessibility_caption": null
+                },
+                {
+                    "id": "3892350110076627303",
+                    "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/688235258_18345383410245005_8396033022625961599_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=sUcTTY_EPncQ7kNvwEwlN8S&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM1MDExMDA3NjYyNzMwMw%3D%3D.3-ccb7-5&oh=00_Af5v8IYf54eHGpSucy_rQdYPJvBlym63EBx6KI7IYVkhVQ&oe=6A04FC36&_nc_sid=8b3546",
+                    "is_video": false,
+                    "accessibility_caption": null
+                },
+                {
+                    "id": "3892350119337613058",
+                    "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/693431458_18345383419245005_3601725527987870212_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=ivoG7TPQlNIQ7kNvwGngJCT&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM1MDExOTMzNzYxMzA1OA%3D%3D.3-ccb7-5&oh=00_Af4PTdlxqYrlMDkbtKt4B9RUpbuQ7ggOTr9aIt5qUXgyQQ&oe=6A04CC39&_nc_sid=8b3546",
+                    "is_video": false,
+                    "accessibility_caption": null
+                },
+                {
+                    "id": "3892350128045024555",
+                    "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/691928397_18345383428245005_7754314263792732744_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=jVvpnLyXYEgQ7kNvwHihiDf&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM1MDEyODA0NTAyNDU1NQ%3D%3D.3-ccb7-5&oh=00_Af4OFyUnJxuXrs1syt6obi5u2KpoeozV412tNQc78t0Hag&oe=6A04E01E&_nc_sid=8b3546",
+                    "is_video": false,
+                    "accessibility_caption": null
+                },
+                {
+                    "id": "3892350136282618386",
+                    "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/686370937_18345383437245005_4378844883246856098_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=pxywFC4w08cQ7kNvwEfMKuz&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM1MDEzNjI4MjYxODM4Ng%3D%3D.3-ccb7-5&oh=00_Af5CnrRG161MTTQG5HdvEssc_yY0HrOQ70WMayz98lYHJA&oe=6A04E9C5&_nc_sid=8b3546",
+                    "is_video": false,
+                    "accessibility_caption": null
+                },
+                {
+                    "id": "3892350144721537035",
+                    "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/689468573_18345383446245005_5399497193094755922_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=EQcQRRtQqMgQ7kNvwHyy7mo&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM1MDE0NDcyMTUzNzAzNQ%3D%3D.3-ccb7-5&oh=00_Af6oin65h6_hT_daUbhOkEX7ONWGDP29RWh3p6VQO93R1Q&oe=6A04CFB2&_nc_sid=8b3546",
+                    "is_video": false,
+                    "accessibility_caption": null
+                },
+                {
+                    "id": "3892350153638629343",
+                    "media_url": "https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.82787-15/691515120_18345383455245005_2421482954482094757_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHdWGUcXIosViKNxBv6Oc1e4om70DfMjCRbm7AAGJJ6t4Fvm-9GKwlAXKJHhicVMEs&_nc_ohc=yKR5sTYXaNIQ7kNvwEE-UJ7&_nc_gid=JAtkNrSMCKI-zoypsU84Og&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg5MjM1MDE1MzYzODYyOTM0Mw%3D%3D.3-ccb7-5&oh=00_Af6ReToLkWxmHWsNs-h6aWD8T3saflLDyMRakPzdBrnVHg&oe=6A0501DA&_nc_sid=8b3546",
+                    "is_video": false,
+                    "accessibility_caption": null
+                }
+            ],
+            "location": "Jaya Nagar , Bangalore",
+            "location_id": "267556168",
+            "location_slug": "jaya-nagar-bangalore",
+            "tagged_users": [
+                {
+                    "username": "bramhacafe",
+                    "full_name": "Bramha Cafe",
+                    "id": "66333344702",
+                    "is_verified": false,
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            ],
+            "coauthor_producers": [
+                {
+                    "username": "bramhacafe",
+                    "full_name": null,
+                    "id": "66333344702",
+                    "is_verified": false
+                }
+            ],
+            "media_width": 1080,
+            "media_height": 1440,
+            "owner_id": "7277941004",
+            "owner_username": "meghz_world",
+            "is_pinned": false,
+            "comments_disabled": false,
+            "likes_disabled": false,
+            "viewer_can_reshare": true,
+            "has_saved": false
+        }
+    ],
+    "hashtag_posts": [
+        {
+            "inputUrl": "https://www.instagram.com/explore/tags/bramhacafe",
+            "id": "3892388611060415880",
+            "type": "Image",
+            "shortCode": "DYEitGqCD2I",
+            "caption": "\ud83c\udfcf\ud83d\udd25 GIVEAWAY ALERT \ud83d\udd25\ud83c\udfcf\n\nYour chance to witness the epic RCB \ud83c\udd9a MI clash LIVE! \ud83e\udd29\ud83c\udf9f\ufe0f\nFollow our page, tag 3 friends & stand a chance to WIN 2 match tickets! \ud83d\udca5\n\nDon\u2019t miss this cricket madness with your favorite teams \u2764\ufe0f\ud83d\udc99\n\n\ud83d\udcde +91 7000700350\n\ud83d\udccdBRAMHA CAFE, SECTOR 5, HORA CHOWK, DEVENDRA NAGAR, Raipur Chhattisgarh - 492001.\nFollow @bramhacaferaipur for more updates.\n\n#BramhaCafe #GiveawayAlert #RCBvsMI #IPL2026 #CricketFever",
+            "hashtags": [
+                "BramhaCafe",
+                "GiveawayAlert",
+                "RCBvsMI",
+                "IPL2026",
+                "CricketFever"
+            ],
+            "mentions": [
+                "bramhacaferaipur"
+            ],
+            "url": "https://www.instagram.com/p/DYEitGqCD2I/",
+            "commentsCount": 31,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1688,
+            "dimensionsWidth": 1350,
+            "displayUrl": "https://instagram.frix7-1.fna.fbcdn.net/v/t51.82787-15/688767884_17868282510616222_5717722326927866452_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=111&ig_cache_key=Mzg5MjM4ODYxMTA2MDQxNTg4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nrfxR6Vp6O0Q7kNvwEisrqu&_nc_oc=AdoU2uGR_V1zKySbcr8k9DrUBJx6I1CJz_riE79trrceyKHEwWJOLKTgrcobaIJmzTs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.frix7-1.fna&_nc_gid=GOpAk7lIUWrHcJ1W0wvWtQ&_nc_ss=7a3ba&oh=00_Af6Zn7CVxs5Ju0Mu47H_sPCLQ7_h4hNTSNwvEsQy4ME1Sg&oe=6A04FB8D",
+            "images": [],
+            "likesCount": 304,
+            "timestamp": "2026-05-08T08:29:45.000Z",
+            "childPosts": [],
+            "locationName": "Raipur - Capital of Chhattisgarh",
+            "locationId": "169307500267001",
+            "ownerFullName": "Bramha Cafe",
+            "ownerUsername": "bramhacaferaipur",
+            "ownerId": "78639744221",
+            "productType": "feed",
+            "musicInfo": {
+                "audio_canonical_id": "18168871144054023",
+                "audio_type": "licensed_music",
+                "music_info": {
+                    "audio_canonical_id": "18168871144054023",
+                    "music_asset_info": {
+                        "allows_saving": false,
+                        "artist_id": "3470930393014405",
+                        "audio_id": "875637126123399",
+                        "cover_artwork_thumbnail_uri": "https://instagram.frix7-1.fna.fbcdn.net/v/t39.30808-6/417487125_1834849103614577_8208678026454778855_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=7-5&_nc_sid=2f2557&_nc_ohc=qaHsrMlUTDwQ7kNvwEuea2i&_nc_oc=Adr5wvO9x_CSmBoPJyzlZ6_Ob7nN6Jsm-MXuNrYknkSdbBT7Wy3hIge1XfUB2Vas51Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.frix7-1.fna&_nc_gid=GOpAk7lIUWrHcJ1W0wvWtQ&_nc_ss=7839b&oh=00_Af7ZrJ_s9Ywn1xDPfgS-nv0twrlyNOqZh3BMyix1wMH79Q&oe=6A050BFC",
+                        "cover_artwork_uri": "https://instagram.frix7-1.fna.fbcdn.net/v/t39.30808-6/417487125_1834849103614577_8208678026454778855_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=7-5&_nc_sid=2f2557&_nc_ohc=qaHsrMlUTDwQ7kNvwEuea2i&_nc_oc=Adr5wvO9x_CSmBoPJyzlZ6_Ob7nN6Jsm-MXuNrYknkSdbBT7Wy3hIge1XfUB2Vas51Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.frix7-1.fna&_nc_gid=GOpAk7lIUWrHcJ1W0wvWtQ&_nc_ss=7839b&oh=00_Af7ZrJ_s9Ywn1xDPfgS-nv0twrlyNOqZh3BMyix1wMH79Q&oe=6A050BFC",
+                        "dark_message": null,
+                        "display_artist": "Serge Villiers",
+                        "duration_in_ms": 226840,
+                        "fast_start_progressive_download_url": "https://instagram.frix7-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQOP0TS_Q_WPGbXMfEzD7L3E-cpWL4JU_kC62_XGTpCXqJUCc_t0efpm4K4RB_3a2IA7s_NILK9ehHG7QNnolzo9.mp4?strext=1&_nc_cat=1&_nc_oc=Adrp3xrPRx4C2d97FX8sjiFNbPMgQopRqprUUdFdJYSkEH7NtKj7krC1egr2FOyxD7A&_nc_sid=5e9851&_nc_ht=instagram.frix7-1.fna.fbcdn.net&_nc_ohc=EZ90XsIalvoQ7kNvwGkaQXl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5kYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjozNjEwMTA2Mzk5MjUyOTM4LCJhc3NldF9hZ2VfZGF5cyI6Mjc4NCwidmlfdXNlY2FzZV9pZCI6MTA1NjgsImR1cmF0aW9uX3MiOjIyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=75f0c508b3d12ce8&_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3kzUmg5bHh6VXFDVW9HQU9RcGJkMlAtT0FLYm1FeUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmlIe72OzX6QwVAigCQzMsF0BsWuFHrhR7GBxkYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvEQB1AGWQpQEA&_nc_zt=28&_nc_ss=7839b&oh=00_Af53NbTsJpz1RHJzrZdy1IHgeDlgvtW8PMr2iSv8Sz--_g&oe=6A04EBFA",
+                        "has_lyrics": false,
+                        "highlight_start_times_in_ms": [
+                            1500,
+                            16500,
+                            31500
+                        ],
+                        "id": "2074971595901244",
+                        "ig_username": null,
+                        "is_eligible_for_audio_effects": false,
+                        "is_eligible_for_vinyl_sticker": true,
+                        "is_explicit": false,
+                        "licensed_music_subtype": "DEFAULT",
+                        "lyrics": null,
+                        "progressive_download_url": "https://instagram.frix7-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQOP0TS_Q_WPGbXMfEzD7L3E-cpWL4JU_kC62_XGTpCXqJUCc_t0efpm4K4RB_3a2IA7s_NILK9ehHG7QNnolzo9.mp4?strext=1&_nc_cat=1&_nc_oc=Adrp3xrPRx4C2d97FX8sjiFNbPMgQopRqprUUdFdJYSkEH7NtKj7krC1egr2FOyxD7A&_nc_sid=5e9851&_nc_ht=instagram.frix7-1.fna.fbcdn.net&_nc_ohc=EZ90XsIalvoQ7kNvwGkaQXl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5kYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjozNjEwMTA2Mzk5MjUyOTM4LCJhc3NldF9hZ2VfZGF5cyI6Mjc4NCwidmlfdXNlY2FzZV9pZCI6MTA1NjgsImR1cmF0aW9uX3MiOjIyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=75f0c508b3d12ce8&_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3kzUmg5bHh6VXFDVW9HQU9RcGJkMlAtT0FLYm1FeUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmlIe72OzX6QwVAigCQzMsF0BsWuFHrhR7GBxkYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvEQB1AGWQpQEA&_nc_zt=28&_nc_ss=7839b&oh=00_Af53NbTsJpz1RHJzrZdy1IHgeDlgvtW8PMr2iSv8Sz--_g&oe=6A04EBFA",
+                        "reactive_audio_download_url": null,
+                        "related_audios": null,
+                        "sanitized_title": null,
+                        "song_monetization_info": null,
+                        "spotify_track_metadata": null,
+                        "subtitle": "",
+                        "title": "Final Countdown",
+                        "web_30s_preview_download_url": null
+                    },
+                    "music_consumption_info": {
+                        "allow_media_creation_with_music": true,
+                        "audio_asset_start_time_in_ms": 1500,
+                        "audio_filter_infos": [],
+                        "audio_muting_info": {
+                            "allow_audio_editing": false,
+                            "mute_audio": false,
+                            "mute_reason_str": "",
+                            "show_muted_audio_toast": false
+                        },
+                        "contains_lyrics": null,
+                        "derived_content_id": null,
+                        "derived_content_start_time_in_composition_in_ms": 0,
+                        "display_labels": null,
+                        "formatted_clips_media_count": null,
+                        "ig_artist": null,
+                        "is_bookmarked": false,
+                        "is_trending_in_clips": false,
+                        "music_creation_restriction_reason": null,
+                        "overlap_duration_in_ms": 90000,
+                        "placeholder_profile_pic_url": "https://instagram.frix7-1.fna.fbcdn.net/v/t51.12442-15/43985629_311105916145351_58064759811405776_n.jpg?_nc_ht=instagram.frix7-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFDkNR2tUU5NHUob9x8Om7kB2N_jk_f2hKf3TNfFn4Fgcuye_oWzvfTj7nbfvrUf70&_nc_ohc=T08Ez9G7shgQ7kNvwEk3etp&_nc_gid=GOpAk7lIUWrHcJ1W0wvWtQ&edm=AMKDjl4AAAAA&ccb=7-5&oh=00_Af6kANK381_9H-9iHoh5eEsab5-bjpCRE7w5uoBWwb-toQ&oe=6A0503BD&_nc_sid=472314",
+                        "previous_trend_rank": null,
+                        "related_audios": null,
+                        "should_allow_music_editing": false,
+                        "should_mute_audio": false,
+                        "should_mute_audio_reason": "",
+                        "should_mute_audio_reason_type": null,
+                        "trend_rank": null,
+                        "user_notes": null
+                    }
+                },
+                "original_sound_info": null,
+                "pinned_media_ids": []
+            }
+        },
+        {
+            "inputUrl": "https://www.instagram.com/explore/tags/BramhaCafe",
+            "id": "3892388611060415880",
+            "type": "Image",
+            "shortCode": "DYEitGqCD2I",
+            "caption": "\ud83c\udfcf\ud83d\udd25 GIVEAWAY ALERT \ud83d\udd25\ud83c\udfcf\n\nYour chance to witness the epic RCB \ud83c\udd9a MI clash LIVE! \ud83e\udd29\ud83c\udf9f\ufe0f\nFollow our page, tag 3 friends & stand a chance to WIN 2 match tickets! \ud83d\udca5\n\nDon\u2019t miss this cricket madness with your favorite teams \u2764\ufe0f\ud83d\udc99\n\n\ud83d\udcde +91 7000700350\n\ud83d\udccdBRAMHA CAFE, SECTOR 5, HORA CHOWK, DEVENDRA NAGAR, Raipur Chhattisgarh - 492001.\nFollow @bramhacaferaipur for more updates.\n\n#BramhaCafe #GiveawayAlert #RCBvsMI #IPL2026 #CricketFever",
+            "hashtags": [
+                "BramhaCafe",
+                "GiveawayAlert",
+                "RCBvsMI",
+                "IPL2026",
+                "CricketFever"
+            ],
+            "mentions": [
+                "bramhacaferaipur"
+            ],
+            "url": "https://www.instagram.com/p/DYEitGqCD2I/",
+            "commentsCount": 31,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1688,
+            "dimensionsWidth": 1350,
+            "displayUrl": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/688767884_17868282510616222_5717722326927866452_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=111&ig_cache_key=Mzg5MjM4ODYxMTA2MDQxNTg4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nrfxR6Vp6O0Q7kNvwEeTlPn&_nc_oc=Adp8ML7u7ovLK3Rarh3cz8z6URFlvaPknXtrUgjYv9hht6TZA2Lr2xym_QyXtDhWwbg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=gEJyAjIi0sX4ZBFUa4paqw&_nc_ss=7a3ba&oh=00_Af5QXY4VGfn29Z1XGhDRQvxmPw1lq8CVpeQnAfmwracf8w&oe=6A04FB8D",
+            "images": [],
+            "likesCount": 304,
+            "timestamp": "2026-05-08T08:29:45.000Z",
+            "childPosts": [],
+            "locationName": "Raipur - Capital of Chhattisgarh",
+            "locationId": "169307500267001",
+            "ownerFullName": "Bramha Cafe",
+            "ownerUsername": "bramhacaferaipur",
+            "ownerId": "78639744221",
+            "productType": "feed",
+            "musicInfo": {
+                "audio_canonical_id": "18168871144054023",
+                "audio_type": "licensed_music",
+                "music_info": {
+                    "audio_canonical_id": "18168871144054023",
+                    "music_asset_info": {
+                        "allows_saving": false,
+                        "artist_id": "3470930393014405",
+                        "audio_id": "875637126123399",
+                        "cover_artwork_thumbnail_uri": "https://scontent-bru2-1.cdninstagram.com/v/t39.30808-6/417487125_1834849103614577_8208678026454778855_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=7-5&_nc_sid=2f2557&_nc_ohc=qaHsrMlUTDwQ7kNvwFmrFCf&_nc_oc=AdqqhWIlC7_D_E5Q9DiRAA8k63cenTaX7d4ykEITkpscBNyzXStKwlUsh-0aXRJubRA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=gEJyAjIi0sX4ZBFUa4paqw&_nc_ss=7839b&oh=00_Af4j9t8X49c0wryiwm_qvxJvuFoLsx5mQncY3kmgdg4dGg&oe=6A050BFC",
+                        "cover_artwork_uri": "https://scontent-bru2-1.cdninstagram.com/v/t39.30808-6/417487125_1834849103614577_8208678026454778855_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=7-5&_nc_sid=2f2557&_nc_ohc=qaHsrMlUTDwQ7kNvwFmrFCf&_nc_oc=AdqqhWIlC7_D_E5Q9DiRAA8k63cenTaX7d4ykEITkpscBNyzXStKwlUsh-0aXRJubRA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=gEJyAjIi0sX4ZBFUa4paqw&_nc_ss=7839b&oh=00_Af4j9t8X49c0wryiwm_qvxJvuFoLsx5mQncY3kmgdg4dGg&oe=6A050BFC",
+                        "dark_message": null,
+                        "display_artist": "Serge Villiers",
+                        "duration_in_ms": 226840,
+                        "fast_start_progressive_download_url": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m69/AQOP0TS_Q_WPGbXMfEzD7L3E-cpWL4JU_kC62_XGTpCXqJUCc_t0efpm4K4RB_3a2IA7s_NILK9ehHG7QNnolzo9.mp4?strext=1&_nc_cat=1&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=EZ90XsIalvoQ7kNvwHoM0RV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5kYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjozNjEwMTA2Mzk5MjUyOTM4LCJhc3NldF9hZ2VfZGF5cyI6Mjc4NCwidmlfdXNlY2FzZV9pZCI6MTA1NjgsImR1cmF0aW9uX3MiOjIyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=75f0c508b3d12ce8&_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3kzUmg5bHh6VXFDVW9HQU9RcGJkMlAtT0FLYm1FeUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmlIe72OzX6QwVAigCQzMsF0BsWuFHrhR7GBxkYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvEQB1AGWQpQEA&_nc_zt=28&_nc_ss=7839b&oh=00_Af6XlG3idprIeXk7YShFfzAGg0Yl9FiHLB_Dob1VYHUQ2w&oe=6A04EBFA",
+                        "has_lyrics": false,
+                        "highlight_start_times_in_ms": [
+                            1500,
+                            16500,
+                            31500
+                        ],
+                        "id": "2074971595901244",
+                        "ig_username": null,
+                        "is_eligible_for_audio_effects": false,
+                        "is_eligible_for_vinyl_sticker": true,
+                        "is_explicit": false,
+                        "licensed_music_subtype": "DEFAULT",
+                        "lyrics": null,
+                        "progressive_download_url": "https://scontent-bru2-1.cdninstagram.com/o1/v/t2/f2/m69/AQOP0TS_Q_WPGbXMfEzD7L3E-cpWL4JU_kC62_XGTpCXqJUCc_t0efpm4K4RB_3a2IA7s_NILK9ehHG7QNnolzo9.mp4?strext=1&_nc_cat=1&_nc_sid=5e9851&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=EZ90XsIalvoQ7kNvwHoM0RV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5kYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjozNjEwMTA2Mzk5MjUyOTM4LCJhc3NldF9hZ2VfZGF5cyI6Mjc4NCwidmlfdXNlY2FzZV9pZCI6MTA1NjgsImR1cmF0aW9uX3MiOjIyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=75f0c508b3d12ce8&_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3kzUmg5bHh6VXFDVW9HQU9RcGJkMlAtT0FLYm1FeUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmlIe72OzX6QwVAigCQzMsF0BsWuFHrhR7GBxkYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvEQB1AGWQpQEA&_nc_zt=28&_nc_ss=7839b&oh=00_Af6XlG3idprIeXk7YShFfzAGg0Yl9FiHLB_Dob1VYHUQ2w&oe=6A04EBFA",
+                        "reactive_audio_download_url": null,
+                        "related_audios": null,
+                        "sanitized_title": null,
+                        "song_monetization_info": null,
+                        "spotify_track_metadata": null,
+                        "subtitle": "",
+                        "title": "Final Countdown",
+                        "web_30s_preview_download_url": null
+                    },
+                    "music_consumption_info": {
+                        "allow_media_creation_with_music": true,
+                        "audio_asset_start_time_in_ms": 1500,
+                        "audio_filter_infos": [],
+                        "audio_muting_info": {
+                            "allow_audio_editing": false,
+                            "mute_audio": false,
+                            "mute_reason_str": "",
+                            "show_muted_audio_toast": false
+                        },
+                        "contains_lyrics": null,
+                        "derived_content_id": null,
+                        "derived_content_start_time_in_composition_in_ms": 0,
+                        "display_labels": null,
+                        "formatted_clips_media_count": null,
+                        "ig_artist": null,
+                        "is_bookmarked": false,
+                        "is_trending_in_clips": false,
+                        "music_creation_restriction_reason": null,
+                        "overlap_duration_in_ms": 90000,
+                        "placeholder_profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.12442-15/43985629_311105916145351_58064759811405776_n.jpg?_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEFJ1JJGfziCK0j3llFB9FUkT69BPnU_WracMQTEdGthx2oQbmNenXDsw3mrlxXxsQ&_nc_ohc=T08Ez9G7shgQ7kNvwH4vTnI&_nc_gid=gEJyAjIi0sX4ZBFUa4paqw&edm=AMKDjl4AAAAA&ccb=7-5&oh=00_Af7OsSVqC2gzpWKL-yzCFlgj19AMscQGBfbPcrnNvWfw2g&oe=6A0503BD&_nc_sid=472314",
+                        "previous_trend_rank": null,
+                        "related_audios": null,
+                        "should_allow_music_editing": false,
+                        "should_mute_audio": false,
+                        "should_mute_audio_reason": "",
+                        "should_mute_audio_reason_type": null,
+                        "trend_rank": null,
+                        "user_notes": null
+                    }
+                },
+                "original_sound_info": null,
+                "pinned_media_ids": []
+            }
+        },
+        {
+            "inputUrl": "https://www.instagram.com/explore/tags/BramhaCafeHeritage",
+            "id": "3892364331807634601",
+            "type": "Image",
+            "shortCode": "DYEdLy1y3Sp",
+            "caption": "Uthhan Originals Crafts Display\n(The Offline Stores of Uthhan) is arriving at Jayanagar! \n\nWe\u2019re excited to launch our new offline craft store at  @bramhacafe !! \n\nUthhan Originals Craft Displays are built to create direct selling opportunities for Indian artisans, helping them connect with customers through authentic handmade products and meaningful craft experiences. \n\nKnown for its cozy ambiance, soulful food, and vibrant caf\u00e9 culture, Bramha Cafe is now becoming home to a unique handmade shopping experience. Alongside your favorite coffee moments and conversations, you\u2019ll soon discover handcrafted treasures created by artisans from across India.\n\n  Authentic Handmade Collection\n  Unique Gifting & Decor Finds\n  Home Delivery & Bulk Orders Available\n\nEvery product carries a story, and every purchase creates an impact.\n\n  Coming soon at Bramha Cafe\n\ud83d\udccd Jayanagar, Bengaluru\n\n  Coffee & Conversations\n  Handmade Discoveries\n  Artisan Stories\n\n#UthhanOriginals\n#bramhacafeheritage #crafts #handicraftofindia #artisan",
+            "hashtags": [
+                "UthhanOriginals",
+                "bramhacafeheritage",
+                "crafts",
+                "handicraftofindia",
+                "artisan"
+            ],
+            "mentions": [
+                "bramhacafe"
+            ],
+            "url": "https://www.instagram.com/p/DYEdLy1y3Sp/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1800,
+            "dimensionsWidth": 1440,
+            "displayUrl": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/685653149_18420910588193035_6712354658920572090_n.webp?stp=dst-webp_p1080x1080&_nc_cat=111&ig_cache_key=Mzg5MjM2NDMzMTgwNzYzNDYwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LzBVs3vmw4MQ7kNvwFZvjZA&_nc_oc=AdqCfBVZdMrSh-xQ-ay_d-ibspM7_ZbIYiw0suFXP3FYM_adSUWMSmUoO4Rd7F0NXto&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=ArlGEjFPjgdlJ-sFzmTocw&_nc_ss=7a3ba&oh=00_Af5CdiBPNrzixOETZBGM394kGWS62YxOHo_tAPIlLVHGbQ&oe=6A04E509",
+            "images": [],
+            "likesCount": 346,
+            "timestamp": "2026-05-08T07:40:11.000Z",
+            "childPosts": [],
+            "locationName": "Jayanagar, Bengaluru",
+            "locationId": "1925926694309965",
+            "ownerFullName": "UTHHAN - Empowering Artisans",
+            "ownerUsername": "uthhan.gerg",
+            "ownerId": "5960265034",
+            "productType": "feed",
+            "taggedUsers": [
+                {
+                    "full_name": "Digantika Deb",
+                    "id": "33420822085",
+                    "is_private": false,
+                    "is_verified": false,
+                    "profile_pic_id": "3711963529894570794",
+                    "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-19/539186831_18071256353118086_1038611623281021428_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFN88NgI3Z0fyWiK4dsYouvMqTB2nUcYogKOAmsOwqUJ7c1Scp9Gw8EyuTqsQfDIFo&_nc_ohc=1jvfZn7oKDUQ7kNvwFluMUc&_nc_gid=ArlGEjFPjgdlJ-sFzmTocw&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=GI9WIyCGl5I-tjNAAPTRQcHE42kObmNDAQAB1501500j-ccb7-5&oh=00_Af71M7VzUJo74XF-rp-JXPyHmgelWadbcMEKwibW5L8F0A&oe=6A04FE68&_nc_sid=472314",
+                    "username": "tanvi_gaana"
+                },
+                {
+                    "full_name": "Bramha Cafe",
+                    "id": "66333344702",
+                    "is_private": false,
+                    "is_verified": false,
+                    "profile_pic_id": "3730900961545145572",
+                    "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-19/554749887_17912508438208703_6980618384430226346_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFN88NgI3Z0fyWiK4dsYouvMqTB2nUcYogKOAmsOwqUJ7c1Scp9Gw8EyuTqsQfDIFo&_nc_ohc=eMR9ZuK6gkcQ7kNvwHKg2nc&_nc_gid=ArlGEjFPjgdlJ-sFzmTocw&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=GL-PECG-4H7eVKM-AKpbhoxvI_BgbmNDAQAB1501500j-ccb7-5&oh=00_Af6Pvlnxx0hwgXT6ysaOVDda_RMU2MNOdrqwD97acgZlag&oe=6A050646&_nc_sid=472314",
+                    "username": "bramhacafe"
+                }
+            ],
+            "musicInfo": {
+                "audio_canonical_id": "18388069978023449",
+                "audio_type": "licensed_music",
+                "music_info": {
+                    "audio_canonical_id": "18388069978023449",
+                    "music_asset_info": {
+                        "allows_saving": false,
+                        "artist_id": "2412089005599486",
+                        "audio_id": "844399300592724",
+                        "cover_artwork_thumbnail_uri": "https://scontent-cph2-1.cdninstagram.com/v/t39.30808-1/509360948_1246481466833358_3087307492853735744_n.jpg?stp=dst-jpg_s130x130_tt6&_nc_cat=1&ccb=7-5&_nc_sid=68a4df&_nc_ohc=dRxK5ls4RXsQ7kNvwE9OtMU&_nc_oc=AdrsnPeB_-fdl8rAKixGnITTHvaZ102H1m3m0-aPX7rQpw5xGSweqJf0nJoELpY1Ap8&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=ArlGEjFPjgdlJ-sFzmTocw&_nc_ss=7839b&oh=00_Af6C7GbS4JHDW8HcFeN_mR8fOTxfP4Umt2KKDcRmNT7Alg&oe=6A04F533",
+                        "cover_artwork_uri": "https://scontent-cph2-1.cdninstagram.com/v/t39.30808-1/509360948_1246481466833358_3087307492853735744_n.jpg?stp=dst-jpg_s130x130_tt6&_nc_cat=1&ccb=7-5&_nc_sid=68a4df&_nc_ohc=dRxK5ls4RXsQ7kNvwE9OtMU&_nc_oc=AdrsnPeB_-fdl8rAKixGnITTHvaZ102H1m3m0-aPX7rQpw5xGSweqJf0nJoELpY1Ap8&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=ArlGEjFPjgdlJ-sFzmTocw&_nc_ss=7839b&oh=00_Af6C7GbS4JHDW8HcFeN_mR8fOTxfP4Umt2KKDcRmNT7Alg&oe=6A04F533",
+                        "dark_message": null,
+                        "display_artist": "Alex G",
+                        "duration_in_ms": 171862,
+                        "fast_start_progressive_download_url": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m69/AQN9xnePQLneOJODbnslRVNMAbIgAOmwTSzykCZBxuLScVyB6JBLSEIWLP4EqlOfrV7XOClmyVZcOWg3Wa3IaCjg.mp4?strext=1&_nc_cat=1&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=UY97PlE-lGoQ7kNvwFaS5BE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5kYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjo0MTMzOTAxMjE0MDkxNjgsImFzc2V0X2FnZV9kYXlzIjo5ODEsInZpX3VzZWNhc2VfaWQiOjEwNTY4LCJkdXJhdGlvbl9zIjoxNzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7a4631d9bfe706fd&_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR0xUQ3lBaF9TeDlHY3dFQVBydUdnX0tZQXNJYm1FeUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmoOq4tbz-uwEVAigCQzMsF0Ble5WBBiTdGBxkYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvEQB1AGWQpQEA&_nc_zt=28&_nc_ss=7839b&oh=00_Af7fivN_tAjd1sOaHXDrQRx4a5dykdDeypYZXlzEyz9Yyg&oe=6A050DD6",
+                        "has_lyrics": false,
+                        "highlight_start_times_in_ms": [
+                            122500,
+                            81000,
+                            1500
+                        ],
+                        "id": "983561466214319",
+                        "ig_username": "imalexbluenow",
+                        "is_eligible_for_audio_effects": true,
+                        "is_eligible_for_vinyl_sticker": true,
+                        "is_explicit": false,
+                        "licensed_music_subtype": "DEFAULT",
+                        "lyrics": null,
+                        "progressive_download_url": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m69/AQN9xnePQLneOJODbnslRVNMAbIgAOmwTSzykCZBxuLScVyB6JBLSEIWLP4EqlOfrV7XOClmyVZcOWg3Wa3IaCjg.mp4?strext=1&_nc_cat=1&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=UY97PlE-lGoQ7kNvwFaS5BE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5kYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjo0MTMzOTAxMjE0MDkxNjgsImFzc2V0X2FnZV9kYXlzIjo5ODEsInZpX3VzZWNhc2VfaWQiOjEwNTY4LCJkdXJhdGlvbl9zIjoxNzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7a4631d9bfe706fd&_nc_vs=HBkcFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR0xUQ3lBaF9TeDlHY3dFQVBydUdnX0tZQXNJYm1FeUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmoOq4tbz-uwEVAigCQzMsF0Ble5WBBiTdGBxkYXNoX2xuX2hlYWFjX3ZicjNfbXB4X2F1ZGlvEQB1AGWQpQEA&_nc_zt=28&_nc_ss=7839b&oh=00_Af7fivN_tAjd1sOaHXDrQRx4a5dykdDeypYZXlzEyz9Yyg&oe=6A050DD6",
+                        "reactive_audio_download_url": null,
+                        "related_audios": null,
+                        "sanitized_title": null,
+                        "song_monetization_info": null,
+                        "spotify_track_metadata": null,
+                        "subtitle": "",
+                        "title": "Bloom Again (Instrumental)",
+                        "web_30s_preview_download_url": null
+                    },
+                    "music_consumption_info": {
+                        "allow_media_creation_with_music": true,
+                        "audio_asset_start_time_in_ms": 122000,
+                        "audio_filter_infos": [],
+                        "audio_muting_info": {
+                            "allow_audio_editing": false,
+                            "mute_audio": false,
+                            "mute_reason_str": "",
+                            "show_muted_audio_toast": false
+                        },
+                        "contains_lyrics": null,
+                        "derived_content_id": null,
+                        "derived_content_start_time_in_composition_in_ms": 0,
+                        "display_labels": null,
+                        "formatted_clips_media_count": null,
+                        "ig_artist": {
+                            "full_name": "Alex Blue",
+                            "id": "31607087",
+                            "is_private": false,
+                            "is_verified": true,
+                            "profile_pic_id": "3659172882752261217",
+                            "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/503479753_18510052048055088_671568760623655398_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFN88NgI3Z0fyWiK4dsYouvMqTB2nUcYogKOAmsOwqUJ7c1Scp9Gw8EyuTqsQfDIFo&_nc_ohc=8XyZ1UTiMrMQ7kNvwFMYxBD&_nc_gid=ArlGEjFPjgdlJ-sFzmTocw&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=GMl9Ah4wKxlVy8JBAObpOMs65FEJbvEnAQAB1501500j-ccb7-5&oh=00_Af5-uCO5m5Bgh92LsQQdHUB7YBqGB7NIPxg3OuAlvE7aYg&oe=6A04F8D1&_nc_sid=472314",
+                            "username": "imalexbluenow"
+                        },
+                        "is_bookmarked": false,
+                        "is_trending_in_clips": false,
+                        "music_creation_restriction_reason": null,
+                        "overlap_duration_in_ms": 30000,
+                        "placeholder_profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.12442-15/43985629_311105916145351_58064759811405776_n.jpg?_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFN88NgI3Z0fyWiK4dsYouvMqTB2nUcYogKOAmsOwqUJ7c1Scp9Gw8EyuTqsQfDIFo&_nc_ohc=T08Ez9G7shgQ7kNvwGTHjQo&_nc_gid=ArlGEjFPjgdlJ-sFzmTocw&edm=AMKDjl4AAAAA&ccb=7-5&oh=00_Af5YDUe8GuZEA8s5gD-siEejgzF30IkQU6FxxhdRbHOUxg&oe=6A0503BD&_nc_sid=472314",
+                        "previous_trend_rank": null,
+                        "related_audios": null,
+                        "should_allow_music_editing": false,
+                        "should_mute_audio": false,
+                        "should_mute_audio_reason": "",
+                        "should_mute_audio_reason_type": null,
+                        "trend_rank": null,
+                        "user_notes": null
+                    }
+                },
+                "original_sound_info": null,
+                "pinned_media_ids": []
+            },
+            "coauthorProducers": [
+                {
+                    "full_name": "Digantika Deb",
+                    "id": "33420822085",
+                    "is_private": false,
+                    "is_verified": false,
+                    "pk": "33420822085",
+                    "profile_pic_id": "3711963529894570794",
+                    "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-19/539186831_18071256353118086_1038611623281021428_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFN88NgI3Z0fyWiK4dsYouvMqTB2nUcYogKOAmsOwqUJ7c1Scp9Gw8EyuTqsQfDIFo&_nc_ohc=1jvfZn7oKDUQ7kNvwFluMUc&_nc_gid=ArlGEjFPjgdlJ-sFzmTocw&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=GI9WIyCGl5I-tjNAAPTRQcHE42kObmNDAQAB1501500j-ccb7-5&oh=00_Af71M7VzUJo74XF-rp-JXPyHmgelWadbcMEKwibW5L8F0A&oe=6A04FE68&_nc_sid=472314",
+                    "username": "tanvi_gaana"
+                }
+            ]
+        }
+    ]
+}

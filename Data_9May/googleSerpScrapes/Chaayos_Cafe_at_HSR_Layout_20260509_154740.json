@@ -1,0 +1,290 @@
+[
+    {
+        "#debug": {
+            "requestId": "SSnzdCgTtMy0HBq",
+            "url": "http://www.google.com/search?q=Chaayos+Cafe+at+HSR+Layout",
+            "loadedUrl": "http://www.google.com/search?q=Chaayos+Cafe+at+HSR+Layout",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Chaayos Cafe at HSR Layout",
+            "url": "http://www.google.com/search?q=Chaayos+Cafe+at+HSR+Layout",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Chaayos+Cafe+at+HSR+Layout",
+        "hasNextPage": true,
+        "serpProviderCode": "L",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Chaayos cafe at hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+cafe+at+hsr+layout+reviews&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhdEAE"
+            },
+            {
+                "title": "Chaayos cafe at hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+cafe+at+hsr+layout+menu&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Chaayos cafe at hsr layout photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+cafe+at+hsr+layout+photos&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAh1EAE"
+            },
+            {
+                "title": "Chaayos cafe at hsr layout price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+cafe+at+hsr+layout+price&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Chaayos hsr sector 4",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+hsr+sector+4&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhoEAE"
+            },
+            {
+                "title": "Chaayos hsr 14th main",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+hsr+14th+main&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Chaayos HSR Sector 1",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+HSR+Sector+1&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Chaayos hsr 27th main",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+hsr+27th+main&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAheEAE"
+            },
+            {
+                "title": "Chaayos cafe at hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+cafe+at+hsr+layout+reviews&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhdEAE"
+            },
+            {
+                "title": "Chaayos cafe at hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+cafe+at+hsr+layout+menu&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Chaayos cafe at hsr layout photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+cafe+at+hsr+layout+photos&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAh1EAE"
+            },
+            {
+                "title": "Chaayos cafe at hsr layout price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+cafe+at+hsr+layout+price&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Chaayos hsr sector 4",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+hsr+sector+4&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhoEAE"
+            },
+            {
+                "title": "Chaayos hsr 14th main",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+hsr+14th+main&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Chaayos HSR Sector 1",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+HSR+Sector+1&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Chaayos hsr 27th main",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Chaayos+hsr+27th+main&sa=X&ved=2ahUKEwjx-YuN_auUAxUXSEEAHeknKzYQ1QJ6BAheEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Best Chai cafe in HSR Layout",
+                "url": "https://chaayos.com/pages/hsrlayout?srsltid=AfmBOoqpmAuzzmLy4Fz4VRe9Ly6U626-UrWj1YPj4OJ76RHcJY2mJEVL",
+                "displayedUrl": "https://chaayos.com \u203a pages \u203a hsrlayout",
+                "description": "Best place to hangout in HSR Layout with customised tea and chaayos provide with make your own tea with more than 80000 combination along with snacks\u00a0...",
+                "emphasizedKeywords": [
+                    "make your own tea with more than 80000 combination"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Chaayos Chai+Snacks=Relax, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/chaayos-chai-snacks-relax-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "This place is known for sanitised service, outdoor seating, cleanliness, weekend brunch, good music, contactless delivery.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.4,
+                "numberOfReviews": 104,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Chaayos Cafe Hsr Layout 14th Main Rd in ...",
+                "url": "https://www.justdial.com/Bangalore/Chaayos-Cafe-Hsr-Layout-14th-Main-Rd-Hsr-Layout/080PXX80-XX80-231005180056-Z5K7_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a ... \u203a Tea Lounges in Hsr Layout",
+                "description": "Order Food Online from Chaayos Cafe Hsr Layout 14th Main Rd in Hsr Layout,Bangalore well known for Tea Lounges in Bangalore . Rated 3.9 based on 127\u00a0...",
+                "emphasizedKeywords": [
+                    "Chaayos Cafe Hsr Layout 14th Main Rd in Hsr Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 127,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Chaayos Chai+Snacks=Relax - HSR Layout",
+                "url": "https://www.swiggy.com/city/bangalore/chaayos-chai-snacks-relax-hsr-layout-rest334867",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Enjoy delicious meals from Chaayos Chai+Snacks=Relax in HSR Layout, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery\u00a0...",
+                "emphasizedKeywords": [
+                    "Chaayos Chai+Snacks=Relax in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.7,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Chaayos Chai+Snacks=Relax | HSR, Bangalore",
+                "url": "https://www.district.in/dining/bangalore/chaayos-chai-snacks-relax-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a chaayos-chai-snacks-rel...",
+                "description": "... Chaayos which's also in HSR Layout. The service here is good and I like their Kala Chana Chaat, Filter Coffee & Rooibos tea. They also have good offers on\u00a0...",
+                "emphasizedKeywords": [
+                    "Chaayos which's also in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Chaayos in HSR, South Bengaluru | Get Upto 50% Off",
+                "url": "https://www.eazydiner.com/bengaluru/chaayos-hsr-south-bengaluru-673172",
+                "displayedUrl": "https://www.eazydiner.com \u203a bengaluru \u203a chaayos-hsr-s...",
+                "description": "Chaayos,HSR, South Bengaluru. View reviews, menu, contact, location, and more. Book through EazyDiner for FREE and get up to 50% off on your bill.",
+                "emphasizedKeywords": [
+                    "Chaayos,HSR, South Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4,
+                "numberOfReviews": 1,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "CHAAYOS, Bengaluru - Unit 2317 Gf 27th Main Rd1st ...",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g297628-d27685867-Reviews-Chaayos-Bengaluru_Bangalore_District_Karnataka.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Bengaluru Restaurants",
+                "description": "Chaayos \u00b7 CHAAYOS, Bengaluru - Unit 2317 Gf 27th Main Rd1st Sector Hsr Layout Bengaluru.karnataka - Restaurant Reviews & Phone Number - Tripadvisor.",
+                "emphasizedKeywords": [
+                    "Unit 2317 Gf 27th Main Rd1st Sector Hsr Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Chaayos Chai+Snacks=Relax, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/chaayos-chai-snacks-relax-1-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Chaayos Chai+Snacks=Relax, Tea, Beverages, Sandwich, Street Food, Kitchens@, 1/120, 14th Main Road, Sector 5, HSR, Bangalore, Temporarily closed, will be back\u00a0...",
+                "emphasizedKeywords": [
+                    "1/120, 14th Main Road, Sector 5, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Chaayos - Home",
+                "url": "https://www.facebook.com/105618968198959",
+                "displayedUrl": "https://www.facebook.com \u203a ...",
+                "description": "Chaayos, Bangalore, Karnataka, India. 2 likes \u00b7 2 talking about this \u00b7 194 ... Unit 2317, 27th Main road, HSR Layout, Bangalore, Karnataka, India 560102.",
+                "emphasizedKeywords": [
+                    "Unit 2317, 27th Main road, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "cafe locator",
+                "url": "https://chaayos.com/pages/cafe-locator?srsltid=AfmBOoqXUKPZKTgX3Bb5e-A0qZ-4tPVDueOzkA4DdLVY5icVqLoRrCmM",
+                "displayedUrl": "https://chaayos.com \u203a pages \u203a cafe-locator",
+                "description": "Chaayos - HSR Layout. Unit 2317, GF, 27th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India. Store image. 18001202424 \u00b7 letstalk\u00a0...",
+                "emphasizedKeywords": [
+                    "Unit 2317, GF, 27th Main Rd, 1st Sector, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Sunshine Teahouse Private Limited known as 'Chaayos' was formed with the vision to create a unique tea experience for the consumers of India. With several tea experiments, today the customers of India can easily have access to a good cup of tea and snacks.",
+                "question": "Why is Chaayos famous?",
+                "title": "About Brand - Chaayos",
+                "url": "https://chaayos.com/pages/about-brand",
+                "date": null
+            },
+            {
+                "answer": "10 Best Things to Order from Chaayos: Best Chaayos Tea and Snacks with Price\nInstant Masala Tea Premix. ... Chai Masala. ... Bun Maska + Bun Bhujia. ... Vada Pav. ... Chilli Cheese Toast. ... Homestyle Meals \u2013 Upma & Poha. ... Samosa Dishes \u2013 Chaat + Bun Samosa. Price: \u20b9199 (Samosa Chaat), \u20b9159 (Bun Samosa) ... Podi Idli. Price: \u20b9219.",
+                "question": "What is best in Chaayos?",
+                "title": "10 Best Things to Order from Chaayos: Best Chaayos Tea and Snacks ...",
+                "url": "https://magicpin.in/blog/category/food-and-beverage/best-things-to-order-from-chaayos",
+                "date": "Apr 20, 2026"
+            },
+            {
+                "answer": "So they did something bold. They took a \u20b910 roadside drink\u2026 and turned it into a \u20b9150 caf\u00e9 experience. Not just tea \u2014 but customization, comfort, and a place people actually wanted to sit and unwind. Today, Chaayos has 250+ outlets, \u20b9300+ crore in revenue, and a \u20b92500+ crore valuation.",
+                "question": "How is Chaayos doing?",
+                "title": "How Chaayos dominated India's tea market? India runs on chai\u2026 but no ...",
+                "url": "https://www.instagram.com/reel/DWtbXVSidN9/",
+                "date": "Apr 4, 2026"
+            },
+            {
+                "answer": "The difference is striking: Chai Point = Utility, scale, and everyday reliability. Chaayos = Customization, vibe, and emotional connection.",
+                "question": "What is the difference between Chaayos and chai point?",
+                "title": "Chai Point vs Chaayos For decades, chai was the drink of the masses -\u2026",
+                "url": "https://www.linkedin.com/posts/shweta-tiwari-work_chai-point-vs-chaayos-for-decades-chai-activity-7368485348982681600-NSYC",
+                "date": "Sep 1, 2025"
+            }
+        ],
+        "aiOverview": {
+            "type": "live",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://www.zomato.com/bangalore/chaayos-chai-snacks-relax-1-hsr-bangalore",
+                    "title": "Chaayos Chai+Snacks=Relax, HSR, Bangalore | Zomato",
+                    "description": "There is a Chaayos Chai+Snacks=Relax outlet at Kitchens@, 1/120, 14th Main Road, Sector 5, HSR, Bangalore. The outlet is temporari..."
+                },
+                {
+                    "url": "https://www.corner.inc/place/1297224",
+                    "title": "Chaayos Cafe - HSR Layout - Building No.1098,Ground Floor , ...",
+                    "description": "Chaayos Cafe - HSR Layout - Building No. 1098,Ground Floor ,HSR Layout 14th main road sector-4 Bangalore, BTM Layout, B.B, M.P, Be..."
+                },
+                {
+                    "url": "https://www.zomato.com/bangalore/chaayos-chai-snacks-relax-2-hsr-bangalore",
+                    "title": "Chaayos Chai+Snacks=Relax, HSR, Bangalore - Zomato",
+                    "description": "By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. * Mon-Sun:7am..."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/RfEld56I3oAwAiA9Z/records/SSnzdCgTtMy0HBq-0.html?signature=efkkaFOebh7MyyMQsDFF"
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "#debug": {
+            "requestId": "4z3ZsC3YHqCSyu7",
+            "url": "http://www.google.com/search?q=Coffee+%26+More",
+            "loadedUrl": "http://www.google.com/search?q=Coffee+%26+More",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Coffee & More",
+            "url": "http://www.google.com/search?q=Coffee+%26+More",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Coffee+%26+More",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Coffee & more menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+%26+more+menu&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Coffee & more restaurant",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+%26+more+restaurant&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAhPEAE"
+            },
+            {
+                "title": "Coffee & more near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+%26+more+near+me&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAhLEAE"
+            },
+            {
+                "title": "Coffee & more locations",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+%26+more+locations&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAhIEAE"
+            },
+            {
+                "title": "Coffee near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+near+me&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Coffee truck",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+truck&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Coffee & more menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+%26+more+menu&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Coffee & more restaurant",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+%26+more+restaurant&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAhPEAE"
+            },
+            {
+                "title": "Coffee & more near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+%26+more+near+me&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAhLEAE"
+            },
+            {
+                "title": "Coffee & more locations",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+%26+more+locations&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAhIEAE"
+            },
+            {
+                "title": "Coffee near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+near+me&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Coffee truck",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Coffee+truck&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQ1QJ6BAg9EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "COFFEE & MORE",
+                "url": "https://coffeeandmoresf.com/",
+                "displayedUrl": "https://coffeeandmoresf.com",
+                "description": "Coffee & More - vintage bus serving Handcrafted Coffee, Teas and specialty drinks and more to guest in Sioux Falls, SD and surrounding areas.",
+                "emphasizedKeywords": [
+                    "Coffee & More"
+                ],
+                "siteLinks": [
+                    {
+                        "title": "Menu",
+                        "url": "https://coffeeandmoresf.com/menu",
+                        "description": "GENERAL \u00b7 COFFEE DRINKS \u00b7 SODAK SWEETY LATTE ..."
+                    },
+                    {
+                        "title": "Order Online",
+                        "url": "https://coffeeandmoresf.com/order/coffee-more-210-n-joseph-ave",
+                        "description": "Order online from Live in the \"MORE\", including COFFEE ..."
+                    },
+                    {
+                        "title": "About Us",
+                        "url": "https://coffeeandmoresf.com/about-us",
+                        "description": "What started as an idea has grown into a coffee experience on ..."
+                    },
+                    {
+                        "title": "More results from coffeeandmoresf.com\u00a0\u00bb",
+                        "url": "https://www.google.com/search?q=Coffee+%26+More+site:coffeeandmoresf.com&sca_esv=460606e7be098232&gl=US&hl=en&sa=X&ved=2ahUKEwiLm_C9_auUAxV6KvsDHSh-HkcQrAN6BAgoEAE",
+                        "description": ""
+                    }
+                ],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Coffee & More",
+                "url": "https://www.facebook.com/p/Coffee-More-61557144193753/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Coffee & More",
+                "description": "Coffee & More. 1683 likes \u00b7 182 talking about this. \u2615 Vintage coffee bus serving Sioux Falls & surrounding communities! Fresh coffee, teas, treats, and...",
+                "emphasizedKeywords": [
+                    "Vintage coffee bus serving Sioux Falls & surrounding communities"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.7K+ followers",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Coffee & Moore: Home",
+                "url": "https://www.coffeenmoore.com/",
+                "displayedUrl": "https://www.coffeenmoore.com",
+                "description": "Unique Coffee Drinks, Food, ... Sold by the pound, our organic fair trade coffee beans come in a variety of blends, whole or ground - learn more about them here !Read more",
+                "emphasizedKeywords": [
+                    "Unique Coffee Drinks, Food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "COFFEE & MORE, Sunnyvale - Restaurant Reviews, ...",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g33146-d917154-Reviews-Coffee_More-Sunnyvale_California.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Sunnyvale Restaurants",
+                "description": "This is a large and roomy cafe with a lot of cosy couches and nice music. They serve cappuccino in a very weird way though for such a nice cafe.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Coffee & More - Tea, South Dakota",
+                "url": "https://joe.coffee/locations/sd/tea/coffee-more-tea/",
+                "displayedUrl": "https://joe.coffee \u203a Find Coffee \u203a South Dakota \u203a Tea",
+                "description": "Coffee and More is serving amazing coffee and impeccable vibes! A great way to start the day. Don't like coffee? Don't worry, the smoothies are great too! The\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Coffee and More is serving amazing coffee and impeccable vibes"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Coffee & More | Sioux Falls Coffee Truck (@coffeeandmoresf)",
+                "url": "https://www.instagram.com/coffeeandmoresf/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0coffeeandmoresf",
+                "description": "Vintage mobile coffee bus. Serving Sioux Falls & surrounding areas. \u2728We care about people + craft great coffee\u2728 Book us for parties & events.Read more",
+                "emphasizedKeywords": [
+                    "Vintage mobile coffee bus"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "750+ followers",
+                "channelName": "coffeeandmoresf",
+                "type": "organic",
+                "position": 6
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What is the bitty and beau's controversy?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What coffee is good for gastritis?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is the 80 20 rule for coffee?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Is the coffee shop set in Frasier the same as Friends?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/X0oA9abeGQT9nYFnx/records/4z3ZsC3YHqCSyu7-0.html?signature=1s0GcQZwAU62gfiG4afho"
+    }
+]

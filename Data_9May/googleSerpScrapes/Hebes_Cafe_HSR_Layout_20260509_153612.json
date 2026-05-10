@@ -1,0 +1,169 @@
+[
+    {
+        "#debug": {
+            "requestId": "e8CnPylSrQjAUDF",
+            "url": "http://www.google.com/search?q=Hebe%27s+Cafe_HSR+Layout",
+            "loadedUrl": "http://www.google.com/search?q=Hebe%27s+Cafe_HSR+Layout",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Hebe's Cafe_HSR Layout",
+            "url": "http://www.google.com/search?q=Hebe%27s+Cafe_HSR+Layout",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Hebe%27s+Cafe_HSR+Layout",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Hebe's cafe_hsr layout offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Hebe%27s+cafe_hsr+layout+offers&sa=X&ved=2ahUKEwix9KzJ-quUAxUr1DgGHVENKoEQ1QJ6BAhrEAE"
+            },
+            {
+                "title": "Iris Cafe HSR",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Iris+Cafe+HSR&sa=X&ved=2ahUKEwix9KzJ-quUAxUr1DgGHVENKoEQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "Cafe Hustle",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Hustle&sa=X&ved=2ahUKEwix9KzJ-quUAxUr1DgGHVENKoEQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Go Native hsr",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Go+Native+hsr&sa=X&ved=2ahUKEwix9KzJ-quUAxUr1DgGHVENKoEQ1QJ6BAhuEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Hebe's, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/hebes-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "This place is known for amazing decor, best in service, served quickly, healthy and delicious, great veg options, amazing ambience.Read more",
+                "emphasizedKeywords": [
+                    "amazing decor, best in service, served quickly"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 522,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Hebe's Cafe (@hebes_cafe) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/hebes_cafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0hebes_cafe",
+                "description": "Hebe's Caf\u00e9, HSR Layout Fresh. Tasty. Healthy. Tag that friend who loves cute cafes #HSREats #HebesCafe #HSRHiddenGems #BangaloreFoodies\u00a0...",
+                "emphasizedKeywords": [
+                    "Hebe's Caf\u00e9, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "450+ followers",
+                "channelName": "hebes_cafe",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Hebe's Cafe_HSR Layout - Shop No. 764,HSR club Road ...",
+                "url": "https://www.corner.inc/place/751414",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "Diverse menu featuring pasta, sandwiches, and pizzas. Perfect for a casual lunch or light dinner. Affordable prices and laid-back atmosphere make it a go-to\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "pasta, sandwiches, and pizzas"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Hebe's Cafe on Instagram: \"Hebes Caf\u00e9, HSR Layout ...",
+                "url": "https://www.instagram.com/reel/DRXdqy3j7zn/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0hebes_cafe",
+                "description": "Italian flavors, fresh vibes, and healthy bowls \u2014 all under one cozy roof! From creamy white sauce pasta to cheesy chicken pizza and our\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "60+ likes",
+                "lastUpdated": "5 months ago",
+                "channelName": "reel",
+                "reelLength": "1:25",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Hebe's Cafe",
+                "url": "https://www.facebook.com/p/Hebes-Cafe-100064015544657/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Hebe\u2019s Cafe",
+                "description": "Hebe's cafe, HSR Layout Sector 3. Contact info. \udb81\udeea. +91 81235 45441. \udb81\ude22. hebescafe@gmail.com. Photos. See all. Posts. No posts available.Read more",
+                "emphasizedKeywords": [
+                    "Hebe's cafe, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "10+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Hebe's Cafe HSR Layout Bangalore - Chandigarh",
+                "url": "https://www.shoutlo.com/restaurants/hebes-cafe-hsr-layout-bengaluru",
+                "displayedUrl": "https://www.shoutlo.com \u203a Chandigarh",
+                "description": "Try their kickass Sandwich and pizzas in your college breaks with ease. Map & Directions. Shop No. 764,HSR club Road, HSR Layout, Bengaluru, Karnataka 560102Read more",
+                "emphasizedKeywords": [
+                    "Shop No. 764,HSR club Road, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Hebe's Cafe HSR Layout",
+                "url": "https://www.snapchat.com/place/hebes-cafe-hsr-layout/a78fa972-c751-11ec-a059-0f8856142e44",
+                "displayedUrl": "https://www.snapchat.com \u203a place \u203a hebes-cafe-hsr-layout",
+                "description": "Address Shop No. 764,HSR club Road, HSR Layout, Bengaluru, Karnataka. Copy Link. Call 081235 45441. Copy Link. Website hebes-cafe.business.site.Read more",
+                "emphasizedKeywords": [
+                    "Shop No. 764,HSR club Road, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Locofy on Instagram: \" Stumbled upon the cutest hidden gem ...",
+                "url": "https://www.instagram.com/reel/DOYe6RzEqKe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0locofy_blr",
+                "description": "Hsr this cute little cafe sits under a big shady tree. From Indian bowls to English breakfast they have got it all.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "70+ likes",
+                "lastUpdated": "8 months ago",
+                "channelName": "reel",
+                "reelLength": "0:20",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/fZ1vSoOQS0yZAlwdf/records/e8CnPylSrQjAUDF-0.html?signature=OaC8ByP7RO6dSkQpjpOG"
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "#debug": {
+            "requestId": "GJ6ahJiwpmWdsQo",
+            "url": "http://www.google.com/search?q=Cafe+Amudham+HSR+Layout",
+            "loadedUrl": "http://www.google.com/search?q=Cafe+Amudham+HSR+Layout",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Cafe Amudham HSR Layout",
+            "url": "http://www.google.com/search?q=Cafe+Amudham+HSR+Layout",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Cafe+Amudham+HSR+Layout",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Cafe amudham hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+hsr+layout+reviews&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh3EAE"
+            },
+            {
+                "title": "Cafe Amudham hsr Layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Amudham+hsr+Layout+menu&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh-EAE"
+            },
+            {
+                "title": "Cafe amudham bellandur",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+bellandur&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh9EAE"
+            },
+            {
+                "title": "Cafe Amudham HSR Layout photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Amudham+HSR+Layout+photos&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "Cafe amudham sarjapur",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+sarjapur&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh7EAE"
+            },
+            {
+                "title": "Cafe Amudham HSR layout offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Amudham+HSR+layout+offers&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh6EAE"
+            },
+            {
+                "title": "Cafe amudham hsr layout contact number",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+hsr+layout+contact+number&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh4EAE"
+            },
+            {
+                "title": "Cafe amudham hsr layout price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+hsr+layout+price&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "Cafe amudham hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+hsr+layout+reviews&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh3EAE"
+            },
+            {
+                "title": "Cafe Amudham hsr Layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Amudham+hsr+Layout+menu&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh-EAE"
+            },
+            {
+                "title": "Cafe amudham bellandur",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+bellandur&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh9EAE"
+            },
+            {
+                "title": "Cafe Amudham HSR Layout photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Amudham+HSR+Layout+photos&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "Cafe amudham sarjapur",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+sarjapur&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh7EAE"
+            },
+            {
+                "title": "Cafe Amudham HSR layout offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+Amudham+HSR+layout+offers&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh6EAE"
+            },
+            {
+                "title": "Cafe amudham hsr layout contact number",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+hsr+layout+contact+number&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh4EAE"
+            },
+            {
+                "title": "Cafe amudham hsr layout price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+amudham+hsr+layout+price&sa=X&ved=2ahUKEwicuqGD_KuUAxXzq5UCHVm5C-kQ1QJ6BAh5EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Cafe Amudham, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/cafe-amudham-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Average Cost. \u20b9300 for two people (approx.) ... How do we calculate cost for two? Cash and Cards accepted. More Info. Dinner. Breakfast. Lunch. Home delivery.Read more",
+                "emphasizedKeywords": [
+                    "Average Cost. \u20b9300 for two people (approx"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.3,
+                "numberOfReviews": 18,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Caf\u00e9 Amudham",
+                "url": "https://cafeamudham.com/",
+                "displayedUrl": "https://cafeamudham.com",
+                "description": "\u201cWe go to this place when we crave for South India cuisine. They have array of dosa, idly, vada, rice items. Food tastes ultimate and the service is quick\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "They have array of dosa, idly, vada, rice items"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Cafe Amudham | HSR, Bangalore | South Indian Restaurant",
+                "url": "https://www.district.in/dining/bangalore/cafe-amudham-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a cafe-amudham-hsr-ban...",
+                "description": "1 / 6. Cafe Amudham. 3.3. 17/N, Ground Floor, 18th Cross, 3rd Sector, HSR, Bangalore. \u20b9300 for two. Open \u2022 10:00 AM to 10:00 PM. Directions Share CallRead more",
+                "emphasizedKeywords": [
+                    "17/N, Ground Floor, 18th Cross, 3rd Sector, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Cafe Amudham (@cafeamudham)",
+                "url": "https://www.instagram.com/cafeamudham/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cafeamudham",
+                "description": "Koramangala  Jayanagar Gandhinagar RT Nagar HSR layout ... \u2022 Cafe Amudham \u2022South Indian Food \u2022Flavours of India \u2022 Bangalore \u2022Punjabi Bagh \u2022 West Delhi\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "HSR layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "29.9K+ followers",
+                "channelName": "cafeamudham",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Cafe Amudham Hsr Layout - Bangalore",
+                "url": "https://www.justdial.com/Bangalore/Cafe-Amudham-Hsr-Layout-Hsr-Layout/080PXX80-XX80-241129211302-H9Q3_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Cafe-Amudham-...",
+                "description": "Order Food Online from Cafe Amudham Hsr Layout in Hsr Layout,Bangalore well known for South Indian Restaurants in Bangalore .",
+                "emphasizedKeywords": [
+                    "Order Food Online from Cafe Amudham Hsr Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.8,
+                "numberOfReviews": 844,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "@cafeamudham now at HSR Layout \u2764\ufe0f Address: Cafe ...",
+                "url": "https://www.instagram.com/reel/DB9EsvXy6l0/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0bangaloreepicure",
+                "description": "This massive space is designed to host over 600 guests with a grand opening soon. Beyond food, it brings together an amphitheatre, serene temple\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "1K+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:24",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Cafe Amudham - HSR Layout",
+                "url": "https://www.swiggy.com/city/bangalore/cafe-amudham-hsr-layout-rest994876",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Enjoy delicious meals from Cafe Amudham in HSR Layout, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery on Swiggy.",
+                "emphasizedKeywords": [
+                    "Cafe Amudham in HSR Layout, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Cafe Amudham HSR Layout - ground floor, 17/N, 18th Cross ...",
+                "url": "https://www.corner.inc/place/750349",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "Serves pongal, chutneys, and sambar for breakfast, lunch, and dinner. Family-friendly with a small play area for kids. Offers coffee and juices in a\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Serves pongal, chutneys, and sambar for breakfast, lunch, and dinner"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Cafe Amudham HSR Bangalore",
+                "url": "https://atelierasraya.com/hospitality/new-portfolio-item",
+                "displayedUrl": "https://atelierasraya.com \u203a hospitality \u203a new-portfolio-item",
+                "description": "DETAILS. Location: HSR, Bangalore, India. Status: Complete. Amudhan_HSR_8.jpg. Amudhan_HSR_9.jpg. Amudhan_HSR_10.jpg. Amudhan_HSR_11.jpg. Amudhan_HSR_12.jpg.Read more",
+                "emphasizedKeywords": [
+                    "DETAILS"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Today breakfast at Cafe Amudham (HSR layout)Taste was ...",
+                "url": "https://www.facebook.com/groups/1034011451312380/posts/1401287131251475/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0FOODGASM",
+                "description": "Loved their Madurai-style Idly Sambar with 3 types of Chutneys. The Idlis were silky soft and with the crunchy Medu Vadai, it tasted amazing.Read more",
+                "emphasizedKeywords": [
+                    "Loved their Madurai-style Idly Sambar with 3 types of Chutneys"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1 year ago",
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Caf\u00e9 Amudham is all about authentic, comforting South Indian flavors. From crispy golden dosas and soft fluffy idlis to flavorful chutneys and perfectly brewed filter coffee, every bite feels simple, fresh and satisfying.",
+                "question": "What is Cafe Amudham HSR known for?",
+                "title": "Caf\u00e9 Amudham \u2014 one of Bengaluru's fastest-growing South ... - Instagram",
+                "url": "https://www.instagram.com/reel/DSJntrrj2Q_/#:~:text=Caf%C3%A9%20Amudham%20is%20all%20about,feels%20simple%2C%20fresh%20and%20satisfying.",
+                "date": "Dec 11, 2025"
+            },
+            {
+                "answer": "Diners rave about the freshness of the ingredients, as highlighted by customer Arjun P., who noted the quality and warm service, making it a perfect spot for both a quick bite and a leisurely meal. The extensive menu features standout dishes such as the Ghee Pudi Thatte Idli and the flavorful Ghee Garlic Button Idli.",
+                "question": "Is Amudham Cafe good for a quick bite?",
+                "title": "Cafe Amudham - A Taste of Authentic South Indian Cuisine in Bengaluru",
+                "url": "https://cafe-amudham.goto-where.com/#:~:text=Diners%20rave%20about%20the%20freshness,flavorful%20Ghee%20Garlic%20Button%20Idli.",
+                "date": null
+            },
+            {
+                "answer": "Co-Founder & CEO - Ms. Priyanka Rudrappa Ms. Priyanka Rudrappa, a fashion designer by profession running a successful business and a foodie by nature ventured into the food business in 2021 and has emerged as an upcoming entrepreneur with Vision and mission to build a global brand.",
+                "question": "Who is the owner of Cafe Amudham?",
+                "title": "About Us - Caf\u00e9 Amudham",
+                "url": "https://cafeamudham.com/about.html#:~:text=Co%2DFounder%20%26%20CEO%20%2D%20Ms,to%20build%20a%20global%20brand.",
+                "date": null
+            },
+            {
+                "answer": "Cafe Amudham Hsr Layout In Hsr Layout, Bangalore | Reserve Your Table Now.",
+                "question": "Does Cafe Amudham HSR take reservations?",
+                "title": "Cafe Amudham HSR Layout - Swiggy",
+                "url": "https://www.swiggy.com/restaurants/cafe-amudham-hsr-layout-hsr-layout-bangalore-994876/dineout#:~:text=Cafe%20Amudham%20Hsr%20Layout%20In,Bangalore%20%7C%20Reserve%20Your%20Table%20Now",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/6lbvTQJNDmZVmVXBx/records/GJ6ahJiwpmWdsQo-0.html?signature=u2f5zV5NlzyqQVyY2pCr"
+    }
+]

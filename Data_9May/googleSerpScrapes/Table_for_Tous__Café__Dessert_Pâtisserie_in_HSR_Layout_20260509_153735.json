@@ -1,0 +1,200 @@
+[
+    {
+        "#debug": {
+            "requestId": "v5Z3mKKYGkLNlcs",
+            "url": "http://www.google.com/search?q=Table+for+Tous+%E2%80%93+Caf%C3%A9+%26+Dessert+P%C3%A2tisserie+in+HSR+Layout",
+            "loadedUrl": "http://www.google.com/search?q=Table+for+Tous+%E2%80%93+Caf%C3%A9+%26+Dessert+P%C3%A2tisserie+in+HSR+Layout",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Table for Tous \u2013 Caf\u00e9 & Dessert P\u00e2tisserie in HSR Layout",
+            "url": "http://www.google.com/search?q=Table+for+Tous+%E2%80%93+Caf%C3%A9+%26+Dessert+P%C3%A2tisserie+in+HSR+Layout",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Table+for+Tous+%E2%80%93+Caf%C3%A9+%26+Dessert+P%C3%A2tisserie+in+HSR+Layout",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Table for tous caf\u00e9 & dessert p\u00e2tisserie in hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Table+for+tous+caf%C3%A9+%26+dessert+p%C3%A2tisserie+in+hsr+layout+reviews&sa=X&ved=2ahUKEwjHttXx-quUAxVPILkGHQ7aCbQQ1QJ6BAh-EAE"
+            },
+            {
+                "title": "Table for tous caf\u00e9 & dessert p\u00e2tisserie in hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Table+for+tous+caf%C3%A9+%26+dessert+p%C3%A2tisserie+in+hsr+layout+menu&sa=X&ved=2ahUKEwjHttXx-quUAxVPILkGHQ7aCbQQ1QJ6BQiaARAB"
+            },
+            {
+                "title": "Table for tous caf\u00e9 & dessert p\u00e2tisserie in hsr layout photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Table+for+tous+caf%C3%A9+%26+dessert+p%C3%A2tisserie+in+hsr+layout+photos&sa=X&ved=2ahUKEwjHttXx-quUAxVPILkGHQ7aCbQQ1QJ6BQicARAB"
+            },
+            {
+                "title": "Table for tous caf\u00e9 & dessert p\u00e2tisserie in hsr layout contact",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Table+for+tous+caf%C3%A9+%26+dessert+p%C3%A2tisserie+in+hsr+layout+contact&sa=X&ved=2ahUKEwjHttXx-quUAxVPILkGHQ7aCbQQ1QJ6BQiZARAB"
+            },
+            {
+                "title": "Table for Tous photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Table+for+Tous+photos&sa=X&ved=2ahUKEwjHttXx-quUAxVPILkGHQ7aCbQQ1QJ6BQiVARAB"
+            },
+            {
+                "title": "Table for Tous Offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Table+for+Tous+Offers&sa=X&ved=2ahUKEwjHttXx-quUAxVPILkGHQ7aCbQQ1QJ6BQiQARAB"
+            },
+            {
+                "title": "Table for Tous reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Table+for+Tous+reviews&sa=X&ved=2ahUKEwjHttXx-quUAxVPILkGHQ7aCbQQ1QJ6BQiHARAB"
+            },
+            {
+                "title": "Cafes in HSR",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafes+in+HSR&sa=X&ved=2ahUKEwjHttXx-quUAxVPILkGHQ7aCbQQ1QJ6BQiAARAB"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Table For Tous, HSR, Bangalore",
+                "url": "https://www.zomato.com/TableForTous",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "146, 2nd Floor, Sector 5, Ring Road, HSR, Bangalore. Popular Dishes. Coffee Eclair, Chocolate Cookies, Garlic Bread, Desserts, Cake. People Say This Place Is\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "146, 2nd Floor, Sector 5, Ring Road, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.9,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Table for Tous",
+                "url": "https://www.tablefortous.com/?srsltid=AfmBOopgFqxMWIggq-QxagiXJ7Z_JFvki75_7YJ56exodAHIhCG8rSYH",
+                "displayedUrl": "https://www.tablefortous.com",
+                "description": "Table for Tous. Welcome to Table for Tous. Specialty coffee, signature choux pastries, and a cozy space to unwind. View Dine-in Menu. View Takeaway Menu. View\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Specialty coffee, signature choux pastries, and a cozy space to unwind"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Table for Tous (@tablefortous)",
+                "url": "https://www.instagram.com/tablefortous/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0tablefortous",
+                "description": "Gourmet Patisserie and Cafe in Bangalore! Dine-in at HSR Layout - 11am -12am \u2615\ufe0f Delivery - 9am - 3am Closed on Tuesdays!Read more",
+                "emphasizedKeywords": [
+                    "Dine-in at HSR Layout - 11am -12am"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.3K+ followers",
+                "channelName": "tablefortous",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "TABLE FOR TOUS, Bengaluru - Menu, Prices & Restaurant ...",
+                "url": "https://www.tripadvisor.in/Restaurant_Review-g297628-d26661934-Reviews-Table_for_Tous-Bengaluru_Bangalore_District_Karnataka.html",
+                "displayedUrl": "https://www.tripadvisor.in \u203a ... \u203a Bengaluru Restaurants",
+                "description": "Table for Tous is a hidden gem in HSR Layout. The vibe is calm and welcoming, ideal for brunch or a cozy evening coffee date. The choux pastries are a must-try,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Table for Tous is a hidden gem in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.6,
+                "numberOfReviews": 7,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Table for Tous | Bangalore",
+                "url": "https://www.facebook.com/tablefortous/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Table for Tous",
+                "description": "Hands-on Eggless Tiramisu Workshop at Table for Tous, HSR Layout \u200d      \u200d   Booking link is in the bio. \u2728 15th & 22nd Feb, Sunday \u23f0 4:00 PM to 7:00 PM.Read more",
+                "emphasizedKeywords": [
+                    "Hands-on Eggless Tiramisu Workshop at Table for Tous, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "10+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Table For Tous | HSR, Bangalore | Book Table",
+                "url": "https://www.district.in/dining/TableForTous",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a TableForTous",
+                "description": "About the restaurant. Cost. \u20b91100 for two. Cuisines. Desserts, Bakery, Coffee, Cake. Available facilities. \u2756Home delivery. \u2756Stags allowed. \u2756Work friendly.Read more",
+                "emphasizedKeywords": [
+                    "Cost. \u20b91100 for two"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "About Table for Tous, HSR, South Bengaluru",
+                "url": "https://www.eazydiner.com/bengaluru/table-for-tous-hsr-south-bengaluru-694416/about",
+                "displayedUrl": "https://www.eazydiner.com \u203a bengaluru \u203a about",
+                "description": "146, 2nd floor, Outer Ring Road, Sector 5, 1st Sector, HSR Layout, Bengaluru. Get direction. Today, 11:00 AM - 12:00 AM. See restaurant timing.Read more",
+                "emphasizedKeywords": [
+                    "146, 2nd floor, Outer Ring Road, Sector 5, 1st Sector, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 9,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Table for Tous - Caf\u00e9 & Dessert P\u00e2tisserie in HSR Layout",
+                "url": "https://mindtrip.ai/restaurant/bengaluru-karnataka/table-tous-cafe-dessert-patisserie-hsr-layout/re-LzYCFH5Z",
+                "displayedUrl": "https://mindtrip.ai \u203a restaurant \u203a bengaluru-karnataka \u203a t...",
+                "description": "Table for Tous is a caf\u00e9 and dessert p\u00e2tisserie situated in HSR Layout, Bengaluru, India. The establishment is renowned for its gourmet French desserts,\u00a0...",
+                "emphasizedKeywords": [
+                    "Table for Tous is a caf\u00e9 and dessert p\u00e2tisserie situated in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Table for Tous (@tablefortous) \u2022 Instagram photos and videos.",
+                "question": "Is Table for Tous on social media?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "\ud83d\udccd The Cheesecake Factory Bakery has officially opened its first India outlet in Bengaluru. Located at the Mall of Asia, The outlet offers its famous, decadent cheesecakes, marking its entry into the Indian market.",
+                "question": "Is the cheesecake factory coming to Bangalore?",
+                "title": "Cheesecake Factory Bakery now in BANGALORE - Instagram",
+                "url": "https://www.instagram.com/reel/DVbccvFj7Bh/#:~:text=%F0%9F%93%8D%20The%20Cheesecake%20Factory%20Bakery,entry%20into%20the%20Indian%20market.",
+                "date": "Mar 3, 2026"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/1zMQGONHdOfafr8yv/records/v5Z3mKKYGkLNlcs-0.html?signature=1sSIwo4opPSQdG9RvHET3"
+    }
+]

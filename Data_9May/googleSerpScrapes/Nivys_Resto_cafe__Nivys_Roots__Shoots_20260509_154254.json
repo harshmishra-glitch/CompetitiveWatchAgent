@@ -1,0 +1,209 @@
+[
+    {
+        "#debug": {
+            "requestId": "hJMjRDvCpIhaSFP",
+            "url": "http://www.google.com/search?q=Nivy%E2%80%99s+Resto+cafe+%2F+Nivy%E2%80%99s+Roots+%26+Shoots",
+            "loadedUrl": "http://www.google.com/search?q=Nivy%E2%80%99s+Resto+cafe+%2F+Nivy%E2%80%99s+Roots+%26+Shoots",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Nivy\u2019s Resto cafe / Nivy\u2019s Roots & Shoots",
+            "url": "http://www.google.com/search?q=Nivy%E2%80%99s+Resto+cafe+%2F+Nivy%E2%80%99s+Roots+%26+Shoots",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Nivy%E2%80%99s+Resto+cafe+%2F+Nivy%E2%80%99s+Roots+%26+Shoots",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Nivy's resto cafe nivy's roots & shoots menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Nivy%27s+resto+cafe+nivy%27s+roots+%26+shoots+menu&sa=X&ved=2ahUKEwjG576J_KuUAxVZTqQEHZj6B_YQ1QJ6BAhaEAE"
+            },
+            {
+                "title": "Nivys Cafe Menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Nivys+Cafe+Menu&sa=X&ved=2ahUKEwjG576J_KuUAxVZTqQEHZj6B_YQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Nivy's resto cafe nivy's roots & shoots reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Nivy%27s+resto+cafe+nivy%27s+roots+%26+shoots+reviews&sa=X&ved=2ahUKEwjG576J_KuUAxVZTqQEHZj6B_YQ1QJ6BAhqEAE"
+            },
+            {
+                "title": "Nivy's resto cafe nivy's roots & shoots restaurant",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Nivy%27s+resto+cafe+nivy%27s+roots+%26+shoots+restaurant&sa=X&ved=2ahUKEwjG576J_KuUAxVZTqQEHZj6B_YQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Nivys Resto Cafe garden centre menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Nivys+Resto+Cafe+garden+centre+menu&sa=X&ved=2ahUKEwjG576J_KuUAxVZTqQEHZj6B_YQ1QJ6BAhkEAE"
+            },
+            {
+                "title": "Nivys cafe HSR",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Nivys+cafe+HSR&sa=X&ved=2ahUKEwjG576J_KuUAxVZTqQEHZj6B_YQ1QJ6BAhhEAE"
+            },
+            {
+                "title": "Cafe near Me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cafe+near+Me&sa=X&ved=2ahUKEwjG576J_KuUAxVZTqQEHZj6B_YQ1QJ6BAheEAE"
+            },
+            {
+                "title": "Bakeyard The Garden Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Bakeyard+The+Garden+Cafe&sa=X&ved=2ahUKEwjG576J_KuUAxVZTqQEHZj6B_YQ1QJ6BAhdEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Nivy's Resto Cafe & Garden Centre (@nivysrestocafe)",
+                "url": "https://www.instagram.com/nivysrestocafe/?hl=en",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0nivysrestocafe",
+                "description": "Nivy's - South Bangalore's favorite Garden caf\u00e9 , restaurant & party spot with indoor/outdoor vibes-a store for exotic plants, pots & d\u00e9cor in Harlur.Read more",
+                "emphasizedKeywords": [
+                    "South Bangalore's favorite Garden caf\u00e9 , restaurant & party spot"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "11.9K+ followers",
+                "channelName": "nivysrestocafe",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Nivys Resto Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/nivys-resto-cafe-4-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Popular Dishes. Thai Green Chicken Curry, Chocolate Waffle, Grilled Chicken, Salad, Pasta, Pizza. People Say This Place Is Known For.Read more",
+                "emphasizedKeywords": [
+                    "Popular Dishes"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 912,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Nivy's Resto Cafe / Nivy's Roots & Shoots - Reviews, Photos ...",
+                "url": "https://nivys-resto-cafe-nivys-roots-shoots.wheree.com/",
+                "displayedUrl": "https://nivys-resto-cafe-nivys-roots-shoots.wheree.com",
+                "description": "Nivy's Resto Cafe stands out as a tranquil oasis in the bustling city of Bengaluru, inviting patrons to unwind and enjoy an exceptional dining experience.Read more",
+                "emphasizedKeywords": [
+                    "Nivy's Resto Cafe stands out as a tranquil oasis in the bustling city of Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Nivys Restocafe AndGardencentre (@nivys.s)",
+                "url": "https://www.facebook.com/nivys.s/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Nivys Restocafe AndGardencentre",
+                "description": "Come work from nature at Nivy's \u2014 where calm meets creativity. Sip your coffee, open your laptop, and let nature do the rest. \u2615   Harlur, HSR Extension,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Come work from nature at Nivy's"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.7K+ followers",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Nivy's Resto cafe / Nivy's Roots & Shoots in Bengaluru, India",
+                "url": "https://wanderboat.ai/restaurants/india/bengaluru/nivy%E2%80%99s-resto-cafe-%2F-nivy%E2%80%99s-roots-%26-shoots/nTD1Ik92Qu65P-yhCJfkPA",
+                "displayedUrl": "https://wanderboat.ai \u203a Bengaluru \u203a Karnataka \u203a India",
+                "description": "I love everything about Nivy's. From the outdoor seating to the quality and flavour of the food, this place has the ultimate vibes of a cafe. I have been here\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Nivy's",
+                    "cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Nivy's Resto Cafe is a cozy culinary retreat where comfort ...",
+                "url": "https://www.instagram.com/p/DVJIZxcDIoL/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0industrylivein",
+                "description": "Designed as a space to unwind, connect, and indulge, the caf\u00e9 offers a thoughtfully curated menu that blends global favourites with local\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Design"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "100+ likes",
+                "lastUpdated": "2 months ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Menu of Nivys Resto Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/nivys-resto-cafe-4-hsr-bangalore/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR \u203a Nivys Resto Cafe",
+                "description": "Nivys Resto Cafe, Cafe, Fast Food, Healthy Food, Mexican, Thai, Korean, Italian, Beverages, 98/1, Survey 98/4, Reliable Residency Layout, Phase 3, Lakedew, HSR\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "98/1, Survey 98/4, Reliable Residency Layout, Phase 3, Lakedew, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 912,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Glimpse of Nivys! #nivys #gardenstore #gardening ...",
+                "url": "https://www.facebook.com/100063762235485/videos/glimpse-of-nivys-nivysgardenstore-gardening-gardenersofinstagram-bangalore/357802876166856/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Nivy\u2019S Resto Cafe & Garden Centre",
+                "description": "Glimpse of Nivys! #nivys #gardenstore #gardening #gardenersofinstagram #bangalore - in HSR Layout. Sutapa Sen and 8 others.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "reactions": "9 reactions",
+                "lastUpdated": "4 years ago",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What is the 30/30/30 rule for restaurants?",
+                "title": null,
+                "url": "https://www.instagram.com/reel/DBEEEe3P0in/",
+                "date": null
+            },
+            {
+                "answer": "Nev's Cafe is renowned for its exceptional coffee. Whether you prefer a Cappuccino, Caf\u00e9 Mocha, or a Caf\u00e9 Flat White, you'll find the perfect cup to suit your taste.",
+                "question": "What is Nevs Cafe known for?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "The main difference between a cafe vs restaurant lies in their menu and atmosphere. Cafes primarily serve coffee, tea, and light snacks in a relaxed, casual setting. They're ideal for quick bites or leisurely sipping drinks. In contrast, restaurants offer full meals, including appetisers, main courses, and desserts.",
+                "question": "How does a cafe menu differ from a restaurant menu?",
+                "title": null,
+                "url": null,
+                "date": "Mar 22, 2026"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/8c4IqE84T3lDzey7x/records/hJMjRDvCpIhaSFP-0.html?signature=gQnsuSdMqdDTHNBRmTya"
+    }
+]

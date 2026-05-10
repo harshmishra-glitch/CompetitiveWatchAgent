@@ -1,0 +1,174 @@
+[
+    {
+        "#debug": {
+            "requestId": "fmRRyC0X0F7qnHr",
+            "url": "http://www.google.com/search?q=Arodda+Fusion+Cafe+-+Pure+Veg+%28Satvik%2C+Jain+and+Vaishnav+Options+available%29",
+            "loadedUrl": "http://www.google.com/search?q=Arodda+Fusion+Cafe+-+Pure+Veg+%28Satvik%2C+Jain+and+Vaishnav+Options+available%29",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav Options available)",
+            "url": "http://www.google.com/search?q=Arodda+Fusion+Cafe+-+Pure+Veg+%28Satvik%2C+Jain+and+Vaishnav+Options+available%29",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Arodda+Fusion+Cafe+-+Pure+Veg+%28Satvik%2C+Jain+and+Vaishnav+Options+available%29",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav ...",
+                "url": "https://wanderlog.com/place/details/10136017/arodda-fusion-cafe-pure-veg-satvik-jain-and-vaishnav-options-available",
+                "displayedUrl": "https://wanderlog.com \u203a place \u203a details \u203a arodda-fusion...",
+                "description": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav Options available) \u00b7 Experience a variety of fusion and North Indian dishes \u00b7 Enjoy refreshing coolers\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Arodda Fusion Cafe - Pure Veg"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav ...",
+                "url": "https://magicpin.in/Bangalore/Hsr-Layout-Sector-5/Restaurant/Arodda-Fusion-Cafe-Pure-Veg-(Satvik,-Jain-And-Vaishnav-Options-Available)/store/1978b56?srsltid=AfmBOooIao3hMdtKsLIGPSEonkP_rrrqTmaxqiJIeA2kJOi8Sje48nOQ",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav Options available) is a restaurant situated in HSR Layout Sector 5, Kasavanahalli, Bangalore.",
+                "emphasizedKeywords": [
+                    "is a restaurant situated in HSR Layout Sector 5, Kasavanahalli, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav ...",
+                "url": "https://mindtrip.ai/restaurant/bengaluru-karnataka/arodda-fusion-cafe-pure-veg-satvik-jain-vaishnav-options/re-U6qGCxrG",
+                "displayedUrl": "https://mindtrip.ai \u203a restaurant \u203a bengaluru-karnataka \u203a a...",
+                "description": "What specific satvik and jain dishes are available at Arodda Fusion Cafe? \u00b7 Which signature fusion dishes, like Momista or Waffraps, are most recommended at this\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "satvik",
+                    "jain",
+                    "available",
+                    "Arodda Fusion Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "arodda.cafe",
+                "url": "https://www.instagram.com/p/DWpx4bzGCiH/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0arodda.cafe",
+                "description": "\u2728 Made with the finest ingredients, pure veg goodness, and lots of love \u2764\ufe0f Visit Us: Near Saibaba Temple, Mangalagiri Call for Orders: 93817\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "pure veg"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "2 likes",
+                "lastUpdated": "1 month ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Newest all veg & jain friendly paradise in #bengaluru Discover ...",
+                "url": "https://www.instagram.com/reel/DKBU9fGvvY6/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0slurp_till_u_burp",
+                "description": "Newest Premium Pure Veg Restaurant Serving European, Indian, and Asian fusion dishes, in an upscale indoor/outdoor dining Must try Non\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "950+ likes",
+                "lastUpdated": "11 months ago",
+                "channelName": "reel",
+                "reelLength": "0:39",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "SHREE MUTHAHALLI VEG RESTAURANT | indian",
+                "url": "https://mindtrip.ai/restaurant/bengaluru-karnataka/shree-muthahalli-veg-restaurant/re-6NiUMPPR",
+                "displayedUrl": "https://mindtrip.ai \u203a restaurant \u203a bengaluru-karnataka \u203a s...",
+                "description": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav Options available). indian. Things to do near SHREE MUTHAHALLI VEG RESTAURANT. Agara Shree Jagannath\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Arodda Fusion Cafe - Pure Veg"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Empire Restaurant- HSR LAYOUT in Bengaluru, India",
+                "url": "https://wanderboat.ai/restaurants/india/bengaluru/empire-restaurant--hsr-layout/v-ZRfkwKQqa0tE5ZlEz8Rw",
+                "displayedUrl": "https://wanderboat.ai \u203a Bengaluru \u203a Karnataka \u203a India",
+                "description": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav Options available). 218, Shop # 1, 15th Cross, 9th Main Rd, Sector 6, HSR Layout, Bengaluru\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Arodda Fusion Cafe - Pure Veg"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Central Silk Board in Bengaluru, Karnataka | Ask Anything",
+                "url": "https://mindtrip.ai/attraction/bengaluru-karnataka/central-silk-board/at-OnJiHRLk",
+                "displayedUrl": "https://mindtrip.ai \u203a central-silk-board \u203a at-OnJiHRLk",
+                "description": "Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav Options available) photo ... Arodda Fusion Cafe - Pure Veg (Satvik, Jain and Vaishnav Options available).Read more",
+                "emphasizedKeywords": [
+                    "Arodda Fusion Cafe - Pure Veg"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Sattvik By Nature on Instagram: \"Pure Vegetarian & Jain ...",
+                "url": "https://www.instagram.com/reel/DVLqHHckiW6/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0sattvikbynature",
+                "description": "At Sattvik By Nature you get 100% pure vegetarian cuisine. Jain food options available with no onion, no garlic just authentic flavors. So plan\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "4 likes",
+                "lastUpdated": "2 months ago",
+                "channelName": "reel",
+                "reelLength": "0:36",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Our latest outlets are now open and ready to serve you with the same trusted quality, heartfelt hospitality, and pure vegetarian offerings that generations have loved.",
+                "question": "Is Sagar Ratna CP veg only?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zJiT5DXNVwMAD30Yd/records/fmRRyC0X0F7qnHr-0.html?signature=jzIRTBSs84CoV1GK0RXi"
+    }
+]

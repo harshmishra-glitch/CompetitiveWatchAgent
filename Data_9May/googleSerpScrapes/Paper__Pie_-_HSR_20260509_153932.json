@@ -1,0 +1,242 @@
+[
+    {
+        "#debug": {
+            "requestId": "oudjNdPx7nF3Xga",
+            "url": "http://www.google.com/search?q=Paper+%26+Pie+-+HSR",
+            "loadedUrl": "http://www.google.com/search?q=Paper+%26+Pie+-+HSR",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Paper & Pie - HSR",
+            "url": "http://www.google.com/search?q=Paper+%26+Pie+-+HSR",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Paper+%26+Pie+-+HSR",
+        "hasNextPage": true,
+        "serpProviderCode": "L",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Paper & pie hsr menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+%26+pie+hsr+menu&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhGEAE"
+            },
+            {
+                "title": "Paper and Pie, Indiranagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+and+Pie,+Indiranagar&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhdEAE"
+            },
+            {
+                "title": "Paper and pie Whitefield",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+and+pie+Whitefield&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "Paper and pie menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+and+pie+menu&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhSEAE"
+            },
+            {
+                "title": "Paper & pie hsr reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+%26+pie+hsr+reviews&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhQEAE"
+            },
+            {
+                "title": "Paper and pie bellandur",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+and+pie+bellandur&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Paper & Pie photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+%26+Pie+photos&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhJEAE"
+            },
+            {
+                "title": "Paper pie Bengaluru",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+pie+Bengaluru&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhHEAE"
+            },
+            {
+                "title": "Paper & pie hsr menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+%26+pie+hsr+menu&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhGEAE"
+            },
+            {
+                "title": "Paper and Pie, Indiranagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+and+Pie,+Indiranagar&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhdEAE"
+            },
+            {
+                "title": "Paper and pie Whitefield",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+and+pie+Whitefield&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "Paper and pie menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+and+pie+menu&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhSEAE"
+            },
+            {
+                "title": "Paper & pie hsr reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+%26+pie+hsr+reviews&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhQEAE"
+            },
+            {
+                "title": "Paper and pie bellandur",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+and+pie+bellandur&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Paper & Pie photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+%26+Pie+photos&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhJEAE"
+            },
+            {
+                "title": "Paper pie Bengaluru",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Paper+pie+Bengaluru&sa=X&ved=2ahUKEwi2stOl-6uUAxWGS3ADHUR5AhEQ1QJ6BAhHEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Paper and Pie (@paperandpiebangalore)",
+                "url": "https://www.instagram.com/paperandpiebangalore/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0paperandpiebangalore",
+                "description": "... Paper & Pie! For your slow mornings, quick catch-ups, work days, and everything in between. We are spread across Indiranagar, HSR, Bellandur, Whitefield & more.",
+                "emphasizedKeywords": [
+                    "We are spread across Indiranagar, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "21.1K+ followers",
+                "channelName": "paperandpiebangalore",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Paper And Pie, Indiranagar, Bangalore",
+                "url": "https://www.zomato.com/bangalore/paper-and-pie-indiranagar-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Indiranagar",
+                "description": "See all 2 Paper And Pie outlets in Bengaluru. People Say This Place Is Known For. Good Wifi, Weekend Brunch, Cafe, Elaborate Menu, Good Music, Young Crowd\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Paper",
+                    "Pie"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.3,
+                "numberOfReviews": 238,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Paper & Pie Cafe | Bangalore",
+                "url": "https://www.facebook.com/paperandpieblr/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Paper & Pie Cafe",
+                "description": "Visit us or call us at 9035700876 / 9035700878 for Conference / Podcast room bookings and further details! 100 Feet Rd, Indiranagar Nallurhalli, Whitefield\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "100 Feet Rd, Indiranagar Nallurhalli, Whitefield"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 1,
+                "followersAmount": "2K+ followers",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Paper & Pie - HSR - 348, GF, 17th Main, 15th Cross Rd ...",
+                "url": "https://www.corner.inc/place/1115351",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "Coffee shop inside a bookstore where you can pull books off the shelves while you sip. Philosophy section right at the entrance hooks you before you even order.Read more",
+                "emphasizedKeywords": [
+                    "Coffee shop inside a bookstore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "A quiet little book-lovers meetup at Paper & Pie, HSR",
+                "url": "https://www.reddit.com/r/BangaloreMeetups/comments/1szuz6f/a_quiet_little_booklovers_meetup_at_paper_pie_hsr/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/BangaloreMeetups",
+                "description": "Not a formal book club. Not an intellectual performance. Not a networking event disguised as one, Just a warm, casual meetup for people who love\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Just a warm, casual meetup"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "commentsAmount": "30+ comments",
+                "lastUpdated": "1 week ago",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Paper & Pie - HSR, HSR Layout Sector 4, Bangalore",
+                "url": "https://magicpin.in/Bangalore/Hsr-Layout-Sector-4/Restaurant/Paper-and-Pie-Hsr/store/1b04110?srsltid=AfmBOoqMxVzwvULXMZZFxFXc1bC01rp8B0oFRqXuBhCfvsScjaBOPyXM",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "Paper & Pie - HSR is a popular eating spot in the HSR Layout Sector 4, Kasavanahalli area of Bangalore. Visit the store for more information.",
+                "emphasizedKeywords": [
+                    "is a popular eating spot in the HSR Layout Sector 4, Kasavanahalli area of Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Paper & Pie Opens its Fourth Outlet in Bengaluru as Part ...",
+                "url": "https://www.restaurantindia.in/news/restaurant-india-news-paper-pie-opens-its-fourth-outlet-in-bengaluru-as-part-of-ink-oak-s",
+                "displayedUrl": "https://www.restaurantindia.in \u203a news \u203a restaurant-india-...",
+                "description": "Bengaluru's beloved cafe and community hub, Paper & Pie opens in HSR Layout, as part of Ink & Oak's newest Experiential Bookstore,\u00a0...Read more",
+                "date": "2025-10-14T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Paper & Pie opens in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Paper & Pie, Bellandur, Bangalore",
+                "url": "https://www.zomato.com/bangalore/paper-pie-bellandur-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Bellandur",
+                "description": "RMZ ECOWORLD, Campus 31, Adarsh Palm Retreat, Bellandur, Bangalore. ClosedOpens at 8am. Menu. See all menus. Food Menu menu. Food Menu. 11 pages.Read more",
+                "emphasizedKeywords": [
+                    "Campus 31, Adarsh Palm Retreat, Bellandur, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 7,
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "aiOverview": {
+            "type": "live",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://www.instagram.com/p/DP0nYGvj4xm/",
+                    "title": "#Caf\u00e9Vibes Paper & Pie(@paperandpiebangalore), ... - Instagram",
+                    "description": "Oct 15, 2568 BE \u2014 Paper & Pie(@paperandpiebangalore), Bengaluru's popular caf\u00e9, has opened its fourth branch in HSR Layout, partnering with Ink & Oa..."
+                },
+                {
+                    "url": "https://www.instagram.com/reel/DP6GXOwj4Ej/",
+                    "title": "Paper & Pie x Ink & Oak, HSR Layout \u2764\ufe0f Where coffee ...",
+                    "description": "Oct 17, 2568 BE \u2014 hey everyone I'm finally here at the paper and pie which is now part of the beautiful Incano book store in Hisal. layout it's thei..."
+                },
+                {
+                    "url": "https://www.instagram.com/p/DXeTpzQjI0G/?img_index=2",
+                    "title": "Paper and Pie on Instagram: \"This World Book Day, we\u2019re turning ...",
+                    "description": "Apr 23, 2569 BE \u2014 Here's to one of the most amazing hangout spots for all the bookworms out there! \ud83d\udcda\u2728 This place is a perfect blend of a cozy cafe ..."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/L52bX1EcFRWLiLRMz/records/oudjNdPx7nF3Xga-0.html?signature=nS8cczsSN9Y624JN9cVd"
+    }
+]

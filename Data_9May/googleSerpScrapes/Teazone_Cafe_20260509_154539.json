@@ -1,0 +1,231 @@
+[
+    {
+        "#debug": {
+            "requestId": "ACdBihFf3270I7p",
+            "url": "http://www.google.com/search?q=Teazone+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=Teazone+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Teazone Cafe",
+            "url": "http://www.google.com/search?q=Teazone+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Teazone+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Teazone cafe near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+near+me&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Teazone cafe locations",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+locations&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Teazone cafe owner",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+owner&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Teazone menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+menu&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Teazone cafe menu prices",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+menu+prices&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "Teazone cafe reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+reviews&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Teazone cafe prices",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+prices&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg5EAE"
+            },
+            {
+                "title": "5025 Olentangy River Rd, Columbus, OH 43214",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=5025+Olentangy+River+Rd,+Columbus,+OH+43214&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Teazone cafe near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+near+me&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Teazone cafe locations",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+locations&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Teazone cafe owner",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+owner&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Teazone menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+menu&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Teazone cafe menu prices",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+menu+prices&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "Teazone cafe reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+reviews&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Teazone cafe prices",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Teazone+cafe+prices&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg5EAE"
+            },
+            {
+                "title": "5025 Olentangy River Rd, Columbus, OH 43214",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=5025+Olentangy+River+Rd,+Columbus,+OH+43214&sa=X&ved=2ahUKEwiIz43Y_KuUAxXySfEDHW1WOxUQ1QJ6BAg3EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Tea Zone Bakery and Cafe Columbus Cakes and Bingsu",
+                "url": "https://www.teazonebakery.com/",
+                "displayedUrl": "https://www.teazonebakery.com",
+                "description": "After many wonderful years, our bakery is closing its doors for good on December 31st, 2025. We are so grateful for your support, loyalty, and love over the\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "our bakery is closing its doors for good on December 31st, 2025"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "TEA ZONE BAKERY & CAFE - Columbus, Ohio",
+                "url": "https://www.yelp.com/biz/tea-zone-bakery-and-cafe-columbus",
+                "displayedUrl": "https://www.yelp.com \u203a Columbus, OH \u203a Food \u203a Bakeries",
+                "description": "TEA ZONE BAKERY & CAFE - CLOSED - Try Our New Menu - 5025 Olentangy River Rd, Columbus, OH 43214, 196 Photos, (614) 326-0489, Mon - Closed, Tue - Closed,\u00a0...",
+                "emphasizedKeywords": [
+                    "5025 Olentangy River Rd, Columbus, OH 43214"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 119,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Tea Zone Bakery & Cafe, a 20-year-old local favorite, is ...",
+                "url": "https://www.facebook.com/614magazine/posts/tea-zone-bakery-cafe-a-20-year-old-local-favorite-is-closing-its-doors-dont-miss/1251011717074586/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0614",
+                "description": "After 5 years of pouring love into every cup, we've made the bittersweet decision to close our doors on December 13th. This isn't goodbye to\u00a0...Read more",
+                "date": "2031-05-09T10:15:31.647Z",
+                "emphasizedKeywords": [
+                    "close our doors on December 13th"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "reactions": "5 reactions",
+                "lastUpdated": "4 months ago",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Tea Zone Bakery & Cafe (@teazonebakeryandcafe)",
+                "url": "https://www.instagram.com/teazonebakeryandcafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0teazonebakeryandcafe",
+                "description": "Bubble Tea. Bread. Cakes. High quality tea. korean food. Est. 2006 \u2764 Just a family owned restaurant with hopes and dreams 5025 Olentangy River Rd. Follow.Read more",
+                "emphasizedKeywords": [
+                    "5025 Olentangy River Rd"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "310+ followers",
+                "channelName": "teazonebakeryandcafe",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Tea Zone Coffee & Tea - Tea Leaves and ... - LollicupStore",
+                "url": "https://lollicupstore.com/pages/tea-zone-coffee-tea",
+                "displayedUrl": "https://lollicupstore.com \u203a pages \u203a tea-zone-coffee-tea",
+                "description": "Tea Zone Coffee N' Tea. A delightful accompaniment. Whether you're enjoying a hearty breakfast or a light afternoon snack, sipping on a cup of tea or coffee can\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Tea Zone Coffee N' Tea"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Tea Zone Bakery & Cafe - Columbus Restaurants",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g50226-d5003845-Reviews-Tea_Zone_Bakery_Cafe-Columbus_Ohio.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Columbus Restaurants",
+                "description": "Tea Zone Bakery & Cafe specializes in baked goods such as our specialty breads and cakes. Our breads include sweet red bean bread, Soboro (cookie top) bread,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Tea Zone Bakery & Cafe specializes in baked goods"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 8,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "20-year-old bakery cafe in Columbus abruptly closes",
+                "url": "https://www.nbc4i.com/news/local-news/columbus/20-year-old-bakery-cafe-in-columbus-abruptly-closes/",
+                "displayedUrl": "https://www.nbc4i.com \u203a news \u203a local-news \u203a 20-year-...",
+                "description": "On Dec. 29, Tea Zone Bakery and Cafe announced on Facebook that it would shut down two days later, on Dec. 31. The shop operated at 5025\u00a0...Read more",
+                "date": "2026-01-06T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Tea Zone Bakery and Cafe announced on Facebook that it would shut down"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Coffee and Tea Zone - Colorado Springs, CO",
+                "url": "https://joe.coffee/locations/co/colorado-springs/coffee-and-tea-zone-colorado-springs-a0282227-0c46-41bc-8f00-ef630afe2704/",
+                "displayedUrl": "https://joe.coffee \u203a ... \u203a Colorado \u203a Colorado Springs",
+                "description": "\"Cute coffee shop! They serve coffee, tea, pastries and even ice cream. Was able to find gluten free and vegan coffee cakes and they offer alternative dairy\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "They serve coffee, tea, pastries and even ice cream"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Coffee & Tea Zone",
+                "url": "https://coffeeandteazone.com/",
+                "displayedUrl": "https://coffeeandteazone.com",
+                "description": "Locally owned and operated since 2001, we specialize in coffee, boba, and teas! Come check us out at our three locations. Visit us on Downtown\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "we specialize in coffee, boba, and teas"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/FfgWFF2a9KJzSxgao/records/ACdBihFf3270I7p-0.html?signature=5WRU5KMhWSdN0BxZCj7t"
+    }
+]

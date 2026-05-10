@@ -1,0 +1,207 @@
+[
+    {
+        "#debug": {
+            "requestId": "8hKHQkE6EHDtN3u",
+            "url": "http://www.google.com/search?q=The+Digitale+Chef+-+Vegan+Patisserie+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=The+Digitale+Chef+-+Vegan+Patisserie+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "The Digitale Chef - Vegan Patisserie Cafe",
+            "url": "http://www.google.com/search?q=The+Digitale+Chef+-+Vegan+Patisserie+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=The+Digitale+Chef+-+Vegan+Patisserie+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "The digitale chef vegan patisserie cafe review",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=460606e7be098232&gl=US&hl=en&q=The+digitale+chef+vegan+patisserie+cafe+review&sa=X&ved=2ahUKEwjwtqGc-6uUAxWxl5UCHeKrKGoQ1QJ6BAhwEAE"
+            },
+            {
+                "title": "The digitale chef vegan patisserie cafe menu",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=460606e7be098232&gl=US&hl=en&q=The+digitale+chef+vegan+patisserie+cafe+menu&sa=X&ved=2ahUKEwjwtqGc-6uUAxWxl5UCHeKrKGoQ1QJ6BQiJARAB"
+            },
+            {
+                "title": "The digitale chef vegan patisserie cafe hsr",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=460606e7be098232&gl=US&hl=en&q=The+digitale+chef+vegan+patisserie+cafe+hsr&sa=X&ved=2ahUKEwjwtqGc-6uUAxWxl5UCHeKrKGoQ1QJ6BQiIARAB"
+            },
+            {
+                "title": "The Digitale Chef menu",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=460606e7be098232&gl=US&hl=en&q=The+Digitale+Chef+menu&sa=X&ved=2ahUKEwjwtqGc-6uUAxWxl5UCHeKrKGoQ1QJ6BQiDARAB"
+            },
+            {
+                "title": "The Digitale Chef vegan patisserie cafe photos",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=460606e7be098232&gl=US&hl=en&q=The+Digitale+Chef+vegan+patisserie+cafe+photos&sa=X&ved=2ahUKEwjwtqGc-6uUAxWxl5UCHeKrKGoQ1QJ6BAh-EAE"
+            },
+            {
+                "title": "Digitale Cafe",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=460606e7be098232&gl=US&hl=en&q=Digitale+Cafe&sa=X&ved=2ahUKEwjwtqGc-6uUAxWxl5UCHeKrKGoQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "Crave by Leena",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=460606e7be098232&gl=US&hl=en&q=Crave+by+Leena&sa=X&ved=2ahUKEwjwtqGc-6uUAxWxl5UCHeKrKGoQ1QJ6BAh1EAE"
+            },
+            {
+                "title": "Vegan cakes Bangalore",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=460606e7be098232&gl=US&hl=en&q=Vegan+cakes+Bangalore&sa=X&ved=2ahUKEwjwtqGc-6uUAxWxl5UCHeKrKGoQ1QJ6BAhxEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "The Digitale Chef | Vegan Patisserie Cafe in HSR Layout ...",
+                "url": "https://thedigitalechef.com/tdc/",
+                "displayedUrl": "https://thedigitalechef.com \u203a tdc",
+                "description": "Bengaluru's 100% Vegan Patisserie Cafe in HSR Layout. Indulge in vegan cheesecakes, cakes, pizzas & desserts baked ethically & sustainably.",
+                "emphasizedKeywords": [
+                    "Bengaluru's 100% Vegan Patisserie Cafe in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "The Digitale Chef - Vegan Patisserie Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/thedigitalechef",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "The Digitale Chef - Vegan Patisserie Cafe, Cafe, Beverages, Sandwich, Ice Cream, Desserts, Bakery, 943, Ground Floor, 16th A Main, 24th Cross, Sector 3,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "The Digitale Chef",
+                    "Vegan Patisserie Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 11,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "The Digitale Chef - Vegan Patisserie Cafe | HSR, Bangalore",
+                "url": "https://www.district.in/dining/thedigitalechef",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a thedigitalechef",
+                "description": "This cafe is run jointly by chef Vinay and his wife Swetha. I frequently order from them. I must say, their cakes are nothing short of extraordinary.Read more",
+                "emphasizedKeywords": [
+                    "their cakes are nothing short of extraordinary"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Vegan Patisserie Cafe \u00ae\ufe0f (@thedigitalechef)",
+                "url": "https://www.instagram.com/thedigitalechef/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0thedigitalechef",
+                "description": "Ethically Crafted Vegan Patisserie & Cafe Mon-Tue: 12-9pm; Thur-Sun: 12-9pm; 7483894320 \u200d   @vinaychaitanyad : Founder Chef Estd: 2021.Read more",
+                "emphasizedKeywords": [
+                    "Ethically Crafted Vegan Patisserie & Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.8K+ followers",
+                "channelName": "thedigitalechef",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "The Digitale Chef - Vegan Patisserie Cafe, HSR order online",
+                "url": "https://www.zomato.com/thedigitalechef/order",
+                "displayedUrl": "https://www.zomato.com \u203a thedigitalechef \u203a order",
+                "description": "The Digitale Chef - Vegan Patisserie Cafe \u00b7 Cafe \u00b7 Beverages \u00b7 Sandwich \u00b7 Ice Cream \u00b7 Desserts \u00b7 Bakery. 4.3. DELIVERY. More Info. Order on app. Experience\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "The Digitale Chef - Vegan Patisserie Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 11,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "The Digitale Chef ~ Vegan Patisserie Cafe",
+                "url": "https://in.linkedin.com/showcase/the-digitale-chef-vegan-patisserie-cafe/",
+                "displayedUrl": "https://in.linkedin.com \u203a showcase \u203a the-digitale-chef-ve...",
+                "description": "Welcome to The Digitale Chef ~ Vegan Patisserie Cafe, your haven for artisanal vegan delights in the heart of HSR Layout, Bengaluru! At The Digitale Chef,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "artisanal vegan delights"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Vegan Patisserie Cafe Menu ~ Located in HSR Layout",
+                "url": "https://thedigitalechef.com/tdc/vegan-cafe-menu/",
+                "displayedUrl": "https://thedigitalechef.com \u203a tdc \u203a vegan-cafe-menu",
+                "description": "The Vegan Menu at The Digitale Chef is expertly curated by professionally trained Chefs and Baristas. Our offerings include a variety of desserts such as Vegan\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "The Vegan Menu at The Digitale Chef"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "The Digitale Chef Vegan Patisserie Cafe in HSR Layout ...",
+                "url": "https://www.justdial.com/Bangalore/The-Digitale-Chef-Vegan-Patisserie-Cafe-Opposite-Twin-Park-Hsr-Layout-Sector-3/080PXX80-XX80-200925110520-L6T1_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a The-Digitale-Che...",
+                "description": "Order Food Online from The Digitale Chef Vegan Patisserie Cafe in HSR Layout Sector 3,Bangalore well known for Moderate Vegan Restaurants Rs 500 To Rs 1000\u00a0...",
+                "emphasizedKeywords": [
+                    "Order Food Online from The Digitale Chef Vegan Patisserie Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.5,
+                "numberOfReviews": 197,
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Sue Gajathar \u24cb\ud83c\udf31 I'm the founder of The Vegan Chef, a proudly South African business with plant-based goodness at the core of what we do.",
+                "question": "Who is the owner of the vegan chef?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Tal Ronnen, chef and owner of the vegan restaurant Crossroads Kitchen in Los Angeles, and the author of The New York Times bestseller, The Conscious Cook. Ronnen has cooked for Oprah Winfrey\u2014and appeared on her show\u2014as well as for Paul McCartney, Beyonc\u00e9 and Jay-Z, former President Bill Clinton, and Lizzo.",
+                "question": "Who is the most famous vegan chef?",
+                "title": "PETA Names Top Chefs Cooking Vegan Cuisine for VIPs",
+                "url": "https://www.peta.org/media/news-releases/most-compassionate-chefs-to-the-stars-peta-names-top-chefs-cooking-vegan-cuisine-for-vips/#:~:text=Tal%20Ronnen%2C%20chef%20and%20owner,President%20Bill%20Clinton%2C%20and%20Lizzo.",
+                "date": "Nov 12, 2025"
+            },
+            {
+                "answer": "Ready-Made Cakes Need a last-minute dessert for a special meal \u2014 or just craving something sweet? We offer a selection of by-the-slice and whole cakes at your nearest store throughout the year, plus limited-time and seasonal options. For special diet needs, we also have vegan and gluten-free cakes.",
+                "question": "Can I order a vegan cake from Whole Foods?",
+                "title": "Cakes & Custom Cakes for Every Occasion - Whole Foods Market",
+                "url": "https://www.wholefoodsmarket.com/departments/bakery/cakes#:~:text=Ready%2DMade%20Cakes,vegan%20and%20gluten%2Dfree%20cakes.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/jKaZviY0WJOQdD4va/records/8hKHQkE6EHDtN3u-0.html?signature=OCXVBCOOcsQ37ea6zRuB"
+    }
+]

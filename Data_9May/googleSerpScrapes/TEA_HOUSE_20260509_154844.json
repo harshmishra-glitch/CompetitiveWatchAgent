@@ -1,0 +1,238 @@
+[
+    {
+        "#debug": {
+            "requestId": "ZFUSkPgkBPf6Yd6",
+            "url": "http://www.google.com/search?q=TEA+HOUSE",
+            "loadedUrl": "http://www.google.com/search?q=TEA+HOUSE",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "TEA HOUSE",
+            "url": "http://www.google.com/search?q=TEA+HOUSE",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=TEA+HOUSE",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Tea house near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+house+near+me&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAgtEAE"
+            },
+            {
+                "title": "Tea house restaurant",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+house+restaurant&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAhLEAE"
+            },
+            {
+                "title": "Tea House Minneapolis",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+House+Minneapolis&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAhIEAE"
+            },
+            {
+                "title": "Tea house menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+house+menu&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "The Tea House White River Junction",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+Tea+House+White+River+Junction&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Tea House Tea",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+House+Tea&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Tea House stadium village",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+House+stadium+village&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Tea House dispensary",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+House+dispensary&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAgzEAE"
+            },
+            {
+                "title": "Tea house near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+house+near+me&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAgtEAE"
+            },
+            {
+                "title": "Tea house restaurant",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+house+restaurant&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAhLEAE"
+            },
+            {
+                "title": "Tea House Minneapolis",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+House+Minneapolis&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAhIEAE"
+            },
+            {
+                "title": "Tea house menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+house+menu&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "The Tea House White River Junction",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+Tea+House+White+River+Junction&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Tea House Tea",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+House+Tea&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Tea House stadium village",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+House+stadium+village&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Tea House dispensary",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Tea+House+dispensary&sa=X&ved=2ahUKEwif3tKw_auUAxW8UKQEHU1tLwsQ1QJ6BAgzEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Tea House Chinese Restaurant",
+                "url": "https://www.teahouseumn.com/",
+                "displayedUrl": "https://www.teahouseumn.com",
+                "description": "The best Chinese restaurant in the Twin Cities is on University Avenue in Minneapolis ... Tea House embraces the soul of China's regional cuisines \u2014 and nails it\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "on University Avenue in Minneapolis"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "The Teahouse: Home",
+                "url": "https://teahousebeverage.com/",
+                "displayedUrl": "https://teahousebeverage.com",
+                "description": "To create exceptional community experiences through traditional Taiwanese tea flavors, inspiring happiness in every cup. 832-468-7388 (TEA-HOU-SETT). Follow\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "832-46"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Teahouse",
+                "url": "https://en.wikipedia.org/wiki/Teahouse",
+                "displayedUrl": "https://en.wikipedia.org \u203a wiki \u203a Teahouse",
+                "description": "A teahouse [1] or tearoom (also tea room) is an establishment which primarily serves tea and other light refreshments.Read more",
+                "emphasizedKeywords": [
+                    "teahouse",
+                    "tea room"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "The Tea House, Cannabis Dispensary in Vermont \u2013 The Tea ...",
+                "url": "https://teahousevt.com/",
+                "displayedUrl": "https://teahousevt.com",
+                "description": "Best Cannabis Dispensary in White River Junction, also a Medical Cannabis Dispensary. Providing Premium Vermont cannabis flower, edibles,\u00a0...",
+                "emphasizedKeywords": [
+                    "Best Cannabis Dispensary in White River Junction"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Santa Fe Teahouse: Teahouse Santa Fe | A Place For ...",
+                "url": "https://www.santafeteahouse.com/?srsltid=AfmBOor8Onk-mqsA7VZoJnC3LHwiDOeaLLG8rJgmfuYZRKUx_wPGn_6b",
+                "displayedUrl": "https://www.santafeteahouse.com",
+                "description": "Order our fine imported teas and local Santa Fe blends including, Green Teas, Oolong Teas, Black Teas, Herbal Teas, Matcha and more!",
+                "emphasizedKeywords": [
+                    "Order our fine imported teas and local Santa Fe blends"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "The Tea House on Los Rios - San Juan Capistrano",
+                "url": "https://theteahouseonlosrios.com/?srsltid=AfmBOoqZn1OAmWUxhQd0G-VhIQcWgW507FeVsvonJrtql8qlTUxo7aHV",
+                "displayedUrl": "https://theteahouseonlosrios.com",
+                "description": "Looking for the best tea house near San Juan Capistrano, CA? Look no further than the top-rated Tea House on Los Rios. Our menu offers a variety of high tea\u00a0...",
+                "emphasizedKeywords": [
+                    "Tea House"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Rose Garden Tea Room",
+                "url": "https://www.huntington.org/plan-your-visit/dining/rose-garden-tea-room",
+                "displayedUrl": "https://www.huntington.org \u203a plan-your-visit \u203a dining",
+                "description": "The Rose Garden Tea Room continues its elegant tea service with a selection of teas, seasonal house-made scones, and a variety of savory and sweet offerings.Read more",
+                "emphasizedKeywords": [
+                    "elegant tea service"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Cambridge Tea House",
+                "url": "https://cambridgeteahouse.com/",
+                "displayedUrl": "https://cambridgeteahouse.com",
+                "description": "A special place for breakfast, lunch, or afternoon tea and the perfect location for intimate dinner parties, baby and bridal showers, rehearsal dinners, and\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "A special place for breakfast, lunch, or afternoon tea"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "A teahouse or tearoom (also tea room) is an establishment which primarily serves tea and other light refreshments. A tea room may be a room set aside in a hotel, especially for serving afternoon tea, or may be an establishment that only serves cream tea.",
+                "question": "What is a tea house?",
+                "title": "Teahouse - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Teahouse#:~:text=A%20teahouse%20or%20tearoom%20(also,that%20only%20serves%20cream%20tea.",
+                "date": null
+            },
+            {
+                "answer": "A porcelain gaiwan is a common choice for lighter teas \u2014 white, green, and light oolongs. Floral and milky Taiwanese oolongs are often served in traditional porcelain gaiwan with floral patterns. Darker teas, like black tea, pu-erh, and dark oolongs, might be served in Yixing clay gaiwan or round teapots.",
+                "question": "What kind of tea is served in a tea house?",
+                "title": "Visiting A Tea Hut - Path of Cha",
+                "url": "https://pathofcha.com/blogs/all-about-tea/visiting-a-tea-hut#:~:text=A%20porcelain%20gaiwan%20is%20a,clay%20gaiwan%20or%20round%20teapots.",
+                "date": "Dec 23, 2019"
+            },
+            {
+                "answer": "They typically provide traditional afternoon tea or cream teas including freshly made sandwiches, scones, cakes, biscuits and sweet pastries. Some are also licensed to serve alcohol such as Pimms, Prosecco and champagne as part of luxury afternoon tea menus.",
+                "question": "What is a tea house in England?",
+                "title": "Tea Room | SWLEP",
+                "url": "https://static.swlep.co.uk/swlep/docs/librariesprovider2/business-opportunity-profiles-(bops)/tea-room-1514.pdf?sfvrsn=1d32b2c1_4#:~:text=They%20typically%20provide%20traditional%20afternoon,of%20luxury%20afternoon%20tea%20menus.",
+                "date": null
+            },
+            {
+                "answer": "Teahouses are more than places where tea is served. They are spaces of gathering, contemplation, and tradition, deeply rooted in the cultures of many regions. Whether it's in a Japanese garden, a Chinese salon, or a Portuguese teahouse, each space carries centuries of practices, rituals, and meaning.",
+                "question": "Are teahouses only in Asia?",
+                "title": "Teahouses: Tradition, Culture, and Rituals Around the World",
+                "url": "https://chasdomundo.pt/blog/en/teahouses-tradition-culture-and-rituals/#:~:text=Teahouses%20are%20more%20than%20places,practices%2C%20rituals%2C%20and%20meaning.",
+                "date": "May 28, 2025"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/URbIvHLJVfPtcerhG/records/ZFUSkPgkBPf6Yd6-0.html?signature=9eYYIDup1MtjN3RbM9m1"
+    }
+]

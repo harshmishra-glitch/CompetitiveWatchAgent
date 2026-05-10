@@ -1,0 +1,156 @@
+[
+    {
+        "#debug": {
+            "requestId": "WHMMB0YlO3Lh7on",
+            "url": "http://www.google.com/search?q=Pancharangi+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=Pancharangi+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Pancharangi Cafe",
+            "url": "http://www.google.com/search?q=Pancharangi+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Pancharangi+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Pancharangi Cafe (@pancharangicafe)",
+                "url": "https://www.instagram.com/pancharangicafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0pancharangicafe",
+                "description": "Fresh | Homely | Delicious Open: 8:30AM to 9:30PM Visit our caf\u00e9 for homemade-style food! Catering services available! Teachers Colony, Silk Board\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Fresh | Homely | Delicious"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "290+ followers",
+                "channelName": "pancharangicafe",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Pancharangi Cafe, Koramangala 2nd Block, Bangalore",
+                "url": "https://www.zomato.com/bangalore/pancharangi-cafe-koramangala-2nd-block-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Koramangala 2nd Block",
+                "description": "Pancharangi Cafe \u00b7 North Indian \u00b7 Sandwich \u00b7 Street Food \u00b7 Beverages. 277, 4th Main, Teachers Colony, Koramangala 2nd Block, Bangalore. ClosedOpens tomorrow at\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "277, 4th Main, Teachers Colony, Koramangala 2nd Block, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.8,
+                "numberOfReviews": 14,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Pancharangi Cafe | Bangalore | Book Table",
+                "url": "https://www.district.in/dining/bangalore/pancharangi-cafe-koramangala-2nd-block-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a bangalore \u203a pancharan...",
+                "description": "Pancharangi Cafe Bangalore; Pancharangi Cafe, Koramangala 2nd Block: View menu, reviews, photos, contact details, location, phone number, book a table and\u00a0...",
+                "emphasizedKeywords": [
+                    "Pancharangi Cafe, Koramangala 2nd Block"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Sipped, savored, and stayed longer than I ...",
+                "url": "https://www.instagram.com/p/DM-fxeDPlo1/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0itsme_bakasuri",
+                "description": "Where?? Pancharangi Cafe 4th Main Rd, Teacher's Colony, Jakkasandra, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru #cafe #\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Pancharangi Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "310+ likes",
+                "lastUpdated": "9 months ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Pancharangi Cafe (@pancharangicafe)",
+                "url": "https://www.instagram.com/pancharangicafe/reels/?__d=1%252F",
+                "displayedUrl": "https://www.instagram.com \u203a pancharangicafe \u203a reels",
+                "description": "Mar 18, 2026 \u2014 Fresh | Homely | Delicious Open: 8:30AM to 9:30PM Visit our caf\u00e9 for homemade-style food! Catering services available! Teachers Colony, Silk\u00a0...Read more",
+                "date": "2026-03-18T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Fresh | Homely | Delicious"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "pancharangicafe",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "The Good Food Guys on Instagram: \"A brunch is never just ...",
+                "url": "https://www.instagram.com/reel/DX9N631vlXt/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0the.goodfoodguys",
+                "description": "Pancharangi Cafe... the food was very good. The service was very good, it felt like home-cooked food. Thank you Uma Madam, Thank you Sathish Sir\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "60+ likes",
+                "lastUpdated": "3 days ago",
+                "channelName": "reel",
+                "reelLength": "0:29",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Pancharangi Cafe Coffee",
+                "url": "https://www.mappls.com/place-pancharangi+cafe-koramangala+2nd+block-277-ground+floor-4th+main+road-teachers+colony+koramangala-bengaluru-karnataka-560034-8BPSXL@zdata=MTIuOTE4MDQzKzc3LjYzMDY5MisxNys4QlBTWEwrK25yed",
+                "displayedUrl": "https://www.mappls.com \u203a place-pancharangi+cafe-kor...",
+                "description": "Additional Informations \u00b7 Cost For Two: 1050 \u00b7 Cuisine: Cafe, Coffee, North Indian, Sandwich, Street Food \u00b7 Rating: 3.9 Star. edit. Suggest an Edit. Add an\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Cost For Two: 1050"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Pancharangi Cafe, Koramangala 2nd Block, Bangalore",
+                "url": "https://www.zomato.com/vi/bangalore/pancharangi-cafe-koramangala-2nd-block-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a pancha...",
+                "description": "Pancharangi Cafe \u00b7 North Indian \u00b7 Sandwich \u00b7 Street Food \u00b7 Beverages. 277, 4th Main, Teachers Colony, Koramangala 2nd Block, Bangalore. Open now8:30am \u0111\u1ebfn 9:\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "277, 4th Main, Teachers Colony, Koramangala 2nd Block, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.8,
+                "numberOfReviews": 14,
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/PcbmftqP8DVMhscEe/records/WHMMB0YlO3Lh7on-0.html?signature=10iZxBvXTGi6IoTgdtGQQ"
+    }
+]

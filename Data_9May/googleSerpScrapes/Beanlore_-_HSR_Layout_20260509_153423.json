@@ -1,0 +1,196 @@
+[
+    {
+        "#debug": {
+            "requestId": "S0z9ddAFRITPBAJ",
+            "url": "http://www.google.com/search?q=Beanlore+-+HSR+Layout",
+            "loadedUrl": "http://www.google.com/search?q=Beanlore+-+HSR+Layout",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Beanlore - HSR Layout",
+            "url": "http://www.google.com/search?q=Beanlore+-+HSR+Layout",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Beanlore+-+HSR+Layout",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Beanlore Jayanagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+Jayanagar&sa=X&ved=2ahUKEwjW4biV-quUAxVHcKQEHV0bI5MQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Beanlore hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+hsr+layout+menu&sa=X&ved=2ahUKEwjW4biV-quUAxVHcKQEHV0bI5MQ1QJ6BAh1EAE"
+            },
+            {
+                "title": "Beanlore Indiranagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+Indiranagar&sa=X&ved=2ahUKEwjW4biV-quUAxVHcKQEHV0bI5MQ1QJ6BAhyEAE"
+            },
+            {
+                "title": "Beanlore hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+hsr+layout+reviews&sa=X&ved=2ahUKEwjW4biV-quUAxVHcKQEHV0bI5MQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Beanlore hsr layout contact number",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+hsr+layout+contact+number&sa=X&ved=2ahUKEwjW4biV-quUAxVHcKQEHV0bI5MQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Beanlore Jayanagar menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+Jayanagar+menu&sa=X&ved=2ahUKEwjW4biV-quUAxVHcKQEHV0bI5MQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Beanlore HSR layout offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+HSR+layout+offers&sa=X&ved=2ahUKEwjW4biV-quUAxVHcKQEHV0bI5MQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Beanlore Menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Beanlore+Menu&sa=X&ved=2ahUKEwjW4biV-quUAxVHcKQEHV0bI5MQ1QJ6BAhoEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Beanlore, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/beanlore-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Beanlore \u00b7 Cafe \u00b7 Coffee \u00b7 Tea \u00b7 Beverages \u00b7 Desserts. 450, 17Th Cross, Sector 4, HSR, Bangalore. Closes in 1 hour 14 minutes8am \u2013 11pm (Today). Order\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "450, 17Th Cross, Sector 4, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 476,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Beanlore (@beanloreindia) \u2022 Instagram photos and videos",
+                "url": "https://www.instagram.com/beanloreindia/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0beanloreindia",
+                "description": "We are brewing at: HSR Layout Indiranagar Jayanagar Whitefield \u00b7 A seasonal lineup built around mango, crafted to offer something for every kind of craving.Read more",
+                "emphasizedKeywords": [
+                    "HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "3.7K+ followers",
+                "channelName": "beanloreindia",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Beanlore | HSR, Bangalore | Coffee Restaurant | Book Table",
+                "url": "https://www.district.in/dining/bangalore/beanlore-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a beanlore-hsr-bangalore",
+                "description": "Beanlore. 4.1. 450, 17Th Cross, Sector 4, HSR, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "17Th Cross, Sector 4, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Beanlore - HSR Layout, Bengaluru, India",
+                "url": "https://wanderlog.com/place/details/7373115/beanlore-hsr-layout",
+                "displayedUrl": "https://wanderlog.com \u203a place \u203a details \u203a beanlore-hsr-l...",
+                "description": "Beanlore Coffee Roasters in HSR Layout offers a cool and visually pleasing ambiance with interesting coffee options like saffron and salted caramel latte.Read more",
+                "emphasizedKeywords": [
+                    "Beanlore Coffee Roasters in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Co-working Cafes in Bangalore: Beanlore Coffee Roasters ...",
+                "url": "https://www.youtube.com/watch?v=tHgoNkntH7s",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0Nader Nadernejad",
+                "description": "Welcome to Beanlore Coffee Roasters at HSR layout, one of my top co-working recommendations for digital nomads, #WFH employees and\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "2.2K+ views",
+                "lastUpdated": "1 year ago",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Beanlore Coffee Roasters - HSR Layout - Corner",
+                "url": "https://www.corner.inc/place/123727",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "Chill work-friendly cafe with private pods and unique lattes. open. Friday: 8:00 AM \u2013 11:00 PM. Updated March 29th, 2026. Directions\u00a0...Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Beanlore Coffee Roasters, HSR Layout (Bengaluru) Pros ...",
+                "url": "https://www.instagram.com/reel/CudqRM3sWgo/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0ibengaluru",
+                "description": "Beanlore Coffee Roasters, HSR Layout (Bengaluru) Pros: - Amazing coffee - Great vibe - Convenient charging ports at every table. (Wireless &\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "5.3K+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "reel",
+                "reelLength": "0:27",
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "HSR Layout is strategically located in South-East Bangalore, bordered by key areas such as Koramangala, Electronic City and Sarjapur Road.",
+                "question": "Is HSR Layout south or east Bangalore?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Brazil. Situated in South America, Brazil is the top producer of coffee. They produce 2,68 million metric tons of coffee on average every year. Brazil has also held onto its first-place position as the world's largest coffee producer for over 150 years.",
+                "question": "Which place is most famous for coffee?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Popular places to visit\nNandi Hills. You can learn about the history of Chikkaballapur with a trip to Nandi Hills. ... Bangalore Palace. 4/5(19 reviews) ... Manyata Tech Park. 3.5/5(8 reviews) ... Cubbon Park. 4.5/5(30 reviews) ... UB City. 4/5(25 reviews) ... Lalbagh Botanical Gardens. 4/5(17 reviews) ... ISKCON Temple. ... Wonderla Amusement Park.",
+                "question": "Where to go in HSR Layout?",
+                "title": "HSR Layout Travel Guide - Bengaluru - Expedia",
+                "url": "https://www.expedia.co.in/Bengaluru-HSR-Layout.dx553248628939816845",
+                "date": null
+            },
+            {
+                "answer": "All the 11 Roastery cafes have their own charm. From the iconic outlet in Banjara Hills to opening in Jahangirabad Palace to the cozy space in Sarvodaya Enclave, it's Modern Indian Design at its finest. One visit and you will know what I mean.",
+                "question": "How many roastery coffee houses are there in India?",
+                "title": "Coffee Pe Charcha with Roastery Coffee House From a single cafe ...",
+                "url": "https://www.instagram.com/reel/DQWIk2fk_hU/#:~:text=more%20to%20come.-,All%20the%2011%20Roastery%20cafes%20have%20their%20own%20charm.,will%20know%20what%20I%20mean.",
+                "date": "Oct 28, 2025"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/nl1QOxtB2tlUn06wz/records/S0z9ddAFRITPBAJ-0.html?signature=tRCjx80sSAmBQSqgzTY9"
+    }
+]

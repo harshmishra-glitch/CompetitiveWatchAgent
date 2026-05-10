@@ -1,0 +1,228 @@
+[
+    {
+        "#debug": {
+            "requestId": "CUhiogMUZMJpflR",
+            "url": "http://www.google.com/search?q=Godavari+Cafe%40HSR",
+            "loadedUrl": "http://www.google.com/search?q=Godavari+Cafe%40HSR",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Godavari Cafe@HSR",
+            "url": "http://www.google.com/search?q=Godavari+Cafe%40HSR",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Godavari+Cafe%40HSR",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Godavari cafe hsr menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Godavari+cafe+hsr+menu&sa=X&ved=2ahUKEwjBzrGe_KuUAxX4qJUCHdlOFKEQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Godavari cafe hsr reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Godavari+cafe+hsr+reviews&sa=X&ved=2ahUKEwjBzrGe_KuUAxX4qJUCHdlOFKEQ1QJ6BQiBARAB"
+            },
+            {
+                "title": "Godavari cafe hsr price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Godavari+cafe+hsr+price&sa=X&ved=2ahUKEwjBzrGe_KuUAxX4qJUCHdlOFKEQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "Godavari Cafe HSR photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Godavari+Cafe+HSR+photos&sa=X&ved=2ahUKEwjBzrGe_KuUAxX4qJUCHdlOFKEQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Godavari cafe JP Nagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Godavari+cafe+JP+Nagar&sa=X&ved=2ahUKEwjBzrGe_KuUAxX4qJUCHdlOFKEQ1QJ6BAhxEAE"
+            },
+            {
+                "title": "Godavari cafe JP Nagar 8th Phase",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Godavari+cafe+JP+Nagar+8th+Phase&sa=X&ved=2ahUKEwjBzrGe_KuUAxX4qJUCHdlOFKEQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Godavari cafe reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Godavari+cafe+reviews&sa=X&ved=2ahUKEwjBzrGe_KuUAxX4qJUCHdlOFKEQ1QJ6BAhqEAE"
+            },
+            {
+                "title": "Godavari cafe near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Godavari+cafe+near+me&sa=X&ved=2ahUKEwjBzrGe_KuUAxX4qJUCHdlOFKEQ1QJ6BAhoEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Godavari Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/godavari-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Godavari Cafe \u00b7 Street Food \u00b7 Chinese \u00b7 South Indian \u00b7 Sandwich \u00b7 Ice Cream \u00b7 North Indian \u00b7 Andhra \u00b7 Shake. L 368, 6th Sector, Hosur Sarjapur Road, HSR,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "368, 6th Sector, Hosur Sarjapur Road, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 566,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "GODAVARI CAFE BANGALORE (@ ... - Instagram",
+                "url": "https://www.instagram.com/godavari_cafe_bangalore_/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0godavari_cafe_bangalore_",
+                "description": "Godavari Cafe in HSR Layout is a haven for food lovers seeking ... Location: Godavari cafe, HSR Layout, sector 7, bangalore @thedigixperts @\u00a0...",
+                "emphasizedKeywords": [
+                    "Godavari Cafe in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "200+ followers",
+                "channelName": "godavari_cafe_bangalore_",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Order Food Online from Godavari Cafe in HSR, Bangalore",
+                "url": "https://www.swiggy.com/city/bangalore/godavari-cafe-hsr-rest999790",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR",
+                "description": "Enjoy delicious meals from Godavari Cafe in HSR, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery on Swiggy.",
+                "emphasizedKeywords": [
+                    "Godavari Cafe in HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 327,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Godavari Cafe in HSR Layout is a haven for food lovers ...",
+                "url": "https://www.instagram.com/reel/DEjjZNXv7hi/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0hey.san____",
+                "description": "Tucked near MG Road, this place brings a proper North Indian dining experience with rich gravies, smoky tandoor dishes, and bold Punjabi spices\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "470+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:21",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Exploring HSR Layout Breakfast Restaurants. ...",
+                "url": "https://www.facebook.com/fascinatingfoodblogvi/posts/exploring-hsr-layout-breakfast-restaurantsbreakfast-series-8-godavari-cafehsr-la/1382678653868964/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Veggies Inside",
+                "description": "Godavari Cafe, HSR Layout Another Andhra Style breakfast place in HSR layout On my table : Button idli sambar Savige bath Coffee Follow this\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Godavari Cafe, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "4 months ago",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Godavari Cafe, HSR order online",
+                "url": "https://www.zomato.com/bangalore/godavari-cafe-hsr-bangalore/order",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR \u203a Godavari Cafe",
+                "description": "Order food online from Godavari Cafe, HSR, Bengaluru. Get great offers and super fast food delivery when you order food online from Godavari Cafe on Zomato.",
+                "emphasizedKeywords": [
+                    "Order food online from Godavari Cafe, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 566,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Godavari Cafe@HSR, HSR Layout Sector 6, Bangalore",
+                "url": "https://magicpin.in/Bangalore/Hsr-Layout-Sector-6/Restaurant/Godavari-Cafe@Hsr/store/1977408?srsltid=AfmBOopILudtUWfX5bxfaj3hZBEgRovhrn4ex58FDZiaAvcxcgtBSeci",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "Godavari Cafe@HSR is a popular eating spot in the HSR Layout Sector 6, Kasavanahalli area of Bangalore. Visit the store for more information. \u20b9800 for two\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Godavari Cafe@HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Exploring HSR Layout Breakfast Restaurants. ...",
+                "url": "https://www.instagram.com/p/DSY1RGpk0xD/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0fascinatingfoodblog",
+                "description": "8. Godavari Cafe, HSR Layout Another Andhra Style breakfast place in HSR layout. On my table : Button idli sambar. Savige bath. Coffee Follow\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Godavari Cafe, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "7 likes",
+                "lastUpdated": "4 months ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Good food, great company, and unforgettable moments\u2014 ...",
+                "url": "https://www.instagram.com/p/DHxdMYeT-4F/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0godavari_cafe_bangalore_",
+                "description": "Good food, great company, and unforgettable moments\u2014welcome to Godavari Cafe, where every meal is a celebration!Read more",
+                "emphasizedKeywords": [
+                    "Godavari Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "20+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Hub for IT and Startups: HSR Layout is home to numerous IT parks, tech startups, and corporate offices, making it a thriving hub for the tech industry. Its proximity to prominent IT corridors like Electronic City and Outer Ring Road further amplifies its appeal among professionals working in the tech sector.",
+                "question": "What is HSR layout famous for?",
+                "title": null,
+                "url": null,
+                "date": "Feb 17, 2024"
+            },
+            {
+                "answer": "Godavari USA | Best South Indian Restaurant in USA.",
+                "question": "What type of Indian cuisine does Godavari serve?",
+                "title": "Godavari USA | Best South Indian Restaurant in USA",
+                "url": "https://www.godavarius.com/#:~:text=Godavari%20USA%20%7C%20Best%20South%20Indian%20Restaurant%20in%20USA",
+                "date": null
+            },
+            {
+                "answer": "Best Food in Bangalore: A Summary\nBenne Dosa. Unlike the thin-crust dosas of Tamil Nadu, Benne Dosa, is a crispy, golden crepe which is the most authentic Banglore food you can find. ... Akki Roti. ... Thatte Idli. ... Bisi Bele Bath. ... Mangalorean Fish Curry. ... Rava Idli. ... Filter Coffee. ... Puliyogare.",
+                "question": "What food is commonly served at Bangalore cafes?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/OngLo6qjuy1sE8P3O/records/CUhiogMUZMJpflR-0.html?signature=W0eCh2d6o2YaX4zt0eIE"
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "#debug": {
+            "requestId": "xKEAusyed7DAEvc",
+            "url": "http://www.google.com/search?q=SM+Grand+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=SM+Grand+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "SM Grand Cafe",
+            "url": "http://www.google.com/search?q=SM+Grand+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=SM+Grand+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Sm grand cafe menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Sm+grand+cafe+menu&sa=X&ved=2ahUKEwikmqSj_auUAxXuK_sDHXd0MMgQ1QJ6BAhREAE"
+            },
+            {
+                "title": "SM Grand Mart",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=SM+Grand+Mart&sa=X&ved=2ahUKEwikmqSj_auUAxXuK_sDHXd0MMgQ1QJ6BAhUEAE"
+            },
+            {
+                "title": "Sm cafe Vijayanagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Sm+cafe+Vijayanagar&sa=X&ved=2ahUKEwikmqSj_auUAxXuK_sDHXd0MMgQ1QJ6BAhTEAE"
+            },
+            {
+                "title": "Sm cafe marenahalli",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Sm+cafe+marenahalli&sa=X&ved=2ahUKEwikmqSj_auUAxXuK_sDHXd0MMgQ1QJ6BAhSEAE"
+            },
+            {
+                "title": "Sm grand cafe menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Sm+grand+cafe+menu&sa=X&ved=2ahUKEwikmqSj_auUAxXuK_sDHXd0MMgQ1QJ6BAhREAE"
+            },
+            {
+                "title": "SM Grand Mart",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=SM+Grand+Mart&sa=X&ved=2ahUKEwikmqSj_auUAxXuK_sDHXd0MMgQ1QJ6BAhUEAE"
+            },
+            {
+                "title": "Sm cafe Vijayanagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Sm+cafe+Vijayanagar&sa=X&ved=2ahUKEwikmqSj_auUAxXuK_sDHXd0MMgQ1QJ6BAhTEAE"
+            },
+            {
+                "title": "Sm cafe marenahalli",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Sm+cafe+marenahalli&sa=X&ved=2ahUKEwikmqSj_auUAxXuK_sDHXd0MMgQ1QJ6BAhSEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "S M Grand Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/s-m-grand-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "S M Grand Cafe \u00b7 Fast Food \u00b7 Beverages \u00b7 Desserts, Shake. Lakedew Residency, Phase 2, Haralur, HSR, Bangalore. ClosedOpens at 10am. Order online. Order Online\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Fast Food \u00b7 Beverages \u00b7 Desserts, Shake"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4,
+                "numberOfReviews": 65,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "S M Grand Cafe | HSR, Bangalore | Continental Restaurant",
+                "url": "https://www.district.in/dining/bangalore/s-m-grand-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a s-m-grand-cafe-hsr-ban...",
+                "description": "One of the best food we ever had good in continental best in chineese and shawarma too milk shakes and juices are in next level        \u00a0...Read more",
+                "emphasizedKeywords": [
+                    "best in chineese and shawarma"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "S M Grand Cafe In Kudlu Gate, Bangalore",
+                "url": "https://www.swiggy.com/restaurants/s-m-grand-cafe-kudlu-gate-kudlu-gate-492564/dineout",
+                "displayedUrl": "https://www.swiggy.com \u203a restaurants \u203a dineout",
+                "description": "14363.2 km \u2022 Kudlu Gate, Bangalore. Beverages, Desserts | \u20b9600 for two. \u2606 4.7. Google. 103 ratings. Closed,. Opens at 9AM. Directions. Call. Popular dishes.Read more",
+                "emphasizedKeywords": [
+                    "14363.2 km \u2022 Kudlu Gate, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "S M Grand Cafe in harlur village,Bangalore - Justdial",
+                "url": "https://www.justdial.com/Bangalore/S-M-Grand-Cafe-Harlur-Village/080PXX80-XX80-220331215500-Z4V5_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a S-M-Grand-Cafe...",
+                "description": "Order Food Online from S M Grand Cafe in harlur village,Bangalore well known for Coffee Shops in Bangalore . Rated 4.4 based on 171 Customer Reviews and\u00a0...",
+                "emphasizedKeywords": [
+                    "Order Food Online from S M Grand Cafe in harlur village,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": 171,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Madcafe SM City Grand Central",
+                "url": "https://www.facebook.com/p/Madcafe-SM-City-Grand-Central-61563412049919/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Madcafe SM City Grand Central",
+                "description": "We are open everyday from Monday to Sunday (10AM - 9PM) we're located at Level 5th SM City Grand Central Visit today at Madcafe SM Grand Central \u2764\ufe0f   And enjoy\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Level 5th SM City Grand Central"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.1K+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "SM City Grand Central Location, Stores, and Mall Hours",
+                "url": "https://www.smsupermalls.com/mall-directory/sm-city-grand-central/information",
+                "displayedUrl": "https://www.smsupermalls.com \u203a information",
+                "description": "Rizal Ave Ext, East Grace Park, Caloocan, Metro Manila. customercare@smsupermalls.com. Get Directions. MALL HOURS OPEN. Monday 11:00 AM - 09:00 PM\u00a0...Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Menu of S M Grand Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/s-m-grand-cafe-hsr-bangalore/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR \u203a S M Grand Cafe",
+                "description": "S M Grand Cafe \u00b7 Fast Food \u00b7 Beverages \u00b7 Desserts, Shake. Lakedew Residency, Phase 2, Haralur, HSR, Bangalore. ClosedOpens at 10am. Order online. Order Online\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Fast Food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4,
+                "numberOfReviews": 65,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "SM City Grand Central | Dining & Shopping",
+                "url": "https://ph.openrice.com/en/manila/l-sm-city-grand-central-l317",
+                "displayedUrl": "https://ph.openrice.com \u203a manila \u203a l-sm-city-grand-centr...",
+                "description": "Find SM City Grand Central restaurants and shops in SM City Grand Central at OpenRice Philippines. ... Mary Grace Cafe \u00b7 Western variety|Php 501 - Php 2,000 \u00b7 +16.Read more",
+                "emphasizedKeywords": [
+                    "SM City Grand Central restaurants and shops"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Coffee & Specialties\nRegular Drip. $3.50.Decaf Drip. $3.50.Espresso. $4.50.Americano. $5.00.Cappuccino. $6.00.Latte. $6.00.Caf\u00e9 Mocha. $7.00.Macchiato. $5.00.",
+                "question": "What are the prices like at Grand Street Cafe?",
+                "title": "Food Menu - Grand Street Cafe",
+                "url": "https://grandstreetkc.com/kansas-city-plaza-grand-street-cafe-food-menu",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Is Grand Lux Cafe owned by Cheesecake Factory?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Some good foods for a cafe include:\nSandwiches.Soups and salads.Breakfast items.Pastries and desserts.Coffee and tea.Specialty dishes.Classic entrees.",
+                "question": "What food is on a cafe menu?",
+                "title": "Menus for Cafes: 12 Menu Categories for Cafe Businesses - BinWise",
+                "url": "https://home.binwise.com/blog/menus-for-cafes",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Is Grand Caf\u00e9 Miami kosher?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "aiOverview": {
+            "type": "live",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://www.facebook.com/MadcafePHOfficial/posts/visit-madcafe-sm-city-grand-central-today-madcafeph-cafeforall-madkidclub-foodie/605103342272719/",
+                    "title": "Visit Madcafe SM City Grand Central today! \ud83e\udd29\ud83e\udd73 #madcafeph # ...",
+                    "description": "Feb 2, 2025 \u2014 #DMFoodSeries #DiscoverManila \ud83d\udccd 1919 Grand Cafe \ud83d\udccd 117 Juan Luna St, Binondo, Manila, 1006 Metro Manila \ud83d\ude98 Waze/Google Maps: 1919..."
+                },
+                {
+                    "url": "https://www.instagram.com/reel/CqK6_HAjE-P/",
+                    "title": "Madcafe SM Grand Central gives you the feeling of nostalgic ...",
+                    "description": "Mar 24, 2023 \u2014 Madcafe SM Grand Central gives you the feeling of nostalgic childhood memories through our fun and playful interiors. Enjoy amazin..."
+                },
+                {
+                    "url": "https://www.zomato.com/bangalore/s-m-grand-cafe-hsr-bangalore",
+                    "title": "S M Grand Cafe, HSR, Bangalore | Zomato",
+                    "description": "S M Grand Cafe is a fast food restaurant in Bangalore. It's located at Lakedew Residency, Phase 2, Haralur, HSR. The restaurant is..."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/oyNXTJPMiF6ukvGtx/records/xKEAusyed7DAEvc-0.html?signature=1ecefqKHvU6OSHMV2HJ89"
+    }
+]

@@ -9,6 +9,19 @@ module Ingest
       value.to_s.downcase.gsub(/[^a-z0-9]+/, "_").gsub(/^_|_$/, "")
     end
 
+    BRAND_SEPARATOR = /\s+[|\-–—]\s+/.freeze
+
+    # Strip a locality / branch suffix off a restaurant name and slug what's left.
+    # "Blue Tokai Coffee Roasters | HSR Layout"  -> "blue_tokai_coffee_roasters"
+    # "Kapoor's Cafe - HSR Branch"               -> "kapoor_s_cafe"
+    # Returns "" if the result is empty or identical to slug(value).
+    def brand_slug(value)
+      base = value.to_s.split(BRAND_SEPARATOR, 2).first.to_s
+      brand = slug(base)
+      return "" if brand.empty? || brand == slug(value)
+      brand
+    end
+
     def presence(value)
       return nil if value.nil?
       stripped = value.to_s.strip

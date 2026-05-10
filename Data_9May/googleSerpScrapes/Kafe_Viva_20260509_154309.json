@@ -1,0 +1,202 @@
+[
+    {
+        "#debug": {
+            "requestId": "6Z9srLbVDMX79aa",
+            "url": "http://www.google.com/search?q=Kafe+Viva",
+            "loadedUrl": "http://www.google.com/search?q=Kafe+Viva",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Kafe Viva",
+            "url": "http://www.google.com/search?q=Kafe+Viva",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Kafe+Viva",
+        "hasNextPage": true,
+        "serpProviderCode": "L",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Kafe viva menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Kafe+viva+menu&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgpEAE"
+            },
+            {
+                "title": "Kafe viva app",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Kafe+viva+app&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgqEAE"
+            },
+            {
+                "title": "Viva city Damkar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Viva+city+Damkar&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgvEAE"
+            },
+            {
+                "title": "Viva La Vida coffee",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Viva+La+Vida+coffee&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgtEAE"
+            },
+            {
+                "title": "Viva La Vida coffee Tasikmalaya",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Viva+La+Vida+coffee+Tasikmalaya&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgsEAE"
+            },
+            {
+                "title": "Vivacity Cafe Cilegon",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Vivacity+Cafe+Cilegon&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgrEAE"
+            },
+            {
+                "title": "Kafe viva menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Kafe+viva+menu&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgpEAE"
+            },
+            {
+                "title": "Kafe viva app",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Kafe+viva+app&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgqEAE"
+            },
+            {
+                "title": "Viva city Damkar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Viva+city+Damkar&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgvEAE"
+            },
+            {
+                "title": "Viva La Vida coffee",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Viva+La+Vida+coffee&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgtEAE"
+            },
+            {
+                "title": "Viva La Vida coffee Tasikmalaya",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Viva+La+Vida+coffee+Tasikmalaya&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgsEAE"
+            },
+            {
+                "title": "Vivacity Cafe Cilegon",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&hl=en&q=Vivacity+Cafe+Cilegon&sa=X&ved=2ahUKEwiWyKaQ_KuUAxWeT2wGHaMaOn0Q1QJ6BAgrEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "VIVACITY CAFE (@vivacitycafe_homestay) \u00b7 Cilegon",
+                "url": "https://www.instagram.com/vivacitycafe_homestay/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0vivacitycafe_homestay",
+                "description": "Rasa Nusantara & Western . Jam Operasional Setiap Hari | 10:00 - 21:30 Damkar PCI Catering \u00b7 Peluk anakmu sering sering .. \u00b7 Rekomendasi cafe di cilegon yang\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Rasa Nusantara & Western"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "2,1K+ followers",
+                "channelName": "vivacitycafe_homestay",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Vivacity Cafe, Kav GM",
+                "url": "https://gofood.co.id/serang/restaurant/vivacity-cafe-kav-gm-591ef92e-999d-411c-9bc3-eb652837376b",
+                "displayedUrl": "https://gofood.co.id \u203a restaurant",
+                "description": "Vivacity Cafe, Kav GM. Tutup \u2022 Buka besok jam 10:00. Vivacity Cafe, Kav GM. Super Partner. Aneka nasi, Pizza & pasta, Barat, Bakmie, Kopi, Minuman.Read more",
+                "emphasizedKeywords": [
+                    "Vivacity Cafe, Kav GM"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.9,
+                "numberOfReviews": 2.913,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "New Coffeeshop in Tasikmalaya Namanya @vivalavidacoffee ...",
+                "url": "https://www.instagram.com/reel/DUkBMiDkRu0/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0kulineran.ditasik",
+                "description": "Cafe mungil di tasik ini fix jadi tempat yang enak banget buat dijadiin tikum buat para pelari kalcer nih",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "200+ likes",
+                "lastUpdated": "2 months ago",
+                "channelName": "reel",
+                "reelLength": "1:27",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Kafe Viva (@kafe__viva)",
+                "url": "https://www.instagram.com/kafe__viva/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0kafe__viva",
+                "description": "73 followers \u00b7 0 following \u00b7 25 posts \u00b7 @kafe__viva: \u201cComfort and Pleasure in Every Cup\u2615\ufe0f \u201c Coffee fuels the body, Tea soothes the soul .",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "70+ followers",
+                "channelName": "kafe__viva",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Kafe Viva",
+                "url": "https://kafeviva.com/",
+                "displayedUrl": "https://kafeviva.com",
+                "description": "Where handcrafted beverages meet an atmosphere of quiet luxury. Every cup tells a story of passion, precision, and warmth. Explore Our Menu Scan Table QR.Read more",
+                "emphasizedKeywords": [
+                    "Where handcrafted beverages meet an atmosphere of quiet luxury"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Viva Caf\u00e9 - Restaurant",
+                "url": "https://kidsfun.co.id/restaurants/detail/21-viva-caf%C3%A9",
+                "displayedUrl": "https://kidsfun.co.id \u203a restaurants \u203a detail \u203a 21-viva-caf\u00e9",
+                "description": "Enjoy or typical European restaurant with lasagna, spaghetti and pizza. Together with a snack and something to drink you can enjoy your time.Read more",
+                "emphasizedKeywords": [
+                    "typical European restaurant"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Viva Cafe, Sudbury - Ulasan Restoran - Tripadvisor",
+                "url": "https://www.tripadvisor.co.id/Restaurant_Review-g210101-d10255961-Reviews-Viva_Cafe-Sudbury_Babergh_District_Suffolk_East_Anglia_England.html",
+                "displayedUrl": "https://www.tripadvisor.co.id \u203a Re...",
+                "description": "Ramah keluarga yang dimiliki restoran kafe yang menyajikan berbagai makanan segar, bersih dan selalu dengan sendok garpu dan gelas.Read more",
+                "emphasizedKeywords": [
+                    "kafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": 35,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Pionir Coffee Shop Yang Semakin Estetik dengan Menu ...",
+                "url": "https://www.instagram.com/reel/DTrZyzUj-Bb/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cilegon_kuliner",
+                "description": "Cocok untuk event-event seperti arisan, gathering perusahaan, training, beauty class, dan lain-lain. Suasananya asyik apalagi di sore hari. VIVA\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "220+ likes",
+                "lastUpdated": "3 months ago",
+                "channelName": "reel",
+                "reelLength": "2:00",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/gONgm0hV7vmED69MO/records/6Z9srLbVDMX79aa-0.html?signature=2OvVcLBRuMM7tEecHeMj"
+    }
+]

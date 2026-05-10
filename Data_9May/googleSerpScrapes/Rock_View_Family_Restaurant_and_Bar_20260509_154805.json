@@ -1,0 +1,241 @@
+[
+    {
+        "#debug": {
+            "requestId": "WOlR4FIBkYRt9tg",
+            "url": "http://www.google.com/search?q=Rock+View+Family+Restaurant+and+Bar",
+            "loadedUrl": "http://www.google.com/search?q=Rock+View+Family+Restaurant+and+Bar",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Rock View Family Restaurant and Bar",
+            "url": "http://www.google.com/search?q=Rock+View+Family+Restaurant+and+Bar",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Rock+View+Family+Restaurant+and+Bar",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Rock view family restaurant and bar menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+menu&sa=X&ved=2ahUKEwip5K6d_auUAxWtSjABHZeIMXkQ1QJ6BAhaEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+reviews&sa=X&ved=2ahUKEwip5K6d_auUAxWtSjABHZeIMXkQ1QJ6BAhbEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar prices",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+prices&sa=X&ved=2ahUKEwip5K6d_auUAxWtSjABHZeIMXkQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "Rock View Thirthahalli",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Rock+View+Thirthahalli&sa=X&ved=2ahUKEwip5K6d_auUAxWtSjABHZeIMXkQ1QJ6BAhcEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+menu&sa=X&ved=2ahUKEwip5K6d_auUAxWtSjABHZeIMXkQ1QJ6BAhaEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+reviews&sa=X&ved=2ahUKEwip5K6d_auUAxWtSjABHZeIMXkQ1QJ6BAhbEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar prices",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+prices&sa=X&ved=2ahUKEwip5K6d_auUAxWtSjABHZeIMXkQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "Rock View Thirthahalli",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Rock+View+Thirthahalli&sa=X&ved=2ahUKEwip5K6d_auUAxWtSjABHZeIMXkQ1QJ6BAhcEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Rock View Family Restaurant, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/rock-view-family-restaurant-hsr",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "27th Main, 2nd Sector, HSR, Bangalore. Open now10am \u2013 11pm (Today). Order Online. Menu. See all menus. Menu menu. Menu. 4 pages. Address. image.Read more",
+                "emphasizedKeywords": [
+                    "27th Main, 2nd Sector, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 14,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Rock View Family Restaurant in HSR Layout,Bangalore",
+                "url": "https://www.justdial.com/Bangalore/Rock-View-Family-Restaurant-Hsr-Layout/080PXX80-XX80-190128211016-X4D9_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Rock-View-Fami...",
+                "description": "Rock View Family Restaurant in HSR Layout,Bangalore well known for Home Delivery Restaurants in Bangalore . Rated 3.7 based on 1962 Customer Reviews and\u00a0...",
+                "emphasizedKeywords": [
+                    "Rock View Family Restaurant in HSR Layout,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.7,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Menu of Rock View Family Restaurant, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/rock-view-family-restaurant-hsr/menu",
+                "displayedUrl": "https://www.zomato.com \u203a bangalore \u203a menu",
+                "description": "27th Main, 2nd Sector, HSR, Bangalore. Open now10am \u2013 11pm (Today). Order Online. Rock View Family Restaurant Menu. Menu menu. Menu. 4 pages\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "27th Main, 2nd Sector, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 14,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Rock View Family Restaurant in HSR Layout Bangalore",
+                "url": "https://www.swiggy.com/city/bangalore/rock-view-family-restaurant-hsr-layout-rest46081",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Order Food Online from Rock View Family Restaurant HSR Layout Bangalore. Enjoy Delicious Food Delivered To Your Doorstep. Quick And Easy Online Food\u00a0...",
+                "emphasizedKeywords": [
+                    "Order Food Online from Rock View Family Restaurant HSR Layout Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "ROCK VIEW RESTAURANT, Ko Jum",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g1152743-d12674150-Reviews-Rock_View_Restaurant-Ko_Jum_Krabi_Province.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Ko Jum Restaurants",
+                "description": "This is a small family run restaurant which manages to provide a large menu, including vegetarian and vegan dishes: try the pad thai (served in an omelette),\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "small family run restaurant"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.5,
+                "numberOfReviews": 23,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Rock View Family Restaurant and Bar",
+                "url": "https://magicpin.in/Bangalore/Somasundara-Palya/Restaurant/Rock-View-Family-Restaurant-And-Bar/store/197b451/?srsltid=AfmBOoq9kuJmTBP0ztM9tqUjQXSJYNJlGvlPgWDODCm_aobfquTVZFW-",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "Directions Rock View Family Restaurant and Bar is a popular eating spot operating from Somasundara Palya, Bangalore. It caters to diverse dining preferences.Read more",
+                "emphasizedKeywords": [
+                    "Rock View Family Restaurant and Bar"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Riverview restaurant in Rock Island review",
+                "url": "https://www.facebook.com/groups/2780324542074873/posts/10074937675946820/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Quad City Food Lovers \u2764\ufe0f",
+                "description": "Stop in at riverview restersunt in rock island.  Was a good choice. Great specials. got the spegetti with soup and salad bar. Hands down best meat balls ...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "reactions": "10+ comments",
+                "lastUpdated": "10 months ago",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Rockview Family Farms (@rockviewfarms) \u00b7 Downey, CA",
+                "url": "https://www.instagram.com/rockviewfarms/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0rockviewfarms",
+                "description": "Family-owned Southern California-based milk company providing high-quality dairy products   @LAFC & @LBCoastbaseball Official Dairy Partner.Read more",
+                "emphasizedKeywords": [
+                    "Family-owned Southern California-based milk company"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.7K+ followers",
+                "channelName": "rockviewfarms",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "How May We Help You?",
+                "url": "https://www.rockviewfarms.com/our-services/",
+                "displayedUrl": "https://www.rockviewfarms.com \u203a our-services",
+                "description": "From our farming operations to our state-of-the-art processing facilities and our warehousing and distribution capabilities, Rockview Family Farms does it all!Read more",
+                "emphasizedKeywords": [
+                    "Rockview Family Farms"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Rock View Family Restaurant - \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440",
+                "url": "https://yandex.ru/maps/org/rock_view_family_restaurant/61100903647/",
+                "displayedUrl": "https://yandex.ru \u203a ... \u203a \u0411\u0430\u0440\u044b",
+                "description": "\u0411\u0430\u0440 Rock View Family Restaurant \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440, \u260e\ufe0f +91 8861 51 80 08. \u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0447\u0430\u0441\u044b \u0440\u0430\u0431\u043e\u0442\u044b. \u041f\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043c\u0430\u0440\u0448\u0440\u0443\u0442 \u0432 \u042f\u043d\u0434\u0435\u043a\u0441 \u041a\u0430\u0440\u0442\u0430\u0445.",
+                "emphasizedKeywords": [
+                    "\u0411\u0430\u0440 Rock View Family Restaurant"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "A Fine Dining Restaurant Like Nowhere Else in the World Nestled riverside under the Brooklyn Bridge, The River Caf\u00e9 exudes romance with its breathtaking NYC skyline views, gorgeous atmosphere and above all our classic American cuisine. The River Caf\u00e9 similarly boasts one of the most outstanding wine lists in the world.",
+                "question": "What is the best restaurant under the Brooklyn Bridge?",
+                "title": "Fine Dining NYC - The River Caf\u00e9 - American Restaurant",
+                "url": "https://rivercafe.com/#:~:text=A%20Fine%20Dining%20Restaurant%20Like%20Nowhere%20Else%20in%20the%20World&text=Nestled%20riverside%20under%20the%20Brooklyn,wine%20lists%20in%20the%20world.",
+                "date": null
+            },
+            {
+                "answer": "Rockwood Grill Popular Dishes\nPrime Rib. 11 Photos52 Reviews.Ahi Poke. 9 Photos6 Reviews.Eggs Benedict. 7 Photos12 Reviews.+7 Popular Dishes. King Crab Legs, Bacon Wrapped Dates, Filet Mignon, Caesar Salad, Cheese Pizza, Market Salad, Risotto.",
+                "question": "What are some popular dishes at Rockwood Grill?",
+                "title": "ROCKWOOD GRILL - Updated May 2026 - 939 Photos & 548 Reviews",
+                "url": "https://m.yelp.com/biz/rockwood-grill-palm-desert",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What does V mean on a restaurant menu?",
+                "title": "What Do V, VG, And GF Mean On San Diego Restaurant Menus? - YouTube",
+                "url": "https://www.youtube.com/watch?v=y4w-f0CNmJ4",
+                "date": null
+            },
+            {
+                "answer": "The views are incredible and the ambiance is one that reminds you of the 60s and 70s but in the best way. The revolving restaurant and bar is one of a kind and made for a very special start to an evening out on the town. Service was friendly and attentive and we didn't feel rushed at all. Highly recommend!",
+                "question": "Does the View restaurant have good reviews?",
+                "title": "THE VIEW - Updated May 2026 - 413 Photos & 121 Reviews - Yelp",
+                "url": "https://m.yelp.com/biz/the-view-new-york-5#:~:text=The%20views%20are%20incredible%20and,Highly%20recommend!",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/2DYNBghU9AORBjcpe/records/WOlR4FIBkYRt9tg-0.html?signature=Oa2jgzAb40fPCprjN8eb"
+    }
+]

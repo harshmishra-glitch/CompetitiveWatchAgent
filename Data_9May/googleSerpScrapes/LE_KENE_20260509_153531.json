@@ -1,0 +1,251 @@
+[
+    {
+        "#debug": {
+            "requestId": "mCKubrDbX6AjDcK",
+            "url": "http://www.google.com/search?q=LE+KENE",
+            "loadedUrl": "http://www.google.com/search?q=LE+KENE",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "LE KENE",
+            "url": "http://www.google.com/search?q=LE+KENE",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=LE+KENE",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Le kene menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+menu&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhVEAE"
+            },
+            {
+                "title": "Le kene meaning",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+meaning&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhhEAE"
+            },
+            {
+                "title": "Le kene pronunciation",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+pronunciation&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "Le kene nearest metro station",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+nearest+metro+station&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhcEAE"
+            },
+            {
+                "title": "Le kene bangalore menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+bangalore+menu&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhbEAE"
+            },
+            {
+                "title": "Le kene menu price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+menu+price&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhaEAE"
+            },
+            {
+                "title": "Katha kavana",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Katha+kavana&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhYEAE"
+            },
+            {
+                "title": "Marseli cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Marseli+cafe&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "Le kene menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+menu&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhVEAE"
+            },
+            {
+                "title": "Le kene meaning",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+meaning&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhhEAE"
+            },
+            {
+                "title": "Le kene pronunciation",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+pronunciation&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "Le kene nearest metro station",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+nearest+metro+station&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhcEAE"
+            },
+            {
+                "title": "Le kene bangalore menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+bangalore+menu&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhbEAE"
+            },
+            {
+                "title": "Le kene menu price",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Le+kene+menu+price&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhaEAE"
+            },
+            {
+                "title": "Katha kavana",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Katha+kavana&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhYEAE"
+            },
+            {
+                "title": "Marseli cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Marseli+cafe&sa=X&ved=2ahUKEwiyyJa2-quUAxW0q5UCHWbeOBsQ1QJ6BAhZEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "LE K\u00c9NE (@le.kene) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/le.kene/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0le.kene",
+                "description": "Bakery Retail  HSR Cloud Kitchen  Mysore Road https://airmenus.in/lekene/order \u00b7 Go get your coffees! \u00b7 Coffee & desserts with a view ~ vibe #lekene #lek\u00e9ne #\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Bakery Retail  HSR Cloud Kitchen  Mysore Road"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "3.8K+ followers",
+                "channelName": "le.kene",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "LE K\u00c9NE, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/le-k%C3%A9ne-1-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "LE K\u00c9NE, Cafe, Coffee, Fast Food, Desserts, 174/A, Sector 4, HSR, Bangalore, Open now 11am \u2013 11:30pm (Today), Order online.Read more",
+                "emphasizedKeywords": [
+                    "174/A, Sector 4, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 58,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Hlaba Le Kene (Lekhele) - Thope tse khang",
+                "url": "https://open.spotify.com/track/5v4dr0Xz4CSgqZf3zzoKac",
+                "displayedUrl": "https://open.spotify.com \u203a track",
+                "description": "Listen to Hlaba Le Kene (Lekhele) on Spotify. Song \u00b7 Thope tse khang \u00b7 2024.",
+                "emphasizedKeywords": [
+                    "Listen to Hlaba Le Kene (Lekhele) on Spotify"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "LE K\u00c9NE | HSR, Bangalore | Coffee Restaurant",
+                "url": "https://www.district.in/dining/bangalore/le-k%C3%A9ne-1-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a le-k\u00e9ne-1-hsr-bangalore",
+                "description": "This cosy patisserie in HSR Layout serves an eclectic selection of baked goodies. I have visited here a few times, and really love the quality and taste of\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "serves an eclectic selection of baked goodies"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "LE K\u00c9NE (@le.kene) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/le.kene/reels/",
+                "displayedUrl": "https://www.instagram.com \u203a le.kene",
+                "description": "Bakery Retail  HSR Cloud Kitchen  Mysore Road https://airmenus.in/lekene/order \u00b7 Lekene Bakery in HSR Layout is known for offering a variety of European desserts.Read more",
+                "emphasizedKeywords": [
+                    "Lekene Bakery in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "le.kene",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Le Kene",
+                "url": "https://airmenus.in/lekene/order",
+                "displayedUrl": "https://airmenus.in \u203a lekene \u203a order",
+                "description": "Le Kene. Welcome to. Le Kene! View Take-Away Menu. View Delivery Menu. Powered by www.airmenus.in.Read more",
+                "emphasizedKeywords": [
+                    "Le Kene"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Le Kene - Play Architecture",
+                "url": "https://www.playarchitecture.co.uk/le-kene",
+                "displayedUrl": "https://www.playarchitecture.co.uk \u203a le-kene",
+                "description": "Open to Talks & Workshops - connect with us to explore materiality, making, and design together. info@playarchitecture.co.uk \u00b7 Instagram LinkedIn.Read more",
+                "emphasizedKeywords": [
+                    "connect with us to explore materiality, making, and design together"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Insta has been tempting me with these viral caf\u00e9s for ages and ...",
+                "url": "https://www.instagram.com/reel/DO-Vuftki_g/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0chillystudio",
+                "description": "\u2615\ufe0f Le Kene - A tiny all-white spot tucked away in Har Layout. Stepping inside felt nothing like Bangalore cozy, minimal, and perfect for a quick\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "560+ likes",
+                "lastUpdated": "7 months ago",
+                "channelName": "reel",
+                "reelLength": "0:21",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Le K\u00e9n\u00e9-Star de Sikasso \u2013 Fitiriwale",
+                "url": "https://www.africangrooves.fr/artist/le-kene-star-de-sikasso/",
+                "displayedUrl": "https://www.africangrooves.fr \u203a artist \u203a le-kene-star-de-si...",
+                "description": "For today, I wanted to share with you \u201cFitiriwale\u201c, an outstanding psychedelic afro jazz track, recorded and released in France in 1977 on the\u00a0...Read more",
+                "date": "2020-05-31T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "an outstanding psychedelic afro jazz track"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Ganga Avarekad - Founder of 'LE K\u00c9NE' | LinkedIn.",
+                "question": "Who is the owner of Le Kene?",
+                "title": "Ganga Avarekad - Founder of 'LE K\u00c9NE' | LinkedIn",
+                "url": "https://in.linkedin.com/in/ganga-avarekad-59442616a#:~:text=Ganga%20Avarekad%20%2D%20Founder%20of%20'LE%20K%C3%89NE'%20%7C%20LinkedIn",
+                "date": null
+            },
+            {
+                "answer": "I thoroughly enjoyed their profiteroles; the matcha and vanilla flavors were exceptional, not overly sweet but incredibly satisfying. The eclairs were delightful as well, and the jalapeno cheese bun offered a perfect balance of spice.",
+                "question": "What is Le Kene known for?",
+                "title": "Le Kene is a French-inspired caf\u00e9 offering home-baked treats for retail ...",
+                "url": "https://www.instagram.com/reel/C3XQYtwyc52/#:~:text=treats%20for%20retail.-,I%20thoroughly%20enjoyed%20their%20profiteroles%3B%20the%20matcha%20and%20vanilla%20flavors,a%20perfect%20balance%20of%20spice.",
+                "date": "Feb 15, 2024"
+            },
+            {
+                "answer": "Best in Taste - Red velvet cake, Carrot cake, Tresleche , Ice tea , cold coffee & more..!",
+                "question": "What are some popular dishes at Le Kene?",
+                "title": "\"Le Kene\" - The best in Namma HSR.! Elite & Great ambience.! Best in Taste",
+                "url": "https://www.instagram.com/p/DW-8LxgFAO2/?img_index=7#:~:text=%26%20Great%20ambience.!-,Best%20in%20Taste%20%2D%20Red%20velvet%20cake%2C%20Carrot%20cake%2C%20Tresleche,cold%20coffee%20%26%20more..!",
+                "date": "Apr 11, 2026"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/DCzqEOcJKDdsezwl4/records/mCKubrDbX6AjDcK-0.html?signature=l1DmvZqZ0aKKXkhyM8Pr"
+    }
+]

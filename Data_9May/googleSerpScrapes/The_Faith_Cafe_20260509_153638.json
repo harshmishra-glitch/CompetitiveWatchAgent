@@ -1,0 +1,239 @@
+[
+    {
+        "#debug": {
+            "requestId": "HnTp6aSclaa5IcK",
+            "url": "http://www.google.com/search?q=The+Faith+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=The+Faith+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "The Faith Cafe",
+            "url": "http://www.google.com/search?q=The+Faith+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=The+Faith+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "The faith cafe menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+faith+cafe+menu&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAgtEAE"
+            },
+            {
+                "title": "Faith Cafe Florence menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Faith+Cafe+Florence+menu&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "The Faith Cafe photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+Faith+Cafe+photos&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Igotofaith cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Igotofaith+cafe&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Faith based cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Faith+based+cafe&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAg5EAE"
+            },
+            {
+                "title": "Faith Cafe Tampa",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Faith+Cafe+Tampa&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAgyEAE"
+            },
+            {
+                "title": "Trinity Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Trinity+Cafe&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAgvEAE"
+            },
+            {
+                "title": "Faith Cafe volunteer",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Faith+Cafe+volunteer&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAguEAE"
+            },
+            {
+                "title": "The faith cafe menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+faith+cafe+menu&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAgtEAE"
+            },
+            {
+                "title": "Faith Cafe Florence menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Faith+Cafe+Florence+menu&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "The Faith Cafe photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=The+Faith+Cafe+photos&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Igotofaith cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Igotofaith+cafe&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Faith based cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Faith+based+cafe&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAg5EAE"
+            },
+            {
+                "title": "Faith Cafe Tampa",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Faith+Cafe+Tampa&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAgyEAE"
+            },
+            {
+                "title": "Trinity Cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Trinity+Cafe&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAgvEAE"
+            },
+            {
+                "title": "Faith Cafe volunteer",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Faith+Cafe+volunteer&sa=X&ved=2ahUKEwiOt9PW-quUAxUlk4kEHbByAAIQ1QJ6BAguEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Faith Cafe",
+                "url": "https://www.faithcafetampa.org/",
+                "displayedUrl": "https://www.faithcafetampa.org",
+                "description": "The Faith Cafe in Tampla Florida provides free meals to people in need. Warm Meals We offer our neighbors a comfortable, safe place to come and enjoy a meal\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "provides free meals to people in need"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Faith Caf\u00e9, \u2013 Feeding our neighbors more than a meal",
+                "url": "https://www.faithcafeor.org/",
+                "displayedUrl": "https://www.faithcafeor.org",
+                "description": "Faith Cafe is located at 5150 SW Watson Ave. in Beaverton, Oregon \u00b7 Faith Cafe offers free, home-style hot meals every Sunday at 4:15 pm at Bethel\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Faith Cafe is located at 5150 SW Watson Ave. in Beaverton, Oregon"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "The Faith Cafe \u2013 Finding God All Around Us",
+                "url": "https://thefaithcafe.com/",
+                "displayedUrl": "https://thefaithcafe.com",
+                "description": "God Himself, the perfect and holy One, entered our messy, sinful world in the form of Jesus and dwelt with us for 33 years. Then He died on a Cross for our sins\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "God Himself, the perfect and holy One"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Faith Cafe: Home",
+                "url": "https://faith-cafe.square.site/",
+                "displayedUrl": "https://faith-cafe.square.site",
+                "description": "Faith Caf\u00e9 \u00b7 Stay in the Loop \u00b7 Faith Cafe-Florence \u00b7 Faith Cafe-Lawrenceburg \u00b7 Faith Cafe-Shoals. 1105 US Highway 72E Tuscumbia, Alabama 35674 cafe@igotofaith.Read more",
+                "emphasizedKeywords": [
+                    "1105 US Highway 72E Tuscumbia, Alabama 35674"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Faith Cafe - Crossroads Fitness",
+                "url": "https://www.crossroadsfitnesscenter.com/faithcafe",
+                "displayedUrl": "https://www.crossroadsfitnesscenter.com \u203a faithcafe",
+                "description": "We are a small caf\u00e9 with the goal of providing quality, nutrient dense food. We work in conjunction with a trained medical staff and nutritionists.Read more",
+                "emphasizedKeywords": [
+                    "We are a small caf\u00e9 with the goal of providing quality, nutrient dense food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Faith Cafe - Florence, AL | joe coffee",
+                "url": "https://joe.coffee/locations/al/florence/faith-cafe-florence-06102e54-13db-47bf-b939-b193bfb1eb43/",
+                "displayedUrl": "https://joe.coffee \u203a Find Coffee \u203a Alabama \u203a Florence",
+                "description": "Welcome to Faith Cafe, a cherished independent spot in Florence where genuine hospitality and exceptional coffee come together. Our customers consistently\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "a cherished independent spot in Florence"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "What We Do - Faith Cafe",
+                "url": "https://www.faithcafetampa.org/what-we-do",
+                "displayedUrl": "https://www.faithcafetampa.org \u203a what-we-do",
+                "description": "We provide warm meals, resources, and services to the Tampa, Florida, community in need. Every Tuesday, Thursday and Saturday, we also provide clothing and\u00a0...",
+                "emphasizedKeywords": [
+                    "warm meals, resources, and services"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Faith Cafe | Columbia CT",
+                "url": "https://www.facebook.com/FaithCafe106/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Faith Cafe",
+                "description": "We specialize in all gluten free facility and other food allergies. We are a small cafe with lots of flavor. We had a wonderful response to our last promotion\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "We specialize in all gluten free facility and other food allergies"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 21,
+                "followersAmount": "890+ followers",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Faith Cafe",
+                "url": "https://www.palmaceiamethodist.org/faithcafe",
+                "displayedUrl": "https://www.palmaceiamethodist.org \u203a faithcafe",
+                "description": "1340 North Clearview Avenue | Tampa Florida, 33607 Faith Cafe offers a comfortable, safe place where neighbors can come and enjoy a meal seven days a week.Read more",
+                "emphasizedKeywords": [
+                    "1340 North Clearview Avenue | Tampa Florida, 33607"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Faith Coffee Shop (@faithcoffeeshopbakersfield)",
+                "url": "https://www.instagram.com/faithcoffeeshopbakersfield/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0faithcoffeeshopbakersfield",
+                "description": "POV morning rush Visit us at Faith Coffee Shop \u2728 5131 Office Park Drive, Bakersfield, CA 93309 \u23f0 Hours: \u2022 Monday\u2013Friday: 7 AM \u2013 7 PM \u2022 Saturday: 8 AM \u2013 4 PM\u00a0...",
+                "emphasizedKeywords": [
+                    "5131 Office Park Drive, Bakersfield, CA 93309"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "20.2K+ followers",
+                "channelName": "faithcoffeeshopbakersfield",
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/PLjASaE8JgLfmWKtK/records/HnTp6aSclaa5IcK-0.html?signature=18KhE2FD6wK0OG5aSqHg3"
+    }
+]

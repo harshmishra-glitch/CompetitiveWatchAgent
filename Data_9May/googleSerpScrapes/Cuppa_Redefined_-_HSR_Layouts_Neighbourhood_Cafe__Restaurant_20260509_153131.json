@@ -1,0 +1,212 @@
+[
+    {
+        "#debug": {
+            "requestId": "uKWOkP19BiCiZtt",
+            "url": "http://www.google.com/search?q=Cuppa+Redefined+-+HSR+Layout%27s+Neighbourhood+Cafe+%26+Restaurant",
+            "loadedUrl": "http://www.google.com/search?q=Cuppa+Redefined+-+HSR+Layout%27s+Neighbourhood+Cafe+%26+Restaurant",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Cuppa Redefined - HSR Layout's Neighbourhood Cafe & Restaurant",
+            "url": "http://www.google.com/search?q=Cuppa+Redefined+-+HSR+Layout%27s+Neighbourhood+Cafe+%26+Restaurant",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Cuppa+Redefined+-+HSR+Layout%27s+Neighbourhood+Cafe+%26+Restaurant",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Cuppa Redefined, hsr layout's neighbourhood Cafe restaurant menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cuppa+Redefined,+hsr+layout%27s+neighbourhood+Cafe+restaurant+menu&sa=X&ved=2ahUKEwin3tfD-auUAxW1H7kGHQtPAEIQ1QJ6BAhwEAE"
+            },
+            {
+                "title": "Cuppa redefined, hsr layout's neighbourhood cafe restaurant reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cuppa+redefined,+hsr+layout%27s+neighbourhood+cafe+restaurant+reviews&sa=X&ved=2ahUKEwin3tfD-auUAxW1H7kGHQtPAEIQ1QJ6BQiPARAB"
+            },
+            {
+                "title": "Cuppa redefined, HSR layout's neighbourhood cafe restaurant offers",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cuppa+redefined,+HSR+layout%27s+neighbourhood+cafe+restaurant+offers&sa=X&ved=2ahUKEwin3tfD-auUAxW1H7kGHQtPAEIQ1QJ6BQiLARAB"
+            },
+            {
+                "title": "Cuppa redefined mysore's neighbourhood cafe restaurant",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cuppa+redefined+mysore%27s+neighbourhood+cafe+restaurant&sa=X&ved=2ahUKEwin3tfD-auUAxW1H7kGHQtPAEIQ1QJ6BQiIARAB"
+            },
+            {
+                "title": "Cuppa redefined mysore's neighbourhood cafe restaurant photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cuppa+redefined+mysore%27s+neighbourhood+cafe+restaurant+photos&sa=X&ved=2ahUKEwin3tfD-auUAxW1H7kGHQtPAEIQ1QJ6BQiFARAB"
+            },
+            {
+                "title": "Cuppa Bistro",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cuppa+Bistro&sa=X&ved=2ahUKEwin3tfD-auUAxW1H7kGHQtPAEIQ1QJ6BAh_EAE"
+            },
+            {
+                "title": "Cuppa Redefined owner",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cuppa+Redefined+owner&sa=X&ved=2ahUKEwin3tfD-auUAxW1H7kGHQtPAEIQ1QJ6BAh3EAE"
+            },
+            {
+                "title": "Cuppa jayanagar",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Cuppa+jayanagar&sa=X&ved=2ahUKEwin3tfD-auUAxW1H7kGHQtPAEIQ1QJ6BAhyEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Cuppa Redefined",
+                "url": "https://www.instagram.com/cuppa.redefined/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cuppa.redefined",
+                "description": "Cuppa Redefined - Restore . Revive . Refresh Locations: HSR Layout, Mall of Mysore Franchise enquiries: +91 78478 17999 \u00b7 Big news. \u00b7 Looking for an experienced\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Locations: HSR Layout, Mall of Mysore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "7K+ followers",
+                "channelName": "cuppa.redefined",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Cuppa Redefined, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/cuppa-redefined-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "This place is known for pool table, large servings, board games, ambience was super cool, customizable dishes, good wifi.Read more",
+                "emphasizedKeywords": [
+                    "pool table, large servings, board games, ambience was super cool"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 859,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "CUPPA REDEFINED HSR layout Cuppa Redefined, also ...",
+                "url": "https://www.instagram.com/reel/DP21Lw1ka5B/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0sharadamurthy",
+                "description": "Cuppa Redefined, also known as HSR Layout's beloved neighbourhood caf\u00e9 and restaurant, perfectly blends vintage charm with a warm, welcoming\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "150+ likes",
+                "lastUpdated": "6 months ago",
+                "channelName": "reel",
+                "reelLength": "0:46",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Cuppa Redefined - Hsr Layout's Neighbourhood Cafe ...",
+                "url": "https://cuppa-redefined-hsr-layouts-neighbourhood-cafe-restaurant.wheree.com/",
+                "displayedUrl": "https://cuppa-redefined-hsr-layouts-neighbourhood-cafe-restaurant.wheree.com",
+                "description": "Cuppa Redefined stands as a vibrant neighborhood caf\u00e9 in HSR Layout, celebrated for its inviting atmosphere and delightful culinary offerings. The caf\u00e9 ...",
+                "emphasizedKeywords": [
+                    "Cuppa Redefined stands as a vibrant neighborhood caf\u00e9 in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Cuppa Redefined - HSR Layout's Neighbourhood Cafe ...",
+                "url": "https://cuppa-redefined-hsr-layouts-neighbourhood-cafe-restaurant.goto-where.com/",
+                "displayedUrl": "https://cuppa-redefined-hsr-layouts-neighbourhood-cafe-restaurant.goto-where.com",
+                "description": "Experience gourmet burgers, exceptional coffee, and a cozy atmosphere at Cuppa Redefined in HSR Layout, Bengaluru. Enjoy fresh, flavorful dishes and\u00a0...",
+                "emphasizedKeywords": [
+                    "gourmet burgers, exceptional coffee, and a cozy atmosphere"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Cuppa Redefined - HSR Layout's Neighbourhood Cafe & ...",
+                "url": "https://wanderlog.com/place/details/11972315/cuppa-redefined-hsr-layouts-neighbourhood-cafe--restaurant",
+                "displayedUrl": "https://wanderlog.com \u203a place \u203a details \u203a cuppa-redefin...",
+                "description": "Cuppa Redefined in HSR Layout offers a fantastic experience with exceptional coffee, delicious food, and a cozy atmosphere. Reviewers praise the friendly and\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Cuppa Redefined in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Cuppa Bangalore: Best Cafes in Bangalore | Continental food at",
+                "url": "https://www.cuppaofficial.com/",
+                "displayedUrl": "https://www.cuppaofficial.com",
+                "description": "Cuppa is one of the Best Cafes in Bangalore offering delicious and tasty continental food and beverages at an affordable price. Check out our Conti menu and\u00a0...",
+                "emphasizedKeywords": [
+                    "Cuppa is one of the Best Cafes in Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "CUPPA REDEFINED - HSR, Bengaluru - Restaurant ...",
+                "url": "https://www.tripadvisor.in/Restaurant_Review-g297628-d23863349-Reviews-Cuppa_Redefined_HSR-Bengaluru_Bangalore_District_Karnataka.html",
+                "displayedUrl": "https://www.tripadvisor.in \u203a ... \u203a Bengaluru Restaurants",
+                "description": "Cuppa Redefined - HSR ; CUISINES. American, Cafe ; Meal types. Breakfast, Lunch, Dinner, Brunch, After-hours ; Special Diets. Vegetarian friendly, Vegan options.Read more",
+                "emphasizedKeywords": [
+                    "Cuppa Redefined - HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 25,
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Cuppa Redefined | HSR, Bangalore | Book Table",
+                "url": "https://www.district.in/dining/bangalore/cuppa-redefined-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a cuppa-redefined-hsr-ba...",
+                "description": "Cuppa Redefined. 4.1. 1237, Ground Floor, Sri Sai Crystal HSR layout, 7th Sector, HSR, Bangalore ... The Cuppa redefined is a cute and cozy cafe with variety of\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "1237, Ground Floor, Sri Sai Crystal HSR layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Popular places to visit\nNandi Hills. You can learn about the history of Chikkaballapur with a trip to Nandi Hills. ... Bangalore Palace. 4/5(19 reviews) ... Manyata Tech Park. 3.5/5(8 reviews) ... Cubbon Park. 4.5/5(30 reviews) ... UB City. 4/5(25 reviews) ... Lalbagh Botanical Gardens. 4/5(17 reviews) ... ISKCON Temple. ... Wonderla Amusement Park.",
+                "question": "Where to go in HSR layout?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "The main difference between a cafe vs restaurant lies in their menu and atmosphere. Cafes primarily serve coffee, tea, and light snacks in a relaxed, casual setting. They're ideal for quick bites or leisurely sipping drinks. In contrast, restaurants offer full meals, including appetisers, main courses, and desserts.",
+                "question": "How does a cafe menu differ from a restaurant menu?",
+                "title": "Cafe vs Restaurant: What's the Difference?",
+                "url": "https://cafesolutions.com.au/cafe-vs-restaurant/#:~:text=The%20main%20difference%20between%20a,%2C%20main%20courses%2C%20and%20desserts.",
+                "date": "Mar 22, 2026"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/nZSzCp63AkmDRCY4S/records/uKWOkP19BiCiZtt-0.html?signature=kdDN33lvHm0s9ecIBPR7"
+    }
+]

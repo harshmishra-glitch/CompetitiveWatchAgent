@@ -1,0 +1,227 @@
+[
+    {
+        "#debug": {
+            "requestId": "EofjHPzY37Gckry",
+            "url": "http://www.google.com/search?q=Lama%27s+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=Lama%27s+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Lama's Cafe",
+            "url": "http://www.google.com/search?q=Lama%27s+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Lama%27s+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Lama Mediterranean Persian cuisine menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Lama+Mediterranean+Persian+cuisine+menu&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhAEAE"
+            },
+            {
+                "title": "Llama cafe menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Llama+cafe+menu&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhPEAE"
+            },
+            {
+                "title": "Llamas' Corner menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Llamas%27+Corner+menu&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhLEAE"
+            },
+            {
+                "title": "Lama Mediterranean cuisine photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Lama+Mediterranean+cuisine+photos&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhHEAE"
+            },
+            {
+                "title": "Llamas' Corner cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Llamas%27+Corner+cafe&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Lamas restaurant",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Lamas+restaurant&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Lama Beans menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Lama+Beans+menu&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Llamas' Corner reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Llamas%27+Corner+reviews&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Lama Mediterranean Persian cuisine menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Lama+Mediterranean+Persian+cuisine+menu&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhAEAE"
+            },
+            {
+                "title": "Llama cafe menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Llama+cafe+menu&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhPEAE"
+            },
+            {
+                "title": "Llamas' Corner menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Llamas%27+Corner+menu&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhLEAE"
+            },
+            {
+                "title": "Lama Mediterranean cuisine photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Lama+Mediterranean+cuisine+photos&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhHEAE"
+            },
+            {
+                "title": "Llamas' Corner cafe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Llamas%27+Corner+cafe&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Lamas restaurant",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Lamas+restaurant&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Lama Beans menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Lama+Beans+menu&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Llamas' Corner reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Llamas%27+Corner+reviews&sa=X&ved=2ahUKEwjquMrp-quUAxVoqJUCHUA3ALcQ1QJ6BAhCEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Lama Mediterranean Cuisine | Halal Restaurant | The ...",
+                "url": "https://www.lamamediterranean.com/",
+                "displayedUrl": "https://www.lamamediterranean.com",
+                "description": "Lama Mediterranean Cuisine offers delicious, authentic and contemporary Mediterranean and selected Persian food for your next family event.Read more",
+                "emphasizedKeywords": [
+                    "Lama Mediterranean Cuisine"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Llamas' Corner | Specialty Coffee & Community Cafe in ...",
+                "url": "https://www.llamascorner.com/",
+                "displayedUrl": "https://www.llamascorner.com",
+                "description": "Llamas' Corner in Bolton Hill: Baltimore cafe serving organic coffee, boba, fresh bites & community vibes.",
+                "emphasizedKeywords": [
+                    "cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Llamas' Corner - 132 McMechen St, Baltimore, Maryland",
+                "url": "https://www.yelp.com/biz/llamas-corner-baltimore",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Cafes \u203a Themed Cafes",
+                "description": "LLAMAS' CORNER - Try Our New Menu - 132 McMechen St, Baltimore, MD 21217, 206 Photos, (443) 869-2451, Mon - 7:30 am - 6:00 pm, Tue - 7:30 am - 6:00 pm,\u00a0...",
+                "emphasizedKeywords": [
+                    "132 McMechen St, Baltimore, MD 21217"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 86,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Lama Mediterranean Cafe",
+                "url": "https://www.visitshenandoahtx.com/directory/lama-mediterranean-cafe/",
+                "displayedUrl": "https://www.visitshenandoahtx.com \u203a directory \u203a lama-...",
+                "description": "Lama Mediterranean Caf\u00e9 in Shenandoah has been a beloved dining destination for over 20 years, serving authentic Mediterranean, Middle Eastern, and Persian.",
+                "emphasizedKeywords": [
+                    "Lama Mediterranean Caf\u00e9 in Shenandoah"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Llamas' Corner",
+                "url": "https://order.toasttab.com/online/llamas-corner",
+                "displayedUrl": "https://order.toasttab.com \u203a online \u203a llamas-corner",
+                "description": "Order online from Llamas' Corner, including Organic Fair-Traded Coffee Beans, Merch, Llamas' Seasonal Menu. Get the best prices and service by ordering\u00a0...",
+                "emphasizedKeywords": [
+                    "Order online from Llamas' Corner"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Lama Mediterranean Cafe - The Woodlands Restaurants",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g56764-d2620967-Reviews-Lama_Mediterranean_Cafe-The_Woodlands_Texas.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a Restaurant_Review-g567...",
+                "description": "The food is always delicious! Love the gyros, hummus, tzatziki and kebabs. Food is fresh and seems made from scratch with generous portions!Read more",
+                "emphasizedKeywords": [
+                    "The food is always delicious"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 111,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Little Lama Cafe (@littlelamacafe) \u00b7 Boulder, CO",
+                "url": "https://www.instagram.com/littlelamacafe/?hl=en",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0littlelamacafe",
+                "description": "Boulder, CO Locally sourced cafe introducing celebratory cuisines from around the world. Created with passion and mindfulness. Mon\u27a1\ufe0fFri, 8am-5pm ... Hanging\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Boulder, CO"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "730+ followers",
+                "channelName": "littlelamacafe",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Lama Beans: Home",
+                "url": "https://lamabeanstogo.com/",
+                "displayedUrl": "https://lamabeanstogo.com",
+                "description": "Berkeley, CA 94710 Mediterranean food for Pickup - Order from Lama Beans in Berkeley, CA 94710, phone: 510-528-3435.",
+                "emphasizedKeywords": [
+                    "Lama Beans in Berkeley, CA 94710"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "M\u0101lama Cafe | Specialty Coffee, Breakfast, lunch | Carolina ...",
+                "url": "https://www.malamacafe.com/",
+                "displayedUrl": "https://www.malamacafe.com",
+                "description": "We are a locally owned Carolina Beach cafe with a full specialty coffee bar offering healthy breakfast and lunch options including avocado toasts,\u00a0...",
+                "emphasizedKeywords": [
+                    "Carolina Beach cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/inhov2oJroTHNMf3a/records/EofjHPzY37Gckry-0.html?signature=1lF8Q8U1vMNcXhBOZG8Hm"
+    }
+]

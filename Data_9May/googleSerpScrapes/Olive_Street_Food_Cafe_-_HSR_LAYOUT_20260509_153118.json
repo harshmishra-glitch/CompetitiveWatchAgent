@@ -1,0 +1,261 @@
+[
+    {
+        "#debug": {
+            "requestId": "kHYbK81sF7M8mve",
+            "url": "http://www.google.com/search?q=Olive+Street+Food+Cafe+-+HSR+LAYOUT",
+            "loadedUrl": "http://www.google.com/search?q=Olive+Street+Food+Cafe+-+HSR+LAYOUT",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Olive Street Food Cafe - HSR LAYOUT",
+            "url": "http://www.google.com/search?q=Olive+Street+Food+Cafe+-+HSR+LAYOUT",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Olive+Street+Food+Cafe+-+HSR+LAYOUT",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Olive street food cafe hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+street+food+cafe+hsr+layout+menu&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Olive Street Food Cafe bangalore",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+Food+Cafe+bangalore&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Olive Street food cafe, Koramangala",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+food+cafe,+Koramangala&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Olive Street Food Cafe BTM Layout",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+Food+Cafe+BTM+Layout&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Olive Street Food cafe marathahalli",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+Food+cafe+marathahalli&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhrEAE"
+            },
+            {
+                "title": "Olive Street Food Cafe Kammanahalli",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+Food+Cafe+Kammanahalli&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Olive street food cafe hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+street+food+cafe+hsr+layout+reviews&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhqEAE"
+            },
+            {
+                "title": "Olive street food cafe HSR layout photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+street+food+cafe+HSR+layout+photos&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Olive street food cafe hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+street+food+cafe+hsr+layout+menu&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Olive Street Food Cafe bangalore",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+Food+Cafe+bangalore&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Olive Street food cafe, Koramangala",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+food+cafe,+Koramangala&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Olive Street Food Cafe BTM Layout",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+Food+Cafe+BTM+Layout&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Olive Street Food cafe marathahalli",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+Food+cafe+marathahalli&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhrEAE"
+            },
+            {
+                "title": "Olive Street Food Cafe Kammanahalli",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+Street+Food+Cafe+Kammanahalli&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Olive street food cafe hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+street+food+cafe+hsr+layout+reviews&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhqEAE"
+            },
+            {
+                "title": "Olive street food cafe HSR layout photos",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Olive+street+food+cafe+HSR+layout+photos&sa=X&ved=2ahUKEwjYx7G7-auUAxVp4skDHWrrJ_AQ1QJ6BAhpEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Olive Street Food Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/olive-street-food-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Olive Street Food Cafe, Sandwich, Rolls, Ice Cream, Shake, Juices, Beverages, 2727/1, Ground Floor, Bhagavathi Pamidi, 16th Cross, 27th Main Road, HSR,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "2727/1, Ground Floor, Bhagavathi Pamidi, 16th Cross, 27th Main Road, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.6,
+                "numberOfReviews": 12,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Olive street food cafe \u00ae (@olivestreetfoodcafe)",
+                "url": "https://www.instagram.com/olivestreetfoodcafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0olivestreetfoodcafe",
+                "description": "Locations: Koramangala | BTM Layout | HSR Layout | Kammanahalli | Marathahalli | MS Ramaiah College \ud83c\udf7d\ufe0f Must try: Porotta Rolls | Taco Porotta | Loaded\u00a0...",
+                "emphasizedKeywords": [
+                    "Locations: Koramangala | BTM Layout | HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "21.3K+ followers",
+                "channelName": "olivestreetfoodcafe",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Olive Street Food Cafe | HSR, Bangalore",
+                "url": "https://www.district.in/dining/bangalore/olive-street-food-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a olive-street-food-cafe-h...",
+                "description": "This chain of budget friendly food has opened in HSR Layout, and we dived in for a quick bite on a rainy evening. They have a range of parotta rolls, burgers,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "They have a range of parotta rolls, burgers"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Olive Street Food Cafe - HSR",
+                "url": "https://www.swiggy.com/city/bangalore/olive-street-food-cafe-layout-hsr-rest856738",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR",
+                "description": "Enjoy delicious meals from Olive Street Food Cafe in HSR Layout, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery on\u00a0...",
+                "emphasizedKeywords": [
+                    "Olive Street Food Cafe in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.5,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Olive Street Food Cafe - HSR LAYOUT 2727/1, 16th Cross ...",
+                "url": "https://www.instagram.com/reel/DLr-4hypXn5/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0emmade_bangalore",
+                "description": "Food starting from just \u20b970 and the taste is honestly so good for the price A perfect chill spot in HSR where you get great food without\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "250+ likes",
+                "lastUpdated": "10 months ago",
+                "channelName": "reel",
+                "reelLength": "0:38",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Olive Street Food Cafe Bangalore | Olive Cafe HSR layout ...",
+                "url": "https://www.youtube.com/watch?v=j7A7zSobRgk",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0Food travel DIY",
+                "description": "Olive Street Food Cafe Bangalore | Olive Cafe HSR layout Review | Best Street Food HSR Layout Are you a true food lover exploring the best\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "420+ views",
+                "lastUpdated": "1 year ago",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Olive Street Food Cafe - HSR LAYOUT - A Budget-Friendly ...",
+                "url": "https://olive-street-food-cafe-hsr-layout.goto-where.com/",
+                "displayedUrl": "https://olive-street-food-cafe-hsr-layout.goto-where.com",
+                "description": "Olive Street Food in HSR Layout is an excellent place for anyone craving fresh, flavorful, and satisfying street food. The atmosphere is warm and welcoming,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Olive Street Food in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Olive Street FoOd cafe (@olivestreetfoodcafe)",
+                "url": "https://www.facebook.com/olivestreetfoodcafe/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Olive Street FoOd cafe",
+                "description": "Budget Friendly in its truest sense \ud83e\udd24 \ud83d\udccd- Olive Street Food Cafe 2727/1, 16th Cross, 27th Main Rd, HSR Layout, Bengaluru, Karnataka 560102Read more",
+                "emphasizedKeywords": [
+                    "2727/1, 16th Cross, 27th Main Rd, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 3,
+                "followersAmount": "960+ followers",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Olive Street Food Cafe - HSR LAYOUT, Bengaluru, India",
+                "url": "https://wanderlog.com/place/details/12148887/olive-street-food-cafe-hsr-layout",
+                "displayedUrl": "https://wanderlog.com \u203a place \u203a details \u203a olive-street-fo...",
+                "description": "Olive Street Food Cafe, located on 14th main in HSR Layout, offers a variety of affordable and delicious street food options such as vada pav, paani puri, and\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "located on 14th main in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "The Olive Street Food is not another typical grill-house that offers exclusively souvlaki and gyros. It offers choices for all tastes, so that it covers as many taste demands as possible. There are plenty choices for meat and fish lovers, vegetarian, gluten free and vegan meals, as well as suggestions for diabetics.",
+                "question": "What is unique about olive street food?",
+                "title": "About us - The Olive Street Food",
+                "url": "https://www.theolivestreetfood.com/About-us#:~:text=The%20Olive%20Street%20Food%20is,well%20as%20suggestions%20for%20diabetics.",
+                "date": null
+            },
+            {
+                "answer": "A pioneering force in Indian hospitality, AD Singh is the Founder and Managing Director of the Olive Group of Restaurants, and one of the key architects of India's contemporary restaurant movement.",
+                "question": "Who is the owner of Olive Bistro?",
+                "title": "AD Singh (@adsingholive) \u2022 Instagram photos and videos",
+                "url": "https://www.instagram.com/adsingholive/#:~:text=A%20pioneering%20force%20in%20Indian,of%20India's%20contemporary%20restaurant%20movement.",
+                "date": null
+            },
+            {
+                "answer": "VV Puram Food Street VV Puram Food Street is a bustling and lively culinary paradise that caters to the discerning taste buds of food lovers. Located in the heart of Bangalore, this vibrant street boasts an impressive array of food stalls and vendors.",
+                "question": "Which place is best for street food in Bangalore?",
+                "title": "15 Best Street Food Places in Bangalore - SOTC",
+                "url": "https://www.sotc.in/blog/indian-holidays/street-food-in-bangalore/#:~:text=VV%20Puram%20Food%20Street,of%20food%20stalls%20and%20vendors.",
+                "date": "Apr 9, 2026"
+            },
+            {
+                "answer": "Olive Beach, 16, Wood Street, Ashok Nagar, Richmond Road, Bengaluru, Karnataka, 560025.",
+                "question": "Where is Olive Beach in Bangalore?",
+                "title": "Olive Beach, 16, Wood Street, Ashok Nagar, Richmond Road, Bengaluru ...",
+                "url": "https://www.mappls.com/place-olive+beach-bangalore-16-wood+street-ashok+nagar-richmond+road-bengaluru-karnataka-560025-5EE5AS@zdata=MTIuOTY2ODU0Kzc3LjYwODA5NSsxNys1RUU1QVMrK25yed#:~:text=Olive%20Beach%2C%2016%2C%20Wood%20Street,Road%2C%20Bengaluru%2C%20Karnataka%2C%20560025",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/Uc2IHqB6RT3uAiUZT/records/kHYbK81sF7M8mve-0.html?signature=hE2c1fxMjirbs6dP1KM"
+    }
+]

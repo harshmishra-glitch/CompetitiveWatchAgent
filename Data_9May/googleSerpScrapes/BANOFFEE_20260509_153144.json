@@ -1,0 +1,252 @@
+[
+    {
+        "#debug": {
+            "requestId": "ru6cxuyLZSM0MhG",
+            "url": "http://www.google.com/search?q=BANOFFEE",
+            "loadedUrl": "http://www.google.com/search?q=BANOFFEE",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "BANOFFEE",
+            "url": "http://www.google.com/search?q=BANOFFEE",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=BANOFFEE",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Banoffee pie recipe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+pie+recipe&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiVARAB"
+            },
+            {
+                "title": "Banoffee tart",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+tart&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiaARAB"
+            },
+            {
+                "title": "Banoffee pudding",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+pudding&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQicARAB"
+            },
+            {
+                "title": "Banoffee biscuits",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+biscuits&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQibARAB"
+            },
+            {
+                "title": "Banoffee pie near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+pie+near+me&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiYARAB"
+            },
+            {
+                "title": "Banoffee coffee",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+coffee&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiZARAB"
+            },
+            {
+                "title": "Banoffee drink",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+drink&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiXARAB"
+            },
+            {
+                "title": "Banoffee pie pronunciation",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+pie+pronunciation&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiWARAB"
+            },
+            {
+                "title": "Banoffee pie recipe",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+pie+recipe&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiVARAB"
+            },
+            {
+                "title": "Banoffee tart",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+tart&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiaARAB"
+            },
+            {
+                "title": "Banoffee pudding",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+pudding&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQicARAB"
+            },
+            {
+                "title": "Banoffee biscuits",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+biscuits&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQibARAB"
+            },
+            {
+                "title": "Banoffee pie near me",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+pie+near+me&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiYARAB"
+            },
+            {
+                "title": "Banoffee coffee",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+coffee&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiZARAB"
+            },
+            {
+                "title": "Banoffee drink",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+drink&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiXARAB"
+            },
+            {
+                "title": "Banoffee pie pronunciation",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Banoffee+pie+pronunciation&sa=X&ved=2ahUKEwjqrvXJ-auUAxVgZ0EAHXvxJ2QQ1QJ6BQiWARAB"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Banoffee Pie Recipe",
+                "url": "https://sallysbakingaddiction.com/banoffee-pie/",
+                "displayedUrl": "https://sallysbakingaddiction.com \u203a banoffee-pie",
+                "description": "This shockingly easy banoffee pie recipe combines a crunchy graham cracker crust, soft and sweet dulce de leche, thick slices of fresh banana, and a mountain\u00a0...Read more",
+                "date": "2022-01-19T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "crunchy graham cracker crust, soft and sweet dulce de leche, thick slices of fresh banana"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Banoffee pie",
+                "url": "https://en.wikipedia.org/wiki/Banoffee_pie",
+                "displayedUrl": "https://en.wikipedia.org \u203a wiki \u203a Banoffee_pie",
+                "description": "Banoffee pie or banoffi pie is an English dessert pie made from bananas, whipped cream, and a thick caramel sauce (made from boiled condensed milk or milk jam),\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "an English dessert pie made from bananas, whipped cream, and a thick caramel sauce"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Banoffee Pie Recipe",
+                "url": "https://pinchofyum.com/banoffee-pie",
+                "displayedUrl": "https://pinchofyum.com \u203a banoffee-pie",
+                "description": "This banoffee pie recipe features a graham cracker crust, silky toffee filling, sliced bananas, and whipped cream.",
+                "date": "2026-04-08T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "banoffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Recipes",
+                "url": "https://pinchofyum.com/banoffee-pie",
+                "displayedUrl": "Pinch of Yum",
+                "description": "",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Easy Banoffee Pie Recipe",
+                "url": "https://www.youtube.com/watch?v=W6BPdCIiK_0",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0Preppy Kitchen",
+                "description": "Banoffee Pie is a classic English dessert that gets its name from the ingredients used banana and toffee! It's absolutely delicious and\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "267.7K+ views",
+                "lastUpdated": "8 months ago",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "5-Ingredient British Banoffee Pie",
+                "url": "https://www.seriouseats.com/banoffee-pie-recipe-8646124",
+                "displayedUrl": "https://www.seriouseats.com \u203a ... \u203a Fruit \u203a Banana",
+                "description": "This low-effort dessert with gooey dulce de leche, sliced bananas, and whipped cream is a British classic\u2014and is one I bring to every dinner party.",
+                "emphasizedKeywords": [
+                    "a British classic"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Banoffee Pie",
+                "url": "https://www.lifeloveandsugar.com/banoffee-pie/",
+                "displayedUrl": "https://www.lifeloveandsugar.com \u203a ... \u203a Pie",
+                "description": "This Banoffee Pie recipe is classic British pie made with a graham cracker crust, homemade toffee filling, banana slices, and homemade whipped cream.Read more",
+                "date": "2025-02-24T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "classic British pie"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Banoffee Pie Recipe",
+                "url": "https://www.youtube.com/shorts/7YXyCkjdH-o",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0Pinch of Yum",
+                "description": "Salty-sweet graham cracker crust, silky caramel toffee filling, sliced bananas, and whipped cream on top. My family loves this easy dessert\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "24.6K+ views",
+                "lastUpdated": "3 weeks ago",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Banoffee Pie - Gemma's Bigger Bolder Baking",
+                "url": "https://www.biggerbolderbaking.com/banoffee-pie/",
+                "displayedUrl": "https://www.biggerbolderbaking.com \u203a Pies & Tarts",
+                "description": "Enjoy layers of dulce de leche caramel, bananas and cookie crust with my Banoffee Pie recipe. It's a delicious dessert I grew up with and still\u00a0...Read more",
+                "date": "2026-01-26T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Banoffee Pie recipe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "The name Banoffee is a portmanteau of the words Banana and Toffee, reflecting the dessert's main ingredients: bananas and homemade toffee (caramel).",
+                "question": "Why is it called banoffee?",
+                "title": "Banoffee History: The British Pie Loved Globally",
+                "url": "https://www.rimping.com/blog/7755/history-banoffee-pie#:~:text=The%20name%20Banoffee%20is%20a,and%20homemade%20toffee%20(caramel).",
+                "date": "Jul 8, 2025"
+            },
+            {
+                "answer": null,
+                "question": "What is banoffee made of?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is the banoffee Flavour?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is banoffee in English?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/dgXi9GcaTOF36RUW6/records/ru6cxuyLZSM0MhG-0.html?signature=PlFBYZh7xzVVXv3V0NRA"
+    }
+]

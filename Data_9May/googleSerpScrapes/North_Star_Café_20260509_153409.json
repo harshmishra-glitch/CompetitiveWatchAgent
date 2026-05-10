@@ -1,0 +1,256 @@
+[
+    {
+        "#debug": {
+            "requestId": "H6aUBBTIrhM1IDj",
+            "url": "http://www.google.com/search?q=North+Star+Caf%C3%A9",
+            "loadedUrl": "http://www.google.com/search?q=North+Star+Caf%C3%A9",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "North Star Caf\u00e9",
+            "url": "http://www.google.com/search?q=North+Star+Caf%C3%A9",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=North+Star+Caf%C3%A9",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "North star caf\u00e9 menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=North+star+caf%C3%A9+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAguEAE"
+            },
+            {
+                "title": "North star caf\u00e9 locations",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=North+star+caf%C3%A9+locations&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAgtEAE"
+            },
+            {
+                "title": "Northstar Cafe in Shaker Heights menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Northstar+Cafe+in+Shaker+Heights+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Northstar Cafe at Kenwood Towne Center menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Northstar+Cafe+at+Kenwood+Towne+Center+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "North star columbus Menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=North+star+columbus+Menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Northstar Short North menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Northstar+Short+North+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAgxEAE"
+            },
+            {
+                "title": "North Star Cafe Urbana menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=North+Star+Cafe+Urbana+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAgwEAE"
+            },
+            {
+                "title": "Northstar cafe in Beechwold menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Northstar+cafe+in+Beechwold+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAgvEAE"
+            },
+            {
+                "title": "North star caf\u00e9 menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=North+star+caf%C3%A9+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAguEAE"
+            },
+            {
+                "title": "North star caf\u00e9 locations",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=North+star+caf%C3%A9+locations&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAgtEAE"
+            },
+            {
+                "title": "Northstar Cafe in Shaker Heights menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Northstar+Cafe+in+Shaker+Heights+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Northstar Cafe at Kenwood Towne Center menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Northstar+Cafe+at+Kenwood+Towne+Center+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "North star columbus Menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=North+star+columbus+Menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Northstar Short North menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Northstar+Short+North+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAgxEAE"
+            },
+            {
+                "title": "North Star Cafe Urbana menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=North+Star+Cafe+Urbana+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAgwEAE"
+            },
+            {
+                "title": "Northstar cafe in Beechwold menu",
+                "url": "https://www.google.com/search?sca_esv=460606e7be098232&gl=US&hl=en&q=Northstar+cafe+in+Beechwold+menu&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQ1QJ6BAgvEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Northstar Cafe: Order Online for Curbside Pickup",
+                "url": "https://www.thenorthstarcafe.com/",
+                "displayedUrl": "https://www.thenorthstarcafe.com",
+                "description": "Order Online or from the Northstar App for curbside pickup! Serving breakfast, lunch and dinner daily at five locations throughout Columbus,\u00a0...",
+                "emphasizedKeywords": [
+                    "Northstar"
+                ],
+                "siteLinks": [
+                    {
+                        "title": "Locations & Menus",
+                        "url": "https://www.thenorthstarcafe.com/locations/",
+                        "description": "Order Online or from the Northstar App for curbside pickup ..."
+                    },
+                    {
+                        "title": "Shaker Heights",
+                        "url": "https://www.thenorthstarcafe.com/location/northstar-cafe-shaker-heights/",
+                        "description": "3380 Warrensville Center Road, Shaker Heights, OH 44122 ..."
+                    },
+                    {
+                        "title": "Westerville",
+                        "url": "https://www.thenorthstarcafe.com/location/northstar-cafe-westerville/",
+                        "description": "Hours & Location. 109 South State Street, Westerville, OH 43081 ..."
+                    },
+                    {
+                        "title": "Kenwood",
+                        "url": "https://www.thenorthstarcafe.com/location/northstar-cafe-kenwood/",
+                        "description": "Hours & Location. 7875 Montgomery Rd, Suite 3112 ..."
+                    },
+                    {
+                        "title": "Easton",
+                        "url": "https://www.thenorthstarcafe.com/location/northstar-cafe-easton/",
+                        "description": "4015 Townsfair Way, Columbus, OH 43219 (614) 532-5444 ..."
+                    },
+                    {
+                        "title": "More results from thenorthstarcafe.com\u00a0\u00bb",
+                        "url": "https://www.google.com/search?q=North+Star+Caf%C3%A9+site:thenorthstarcafe.com&sca_esv=460606e7be098232&gl=US&hl=en&sa=X&ved=2ahUKEwiE652P-quUAxXr48kDHQ_IEHAQrAN6BAgaEAE",
+                        "description": ""
+                    }
+                ],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Northstar Cafe (@northstarcafe)",
+                "url": "https://www.instagram.com/northstarcafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0northstarcafe",
+                "description": "Northstar Caf\u00e8 7875 Montgomery Rd Suite 3112, Cincinnati, OH 45236. Happy Earth Day Today we're celebrating with one of our most meaningful traditions\u00a0...",
+                "emphasizedKeywords": [
+                    "Northstar"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "24.9K+ followers",
+                "channelName": "northstarcafe",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Northstar Caf\u00e9 - Restaurant Reviews",
+                "url": "https://www.yelp.com/biz/northstar-caf%C3%A9-columbus-5",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a New American",
+                "description": "Popular Dishes: Fish Sandwich, Breakfast Burrito, Mushroom Frittata, Thai Burrito, Sweet Basil Burrito, Village Salad, Chicken and Avocado SandwichRead more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Northstar Cafe (@northstarcafe)",
+                "url": "https://www.facebook.com/northstarcafe/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Northstar Cafe",
+                "description": "We have a rigorous safety program in place, including comfortable spaces for safe dining, disposable menus, sanitized common touch points, and wellness checks\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "comfortable spaces for safe dining"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "3.9K+ followers",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "NORTHSTAR CAFE, Columbus - Easton Town Ctr",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g50226-d2713529-Reviews-Northstar_Cafe-Columbus_Ohio.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Columbus Restaurants",
+                "description": "The restaurant is very cozy with an open kitchen and large bar. They have a small cocktail, beer and wine menu with some mostly local beers. The bartender let\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "They have a small cocktail, beer and wine menu"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Northstar Caf\u00e9 - Columbus",
+                "url": "https://shortnorth.org/businesses/northstar-cafe/",
+                "displayedUrl": "https://shortnorth.org \u203a Businesses \u203a Eat & Drink \u203a Lunch",
+                "description": "30 Warren St. Columbus, OH 43215. Short North Ambassador Hotline text or call 614.636.5100. Hotline Hours: every day 7am \u2013 9pm additional Thurs \u2013 Sun\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "North"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Northstar Caf\u00e9 - Columbus",
+                "url": "https://eastontowncenter.com/tenant/northstar-cafe/",
+                "displayedUrl": "https://eastontowncenter.com \u203a Tenants",
+                "description": "Featuring an imaginative menu of New American cuisine with an emphasis on organic ingredients, Northstar is pure and natural dining.Read more",
+                "emphasizedKeywords": [
+                    "Featuring an imaginative menu of New American cuisine"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Northstar Cafe's Company Summary The company has strategically established eight locations across key areas including Columbus, Uptown Westerville, and Liberty Township, Ohio, underscoring its significant regional presence and operational footprint.",
+                "question": "How many Northstar cafes are there?",
+                "title": "Northstar Cafe - Overview, News & Similar companies | ZoomInfo.com",
+                "url": "https://www.zoominfo.com/c/northstar-cafe/372056956#:~:text=Northstar%20Cafe's%20Company%20Summary&text=The%20company%20has%20strategically%20established,regional%20presence%20and%20operational%20footprint.",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Who owns North Star Cafe?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Do you tip at Northstar Cafe?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Does Northstar Cafe serve breakfast all day?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/Ef0ej8fojFvCoMgy9/records/H6aUBBTIrhM1IDj-0.html?signature=BQX5ThXFSGjG9XRs1cwD"
+    }
+]

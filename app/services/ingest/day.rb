@@ -26,8 +26,12 @@ module Ingest
     def call
       stats = {
         scrapes: 0, menu_items: 0, skipped_no_match: 0,
-        review_scrapes: 0, reviews: 0, reviews_skipped_no_match: 0
+        review_scrapes: 0, reviews: 0, reviews_skipped_no_match: 0,
+        ig_scrapes: 0, ig_posts: 0, ig_skipped_no_match: 0,
+        serp_scrapes: 0, serp_results: 0, serp_questions: 0, serp_skipped_no_match: 0
       }
+
+      slug_map = restaurants_by_slug
 
       info_files.each do |info_path|
         row = CSV.read(info_path, headers: true).first
@@ -55,13 +59,34 @@ module Ingest
 
       rev_stats = Ingest::GoogleReviewsLoader.load(
         reviews_dir:         reviews_subdir,
-        restaurants_by_slug: restaurants_by_slug,
+        restaurants_by_slug: slug_map,
         scrapped_at:         scrapped_at,
         scrapped_at_date:    scrapped_at_date
       )
       stats[:review_scrapes]           = rev_stats[:review_scrapes]
       stats[:reviews]                  = rev_stats[:reviews]
       stats[:reviews_skipped_no_match] = rev_stats[:skipped_no_match]
+
+      ig_stats = Ingest::InstagramLoader.load(
+        scrapes_dir:         instagram_subdir,
+        restaurants_by_slug: slug_map,
+        scrapped_at:         scrapped_at,
+        scrapped_at_date:    scrapped_at_date
+      )
+      stats[:ig_scrapes]          = ig_stats[:ig_scrapes]
+      stats[:ig_posts]            = ig_stats[:ig_posts]
+      stats[:ig_skipped_no_match] = ig_stats[:skipped_no_match]
+
+      serp_stats = Ingest::GoogleSerpLoader.load(
+        scrapes_dir:         serp_subdir,
+        restaurants_by_slug: slug_map,
+        scrapped_at:         scrapped_at,
+        scrapped_at_date:    scrapped_at_date
+      )
+      stats[:serp_scrapes]          = serp_stats[:serp_scrapes]
+      stats[:serp_results]          = serp_stats[:serp_results]
+      stats[:serp_questions]        = serp_stats[:serp_questions]
+      stats[:serp_skipped_no_match] = serp_stats[:skipped_no_match]
 
       stats
     end
@@ -77,6 +102,14 @@ module Ingest
       File.join(folder, "googleReviews")
     end
 
+    def instagram_subdir
+      File.join(folder, "instagramScrapes")
+    end
+
+    def serp_subdir
+      File.join(folder, "googleSerpScrapes")
+    end
+
     def info_files
       dir = menus_subdir
       return [] unless dir
@@ -84,10 +117,24 @@ module Ingest
     end
 
     def restaurants_by_slug
-      Restaurant.all.each_with_object({}) do |r, h|
+      ordered = Restaurant.order(Arel.sql("review_count DESC NULLS LAST")).to_a
+      map = {}
+
+      ordered.each do |r|
         slug = Ingest::Parsers.slug(r.name)
-        h[slug] = r unless slug.empty?
+        map[slug] = r unless slug.empty?
       end
+
+      # Brand-level alias: a file named after the parent brand
+      # (e.g. "Blue_Tokai_Coffee_Roasters.json") falls back to the
+      # flagship outlet (highest review_count) of that brand.
+      ordered.each do |r|
+        brand = Ingest::Parsers.brand_slug(r.name)
+        next if brand.empty?
+        map[brand] ||= r
+      end
+
+      map
     end
 
     def backfill_menu_jsonb(scrape, rows)
