@@ -1,0 +1,103 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Non Veg Starters,,Lemon chicken,₹180,,,Non-Veg,,,,Check app
+Non Veg Starters,,Chicken kebab  [with bone],₹220,,,Non-Veg,,,,Check app
+Non Veg Starters,,Chicken kebab  [boneless],₹240,,,Non-Veg,,,,Check app
+Non Veg Starters,,Chicken leg piece  [oil fry],₹100,,,Non-Veg,,,,Check app
+Non Veg Starters,,Chicken wings   [oil fry],₹190,,,Non-Veg,,,,Check app
+Non Veg Starters,,Garlic chicken,₹200,,,Non-Veg,,,,Check app
+Non Veg Starters,,Chicken hot and spicy wings,₹180,,,Non-Veg,,,,Check app
+Non Veg Starters,,Chilli chicken,₹180,,,Non-Veg,,,,Check app
+Non Veg Starters,,Chicken manchurian,₹180,,,Non-Veg,,,,Check app
+Non Veg Starters,,Pepper chicken,₹180,,,Non-Veg,,,,Check app
+Non Veg Starters,,Chicken  65,₹180,,,Non-Veg,,,,Check app
+Non Veg Starters,,Dragon chicken,₹180,,,Non-Veg,,,,Check app
+Non Veg Starters,,Honey chicken,₹180,,,Non-Veg,,,,Check app
+Non Veg Starters,,Mutton pepper fry,₹350,,,Non-Veg,,,,Check app
+Non Veg Starters,,Mutton chops,₹350,,,Non-Veg,,,,Check app
+Non Veg Starters,,Mutton chilli,₹350,,,Non-Veg,,,,Check app
+Non Veg Starters,,Mutton dry,₹350,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Chicken kolhapuri,₹180,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Butter chicken,₹190,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Kadhai chicken,₹180,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Chicken pepper masala,₹180,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Mutton masala,₹250,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Mutton butter masala,₹250,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Chicken tikka masala,₹250,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Mutton kadhai,₹250,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Mutton hyderabadi,₹250,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Shahi mutton masala,₹250,,,Non-Veg,,,,Check app
+Non Veg Main Course,,Egg masala,₹100,,,Non-Veg,,,,Check app
+Veg  Starters,,Mushroom manchurian,₹160,,,Veg,,,,Check app
+Veg  Starters,,Mushroom chilli,₹160,,,Veg,,,,Check app
+Veg  Starters,,Mushroom  65,₹160,,,Veg,,,,Check app
+Veg  Starters,,Mushroom pepper dry,₹160,,,Veg,,,,Check app
+Veg  Starters,,Baby corn chilli,₹170,,,Veg,,,,Check app
+Veg  Starters,,Baby corn      65,₹170,,,Veg,,,,Check app
+Veg  Starters,,Baby corn pepper dry,₹170,,,Veg,,,,Check app
+Veg  Starters,,Gobi manchurian,₹130,,,Veg,,,,Check app
+Veg  Starters,,Gobi chilli,₹130,,,Veg,,,,Check app
+Veg  Starters,,Gobi pepper dry,₹130,,,Veg,,,,Check app
+Veg  Starters,,Gobi  65,₹130,,,Veg,,,,Check app
+Veg  Starters,,Veg ball manchurian,₹120,,,Veg,,,,Check app
+Veg Main Course,,Paneer kolhapuri,₹180,,,Veg,,,,Check app
+Veg Main Course,,Mushroom butter masala,₹160,,,Veg,,,,Check app
+Veg Main Course,,Veg mix curry,₹160,,,Veg,,,,Check app
+Veg Main Course,,Dal fry,₹120,,,Veg,,,,Check app
+Veg Main Course,,Soya malai chaap,₹200,,,Veg,,,,Check app
+Veg Main Course,,Mushroom kolhapuri,₹160,,,Veg,,,,Check app
+Veg Main Course,,Malai kofta,₹200,,,Veg,,,,Check app
+Veg Main Course,,Veg kofta,₹160,,,Veg,,,,Check app
+Veg Main Course,,Green peas masala,₹160,,,Veg,,,,Check app
+Noodles,,Egg    noodles,₹150,,,Non-Veg,,,,Check app
+Noodles,,Veg    noodles,₹140,,,Veg,,,,Check app
+Noodles,,Chicken    noodles,₹220,,,Non-Veg,,,,Check app
+Noodles,,Paneer    noodles,₹220,,,Veg,,,,Check app
+Noodles,,Gobi    noodles,₹170,,,Veg,,,,Check app
+Noodles,,Schezwan veg   noodles,₹150,,,Veg,,,,Check app
+Noodles,,Schezwan gobi noodles,₹180,,,Veg,,,,Check app
+Noodles,,Schezwan mushroom noodles,₹180,,,Veg,,,,Check app
+Fried Rice,,Veg fried rice,₹140,,,Veg,,,,Check app
+Fried Rice,,Egg fried rice,₹150,,,Non-Veg,,,,Check app
+Fried Rice,,Chicken fried rice,₹220,,,Non-Veg,,,,Check app
+Fried Rice,,Paneer fried rice,₹220,,,Veg,,,,Check app
+Fried Rice,,Gobi fried rice,₹170,,,Veg,,,,Check app
+Fried Rice,,Baby corn fried rice,₹180,,,Veg,,,,Check app
+Fried Rice,,Schezwan veg fried rice,₹150,,,Veg,,,,Check app
+Fried Rice,,Schezwan chicken fried rice,₹230,,,Non-Veg,,,,Check app
+Fried Rice,,Schezwan paneer fried rice,₹230,,,Veg,,,,Check app
+Fried Rice,,Schezwan mushroom fried rice,₹180,,,Veg,,,,Check app
+Fried Rice,,Schezwan baby corn fried rice,₹190,,,Veg,,,,Check app
+Biryani Items,,Chicken dum biryani,₹250,,,Non-Veg,,,,Check app
+Biryani Items,,Chicken dum biryani with egg,₹260,,,Non-Veg,,,,Check app
+Biryani Items,,Chicken kebab biryani,₹260,,,Non-Veg,,,,Check app
+Biryani Items,,Chicken boneless dum biryani,₹260,,,Non-Veg,,,,Check app
+Biryani Items,,Mutton dum biryani,₹450,,,Non-Veg,,,,Check app
+Biryani Items,,Egg dum biryani,₹200,,,Non-Veg,,,,Check app
+Biryani Items,,Chicken dum biryani rice,₹160,,,Non-Veg,,,,Check app
+Biryani Items,,Mutton dum biryani rice,₹170,,,Non-Veg,,,,Check app
+Biryani Items,,Veg biryani,₹210,,,Veg,,,,Check app
+Bread N Naan,,Parota  [1 piece],₹40,,,Veg,,,,Check app
+Bread N Naan,,Butter [1 piece],₹50,,,Veg,,,,Check app
+Bread N Naan,,Butter   naan [1 piece],₹55,,,Veg,,,,Check app
+Bread N Naan,,Masala kulcha [1 piece],₹45,,,Veg,,,,Check app
+Bread N Naan,,Pudina kulcha [1 piece],₹45,,,Veg,,,,Check app
+Bread N Naan,,Butter kulcha [1 piece],₹55,,,Veg,,,,Check app
+Tandoori Non Veg,,Chicken tandoori,₹290,,,Non-Veg,,,,Check app
+Tandoori Non Veg,,Grilled chicken,₹280,,,Non-Veg,,,,Check app
+Tandoori Non Veg,,Chicken malai tikka    [boneless],₹210,,,Non-Veg,,,,Check app
+Tandoori Non Veg,,Chicken tikka     [boneless],₹210,,,Non-Veg,,,,Check app
+Tandoori Non Veg,,Chicken kalmi kebab,₹200,,,Non-Veg,,,,Check app
+Tandoori Veg,,Paneer malai tikka,₹200,,,Veg,,,,Check app
+Tandoori Veg,,Paneer hariyali tikka,₹200,,,Veg,,,,Check app
+Tandoori Veg,,Mushroom tikka,₹170,,,Veg,,,,Check app
+Tandoori Veg,,Mushroom malai tikka,₹170,,,Veg,,,,Check app
+Tandoori Veg,,Mushroom hariyali tikka,₹170,,,Veg,,,,Check app
+Egg  Starters,,Egg chilli,₹100,,,Non-Veg,,,,Check app
+Egg  Starters,,Egg manchurian,₹100,,,Non-Veg,,,,Check app
+Egg  Starters,,Egg pepper dry,₹100,,,Non-Veg,,,,Check app
+Egg  Starters,,Egg  65,₹100,,,Non-Veg,,,,Check app
+Rice Items,,Ghee rice,₹170,,,Veg,,,,Check app
+Rice Items,,Jeera rice,₹170,,,Veg,,,,Check app
+Rice Items,,White steamed rice,₹120,,,Veg,,,,Check app
+Bucket Biryani,,Chicken bucket biryani   [serves  5-6],₹1599,,(15 PC OF CHICKEN+500 GM CHICKEN KEBAB+5 NO.S BOILED EGGS+PLAIN CHICKEN GRAVY[1000 ML]+RAITA[250 ML]+ONION SALAD),Non-Veg,,,,Check app
+Bucket Biryani,,Chicken bucket biryani   [serves 3],₹1199,,(9 PC OF CHICKEN+250 GM CHICKEN KEBAB+3 NO.S BOILED EGGS+PLAIN CHICKEN GRAVY[500 ML]+RAITA[250 ML]+ONION SALAD),Non-Veg,,,,Check app

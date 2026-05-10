@@ -1,0 +1,4 @@
+review_id,place_name,reviewer_name,reviewer_id,local_guide,rating,review_text,likes,date,attributes
+Ci9DQUlRQUNvZENodHljRjlvT21VNGMyeHdORlJqTFdaSlVVRktkRWhzYUhSUGRVRRAB,"MixNosh | Art Cafe, HSR",nikita chetia,114565694478633083661,False,5,,0,6 hours ago,"{""food"": 5, ""service_rating"": 5, ""atmosphere"": 5}"
+Ci9DQUlRQUNvZENodHljRjlvT25RMGFUWTVZMTh4WldZMFdrTjNUMVp1TURWRU1HYxAB,"MixNosh | Art Cafe, HSR",Pratyush Sharma,116646731161563437658,True,5,,0,12 hours ago,"{""food"": 4, ""service_rating"": 5, ""atmosphere"": 5}"
+Ci9DQUlRQUNvZENodHljRjlvT21ObVRETmpWMjVFUkhCb2FuTlhTaTFsVEdreFdYYxAB,"MixNosh | Art Cafe, HSR",rachita choudhury,116850925084507330087,True,5,,0,15 hours ago,"{""meal_type"": ""Brunch"", ""price_per_person"": ""₹1,000–1,200"", ""food"": 4, ""service_rating"": 5, ""atmosphere"": 5, ""group_size"": ""2 people""}"
