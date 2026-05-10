@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get "/health", to: "health#show"
+
   namespace :api do
     # ----- Onboarding -----
     get "restaurants/search", to: "restaurants#search"

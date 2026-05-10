@@ -1,0 +1,70 @@
+# Render Blueprint for CLINK — https://render.com/docs/infrastructure-as-code
+#
+# Deploy: push this file to GitHub, then in Render → New → Blueprint, point at the repo.
+# After the first apply, fill in the secret env vars (DATABASE_URL, OPENAI_API_KEY)
+# in the Render dashboard — they're declared with `sync: false` so Render won't
+# expect them in the file.
+#
+# Plans here default to `free`. Bump the web service to `starter` ($7/mo) for
+# always-on (no 30-second cold starts).
+
+envVarGroups:
+  - name: clink-shared
+    envVars:
+      # Set these in the Render dashboard after the first apply.
+      - key: DATABASE_URL
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+
+      # Non-secret config — checked into git is fine.
+      - key: OPENAI_DIGEST_MODEL
+        value: gpt-4o
+      - key: OPENAI_CHAT_MODEL
+        value: gpt-4o
+      - key: OPENAI_THREAT_MODEL
+        value: gpt-4o-mini
+      - key: RAILS_ENV
+        value: production
+      - key: RAILS_LOG_TO_STDOUT
+        value: "true"
+      - key: BUNDLE_WITHOUT
+        value: development:test
+
+services:
+  # ---------------------------------------------------------------------------
+  # Rails API
+  # ---------------------------------------------------------------------------
+  - type: web
+    name: clink-api
+    runtime: ruby
+    plan: free                       # bump to `starter` to remove cold starts
+    region: singapore                # closest to India / Neon HSR data
+    branch: main
+    autoDeploy: true
+    buildCommand: bundle install
+    preDeployCommand: bundle exec rails db:migrate
+    startCommand: bundle exec puma -C config/puma.rb
+    healthCheckPath: /health
+    envVars:
+      - fromGroup: clink-shared
+      - key: SECRET_KEY_BASE
+        generateValue: true
+      - key: RAILS_SERVE_STATIC_FILES
+        value: "true"
+
+  # ---------------------------------------------------------------------------
+  # Daily pipeline: scoring → daily digest → threat refresh, for every pilot.
+  # 21:30 UTC = 03:00 IST — runs after the night's scrape window.
+  # ---------------------------------------------------------------------------
+  - type: cron
+    name: clink-daily-pipeline
+    runtime: ruby
+    plan: starter                    # cron jobs require a paid plan
+    region: singapore
+    branch: main
+    schedule: "30 21 * * *"
+    buildCommand: bundle install
+    startCommand: bundle exec rake daily:run
+    envVars:
+      - fromGroup: clink-shared
