@@ -1,0 +1,227 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Chicken Clear Soup                                  ,₹130,,,Veg,,,,Check app
+Recommended,,Chicken Sweet Corn Soup                                  ,₹130,,,Veg,,,,Check app
+Rolls,,Double Egg Double Chicken Roll,₹200,,"A delectable combination of succulent chicken and fluffy eggs, rolled into a mouthwatering treat.",Non-Veg,5.0,6,,Check app
+Rolls,,Double Egg Double Chicken Cheese Roll,₹210,,"A delectable roll filled with double portions of egg, tender chicken, and melted cheese for a mouthwatering non-veg treat.",Non-Veg,,,,Check app
+Rolls,,Double Chicken Roll,₹160,,"A mouthwatering blend of tender chicken enveloped in a delicate double-layered roll, delightfully satisfying for any meat lover.",Non-Veg,5.0,5,,Check app
+Rolls,,Egg Roll,₹90,,"A sumptuous roll filled with a satisfying blend of flavors and textures, perfect for those craving a savory treat.",Non-Veg,4.5,5,,Check app
+Rolls,,Chicken Egg Roll,₹160,,"A delectable combination of tender chicken and savory flavors, wrapped in a crispy roll.",Non-Veg,3.5,9,,Check app
+Rolls,,Chicken Roll,₹120,,"A scrumptious roll filled with tender, flavorful chicken, leaving you craving for more.",Non-Veg,3.6,8,,Check app
+Rolls,,Double Chicken Cheese Roll,₹180,,"A delectable roll featuring succulent chicken combined with creamy cheese, for an indulgent non-veg delight.",Non-Veg,,,,Check app
+Rolls,,Chicken Cheese Roll,₹160,,"A delectable roll filled with savory chicken and melted cheese, offering a perfect blend of flavors.",Non-Veg,5.0,4,,Check app
+Rolls,,Paneer Roll,₹130,,"A delectable and flavorsome vegetarian roll showcasing tender paneer wrapped in a warm and soft layer, perfect for a delightful meal on the go.",Veg,3.4,8,,Check app
+Rolls,,Aloo Roll,₹80,,"Flavorful and filling, this savory veggie roll is a delectable combination of seasoned potato and a fluffy wrap, delivering a delightful taste sensation.",Veg,5.0,5,,Check app
+Rolls,,Egg Cheese Roll,₹120,,A savory and satisfying roll filled with a delightful combination of egg and  cheese.,Non-Veg,,,,Check app
+Rolls,,Paneer Egg Roll,₹140,,A delectable roll filled with flavorful paneer and egg for a delightful fusion of textures and tastes.,Non-Veg,4.2,3,,Check app
+Rolls,,Chicken Egg Cheese Roll,₹170,,"A succulent and flavorful combination of chicken, eggs, and cheese, perfectly rolled for a tantalizing bite.",Non-Veg,,,,Check app
+Veg Sandwich,,Veg Cheese Sandwich,₹90,,A delectable sandwich filled with a blend of flavorful vegetables and melty cheese.,Veg,3.9,16,,Check app
+Veg Sandwich,,Nutella Butter Toast Sandwich,₹90,,Indulge in a delectable veg sandwich that combines the rich creaminess of Nutella with the irresistible flavor of buttered toast.,Veg,,,,Check app
+Veg Sandwich,,Veg Club Sandwich,₹180,,,Veg,,,,Check app
+Veg Sandwich,,Chilli Cheese Sandwich,₹90,,,Veg,5.0,9,,Check app
+Veg Sandwich,,Aloo Sandwich,₹80,,"Delicious and flavorful sandwich with a mouthwatering filling, perfect for vegetarians.",Veg,3.3,3,,Check app
+Veg Sandwich,,Bread Butter Jam,₹40,,"A delectable veg sandwich that combines the classic flavors of bread, butter, and jam.",Veg,,,,Check app
+Veg Sandwich,,Spicy Paneer Sandwich,₹130,,"A delightful and flavor-packed sandwich with a burst of enticing flavors, perfect for vegetarian sandwich lovers.",Veg,,,,Check app
+Veg Sandwich,,Mushroom Veg Sandwich,₹100,,A delicious sandwich filled with savory mushrooms and fresh vegetables.,Veg,,,,Check app
+Veg Sandwich,,Veg Mayo Sandwich,₹80,,"A mouthwatering sandwich packed with assorted vegetables, dressed in creamy mayo.",Veg,,,,Check app
+Veg Sandwich,,Cheese Toast Sandwich,₹70,,"A delectable and indulgent sandwich filled with gooey, melted cheese nestled between perfectly toasted bread.",Veg,2.2,3,,Check app
+Veg Sandwich,,Spicy Corn Sandwich,₹100,,"A tantalizing combination of flavors and textures, this veg sandwich is a delicious treat for the taste buds.",Veg,,,,Check app
+Veg Sandwich,,Nutella Banana Toast Sandwich,₹100,,"Indulge your taste buds with this heavenly combination of creamy Nutella and sweet sliced bananas, sandwiched between perfectly toasted bread.",Veg,,,,Check app
+Fresh Juice,,Pomegranate Juice,₹130,,"A refreshing burst of natural sweetness, bursting with the vibrant flavors of freshly squeezed pomegranates.",Veg,4.6,5,,Check app
+Fresh Juice,,Watermelon Juice,₹80,,"Refreshing and invigorating, this vibrant Fresh Juice will revitalize your day with its tantalizing blend of crisp, juicy watermelon.",Veg,4.9,20,,Check app
+Fresh Juice,,Mango Juice,₹90,,"Refreshing and naturally sweet, this vibrant juice is bursting with the tropical flavors of luscious mangoes.",Veg,,,,Check app
+Fresh Juice,,Pineapple Juice,₹90,,"A refreshing burst of tropical flavor in every sip, this luscious fresh juice is sure to transport your taste buds to paradise.",Veg,3.6,6,,Check app
+Fresh Juice,,Mosambi Juice,₹90,,Refreshing and invigorating citrus juice bursting with natural sweetness and tanginess.,Veg,,,,Check app
+Fresh Juice,,Muskmelon Juice,₹90,,Cool and refreshing juice made from fresh muskmelons.,Veg,,,,Check app
+Fresh Juice,,Carrot Juice,₹130,,,Veg,,,,Check app
+Fresh Juice,,Mosambi Solid Juice,₹160,,"Refreshing and invigorating, this vibrant and fruity solid juice is the perfect burst of zesty sweetness to quench your thirst.",Veg,,,,Check app
+Fresh Juice,,Lime Juice,₹40,,A refreshing and tangy drink that will awaken your taste buds with its vibrant citrus flavor.,Veg,5.0,7,,Check app
+Fresh Juice,,Pappaya Juice,₹90,,"A refreshing and revitalizing juice bursting with the tropical goodness of papaya, perfect for a delightful and invigorating start to the day.",Veg,,,,Check app
+Fresh Juice,,Pulpy  Juice,₹80,,,Veg,,,,Check app
+Fresh Juice,,Mint Lime Juice,₹50,,"Refreshing blend of mint and lime, a zesty and tangy drink bursting with natural flavors.",Veg,,,,Check app
+Combos,,Egg Fried Rice Chilli Chicken,₹250,,A delectable combo of flavorful chicken and savory fried rice that will transport your taste buds to new heights.,Non-Veg,2.7,8,,Check app
+Combos,,Veg Fried Rice Chilli Chicken,₹230,,"A flavorful combination of vegetarian fried rice and succulent, tender chicken, offering a delightful meal bursting with flavors from East Asian cuisine.",Non-Veg,4.5,4,,Check app
+Combos,,Parotta Chilli Chicken,₹210,,,Non-Veg,3.9,3,,Check app
+Combos,,Veg Noodles Chilli Chicken Combo,₹230,,"A delectable combination of seasoned noodles and tender chicken, sure to satisfy your taste buds.",Non-Veg,,,,Check app
+Combos,,Veg Noodles Chilli Paneer,₹230,,"A delectable  flavorful veg noodles and tantalizing paneer, guaranteed to satisfy your cravings in one delightful combo.",Veg,,,,Check app
+Combos,,Veg Fried Rice Paneer Combo,₹230,,"A delectable combination of flavorful veg fried rice and succulent paneer, offering a delightful and satisfying culinary experience.",Veg,5.0,3,,Check app
+Combos,,Veg Noodles Chilli Gobi,₹210,,A delectable combination of flavorful veg noodles and crispy gobhi that will leave you craving for more.,Veg,,,,Check app
+Combos,,Veg Fried Rice Gobi Combo,₹210,,"A delectable combination of flavorful vegetable fried rice and crispy cauliflower bites, creating a delightful combo that will satisfy your taste buds.",Veg,,,,Check app
+Combos,,Parotta Gobi,₹170,,,Veg,,,,Check app
+Combos,,Parotta Paneer,₹210,,,Veg,,,,Check app
+Non Veg Sandwich,,Grilled Chicken Sandwich,₹170,,A flavorful grilled sandwich filled with succulent chicken and a medley of delicious spicy ingredients.,Non-Veg,,,,Check app
+Non Veg Sandwich,,Chicken Cheese Sandwich,₹140,,"A mouthwatering fusion of tender chicken and savory melted cheese, served between two slices of fresh bread.",Non-Veg,,,,Check app
+Non Veg Sandwich,,Chicken Club Sandwich,₹220,,"A delectable blend of succulent chicken and a medley of flavors, the Chicken Club sandwich is a heavenly delight for sandwich lovers.",Non-Veg,,,,Check app
+Non Veg Sandwich,,Egg Mayo Sandwich,₹80,,A delectable combination of eggs and mayo served between two slices of bread.,Non-Veg,2.8,8,,Check app
+Non Veg Sandwich,,Chicken Mayo,₹120,,A delectable and flavorful sandwich filled with tender chicken and creamy mayo.,Non-Veg,,,,Check app
+Non Veg Sandwich,,Aloo Chicken Sandwich,₹130,,"A delectable fusion of succulent chicken and savory aloo, creating a flavor-packed Non Veg Sandwich.",Non-Veg,,,,Check app
+Non Veg Sandwich,,Egg Cheese Sandwich,₹100,,"A savory and satisfying sandwich filled with layers of fluffy eggs and melted cheese, offering a delightful indulgence for non-veg sandwich lovers.",Non-Veg,,,,Check app
+Non Veg Sandwich,,Aloo Egg Sandwich,₹120,,"A flavorful combination of eggs, potatoes, and an assortment of savory ingredients between two slices of wholesome bread.",Non-Veg,,,,Check app
+Non Veg Sandwich,,Spicy Corn Chicken Sandwich,₹160,,Mouthwatering blend of tender chicken and flavorful corn in a delectable sandwich.,Non-Veg,,,,Check app
+Non Veg Sandwich,,Egg Chicken Cheese,₹170,,"A flavorful combination of tender chicken, rich cheese, and creamy egg nestled between two slices of golden bread.",Non-Veg,,,,Check app
+Non Veg Chinese,,Chilly chicken,₹220,,"A flavorful Chinese delicacy with tender chicken in a delightful, aromatic sauce.",Non-Veg,3.3,3,,Check app
+Non Veg Chinese,,Ginger Chicken,₹220,,"Flavorful and aromatic, this Chinese dish marries succulent chicken with the perfect blend of ginger-infused goodness.",Non-Veg,4.9,4,,Check app
+Non Veg Chinese,,Chicken Lollipop,₹250,,An irresistible Chinese delicacy that is sure to tantalize your taste buds with its succulent and flavorful chicken.,Non-Veg,,,,Check app
+Non Veg Chinese,,Chicken Manchurian,₹220,,Savor the delectable combination of tender chicken and a tantalizing blend of flavors in this irresistible Veg Chinese dish.,Non-Veg,,,,Check app
+Non Veg Chinese,,Chicken Wings,₹250,,Mouthwatering Chinese chicken wings bursting with flavor.,Non-Veg,3.7,3,,Check app
+Non Veg Chinese,,Chicken Pepper Salt,₹220,,A savory and flavorful dish combining tender chicken with the fragrant and aromatic essence of peppers and salt.,Non-Veg,,,,Check app
+Non Veg Chinese,,Chicken Hot Garlic,₹220,,A flavorful and aromatic Chinese delight featuring succulent chicken with the perfect balance of hot and garlic flavors.,Non-Veg,5.0,3,,Check app
+Non Veg Chinese,,Lemon Chicken,₹220,,"A tangy and delectable fusion of succulent chicken infused with zesty lemon flavors, perfect for any Veg Chinese enthusiast.",Non-Veg,2.6,4,,Check app
+Non Veg Chinese,,Schezwan Chicken,₹220,,A mouthwatering Chinese delight featuring tender chicken in a flavorful and savory sauce.,Non-Veg,,,,Check app
+Egg Bites,,Bread Omelette,₹80,,"Fluffy omelette nestled between slices of warm bread, a comforting treat for egg lovers.",Non-Veg,4.7,19,,Check app
+Egg Bites,,Omelette,₹50,,A delightful and satisfying egg creation that will tantalize your taste buds.,Non-Veg,4.6,6,,Check app
+Egg Bites,,Bun Omelette with Mayonnaise,₹70,,"A delectable combination of fluffy bun, savory omelette, and creamy mayo, offering a delightful bite for egg lovers.",Non-Veg,4.8,14,,Check app
+Egg Bites,,Bun Omelette with Cheese,₹100,,"A fluffy and flavorful blend of eggs with a delicate cheesy twist, perfect for an indulgent breakfast or a delightful snack.",Non-Veg,4.3,39,,Check app
+Egg Bites,,Bun Omelette chicken,₹160,,Delicious egg bites filled with tender chicken and wrapped in a fluffy bun.,Non-Veg,,,,Check app
+Egg Bites,,Bullseye Omelette,₹50,,"A mouthwatering omelette bursting with flavors and cooked perfectly, making it the epitome of egg indulgence.",Non-Veg,,,,Check app
+Egg Bites,,Paneer Omelette,₹130,,A delectable fusion of fluffy eggs and creamy paneer in every bite.,Non-Veg,,,,Check app
+Egg Bites,,Egg Burji with bread,₹90,,,Non-Veg,,,,Check app
+Egg Bites,,Omelette with Chicken,₹140,,"A delightful combination of fluffy egg and savory chicken, perfect for a hearty breakfast or a light meal.",Non-Veg,5.0,5,,Check app
+Egg Bites,,Bullseye Egg Bread,₹80,,"A delectable combination of a perfectly cooked egg nestled in a warm, buttery bread, creating a delightful bite of comfort and satisfaction.",Non-Veg,,,,Check app
+Egg Bites,,Omelette  Cheese,₹90,,"A delectable combination of fluffy eggs and melted cheese, creating a mouthwatering symphony of flavors.",Non-Veg,,,,Check app
+Coolers,,Cold Coffee,₹90,,,Veg,4.9,37,,Check app
+Coolers,,Cold Bournvita,₹90,,"A refreshing and creamy blend of fruits and cold Bournvita, a delightful treat for fruit shake lovers.",Veg,,,,Check app
+Coolers,,Cold Boost,₹90,,,Veg,5.0,4,,Check app
+Coolers,,Cold Horlicks,₹90,,Enjoy a refreshing and creamy blend of fruits and Horlicks in our delectable Cold Horlicks fruit shake.,Veg,,,,Check app
+Coolers,,Cold Coffee With  Vanilla Ice Cream,₹130,,,Veg,4.1,3,,Check app
+Coolers,,Iced Tea,₹100,,A refreshing and fruity beverage that promises to quench your thirst and invigorate your senses.,Veg,,,,Check app
+Coolers,,Oreo Shake,₹90,,Indulge in the creamy delight of this irresistible fruity shake bursting with the scrumptious essence of Oreo.,Veg,,,,Check app
+Coolers,,Cold Coffee With  Chocolate Ice Cream,₹130,,,Veg,,,,Check app
+Coolers,,Oreo Shake With Chocolate Ice Cream,₹130,,,Veg,,,,Check app
+Coolers,,Iced Americano,₹90,,"An invigorating blend of fruits, expertly crafted to create a refreshing and delightful fruit shake.",Veg,,,,Check app
+Coolers,,Oreo Shake With Vanilla Ice Cream,₹130,,,Veg,,,,Check app
+Burger,,Bbq Chicken Burger,₹220,,"Juicy grilled chicken paired with smoky barbecue flavors,egg, nestled in a soft bun for the ultimate burger experience.",Non-Veg,,,,Check app
+Burger,,Crispy Chicken Zinger Burger,₹170,,,Non-Veg,,,,Check app
+Burger,,Chicken Burger,₹160,,"Juicy and flavorful, this mouthwatering non-veg burger is bursting with savory satisfaction.",Non-Veg,3.4,4,,Check app
+Burger,,Aloo Patty Burger,₹100,,"Crispy, savory patty filled with flavorful potato goodness, served on a soft bun.",Veg,1.5,6,,Check app
+Burger,,Paneer Burger,₹160,,A delectable and satisfying veggie burger option featuring flavorful paneer.,Veg,,,,Check app
+Burger,,Veg Burger,₹100,,A tasty and mouthwatering burger filled with fresh veggies.,Veg,4.7,8,,Check app
+Burger,,Egg with Cheese Burger,₹130,,,Non-Veg,5.0,3,,Check app
+Burger,,Bun Butter Jam,₹40,,"A delectable veggie burger served on a soft bun, layered with creamy butter and sweet jam for a delightful fusion of flavors.",Veg,4.1,4,,Check app
+Burger,,Egg With Butter And Cheese,₹140,,"Indulge in a savory and decadent combination of rich butter,  cheese, and a perfectly cooked egg in this mouthwatering burger.",Non-Veg,,,,Check app
+Burger,,Egg Burger,₹100,,A delectable burger featuring a savory egg patty for a satisfying meat-free option.,Non-Veg,,,,Check app
+Burger,,Tt Chicken Premium Burger,₹250,,"A succulent and flavorful chicken burger with a premium touch, perfect for indulging in a delightful burst of flavors.",Non-Veg,,,,Check app
+Breakfast Bestsellers,,French toast,₹130,,A classic breakfast favorite with a touch of French flair and a delightful combination of flavors.,Veg,5.0,4,,Check app
+Breakfast Bestsellers,,Bread Omelette                                  ,₹75,,"Fluffy omelette nestled between slices of warm bread, a comforting treat for egg lovers.",Non-Veg,4.7,19,,Check app
+Breakfast Bestsellers,,English Breakfast (best seller),₹260,,"Bread slice ,butter,french omelete,sauteed veggie,hashbrown,Grilled sausage & tea",Veg,,,,Check app
+Breakfast Bestsellers,,Aloo Sandwich                                  ,₹80,,"Delicious and flavorful sandwich with a mouthwatering filling, perfect for vegetarians.",Veg,3.3,3,,Check app
+Breakfast Bestsellers,,Bun Omelette with Mayonnaise                                  ,₹55,,"A delectable combination of fluffy bun, savory omelette, and creamy mayo, offering a delightful bite for egg lovers.",Non-Veg,,,,Check app
+Breakfast Bestsellers,,Mixed Fruits Cut Fruits                                  ,₹115,,"A vibrant blend of refreshing mixed fruits, perfectly cut and served to satisfy your fruity cravings.",Veg,,,,Check app
+Breakfast Bestsellers,,Omelette                           ,₹65,,"A delectable breakfast delicacy filled with flavorful ingredients, cooked to perfection.",Non-Veg,,,,Check app
+Breakfast Bestsellers,,Bread Omelette                           ,₹75,,"Fluffy omelette nestled between slices of warm bread, a comforting treat for egg lovers.",Non-Veg,,,,Check app
+Breakfast Bestsellers,,Chicken Clear Soup                           ,₹130,,A comforting and flavorful chicken soup perfect for a hearty breakfast.,Non-Veg,,,,Check app
+Breakfast Bestsellers,,Watermelon Cut Fruits                                  ,₹65,,"Juicy, refreshing and bursting with natural sweetness, this vibrant assortment of perfectly ripe watermelon slices instantly satisfies your fruit cravings.",Veg,,,,Check app
+Breakfast Bestsellers,,Chicken Sweet Corn Soup                           ,₹130,,A hearty and flavorful soup packed with tender chicken and sweet corn to start your day off right.,Non-Veg,,,,Check app
+Breakfast Bestsellers,,Mixed Fruits Cut Fruits                           ,₹105,,"A vibrant blend of refreshing mixed fruits, perfectly cut and served to satisfy your fruity cravings.",Veg,,,,Check app
+Breakfast Bestsellers,,Omelette                                  ,₹55,,,Non-Veg,,,,Check app
+Breakfast Bestsellers,,Bun Omelette with Mayonnaise                           ,₹55,,"A delectable combination of fluffy bun, savory omelette, and creamy mayo, offering a delightful bite for egg lovers.",Non-Veg,,,,Check app
+Breakfast Bestsellers,,Watermelon Cut Fruits                           ,₹65,,"Juicy, refreshing and bursting with natural sweetness, this vibrant assortment of perfectly ripe watermelon slices instantly satisfies your fruit cravings.",Veg,,,,Check app
+Breakfast Bestsellers,,Aloo Sandwich                           ,₹80,,"Delicious and flavorful sandwich with a mouthwatering filling, perfect for vegetarians.",Veg,,,,Check app
+Breakfast Bestsellers,,Chicken Clear Soup                                  ,₹130,,,Veg,,,,Check app
+Breakfast Bestsellers,,Chicken Sweet Corn Soup                                  ,₹130,,,Veg,,,,Check app
+Breakfast Bestsellers,,French Omelette,₹130,,A classic breakfast favorite bursting with fluffy cheese goodness and rich flavors.,Non-Veg,,,,Check app
+Veg-Chinese,,Paneer Chilli,₹200,,,Veg,2.4,4,,Check app
+Veg-Chinese,,Gobi Manchurian,₹170,,,Veg,,,,Check app
+Veg-Chinese,,Gobi Chilli,₹170,,,Veg,,,,Check app
+Veg-Chinese,,Mushroom Manchurian,₹180,,,Veg,,,,Check app
+Veg-Chinese,,Paneer Manchurian,₹200,,,Veg,,,,Check app
+Veg-Chinese,,Mushroom Pepper,₹180,,,Veg,,,,Check app
+Veg-Chinese,,Mushroom Chilli,₹180,,,Veg,,,,Check app
+Veg-Chinese,,Baby Corn Manchurian,₹170,,,Veg,,,,Check app
+Veg-Chinese,,Baby Corn Chilli,₹170,,,Veg,,,,Check app
+Veg-Chinese,,Baby Corn Pepper,₹170,,,Veg,,,,Check app
+Snacks,,Peri Peri Fries,₹160,,Deliciously seasoned and flavorful fries that will satisfy your snack cravings.,Veg,4.1,3,,Check app
+Snacks,,Chicken Nuggets,₹170,,"Crispy, tender bites of succulent poultry, perfect for snacking and satisfying your cravings.",Non-Veg,,,,Check app
+Snacks,,Chicken Finger,₹180,,,Non-Veg,,,,Check app
+Snacks,,Fish Finger,₹210,,,Non-Veg,,,,Check app
+Snacks,,Potato Wedges,₹140,,Crispy and savory golden bites perfect for snacking and sharing.,Veg,,,,Check app
+Snacks,,French Fries,₹130,,Crispy and flavorful snack that will satisfy your cravings.,Veg,4.1,6,,Check app
+Snacks,,Cheese Balls,₹130,,,Veg,,,,Check app
+Snacks,,Corn Juicy Nuggets,₹140,,Deliciously golden and mouthwatering nuggets bursting with the juicy goodness of corn.,Veg,,,,Check app
+Non Veg Noodles,,Chicken Noodles,₹200,,A flavorsome blend of tender chicken and delectable noodles that will satisfy your cravings.,Non-Veg,5.0,5,,Check app
+Non Veg Noodles,,Chicken Hakka Noodles,₹210,,"Delicious stir-fried noodles with succulent chicken, bursting with flavor.",Non-Veg,2.5,5,,Check app
+Non Veg Noodles,,Chicken Schezwan Noodles,₹210,,An exciting fusion of flavors and textures that will satisfy your cravings for a delectable noodle dish.,Non-Veg,,,,Check app
+Non Veg Noodles,,Chicken Schezwan Hakka Noodles,₹220,,"Delight in the tantalizing flavors of succulent chicken, vibrant vegetables, and flavorful noodles in this delectable non-veg dish.",Non-Veg,,,,Check app
+Non Veg Noodles,,Egg Noodles,₹160,,"Delicate strands of egg-infused noodles tossed in a flavorful, protein-packed creation.",Non-Veg,5.0,3,,Check app
+Non Veg Noodles,,Schezwan Egg Noodles,₹170,,A flavorful combination of egg and savory seasonings tossed with aromatic noodles.,Non-Veg,,,,Check app
+Chefs Specials,,Grilled Chicken Sandwich ,₹160,,,Non-Veg,,,,Check app
+Chefs Specials,,Alfredo Chicken Pasta,₹270,,,Non-Veg,,,,Check app
+Chefs Specials,,Thai 3 Flavoured Chicken,₹260,,,Non-Veg,,,,Check app
+Chefs Specials,,Korean Fried Chicken,₹260,,,Non-Veg,,,,Check app
+Chefs Specials,,Maggi Chicken Goreng ,₹160,,,Non-Veg,,,,Check app
+Chefs Specials,,English Breakfast,₹260,,,Veg,,,,Check app
+Chefs Specials,,Creamy Chicken Sandwich,₹190,,,Non-Veg,,,,Check app
+Chefs Specials,,Chocolate Mudslide,₹200,,,Veg,,,,Check app
+Chefs Specials,,Nasi Chicken Goreng,₹260,,,Non-Veg,,,,Check app
+Chefs Specials,,Red Sauce Chicken Pasta,₹270,,,Non-Veg,,,,Check app
+Cut Fruits,,Mixed Fruits Cut Fruits,₹120,,,Veg,5.0,16,,Check app
+Cut Fruits,,Mixed Cut Fruits,₹115,,"A refreshing blend of assorted fresh fruits, bursting with vibrant flavors and natural sweetness.",Veg,,,,Check app
+Cut Fruits,,Papaya Cut Fruits,₹100,,"Refreshing and vibrant assortment of fresh, fruits bursting with tropical flavors.",Veg,4.5,15,,Check app
+Cut Fruits,,Watermelon Cut Fruits,₹80,,,Veg,2.0,9,,Check app
+Cut Fruits,,Watermelon Cut Fruit,₹65,,"Refreshing and juicy assortment of fresh cut fruits including watermelon, perfect for a revitalizing burst of flavor.",Veg,,,,Check app
+Cut Fruits,,Pineapple Cut Fruits,₹100,,Fresh and succulent assortment of colorful tropical fruits to tantalize your taste buds.,Veg,4.1,6,,Check app
+Cut Fruits,,Pappaya Cut Fruits,₹100,,"Freshly cut papaya fruits that are bursting with natural sweetness, delivering a delightful and refreshing treat for fruity enthusiasts.",Veg,,,,Check app
+Cut Fruits,,Pineapple Cut Fruit,₹100,,A refreshing blend of pineapple and assorted fresh fruits bursting with vibrant flavors.,Veg,,,,Check app
+Veg Noodles,,Veg Noodles,₹160,,"A delightful medley of flavors and textures, this dish brings together colorful vegetables and perfectly cooked noodles for a scrumptious and satisfying meal.",Veg,2.7,3,,Check app
+Veg Noodles,,Mixed Veg Noodles,₹170,,"A delightful medley of assorted vegetables tossed with perfectly cooked noodles for a flavor-packed, veggie-filled dish.",Veg,,,,Check app
+Veg Noodles,,Schezwan Veg Hakka Noodles,₹170,,Mouthwatering fusion of flavors in a delectable veg noodle dish bursting with aromatic spices.,Veg,5.0,3,,Check app
+Veg Noodles,,Veg Hakka Noodles,₹170,,"A delightful medley of hearty vegetables and stir-fried noodles, perfect for those seeking a flavorful vegetarian option.",Veg,3.6,4,,Check app
+Veg Noodles,,Schezwan Veg Noodles,₹170,,"A delectable fusion of noodles tossed in a tantalizing sauce, bursting with flavors that will leave you craving for more.",Veg,,,,Check app
+Veg Noodles,,Mixed Veg Hakka Noodles,₹180,,A delightful medley of vegetables tossed with flavorful hakka noodles.,Veg,,,,Check app
+Fruits Shakes,,Avocado Shake,₹130,,,Veg,4.9,4,,Check app
+Fruits Shakes,,Mango Fruits Shake,₹120,,"A refreshing and creamy cold beverage made with luscious mangoes, perfect for a tropical treat.",Veg,,,,Check app
+Fruits Shakes,,Peanut Banana Shake,₹120,,,Veg,,,,Check app
+Fruits Shakes,,Chiku Shake,₹120,,,Veg,,,,Check app
+Fruits Shakes,,Banana Fruits Shake,₹80,,A refreshing and creamy cold beverage bursting with the natural sweetness of ripe bananas.,Veg,,,,Check app
+Fruits Shakes,,Muskmelon Shake,₹100,,"Indulge in a refreshing blend of ripe muskmelon, perfectly blended to create a rich and luscious fruit shake.",Veg,,,,Check app
+Fruits Shakes,,Pomegranate Shake,₹140,,A refreshing blend of sweet and tangy pomegranate for a fruity delight.,Veg,,,,Check app
+Fruits Shakes,,Pineapple Fruits Shake,₹100,,"A refreshing blend of tropical pineapple and various fruits, creating a luscious and invigorating cold beverage that will captivate your taste buds.",Veg,,,,Check app
+Fruits Shakes,,Papaya Fruits Shake,₹100,,A refreshing and fruity blend perfect for a hot summer day.,Veg,,,,Check app
+Fruits Shakes,,Apple Fruits Shake,₹130,,A refreshing and fruity shake bursting with the natural sweetness of apples.,Veg,,,,Check app
+Fruits Shakes,,Dates Fruits Shake,₹120,,Indulge in a refreshing and sweet treat with this luscious cold beverage made from the finest dates fruits.,Veg,,,,Check app
+Non Veg Rice,,Chicken Fried Rice,₹200,,"A delectable combination of tender chicken and flavorful rice, creating a mouthwatering dish that satisfies any craving.",Non-Veg,5.0,5,,Check app
+Non Veg Rice,,Chicken Schezwan Fried Rice,₹210,,A delectable fusion of tender chicken and flavorful stir-fried rice that promises a delightful culinary experience.,Non-Veg,5.0,3,,Check app
+Non Veg Rice,,Egg Fried Rice,₹160,,"A flavorful combination of tender rice and scrambled eggs, this dish is a delightful treat for non-vegetarian rice lovers.",Non-Veg,5.0,3,,Check app
+Non Veg Rice,,Schezwan Egg Fried Rice,₹180,,"Delicious, flavorsome fried rice with scrumptious eggs, creating a delightful non-vegetarian rice option.",Non-Veg,3.7,7,,Check app
+Veg Rice,,Veg. Fried Rice,₹130,,"A flavorful medley of vegetables stir-fried with aromatic rice, creating a delightful and satisfying vegetarian option.",Veg,4.8,5,,Check app
+Veg Rice,,Schezwan Veg Fried Rice,₹170,,"Flavorful and fragrant stir-fried rice tossed with an aromatic blend of vegetables, delivering a delightful and satisfying meal.",Veg,,,,Check app
+Veg Rice,,Mushroom Fried Rice,₹160,,A flavorsome and enticing vegetarian rice dish with the earthy goodness of mushrooms.,Veg,,,,Check app
+Veg Rice,,Mixed Veg Fried Rice,₹170,,Savor the delightful flavors of a rice stir-fry bursting with a medley of colorful vegetables.,Veg,,,,Check app
+Veg Rice,,Paneer Fried Rice,₹210,,"A delectable and flavorful combination of rice and succulent paneer, with a delightful twist.",Veg,,,,Check app
+Veg Rice,,Schezwan Mix Veg Fried Rice,₹180,,"A flavorful blend of fresh vegetables and fragrant rice cooked to perfection and tossed in a rich, aromatic sauce.",Veg,,,,Check app
+Combination Fresh Juice,,Senorita [Orange And Pomegranate],₹160,,"A refreshing blend of citrusy orange and tropical pineapple, creating a delightful combination of flavors in every sip.",Veg,,,,Check app
+Combination Fresh Juice,,Rock On Melon [Watermelon],₹100,,A refreshing and invigorating medley of flavors that perfectly blend to create a thirst-quenching combination juice.,Veg,,,,Check app
+Combination Fresh Juice,,"Hawaiian Punch [Pineapple, Ginger And Lemon]",₹120,,"A refreshing combination of tropical pineapple, zesty ginger, and tangy lemon in a delightful juice blend.",Veg,,,,Check app
+Combination Fresh Juice,,Orange Punch [Orange And Apple],₹120,,"A refreshing blend of oranges and apples, the Orange Punch is a delightful combination of sweetness and tanginess.",Veg,,,,Check app
+Combination Fresh Juice,,Sun Set [Orange And Pineapple],₹130,,"A refreshing blend of citrusy orange and tropical pineapple, creating a delightful combination of flavors in every sip.",Veg,,,,Check app
+Combination Fresh Juice,,Melon Melody,₹130,,A refreshing medley of melons blended harmoniously into a delightful and vibrant juice.,Veg,,,,Check app
+Combination Fresh Juice,,Jamaican Delight [Pineapple And Mint],₹130,,"A refreshing blend of tropical pineapple and invigorating mint, this Jamaican Delight exudes a burst of fresh flavors.",Veg,,,,Check app
+Combination Fresh Juice,,Private Passion [Pineapple And Sweet Lime],₹130,,"A refreshing and delightful combination of pineapple and sweet lime, perfect for a burst of fruity goodness.",Veg,,,,Check app
+Combination Fresh Juice,,Royal Salute [Pineapple And Pomegranate],₹130,,A delightful combination of pineapple and pomegranate that bursts with refreshing flavors.,Veg,,,,Check app
+Non Veg Soup,,Chicken Clear Soup,₹140,,A comforting and flavorful non-veg soup perfect for those seeking a light and satisfying option.,Non-Veg,5.0,4,,Check app
+Non Veg Soup,,Chicken Manchow Soup,₹140,,"Delight in a hearty and flavorsome soup packed with succulent chicken and rich, aromatic flavors.",Non-Veg,,,,Check app
+Non Veg Soup,,Chicken Sweet Corn Soup,₹140,,A comforting and savory soup filled with tender chicken and sweet corn.,Non-Veg,,,,Check app
+Non Veg Soup,,Chicken Hot & Sour Soup,₹140,,"A tantalizing blend of flavors in a savory and tangy broth, this Chicken Hot & Sour soup is sure to satisfy your taste buds.",Non-Veg,,,,Check app
+Pasta,,Alfredo Chicken Penne Pasta,₹250,,Creamy penne pasta with tender chicken in a rich and indulgent Alfredo sauce.,Non-Veg,,,,Check app
+Pasta,,Alfredo veg Penne Pasta,₹230,,"Creamy and flavorful, this veggie-packed penne pasta is smothered in a rich and indulgent Alfredo sauce.",Veg,4.7,3,,Check app
+Pasta,,Red sauce chicken penna pasta ,₹250,,A delectable pasta dish featuring tender chicken in a rich and flavorful red sauce.,Non-Veg,,,,Check app
+Pasta,,Red Sauce Veg Pasta,₹230,,"Indulge in a delightful penna pasta coated in a rich, flavorful red sauce, perfect for vegetarians looking for a scrumptious and satisfying meal.",Veg,,,,Check app
+Veg Soup,,Veg Manchow Soup,₹130,,A satisfying and flavorful soup filled with vegetables.,Veg,2.2,12,,Check app
+Veg Soup,,Tomato Soup,₹130,,,Veg,4.4,6,,Check app
+Veg Soup,,Veg Hot Garlic Soup,₹130,,"A flavorful and aromatic combination of vegetables and garlic, this soup is a satisfying choice for veggie lovers.",Veg,3.7,12,,Check app
+Veg Soup,,Veg Hot and Sour Soup,₹130,,"Savor the bold flavors of this tangy and flavorful soup, brimming with an abundance of fresh vegetables.",Veg,,,,Check app
+Veg Soup,,Veg Sweet Corn Soup,₹130,,"A comforting and flavorful blend of vegetables and delicate sweet corn, perfect for warming and satisfying the taste buds.",Veg,,,,Check app
+Ice Cream Shakes,,Vanilla Icecream Shake,₹130,,"Indulge in a creamy, luscious vanilla shake that will satisfy your sweet tooth and leave you refreshed.",Veg,,,,Check app
+Ice Cream Shakes,,Chocolate Icecream Shake,₹130,,A luscious and indulgent cold beverage that combines the rich flavor of chocolate with the refreshing creaminess of ice cream.,Veg,,,,Check app
+Ice Cream Shakes,,Blackcurrant Icecream Shake,₹130,,A creamy refreshing shake with the tangy sweetness of blackcurrant.Pure indulgence in every sip!,Veg,,,,Check app
+Ice Cream Shakes,,Butterscotch Icecream Shake,₹130,,"Indulge in a creamy, heavenly blend of butterscotch ice cream that will leave your taste buds craving for more.",Veg,,,,Check app
+Ice Cream Shakes,,Strawberry Icecream Shake,₹130,,A lusciously creamy and refreshing cold beverage that combines the sweetness of strawberries with the indulgence of ice cream.,Veg,,,,Check app
+Soda,,Jaljeera Soda,₹70,,A refreshing and tangy soda with a burst of flavorful herbs and spices.,Veg,5.0,5,,Check app
+Soda,,Masala Soda,₹70,,A refreshing and aromatic Indian-inspired soda bursting with tantalizing flavors.,Veg,2.3,4,,Check app
+Soda,,Lemon Soda,₹50,,A refreshing and zesty citrus soda that will quench your thirst and invigorate your taste buds.,Veg,5.0,6,,Check app
+Mojitos,,Blue Curacao Mojito,₹130,,"A vibrant and refreshing twist on the classic Mojito, bursting with the flavors of tropical Blue Curacao.",Veg,,,,Check app
+Mojitos,,Passion Fruit Mojito,₹130,,"A tropical twist on a classic favorite, this refreshing Mojito is bursting with the vibrant flavors of tangy passion fruit.",Veg,,,,Check app
+Mojitos,,Mint & Lime Mojito,₹130,,A refreshing and zesty combination of mint and lime creates a mouthwatering Mojito.,Veg,,,,Check app
+Fruit Combination Shakes,,Oman Shake(Apple & Dates),₹130,,"A refreshing blend of sweet apples and dates, perfect for a cool and satisfying treat.",Veg,,,,Check app
+Fruit Combination Shakes,,Sharjah Shake(Dates & Banana),₹130,,"Refreshing and creamy, this cold beverage combines the natural sweetness of dates with the smoothness of bananas for a delightful treat.",Veg,,,,Check app
+Fruit Combination Shakes,,"Milky Magic Shake(Apple ,Banana & Pineapple)",₹130,,"Indulge in the enchanting blend of apple, banana, and pineapple, creating a heavenly Milky Magic shake.",Veg,,,,Check app
+Starters,,Korean Fried Chicken (10 Pcs),₹240,,"Crispy, flavorful Korean fried chicken bursting with savory goodness.",Non-Veg,,,,Check app

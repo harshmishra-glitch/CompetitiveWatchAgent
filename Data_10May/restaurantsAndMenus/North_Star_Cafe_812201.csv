@@ -1,0 +1,211 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Long Black,₹150,,Inverted americano -  hot water + espresso,Veg,,,,Check app
+Recommended,,Cafe Mocha,₹200,Regular: ₹200 | Large: ₹220,,Veg,4.7,5,,Check app
+Recommended,,Sea Salt Mocha,₹200,Regular: ₹200 | Large: ₹220,In house coffee blend with cocoa & a hint of sea salt,Veg,,,,Check app
+Recommended,,Almond Latte,₹220,Regular: ₹220 | Large: ₹240,"Made with almond milk, garnished with almond flakes",Veg,,,,Check app
+Recommended,,Citrus Cold Brew,₹200,Regular: ₹200 | Large: ₹220,Cold brew topped with freshly squeezed orange juice,Veg,,,,Check app
+Recommended,,Tiramisu Latte,₹240,,,Veg,,,,Check app
+Newly Launched,,Sparkling Orange Americano,₹220,,"Bright espresso lifted with sparkling water and a dash of fresh orange, crisp, citrusy, and ultra-refreshing.",Veg,,,,Check app
+Newly Launched,,Peanut Butter Latte,₹300,Hot: ₹300 | Iced: ₹300,"Smooth coffee enriched with velvety peanut butter for a nutty, indulgent, and creamy flavour",Veg,,,,Check app
+Newly Launched,,Apple Pie Latte,₹300,Hot: ₹300 | Iced: ₹300,"Espresso blended with warm apple notes and gentle spices, for a creamy fruity flavour",Veg,,,,Check app
+Newly Launched,,Pistachio Cream Latte,₹300,Hot: ₹300 | Iced: ₹300,"Espresso folded into lightly foamed milk and pistachio cream, giving it a nutty and luxuriously smooth taste",Veg,,,,Check app
+Hot,,Espresso,₹80,,Pick from house blend – medium roast or dark roast,Veg,,,,Check app
+Hot,,Long Black,₹150,,Inverted americano -  hot water + espresso,Veg,,,,Check app
+Hot,,Cafe Mocha,₹200,Regular: ₹200 | Large: ₹220,,Veg,4.7,5,,Check app
+Hot,,Flat White,₹200,Regular: ₹200 | Large: ₹220,,Veg,,,,Check app
+Hot,,Coconut Cafe Latte,₹200,Regular: ₹200 | Large: ₹220,,Veg,,,,Check app
+Hot,,Sea Salt Mocha,₹200,Regular: ₹200 | Large: ₹220,In house coffee blend with cocoa & a hint of sea salt,Veg,,,,Check app
+Hot,,Sea Salt Caramel Latte,₹200,Regular: ₹200 | Large: ₹220,"Rich coffee meets buttery caramel and a dash of sea salt, perfectly balanced with steamed or cold milk. Enjoy it warm and cozy.",Veg,,,,Check app
+Hot,,Americano,₹120,Regular: ₹120 | Large: ₹140,A harmonious balance of espresso + pristine hot water,Veg,,,,Check app
+Hot,,Bullet Coffee,₹150,Regular: ₹150 | Large: ₹170,Great for keto/health freaks - black coffee with grass fed organic butter,Veg,,,,Check app
+Hot,,Cappuccino,₹150,Regular: ₹150 | Large: ₹180,"Perfect balance of rich espresso, velvety steamed milk, and topped with a frothy layer of milk foam",Veg,,,,Check app
+Hot,,Cinnamon Cappuccino,₹180,Regular: ₹180 | Large: ₹200,"A warm, frothy cappuccino with a dash of cinnamon, delivering a comforting blend of spice and smooth coffee.",Veg,,,,Check app
+Hot,,Cafe Latte,₹180,Regular: ₹180 | Large: ₹200,,Veg,4.7,3,,Check app
+Hot,,Caramel Latte,₹180,Regular: ₹180 | Large: ₹200,,Veg,,,,Check app
+Hot,,Almond Latte,₹220,Regular: ₹220 | Large: ₹240,"Made with almond milk, garnished with almond flakes",Veg,,,,Check app
+Hot,,Hazelnut Latte,₹200,Regular: ₹200 | Large: ₹220,,Veg,,,,Check app
+Hot,,Cortado,₹160,,Smaller version of cafe latte - cutting coffee if you please,Veg,,,,Check app
+Hot,,Vietnamese Styled Coffee,₹250,Regular: ₹250 | Large: ₹270,"Strong, slow-drip dark coffee balanced with sweet condensed milk",Veg,1.8,3,,Check app
+Hot,,Signature Filter Coffee,₹200,Regular: ₹200 | Large: ₹220,"Aromatic and full-bodied, brewed from carefully selected beans, roasted to perfection",Veg,,,,Check app
+Hot,,Vanilla Mint Latte,₹200,Regular: ₹200 | Large: ₹220,,Veg,,,,Check app
+Fruit Coffees,,Orange Americano,₹200,Hot: ₹200 | Iced: ₹220,,Veg,,,,Check app
+Fruit Coffees,,Pineapple Americano,₹200,Hot: ₹200 | Iced: ₹220,,Veg,5.0,3,,Check app
+Fruit Coffees,,Apple Americano,₹200,Hot: ₹200 | Iced: ₹220,,Veg,,,,Check app
+Manual Brews,,Pour Over,₹200,,"Japanese V60 pour over,brewed through filter paper for a cleaned refined cup",Veg,,,,Check app
+Manual Brews,,Chemex,₹200,,"A pour-over brewing technique using a sleek glass vessel & thick filters, producing smooth, clean, & aromatic coffee",Veg,,,,Check app
+Manual Brews,,Apple Pour Over,₹200,,Pour over infused with fresh apples,Veg,,,,Check app
+Manual Brews,,Orange Pour Over,₹200,,Pour over infused with fresh orange slices,Veg,,,,Check app
+Cold,,Espresso Tonic,₹200,Regular: ₹200 | Large: ₹220,"A bold and bubbly mix of rich espresso and crisp tonic water, served over ice for a refreshing pick-me-up.",Veg,,,,Check app
+Cold,,Chocolate Chip Frappe,₹260,Regular: ₹260 | Large: ₹280,,Veg,,,,Check app
+Cold,,Sea Salt Caramel Latte (iced),₹260,Regular: ₹260 | Large: ₹280,"Rich coffee meets buttery caramel and a dash of sea salt, perfectly balanced with steamed or cold milk. Enjoy it iced and refreshing.",Veg,,,,Check app
+Cold,,Coconut Iced Latte,₹260,Regular: ₹260 | Large: ₹280,,Veg,,,,Check app
+Cold,,North Star Cold Coffee,₹240,Regular: ₹240 | Large: ₹260,,Veg,,,,Check app
+Cold,,Iced Americano,₹140,Regular: ₹140 | Large: ₹160,"A chilled version of the classic Americano, made by pouring cold water over espresso and served over ice for a smooth and refreshing coffee experience.",Veg,,,,Check app
+Cold,,Fresh Pomegranate Iced Coffee,₹200,Regular: ₹200 | Large: ₹220,"A unique blend of brewed coffee and fresh pomegranate juice, served over ice for a refreshing and fruity twist on your caffeine fix.",Veg,4.2,5,,Check app
+Cold,,Iced Sea Salt Mocha,₹260,Regular: ₹260 | Large: ₹280,"A refreshing iced mocha with a hint of sea salt, combining rich chocolate and espresso for a deliciously balanced and indulgent treat.",Veg,3.4,3,,Check app
+Cold,,Iced Latte,₹260,Regular: ₹260 | Large: ₹280,"A chilled espresso mixed with creamy milk and served over ice, creating a smooth and refreshing coffee drink perfect for warm days.",Veg,3.9,6,,Check app
+Cold,,Nutella Iced Latte,₹260,Regular: ₹260 | Large: ₹280,"A creamy iced latte blended with rich Nutella for a sweet, chocolatey kick.",Veg,,,,Check app
+Cold,,Cafe Frappe,₹260,Regular: ₹260 | Large: ₹280,"A chilled and frothy coffee drink blended with ice, creating a refreshing and creamy treat perfect for coffee lovers.",Veg,3.0,3,,Check app
+Cold,,Mocha Frappe,₹260,Regular: ₹260 | Large: ₹280,"A creamy and chocolatey frappe made with coffee, blended with ice, and topped with whipped cream for a delightful frozen treat.",Veg,,,,Check app
+Cold,,Cinnamon Frappe,₹260,Regular: ₹260 | Large: ₹280,"A cozy blend of coffee, ice, and warm cinnamon spice, topped with whipped cream for a sweet, spiced treat.",Veg,,,,Check app
+Cold,,Hazelnut Frappe,₹260,Regular: ₹260 | Large: ₹280,"A creamy, iced blend of rich coffee and hazelnut, topped with whipped cream for a nutty, indulgent treat.",Veg,,,,Check app
+Cold,,Banana Frappe,₹260,Regular: ₹260 | Large: ₹280,"A smooth and creamy blend of ripe banana, coffee, and ice, topped with whipped cream for a refreshing twist.",Veg,,,,Check app
+Cold,,Brownie Frappe,₹260,Regular: ₹260 | Large: ₹280,"A decadent blend of coffee, ice, and fudgy brownie chunks, topped with whipped cream for the ultimate chocolate indulgence.",Veg,,,,Check app
+Cold,,Lotus Biscoff Frappe,₹260,Regular: ₹260 | Large: ₹280,"Crushed Lotus Biscoff cookies swirled into a creamy base of milk and ice, blended to perfection",Veg,2.5,3,,Check app
+Cold,,Tres Leches Frappe,₹260,Regular: ₹260 | Large: ₹280,"A rich and creamy frappe inspired by the classic tres leches cake, blended with coffee and a trio of milks, finished with a hint of vanilla sweetness.",Veg,,,,Check app
+Cold,,Vietnamese Iced Coffee,₹260,Regular: ₹260 | Large: ₹280,"Strong brewed coffee combined with sweetened condensed milk and served over ice, creating a rich and sweetly indulgent beverage.",Veg,3.7,9,,Check app
+Matcha,,Coconut Cream Matcha,₹220,Iced Regular: ₹220 | Iced Large: ₹240,"Creamy coconut milk blended with matcha for a sunny, tropical pick- me-up",Veg,,,,Check app
+Matcha,,Strawberry Matcha,₹220,Iced Regular: ₹220 | Iced Large: ₹240,"Fresh strawberry purée meets matcha for a sweet, fruity twist on the classic latte",Veg,,,,Check app
+Matcha,,Vanilla Oat Milk Matcha Latte,₹220,Hot Regular: ₹220 | Iced Regular: ₹220 | Hot Large: ₹240 | Iced Large: ₹240,Smooth oat milk & a hint of vanilla makes this matcha latte extra cozy & comforting,Veg,,,,Check app
+Matcha,,Classic Matcha,₹200,Hot: ₹200 | Iced: ₹220,,Veg,,,,Check app
+Cold Brew,,Cinnamon Cold Brew,₹200,Regular: ₹200 | Large: ₹220,"A pinch of cinnamon shaken with cold brew, giving it the perfect nutty taste",Veg,,,,Check app
+Cold Brew,,Citrus Cold Brew,₹200,Regular: ₹200 | Large: ₹220,Cold brew topped with freshly squeezed orange juice,Veg,,,,Check app
+Cold Brew,,Tres Leches Cold Brew,₹220,Regular: ₹220 | Large: ₹240,Smooth cold brew coffee blended with the indulgent flavor of three milks.,Veg,,,,Check app
+Cold Brew,,Classic Cold Brew,₹190,Regular: ₹190 | Large: ₹210,"Smooth, slow-brewed coffee with a rich, bold flavor, served chilled for a refreshing pick-me-up.",Veg,,,,Check app
+Cold Brew,,Cold Brew Latte,₹200,Regular: ₹200 | Large: ₹220,"A chilled and creamy blend of cold brew coffee and milk, delivering a smooth and refreshing coffee experience.",Veg,,,,Check app
+Cold Brew,,Honey Cold Brew,₹200,Regular: ₹200 | Large: ₹220,"A bold and smooth cold brew lightly sweetened with natural honey for a refreshing, energizing sip.",Veg,,,,Check app
+Cold Brew,,Fresh Pomegranate Cold Brew,₹200,Regular: ₹200 | Large: ₹220,"A vibrant cold brew infused with fresh pomegranate juice, offering a bold, fruity kick with a smooth coffee finish.",Veg,,,,Check app
+North Star Signature Coffees,,North Star Pistachio Latte,₹300,,,Veg,,,,Check app
+North Star Signature Coffees,,North Star Hot Chocolate,₹240,,Classic hot chocolate with our in-house chocolate ganache,Veg,2.6,5,,Check app
+North Star Signature Coffees,,Spiced Coffee & Cacao (hot),₹240,,"Coffee, chocolate & some spice",Veg,4.3,7,,Check app
+North Star Signature Coffees,,Mexican Spiced Coffee (hot),₹240,,Mexican-inspired black coffee with jaggery & spices,Veg,,,,Check app
+North Star Signature Coffees,,Caramel Cortado (warm),₹240,,Mini espresso with condensed milk – a Spanish classic,Veg,,,,Check app
+North Star Signature Coffees,,Frosted Peppermint Mocha,₹260,,,Veg,,,,Check app
+North Star Signature Coffees,,Mint & Bird’s Eye Chilli Mocha (hot),₹240,,Our signature matcha with a mild kick of chilli & fresh mint,Veg,,,,Check app
+North Star Signature Coffees,,North Star Brown Butter Latte,₹240,,,Veg,,,,Check app
+North Star Signature Coffees,,Tiramisu Latte,₹240,,,Veg,,,,Check app
+North Star Signature Coffees,,Spiced Vanilla Latte,₹240,,,Veg,,,,Check app
+Mocktails,,Virgin Colada,₹265,,Pineapple juice muddled with coconut cream & ice,Veg,,,,Check app
+Mocktails,,Fresh Fruit Mojito,₹270,Glass: ₹270 | Pitcher: ₹1199,"A refreshing blend of 3 fresh fruits muddled with mint, lime, sugar & crushed ice, topped with grape fruit soda",Veg,,,,Check app
+Mocktails,,Fresh Cucumber Cooler,₹265,,"Fresh cucumber juice, watermelon cubes, salt, chaat masala",Veg,,,,Check app
+Mocktails,,Kokum Citrus Fizz,₹260,,Kokum + lime + zero-sugar cola + tiny pinch of black salt,Veg,,,,Check app
+Mocktails,,Kokum Mojito,₹260,,"Kokum, fresh mint and lime, ice and soda",Veg,,,,Check app
+Mocktails,,Tender Coconut Creme Cooler,₹265,,"Fresh coconut water, coconut cream, drizzle of honey",Veg,,,,Check app
+Mocktails,,Zesty Coconut Water,₹265,,Fresh coconut water + fresh mint + lime juice + honey + crushed ice,Veg,,,,Check app
+Freshly  Squeezed  Juices,,Pineapple Juice,₹220,,"A refreshing and tropical drink made from freshly squeezed pineapple, delivering a sweet and tangy flavor that's perfect for any occasion.",Veg,,,,Check app
+Freshly  Squeezed  Juices,,Orange Juice,₹220,,"Freshly squeezed orange juice, bursting with citrus flavor and packed with vitamins, ideal for a refreshing start to your day.",Veg,,,,Check app
+Freshly  Squeezed  Juices,,ABC Juice,₹220,,"A nutritious blend of apple, beetroot, and carrot juice, offering a sweet and earthy flavor loaded with health benefits.",Veg,,,,Check app
+Freshly  Squeezed  Juices,,Watermelon Juice,₹220,,"Chilled, juicy watermelon blended to perfection for a refreshing summer sip.",Veg,,,,Check app
+Shakes &  Smoothies,,Strawberry Mint Shake,₹290,,"A cool and refreshing strawberry shake with a hint of mint leaves, creating a delightful blend of fruity sweetness and fresh flavor.",Veg,,,,Check app
+Shakes &  Smoothies,,Avocado Smoothie,₹290,,"A creamy and nutritious smoothie made with ripe avocados, blended to perfection for a rich and satisfying drink.",Veg,,,,Check app
+Shakes &  Smoothies,,BANANA PEANUT BUTTER SMOOTHIE,₹300,,A creamy smoothie made with ripe bananas and rich peanut butter for a deliciously smooth blend.,Veg,,,,Check app
+Shakes &  Smoothies,,Brownie Shake,₹300,,A rich and creamy chocolate shake blended with fudgy brownie chunks for the ultimate indulgence.,Veg,,,,Check app
+Others,,Tonic Water,₹150,,Classic Tonic Water – crisp and refreshing,Veg,,,,Check app
+Others,,Special Combos,₹499,Coffee & Croissants: ₹499 | Coffee & Bruschetta: ₹499,,Veg,,,,Check app
+Others,,Fresh Lime Soda,₹180,,"A fizzy and refreshing drink made with fresh lime juice and sparkling water, offering a zesty kick to quench your thirst.",Veg,,,,Check app
+Others,,Red Bull,₹220,,"A popular energy drink that provides a quick boost of energy and alertness, featuring a unique blend of caffeine, taurine, and B vitamins.",Veg,,,,Check app
+Others,,Diet Coke,₹150,,"A refreshing, sugar-free cola with a crisp and bubbly taste, perfect for those looking to enjoy the classic flavor without the calories.",Veg,,,,Check app
+Others,,Coca Cola,₹150,,"Classic, fizzy, and refreshing",Veg,,,,Check app
+Others,,Sprite,₹150,,"A crisp, lemon-lime soda that",Veg,,,,Check app
+Clean Caffeine By North Star Cafe,,Almond Protein Latte,₹260,,Strong espresso blended with unsweetened almond milk & a scoop of plant-based protein for clean energy & muscle-supporting fuel,Veg,,,,Check app
+Clean Caffeine By North Star Cafe,,Avocado Iced Coffee,₹270,,Chilled espresso blended with fresh avocado & low-fat milk for heart healthy fats & a creamy texture without added cream,Veg,,,,Check app
+Clean Caffeine By North Star Cafe,,Coconut Cold Brew,₹260,,"Slow-steeped black coffee mixed with refreshing coconut water & ice for a naturally hydrating, mineral-rich drink with zero added sugar",Veg,,,,Check app
+Clean Caffeine By North Star Cafe,,Iced Black Coffee With Lemon Zest,₹200,,"Bold black coffee poured over ice, lifted with lemon zest for a metabolism boost & a fresh citrus aroma",Veg,,,,Check app
+Clean Caffeine By North Star Cafe,,Oat Milk Cinnamon Cappuccino (hot),₹270,,"Espresso with unsweetened oat milk, topped with cinnamon dust to aid digestion, balance blood sugar, & add natural warmth",Veg,,,,Check app
+Tea,,CARDAMOM MASALA CHAI,₹160,,"A warm and aromatic blend of Sancha black tea infused with spices like cardamom, ginger, and cloves",Veg,,,,Check app
+Tea,,Honey Ginger Lemon Detox Tea,₹160,,"Freshly cut ginger, lemon & honey simmered in hot tea",Veg,,,,Check app
+Tea,,Hot Chamomile Tea,₹160,,"A soothing herbal tea made from Sancha chamomile flowers, known for its calming properties and delicate floral flavor",Veg,,,,Check app
+Tea,,Green Tea,₹160,,"A light and refreshing tea made from unoxidized Sancha tea leaves, celebrated for its delicate flavor and numerous health benefits.",Veg,,,,Check app
+Tea,,LEMON ICED TEA,₹160,,A chilled and zesty brew of Sancha black tea infused with tangy lemon,Veg,,,,Check app
+Breakfast,,Granola Bowl,₹260,,"A creamy breakfast bowl of crunchy granola, topped with fresh seasonal fruits, yogurt, drizzle of honey, nuts",Veg,3.6,6,,Check app
+Breakfast,,"Fluffy, Custardy French Toast Soaked In Pandan-infused Milk, Finished With Coconut Cream",₹360,,"Fluffy, custardy French toast soaked in pandan-infused milk, finished with coconut cream. A perfect breakfast dessert",Non-Veg,,,,Check app
+Breakfast,,Banana Avacado Bowl,₹260,,"Creamy avocado & banana topped with granola, nuts, & honey",Veg,,,,Check app
+Breakfast,,Eggs Florentine,₹310,,"Poached eggs with hollandaise, served on toasted English muffin with sautéed spinach",Non-Veg,,,,Check app
+Breakfast,,Nutella Banana Pancakes,₹320,,"Nutella spread, bananas, whipped cream",Veg,,,,Check app
+Breakfast,,Omelette,₹240,Masala: ₹240 | Chicken & Cheese: ₹280 | Veg: ₹240 | Spinach & Cheese: ₹260,,Veg,,,,Check app
+Breakfast,,Classic Maple Pancakes,₹300,,"Cinnamon sugar, caramelized banana, maple syrup, whipped cream",Veg,,,,Check app
+Breakfast,,Tiramisu Pancake,₹320,,"North star signature-Pancakes topped with vanilla cream cheese, biscuit crumb & served with espresso maple syrup",Veg,,,,Check app
+Breakfast,,Eggs Benedict,₹340,Chicken Sausage: ₹340 | Pork Ham: ₹340,"A classic breakfast dish featuring poached eggs atop toasted English muffins, smothered in rich hollandaise sauce.",Non-Veg,3.3,4,,Check app
+Breakfast,,Truffle Scrambled Eggs,₹280,,"Soft scrambled eggs finished with truffle oil, served with sautéed wild mushrooms, cream cheese & sourdough",Non-Veg,4.8,9,,Check app
+Breakfast,,Classic French Toast,₹320,,"Made with brioche bread, topped with powder sugar, caramelized banana, served with maple syrup",Non-Veg,4.1,5,,Check app
+Breakfast,,Bailey’s French Toast,₹360,,"Thick slices of brioche bread dipped in Bailey’s Irish Cream & cinnamon, grilled to golden perfection",Non-Veg,,,,Check app
+Breakfast,,Sunny Side Up,₹200,,"Two perfectly fried eggs with golden, runny yolk, bringing comfort to your plate",Non-Veg,,,,Check app
+Breakfast Platters,,French Toast Breakfast Platter,₹460,,"Eggs to order, french toast, bacon strips/chicken sausage, choice of beverage – cappuccino/americano/iced latte)",Veg,,,,Check app
+Breakfast Platters,,North Star Breakfast Platter,₹500,,"""Veg: Avocado Toast, cream cheese brioche, Hash browns, yogurt parfait/mini pancake, Fruit cup, cappuccino/americano/iced latte/fresh fruit juice Non Veg: Eggs to order, cream cheese brioche, Hash browns, sausage/bacon, Fruit cup, cappuccino/americano/iced latte/fresh fruit juice""",Non-Veg,,,,Check app
+Breakfast Platters,,Veggie Lover's Bf Platter,₹380,,"Hash Browns, Baked Beans, Toasted Milk Bread, Sauteed Mushrooms, seasonal cut fruits",Veg,,,,Check app
+Breakfast Platters,,Avocado Toast Breakfast Platter,₹460,Chicken Sausage: ₹460 | Bacon: ₹460,"A wholesome breakfast platter featuring creamy avocado toast, sunny-side-up eggs, fresh salad, and seasonal fruits for a nourishing start to your day.",Non-Veg,,,,Check app
+Breakfast Platters,,Veg English Breakfast Platter,₹440,,"Pancakes, baked beans, hash browns, smashed avocado, sautéed mushrooms & spinach, grilled tomato, sourdough toast",Veg,,,,Check app
+Breakfast Platters,,Chicken English Breakfast Platter,₹490,,"Eggs to order, baked beans, hash browns, sautéed mushrooms & spinach, chicken sausage, grilled tomato, sourdough toast",Non-Veg,,,,Check app
+Breakfast Platters,,Bacon English Breakfast Platter,₹500,,"Eggs to order, baked beans, hash browns, sautéed mushrooms & spinach, bacon, grilled tomato, sourdough toast",Non-Veg,5.0,5,,Check app
+Breakfast Platters,,American Breakfast Platter,₹460,,"Eggs to order, classic pancakes, bacon strips/chicken sausage, maple syrup, choice of beverage – cappuccino/americano/iced latte",Non-Veg,,,,Check app
+Breakfast Platters,,Croissant Breakfast Platter,₹460,,"A delightful breakfast platter with a buttery croissant, scrambled eggs, fresh fruits, and a side of salad for a balanced and satisfying morning meal.",Non-Veg,,,,Check app
+Croissants,,House Butter Croissant,₹220,,"A classic butter croissant, golden and flaky on the outside with a soft, buttery interior, perfect for a simple yet delightful breakfast or snack.",Non-Veg,,,,Check app
+Croissants,,Dark Chocolate Croissant,₹250,,"Buttery, flaky croissant filled with rich, velvety dark chocolate for an indulgent treat.",Non-Veg,,,,Check app
+Croissants,,Almond Croissant,₹250,,"A buttery croissant filled with sweet almond cream and topped with sliced almonds, offering a delightful nutty flavor and a perfect crunch.",Non-Veg,,,,Check app
+Croissants,,Caramel Crossaint,₹250,,"A buttery, flaky croissant drizzled with rich caramel for a sweet indulgence.",Non-Veg,,,,Check app
+Croissants,,Pistachio Croissant,₹290,,"A buttery, flaky croissant filled with a rich pistachio cream and tangy raspberry jam.",Non-Veg,2.1,3,,Check app
+Croissants,,Lotus Biscoff Croissant,₹320,,"A delicious croissant filled with creamy Lotus Biscoff spread, topped with crunchy Biscoff crumbs for a sweet and indulgent twist on a classic pastry.",Non-Veg,,,,Check app
+Croissants,,Tomato Mozzarella Croissant,₹280,,"A savory croissant filled with fresh mozzarella and juicy tomatoes, drizzled with a hint of basil pesto for a deliciously satisfying snack.",Non-Veg,,,,Check app
+Croissants,,Ham & Cheese Crossaint,₹340,,"A buttery, flaky croissant filled with savory ham and melted cheese.",Non-Veg,,,,Check app
+Croissants,,Shawarma Chicken Crossaint,₹340,,"A butter buttery croissant filled with tender, spiced chicken shawarma, creating a savory and aromatic bite.ry croissant filled with tender, spiced chicken shawarma, creating a savory and aromatic bite.",Non-Veg,,,,Check app
+Open Toasts,,BACON AVOCADO TOAST,₹450,,"Toasted bread layered with creamy avocado and tender butter garlic chicken for a bold, savory delight.",Non-Veg,,,,Check app
+Open Toasts,,Sunny Side Up Avocado,₹390,,"Creamy mashed avocado served with a soft, runny sunny side up egg, seasoned with salt, pepper, & herbs, served on an open croissant",Veg,,,,Check app
+Open Toasts,,Creamy Burrata Toast,₹390,,"Creamy burrata on warm toast, finished with fresh basil & aromatic mixed herbs",Veg,,,,Check app
+Open Toasts,,Creamy Eggs On Butter Croissant,₹340,,"A creamy mix of mayo & chopped eggs, served on an open croissant, finished with herbs",Veg,,,,Check app
+Open Toasts,,Ultimate Avo & Burrata Toast,₹420,,"Silky avocado paired with fresh burrata, topped with basil & classic herb seasoning",Veg,,,,Check app
+Open Toasts,,Avocado Toast,₹380,,"Sliced toasted bread topped with creamy avocado, seasoned to perfection, and finished with a drizzle of olive oil for a deliciously fresh bite! Serves 1-2.",Veg,3.7,9,,Check app
+Open Toasts,,Chilli Chicken Toast,₹380,,"Crispy toast topped with spicy chili chicken, bursting with bold flavors and a hint of tanginess, perfect for a savory snack! Serves 1-2.",Non-Veg,,,,Check app
+Pasta,,Burrata Tomato Basil Penne Pasta,₹390,,,Veg,,,,Check app
+Pasta,,Mac & Cheese,₹360,,,Veg,,,,Check app
+Pasta,,Spaghetti Carbonara,₹390,,"Classic spaghetti coated in a silky sauce of eggs, parmesan, cracked black pepper, & crispy bacon for a rich, creamy, & comforting Italian favorite",Veg,,,,Check app
+Pasta,,Make Your Own Pasta,₹380,Veg: ₹380 | Non Veg: ₹420,"A customizable pasta dish with your choice of sauce, toppings, and fresh ingredients.",Veg,,,,Check app
+Soups & Salads,,Avacado Fruit Salad,₹380,,"Avocado, seasonal fruits, almond, cranberry, walnuts, lime & honey dressing- fresh & health",Veg,,,,Check app
+Soups & Salads,,Cream Of Chicken,₹200,,,Non-Veg,,,,Check app
+Soups & Salads,,Cream Of Mushroom,₹180,,,Veg,,,,Check app
+Soups & Salads,,The Viral Burrata Salad,₹390,,"A refreshing salad featuring creamy burrata cheese atop mixed greens, drizzled with olive oil & balsamic vinegar, & garnished with cherry tomatoes & fresh basil for a burst of flavor",Veg,4.1,8,,Check app
+Soups & Salads,,Caesar Salad,₹360,Veg: ₹360 | Non Veg: ₹380,"Crisp romaine lettuce tossed in creamy Caesar dressing, topped with croutons and Parmesan.",Veg,,,,Check app
+Soups & Salads,,Hot & Sour Soup,₹200,Chicken: ₹200 | Veg: ₹180,"A tangy and spicy broth with vegetables, mushrooms, and a hint of chili and vinegar.",Veg,,,,Check app
+Appetizers,,French Fries,₹240,Salted: ₹240 | Piri Piri: ₹260,"Crispy, golden-brown fries that are perfectly seasoned and ideal for dipping in your favorite sauces. Serves 1-2.",Veg,,,,Check app
+Appetizers,,Veg Loaded Nachos,₹320,,"House made tortilla chips, topped with salsa, baked beans, cheese sauce, fajita veggies",Veg,,,,Check app
+Appetizers,,Bruschetta Platter,₹320,,"Avocado Confit, Tomato Salsa, Pesto with Mushrooms",Veg,,,,Check app
+Appetizers,,Whipped Feta Watermelon Bites,₹260,,Sweet & chilled watermelon cubes topped with creamy whipped feta mousse for a salty-sweet burst in every bite - a light & healthy appetizer,Veg,,,,Check app
+Appetizers,,Chicken Dimsums,₹220,,,Veg,,,,Check app
+Appetizers,,Veg Dimsums,₹200,,,Veg,,,,Check app
+Appetizers,,Truffle Parmesan Fries,₹280,,"Crispy fries drizzled with truffle oil and topped with freshly grated Parmesan, delivering a rich and savory flavor in every bite. Serves 1-2.",Veg,,,,Check app
+Appetizers,,Onion Rings,₹220,,"Crispy, golden-brown onion rings, lightly battered for a crunchy bite.",Veg,,,,Check app
+Appetizers,,Korean Cream Cheese Bun,₹220,,"A soft, fluffy bun filled with rich and tangy cream cheese, offering a delightful balance of flavors and a satisfying texture in every bite. Serves 1-2.",Veg,3.6,3,,Check app
+Appetizers,,Cheese & Chili Toast,₹260,,"Crispy toast topped with a gooey cheese blend and a kick of chili, making for a perfect savory snack that",Veg,,,,Check app
+Appetizers,,Corn Cheeseballs,₹240,,"Crispy corn and cheese-filled balls, golden fried to perfection.",Veg,,,,Check app
+Appetizers,,Hummus & Pita Bread,₹220,,"Smooth and creamy hummus served with soft, warm pita bread for dipping.",Veg,3.5,3,,Check app
+Appetizers,,Chilli Paneer,₹280,,"Crispy paneer cubes tossed in a spicy, tangy sauce with peppers and onions.",Veg,,,,Check app
+Appetizers,,Chilly Chicken,₹300,,"Tender chicken pieces stir-fried in a spicy, tangy sauce with bell peppers and onions.",Non-Veg,,,,Check app
+Appetizers,,Fish And Chips,₹380,,Crispy battered fish served with golden fries and tangy tartar sauce.,Non-Veg,2.9,3,,Check app
+Burgers & Sandwiches,,Veggie Bliss Burger,₹360,,"A hearty burger stacked with a flavorful veggie patty, fresh lettuce, ripe tomatoes, and your choice of sauces, all sandwiched in a soft bun for a satisfying, guilt-free meal!",Veg,,,,Check app
+Burgers & Sandwiches,,CHEESE MUSHROOM CHICKEN SUB,₹380,,"A savory sub packed with juicy chicken, saut",Non-Veg,,,,Check app
+Burgers & Sandwiches,,CHEESE VEGGIE BACON SUB,₹420,,"A delicious sub filled with crispy bacon, saut",Non-Veg,,,,Check app
+Burgers & Sandwiches,,EGG VEGGIE CHEESE SUB,₹360,,"A hearty sub stuffed with fluffy eggs, saut",Non-Veg,,,,Check app
+Burgers & Sandwiches,,VEGGIE CHEESE SUB,₹340,,A loaded sub with fresh saut,Veg,,,,Check app
+Burgers & Sandwiches,,Avocado Burger,₹380,,"Guocomole, Salsa, Feta Cheese, Veg Patty",Veg,,,,Check app
+Burgers & Sandwiches,,Bacon & Cheese Melt Burger,₹420,,"Crispy bacon & melted cheese, layered with lettuce, tomato, & house sauce in a soft toasted bun",Non-Veg,,,,Check app
+Burgers & Sandwiches,,Bacon & Fried Egg Belt Sandwich,₹420,,"Crispy bacon & a perfectly fried egg layered with fresh lettuce, tomatoes, & tangy mustard sauce in a panini bread",Non-Veg,,,,Check app
+Burgers & Sandwiches,,Burrata Pesto Burger,₹390,,"Burrata cheese, fresh pesto sauce, tomatoes, balsamic reduction",Veg,,,,Check app
+Burgers & Sandwiches,,Shroom Melt Sandwich,₹360,,"Cream Cheese, Butter Garlic Mushrooms, herbs, greens, pressed between buttered brioche",Veg,,,,Check app
+Burgers & Sandwiches,,Smoky Chicken Supreme Burger,₹380,,"Smoked chicken patty & cheese with mustard mayo, lettuce, & tomato  with caramelized onions",Non-Veg,,,,Check app
+Burgers & Sandwiches,,Crispy Paneer Burger,₹380,,"A crispy, golden-brown paneer patty served in a soft bun with fresh veggies and sauces.",Veg,,,,Check app
+Meals,,Char-grilled Chicken Steak With Pepper Jus,₹480,,"Grilled chicken with white mushroom sauce, served with steamed veggies, mashed potatoes / buttered rice",Non-Veg,,,,Check app
+Meals,,Chicken & Mushroom Risotto,₹300,,"Tender chicken & sautéed mushrooms folded into a creamy, comforting parmesan risotto",Non-Veg,,,,Check app
+Meals,,Garlic Butter Prawn Risotto,₹320,,Juicy prawns tossed in garlic butter layered over a creamy parmesan risotto,Non-Veg,,,,Check app
+Meals,,Grilled Cottage Cheese & Spinach Steak With Herb Jus,₹440,,,Non-Veg,,,,Check app
+Meals,,Thai Green Curry & Jasmine Rice,₹320,Chicken: ₹320 | Veg: ₹280,,Veg,,,,Check app
+Meals,,Wild Mushroom Risotto,₹290,,"A rich, earthy risotto simmered with sautéed mushrooms, parmesan & herbs",Veg,,,,Check app
+Meals,,Butter Garlic Fish Fillet,₹490,,"Grilled fish glazed with dill butter cream sauce, served with veggies, buttered rice / mashed potatoes",Non-Veg,,,,Check app
+Pizza,,Chicken Keema,₹460,,"Juicy chicken keema spiced with garlic, onions, chillies & masala, layered on melted cheese",Non-Veg,,,,Check app
+Pizza,,Chicken Makhani,₹480,,A twist to your usual pizza – butter chicken in a makhani sauce with pizza toppings,Non-Veg,,,,Check app
+Pizza,,Classic Margherita,₹360,,"For all cheese lovers, this pizza comes with our in-house tomato concasse, buffalo mozzarella cheese garnished with basil leaves",Veg,,,,Check app
+Pizza,,Farmhouse,₹380,,"Loaded with an assortment of zucchini, capsicum, onion, paneer over melted cheese",Veg,,,,Check app
+Pizza,,Fresh Burrata & Basil Pizza,₹540,,Creamy burrata served on a fresh tomato sauce base on a golden crust garnished with basil leaves,Veg,,,,Check app
+Pizza,,Half And Half Pizza,₹550,,Choose any two,Veg,,,,Check app
+Pizza,,Paneer Paprika,₹420,,"Spicy & tangy tomato sauce topped with paneer cubes & veggies, served with a generous amount of cheese!",Veg,,,,Check app
+Pizza,,Peri Peri Chicken,₹520,,Grilled peri peri chicken bites topped with spicy cheese sauce & veggies,Non-Veg,,,,Check app
+Pizza,,Seafood Pizza,₹580,,"Fiery tomato-chilli marinara topped with squids, prawns, white fish, finished with fresh oregano & a drizzle of chilli oil",Non-Veg,,,,Check app
+Pizza,,Mushroom Mozzarella Paradise,₹440,,"A pizza for mushroom lovers, loaded mushrooms, house sauces, mozzarella cheese & herbs",Veg,,,,Check app
+Desserts,,Chocolate Chip Cookie,₹160,,Made with callebaut dark and white chocolate chips,Non-Veg,,,,Check app
+Desserts,,Pandan Custard & Coconut Toast,₹340,,Fluffy toast drizzled with creamy pandan custard topped with a scoop of coconut ice cream - perfect balance of warm & gooey,Veg,,,,Check app
+Desserts,,Salted Caramel Affogato,₹260,,"A rich pour of espresso over smooth vanilla ice cream, finished with molten salted caramel",Veg,,,,Check app
+Desserts,,Warm Chocolate Brownie,₹220,,Add on vanilla ice cream @ Rs. 50,Veg,,,,Check app
+Desserts,,Sea Salt Caramel Cookie,₹160,,Blend of sweet and salty with caramel sauce,Non-Veg,5.0,3,,Check app
+Desserts,,Banana & Walnut Tea Cake,₹180,,Moist layers of ripe bananas and crunchy walnuts,Veg,,,,Check app
+Desserts,,Nutella Almond Choclate Cake,₹320,,Rich chocolate cake layered with creamy Nutella and topped with roasted almonds for a delightful crunch.,Veg,,,,Check app
+Desserts,,Lotus Biscoff Cheesecake,₹320,,Cold cheesecake with biscoff,Veg,,,,Check app
+Desserts,,French Vanilla Ice Cream,₹150,,"Warm, fudgy brownie served with a scoop of creamy vanilla ice cream.",Non-Veg,,,,Check app
+Merchandise,,North Star Reusable Cup,₹800,,"A convenient and eco-friendly disposable cup designed for easy sipping and portability, ideal for hot and cold beverages while minimizing waste.",Veg,,,,Check app

@@ -2,6 +2,7 @@ class PilotRestaurant < ApplicationRecord
   belongs_to :restaurant
   has_many :competitor_sets, dependent: :destroy
   has_many :daily_digests, dependent: :destroy
+  has_many :review_digests, dependent: :destroy
   has_many :chat_sessions, dependent: :destroy
   has_many :threat_assessments, dependent: :destroy
 

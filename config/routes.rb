@@ -14,6 +14,7 @@ Rails.application.routes.draw do
         get :threat_assessments
         get :daily_digest
         get :daily_digests
+        get :reviews_digest
         get :suggested_questions
       end
     end

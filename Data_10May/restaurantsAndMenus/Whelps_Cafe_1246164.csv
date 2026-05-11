@@ -1,0 +1,59 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Buns And Breads,,Bread pizza,₹116,,"Pizza sauce spread over the bread with onions, capsicum and tomatoes and layer cheese. sprinkle herbs and chilli flakes.",Veg,,,,Check app
+Buns And Breads,,Caramelised Banana French Toast [Egg],₹120,,,Non-Veg,,,,Check app
+Buns And Breads,,Korean Bun,₹116,,"Popular korean snack, buttery and garlicky with a cream cheese filling.",Veg,,,,Check app
+Buns And Breads,,Bun Omelette,₹90,,,Non-Veg,,,,Check app
+Buns And Breads,,French Toast,₹103,,"Bread soaked in beaten eggs, vanilla cinnamon, milk or cream, then pan fried.",Non-Veg,,,,Check app
+Buns And Breads,,Bun Butter Jam,₹75,,,Veg,,,,Check app
+Buns And Breads,,Salsa Toast,₹91,,"Tomatoes, red onion, garlic, vinegar, lime juice and coriander served with bread.",Veg,,,,Check app
+Buns And Breads,,Bun Maska,₹64,,Simple bun is sliced and layer of sugared butter is spread.,Veg,,,,Check app
+Maggi,,Chicken Maggi,₹129,,,Non-Veg,,,,Check app
+Maggi,,Mushroom Maggi,₹109,,Maggi noodles served with sauteed onions and mushrooms,Veg,,,,Check app
+Maggi,,Plain Maggi,₹64,,,Veg,,,,Check app
+Maggi,,Egg Maggi,₹90,,,Non-Veg,,,,Check app
+Maggi,,Veg Maggi,₹90,,,Veg,,,,Check app
+Maggi,,Paneer Maggi,₹129,,,Veg,,,,Check app
+Chef's Specials,,Manipuri Egg Singju Noodles,₹159,,Medley of raw vegetables and boiled egg with aromatic herbs and unique seasonings.,Non-Veg,,,,Check app
+Chef's Specials,,Manipuri Singju Noodles,₹135,,"Medley of raw noodles, raw vegetables, aromatic herbs and unique seasonings.",Veg,,,,Check app
+Chef's Specials,,Lee's 1-Pot Noodles,₹129,,"Noodles cooked in broth, peanut butter, soya, chilli oil and herbs.",Veg,,,,Check app
+Chef's Specials,,Asian Apple salad,₹207,,"Crisp apples, nuts, fresh lettuce, capcicum, cucumber, tomato, onions and. dressing.",Veg,,,,Check app
+Sandwich,,Chicken Club Sandwich,₹155,,"Chicken breast topped with tomatoes, cucumber, onions, capsicum and lettuce.",Non-Veg,,,,Check app
+Sandwich,,Choco & Butter Sandwich,₹83,,,Veg,,,,Check app
+Sandwich,,Veg Sandwich,₹90,,,Veg,,,,Check app
+Sandwich,,Paneer Sandwich,₹109,,,Veg,,,,Check app
+Sandwich,,Mushroom Sandwich,₹103,,,Veg,,,,Check app
+Sandwich,,Corn & Cheese Sandwich,₹103,,,Veg,,,,Check app
+Sandwich,,Japanese Egg Sandwich,₹109,,,Non-Veg,,,,Check app
+Tea,,Elaichi Tea,₹39,,,Veg,,,,Check app
+Tea,,Ginger Tea,₹33,,,Veg,,,,Check app
+Tea,,Tea [Regular],₹26,,,Veg,,,,Check app
+Tea,,Masala Tea,₹33,,,Veg,,,,Check app
+Tea,,Rose Tea,₹33,,,Veg,,,,Check app
+Cold Coffees,,Cold Coffee,₹119,,,Veg,,,,Check app
+Cold Coffees,,Hazelnut Cold Coffee,₹142,,,Veg,,,,Check app
+Cold Coffees,,Ice Banana Latte,₹129,,,Veg,,,,Check app
+Cold Coffees,,Caramel Cold Coffee,₹135,,,Veg,,,,Check app
+Quick Bites,,Chicken popcorn,₹129,,Small bite sized pieces of chicken seasoned breaded and deep fried.,Non-Veg,,,,Check app
+Quick Bites,,Chicken nuggets,₹129,,Small pieces of deboned chicken meat that are battered deep fried or air fried.,Non-Veg,,,,Check app
+Quick Bites,,Veg Pops/Fingers,₹116,,Savory deep fried vegetables and breaded snack seasoned with spices.,Veg,,,,Check app
+Quick Bites,,Salted fries,₹116,,"Thin strips of potato that are deep fried, typically salted and seasoned.",Veg,,,,Check app
+Quick Bites,,Peri Peri Fries,₹146,,,Veg,,,,Check app
+Quick Bites,,Potato Poppers,₹113,,,Veg,,,,Check app
+Salads,,Chicken Salad,₹198,,,Non-Veg,,,,Check app
+Salads,,Veggie Salad,₹150,,,Veg,,,,Check app
+Salads,,Paneer Salad,₹198,,,Veg,,,,Check app
+Salads,,Egg Salad,₹175,,,Non-Veg,,,,Check app
+Hot coffee,,Classic Brew,₹26,,,Veg,,,,Check app
+Hot coffee,,Filter Coffee,₹39,,,Veg,,,,Check app
+Hot coffee,,Whelp's Signature Coffee,₹39,,,Veg,,,,Check app
+Hot coffee,,Bold Black Espresso,₹52,,,Veg,,,,Check app
+Hot coffee,,Smooth Cappuccino,₹64,,,Veg,,,,Check app
+Hot coffee,,Silky Latte,₹64,,,Veg,,,,Check app
+Signature cream hot coffee,,Whipped Dalgona,₹119,,"Light, airy whipped coffee cloud layered over hot chilled milk, bold yet silky indulgence.",Veg,,,,Check app
+Signature cream hot coffee,,Hazelnut Signature Cream Coffee,₹105,,"Smooth and nutty with hazelnut aroma, perfectly balanced with bold espresso and creamy milk.",Veg,,,,Check app
+Signature cream hot coffee,,Caramel Cream Coffee,₹98,,Velvety comforting espresso blended with rich caramel and topped with luscious cream.,Veg,,,,Check app
+Signature cream hot coffee,,Jaggery Cardamom Latte,₹91,,"Earthy jaggery syrup infused with cardamom, poured into steamed milk and espresso an indian twist.",Veg,,,,Check app
+Dessert,,Walnut Brownie,₹129,,,Veg,,,,Check app
+Dessert,,Hazelnut Brownie,₹129,,,Veg,,,,Check app
+Dessert,,Double Chocochip Brownie,₹129,,,Veg,,,,Check app
+Dessert,,Cocoa Fantasy Cake,₹145,,,Veg,,,,Check app

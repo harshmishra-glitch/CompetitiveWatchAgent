@@ -1,0 +1,114 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Creamy Tomato Soup,₹350,,,Veg,,,,Check app
+Woofilicious Pet Menu,,Mango Ambrosia (Pet Food),₹150,,Mango ice cream made of greek yogurt (naturally lactose free),Veg,5.0,18,,Check app
+Woofilicious Pet Menu,,Blueberry Ambrosia (Pet Food),₹175,,Blueberry ice cream made of cashews and goat milk,Veg,4.6,10,,Check app
+Woofilicious Pet Menu,,Evas Secret Risotto (Pet Food),₹199,Small Plate: ₹199 | Large Plate: ₹299,"Made of goat milk, pumpkin, loaded with vegetables, focused on improving gut health and immunity.",Veg,4.4,18,,Check app
+Woofilicious Pet Menu,,Jimmys Pancakes (Pet Food),₹150,Small Plate: ₹150 | Large Plate: ₹250,"Pancakes made of go at milk and go at clarified butter, served with honey",Veg,4.3,19,,Check app
+Woofilicious Pet Menu,,Artisan Egg And Chicken Pupcake (Pet Food),₹175,,,Non-Veg,3.3,9,,Check app
+Woofilicious Pet Menu,,Tuna Fish Pupcake (Pet Food),₹175,,,Non-Veg,4.6,8,,Check app
+Woofilicious Pet Menu,,Eva's Quinoa(pet Food),₹299,,"Quinoa, scrambled eggs, fresh spinach, nutritional yeast, coconut oil",Non-Veg,,,,Check app
+Woofilicious Pet Menu,,Super Fluffy Souffle (Pet Food ),₹250,,,Non-Veg,,,,Check app
+Woofilicious Pet Menu,,Eva's Buddha Growl(pet Food),₹299,,"Pumpkin, yogurt peanut butter sauce, steamed veggies",Veg,,,,Check app
+Woofilicious Pet Menu,,Glazed Carob & Peanut Butter Chicken & Egg Pupcake(pet Food),₹199,,"Protein-packed pupcake crafted with dog-safe carob, real chicken, and egg",Non-Veg,,,,Check app
+Woofilicious Pet Menu,,Glazed Peanut Butter Chicken And Egg Pupcake(pet Food),₹199,,"Focus on protein, immunity and gut health",Non-Veg,,,,Check app
+Woofilicious Pet Menu,,Digestive Cookies 200 Gm (Treats),₹399,,,Veg,,,,Check app
+Woofilicious Pet Menu,,Fresh Baked Goat Milk Cookies 150gm (Treats),₹299,,"Egg,multigrain flour,goat milk",Non-Veg,,,,Check app
+Woofilicious Pet Menu,,Fresh Baked Assorted Chicken Cookies 100gm (Treats),₹175,,"Chicken, wheat flour,oats,eggshell powder (calcium boost)",Non-Veg,,,,Check app
+Woofilicious Pet Menu,,Fresh Baked Gluten Free Healthy Bone Cookies 100gm (Treats),₹175,,"Raagi flour, chickpea flour, oats, hemp seeds powder, eggs, chicken",Non-Veg,,,,Check app
+Queens Asian,,Kung Pao Tofu Fried Rice,₹615,,"Served with delicious tofu with kung pao sauce, red and yellow bell peppers, peanuts and cashew allergens: nuts and soy",Veg,,,,Check app
+Queens Asian,,Thai Basil Chilli Chicken Noodles (Vegan),₹595,,"[veg preparation] noodles tossed with tender plant-based chicken, fragrant thai basil, seasonal vegetables, and a fiery chilli-sauce.",Veg,,,,Check app
+Queens Asian,,Burmese Lotus Root Curry Served With Spiced Pilaf Jasmine Rice (Vegan),₹615,,,Veg,,,,Check app
+Queens Asian,,Japanese Buckwheat Soba Noodles,₹595,,,Veg,,,,Check app
+Queens Asian,,Thai Yellow Vegan Chicken Curry Noodles (Vegan),₹595,,"Tender plant-based chicken simmered in fragrant thai yellow curry, paired with wok-tossed chow mein noodies and scallion oil.",Veg,,,,Check app
+Queens Asian,,Kinoko Whole Wheat Ramen Noodles ,₹595,,,Veg,,,,Check app
+Queens Asian,,Mapo Tofu,₹595,,"Delicious and soft silken tofu simmered in a fiery, umami-rich sichuan sauce and fragrant spices served with bowl of jasmine rice",Veg,,,,Check app
+Queens Asian,,Thai Basil Drunken Noodles,₹520,,"Rice noodles served with thai basil, seasonal vegetables, mushroom and fried garlic allergens: soy",Veg,3.5,3,,Check app
+Queens Asian,,Korean Street-style Lo Mein (Vegan),₹510,,"Chewy to mein noodles stir-fried in a soy-ginger sauce, tossed with scallions, seasonal vegetables, and a hint of sesame for street-style authenticity.",Veg,,,,Check app
+Queens Asian,,Mee Goreng,₹475,,"Indonesian yellow noodles, tofu, seasonal vegetables chili sambal, fried shallots and lime allergens: gluten and soy",Veg,,,,Check app
+All Day Breakfast,Fifth Avenue Sourdough Toast,Favourite,₹300,Half: ₹300 | Full: ₹475,"Sliced avocado, plant based cream and hemp heart trail mix allergens: gluten, nuts",Veg,,,,Check app
+All Day Breakfast,Fifth Avenue Sourdough Toast,Caprese,₹300,Half: ₹300 | Full: ₹475,"Hummus, plant based cream cheese, cherry tomato, basil and balsamic reduction allergens: gluten, nuts",Veg,5.0,3,,Check app
+All Day Breakfast,Fifth Avenue Sourdough Toast,Caramelized Mushroom,₹275,Half: ₹275 | Full: ₹450,"Mushroom, onion, and truffle oil allergens: gluten, nuts",Veg,,,,Check app
+All Day Breakfast,American Pancakes,Banana Blueberry Pancakes,₹300,,"Served with maple syrup and dairy free whipped cream, allergens: gluten and dairy",Veg,,,,Check app
+All Day Breakfast,American Pancakes,Fluffy Vanilla Pancakes,₹275,,"Served with maple syrup and dairy free whipped cream, allergens: gluten and dairy",Veg,,,,Check app
+All Day Breakfast,American Pancakes,Chocolate Delight,₹295,,,Veg,,,,Check app
+All Day Breakfast,Times Square Smoothie Bowls,Berry Smoothie,₹395,,,Veg,,,,Check app
+All Day Breakfast,Times Square Smoothie Bowls,Kale Mango,₹375,,"Kale, mango juice, banana, ginger, cranberry, raisin,almond milk",Veg,,,,Check app
+All Day Breakfast,Times Square Smoothie Bowls,Avocado Delight,₹420,,"Avocado, pineapple, banana, kiwi, coconut milk, toasted coconut flakes, jaggery powder",Veg,,,,Check app
+All Day Breakfast,East Village Bagels,Jalapeno And Cheddar Bagel,₹275,,Allergens: gluten and dairy,Veg,4.7,4,,Check app
+All Day Breakfast,East Village Bagels,Sun Dried Tomato And Basil Pesto Bagel,₹275,,"Allergens: gluten, nuts",Veg,5.0,3,,Check app
+All Day Breakfast,Bagels,Bagel And Cream Cheese (Vegan),₹275,,,Veg,5.0,3,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,Brooklyn Style Pita Pockets Hummus,₹375,,Served with lavosh and multigrain pita bread allergens: gluten,Veg,5.0,3,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,Plant Based Mock Chicken Nuggets,₹400,,Choice of roasted baby potatoes and cocktail sauce allergens: soy,Veg,4.1,3,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,Crispy Vegetable Rolls,₹375,,Special handmade rolls cooked golden and served with spicy sriracha dip allergens: gluten,Veg,,,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,Lamb Pita Pockets,₹425,,"Mediterranean style pita pockets stuffed with our well seasoned lamb (plant based), hummus and garlic sauce allergens: gluten and soy",Veg,,,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,East Broadway Tacos,₹375,,"Barbecued tofu, refried beans, jalapeno, olive, sour cream and roasted tomato salsa allergens: soy and nuts",Veg,3.3,4,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,Asian Lotus Root,₹395,,,Veg,,,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,Roasted Sweet Potato Gnocchi Aglio Olio E Peperoncini,₹350,,Charred broccoli cherry tomato allergens: gluten and dairy,Veg,,,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,Crispy Mexican Empanadas,₹400,,"Mexican favorite delight with chipotle flavored corn, carrot, black beans and peppers allergens: gluten and dairy",Veg,,,,Check app
+Small Plates  Bowls,Carnegie Hill Appetizers,Crispy Lettuce Wraps (Vegan),₹350,,,Veg,,,,Check app
+Small Plates  Bowls,Others,Japanese Onion Rings,₹325,,,Veg,,,,Check app
+Pizza,New York-style Flatbread Pizza,Tuscan Pizza,₹450,,"Button mushroom, shitake mushroom, pickled onion, mozzarella and truffle oil allergens: gluten and dairy",Veg,,,,Check app
+Pizza,New York-style Flatbread Pizza,Jalapeno &Popper Cream Cheese Pizza,₹450,,,Veg,,,,Check app
+Pizza,New York-style Flatbread Pizza,Genovese Pizza,₹475,,"Spicy red pesto and basil pesto, jalapeno, bell pepper, onion allergens: gluten and dairy",Veg,,,,Check app
+Pizza,New York-style Flatbread Pizza,Turkish Delight Chicken Flatbread Pizza,₹475,,"Plant based chicken, pistachios, red pesto sauce, cocktail onion and mozzarella allergens: gluten, soy and dairy",Veg,,,,Check app
+Pizza,New York-style Flatbread Pizza,Margherita Pizza,₹375,,"Sliced tomato, mozzarella, basil and extra virgin olive oil allergens: gluten and dairy",Veg,,,,Check app
+Pizza,New York-style Flatbread Pizza,Sicilian Pizza,₹450,,"Zucchini, cherry tomato, onion and aromatic herbs allergens: gluten and dairy",Veg,,,,Check app
+Pizza,Others,Greektown Flatbread Pizza,₹450,,,Veg,,,,Check app
+Pizza,Others,Peri Peri Chicken Pizza,₹450,,"A fiery fusion of bold flavors, this plant-based peri peri pizza is topped with juicy mock chicken, layered over a zesty, spiced tomato sauce.",Veg,,,,Check app
+Greenwich Village Bake House,,Vegan Oatmeal And Cranberry Cookie,₹65,,,Veg,,,,Check app
+Greenwich Village Bake House,,Vegan Cranberry Cinnamon Roll,₹225,,Allergens: gluten,Veg,,,,Check app
+Greenwich Village Bake House,,Chocolate Almond Croissant,₹225,,"Allergens: gluten, dairy and nuts",Veg,,,,Check app
+Greenwich Village Bake House,,Classic Butter Croissant,₹200,,Allergens: gluten and dairy,Veg,5.0,3,,Check app
+Greenwich Village Bake House,,Vegan Chocolate Chip Cookies,₹65,,Allergens: gluten and dairy,Veg,,,,Check app
+Greenwich Village Bake House,,Vegan Blueberry Macarons,₹100,,,Veg,,,,Check app
+Greenwich Village Bake House,,Jalapeno Cheddar Croissant,₹200,,Allergens: gluten and dairy,Veg,,,,Check app
+Greenwich Village Bake House,,Vegan Strawberry Macarons,₹100,,,Veg,,,,Check app
+Greenwich Village Bake House,,Vegan Coffee And Chocolate Macarons,₹100,,,Veg,,,,Check app
+Theatre District Desserts,,Dark Chocolate Truffle,₹375,,Allergens: nuts,Veg,,,,Check app
+Theatre District Desserts,,Orange And Ginger Tea Cake,₹295,,,Veg,,,,Check app
+Theatre District Desserts,,Real New York Cheesecake,₹400,,Blueberry allergens: nuts and dairy,Veg,,,,Check app
+Theatre District Desserts,,The Red Dragon,₹375,,A strawberry panna cotta,Veg,,,,Check app
+Central Park Salads,,Kale Chickpea Salad,₹400,,"Olives, pomegranate pearls, toasted sunflower seeds and tahini dressing",Veg,,,,Check app
+Central Park Salads,,Founders Favorite Avocado Salad,₹425,,"Avocado, mixed greens, red onion, bell peppers, english cucumber, apples, toasted sunflower seeds and dressing topped with crispy rice noodles",Veg,,,,Check app
+Central Park Salads,, Smoky Corn Salad,₹375,,,Veg,,,,Check app
+Central Park Salads,,Greek Town Vegan Feta Salad,₹375,,,Veg,,,,Check app
+Central Park Salads,,Asian Dumpling Salad,₹450,,,Veg,,,,Check app
+Little Italy,Pasta  Risotto,Penne Pastaa,₹395,,"Allergens: gluten, dairy and nuts",Veg,,,,Check app
+Little Italy,Pasta  Risotto,Spaghetti Pastaa,₹395,,"Allergens: gluten, dairy and nuts",Veg,,,,Check app
+Little Italy,Pasta  Risotto,Al Limone Spaghetti & Roasted Mushrooms,₹425,,,Veg,,,,Check app
+Little Italy,Pasta  Risotto,Spiced Tomato Penne Aglio Olio,₹425,,,Veg,,,,Check app
+Little Italy,Panini,Rockefeller,₹400,,"Grilled mushroom, onion, and garlic mayo served with roasted root vegetables allergens: gluten and nuts",Veg,,,,Check app
+Little Italy,Panini,Neapolitan,₹375,,"Tomato, mozzarella, and basil pesto served with roasted root vegetables allergens: gluten, dairy and nuts",Veg,,,,Check app
+Super Bowl Soups,,Japanese Whole Wheat Ramen Soup (Vegan),₹295,,"Hearty whole wheat ramen in a soothing veg broth, brimming with carrots, bok choy, tofu, and earthy shiitake mushrooms.",Veg,,,,Check app
+Super Bowl Soups,,China Town Soupy Dumplings,₹300,,Asian vegetables and spring onion allergens: gluten,Veg,4.5,5,,Check app
+Super Bowl Soups,,Miso Glazed Shitake Mushroom Soup,₹295,,,Veg,,,,Check app
+Super Bowl Soups,,Thai Tom Kha Soup,₹300,,"Thai fresh herbs, asian vegetables, coconut milk and plant based chicken dumplings allergens: gluten and soy",Veg,,,,Check app
+Super Bowl Soups,,Southwest Jalapeno Corn Soup,₹300,,"Sweet corn, spicy jalapenos and potato in a creamy blend, served with texas toast.",Veg,,,,Check app
+Holiday Special Menu,,Blueberry Mini Donuts,₹425,,,Veg,,,,Check app
+Holiday Special Menu,,Brooklyn Fire Butter Pizza,₹450,,,Veg,,,,Check app
+Holiday Special Menu,,Cheesecake Cremebrulee,₹375,,,Veg,,,,Check app
+Holiday Special Menu,,Chinatown Crispy Waterchestnuts & Mushroom,₹595,,,Veg,,,,Check app
+Holiday Special Menu,,Creamy Tomato Soup,₹350,,,Veg,,,,Check app
+Holiday Special Menu,,Hudson Yards Golden Tater Tots (Small Plates),₹375,,,Veg,,,,Check app
+Holiday Special Menu,,Little Paris Caramalized Green Onion Soup,₹350,,,Veg,,,,Check app
+Holiday Special Menu,,Pimento Cheese Burger,₹400,,,Veg,,,,Check app
+Holiday Special Menu,,Westside Crispy Green Beans (Small Plates),₹350,,,Veg,,,,Check app
+Holiday Special Menu,,Woodside Javanese Signature Asian Wrap,₹450,,,Veg,,,,Check app
+Sandwiches,,Neworleans Remoulade With Shitake Mushrooms Sandwich,₹450,,,Veg,,,,Check app
+Sandwiches,,Caramelized Onion & Miso Butter Sandwich With Garlic Parmesan Fries,₹425,,,Veg,,,,Check app
+Sandwiches,,Smoky Tofu Blt Sandwich(vegan),₹375,Small: ₹375 | Large: ₹450,,Veg,,,,Check app
+East Harlem Mexican Delights,,Tex Mex Fajita Wraps,₹425,,"Super delicious fajita wrap with mixed peppers, sauted onions, tomatoes and corn served with sour cream allergens: gluten and dairy",Veg,5.0,4,,Check app
+East Harlem Mexican Delights,,Queso Quesadilla,₹425,,"Melted mexican cheese, peppers, sauted onions, corn and tomatoes. Served with pico de gallo, sour cream allergens: gluten and dairy",Veg,,,,Check app
+"Big Apple Burger, Fries Or Roasted Root",,Plant Based Chicken Patty,₹420,,"Vegetables spiced tomato dip, sundried tomato, coleslaw and cheddar cheese served with peri peri fries allergens: gluten, soy and dairy",Veg,4.8,3,,Check app
+"Big Apple Burger, Fries Or Roasted Root",,Jalapeno & Avocado Burger,₹420,,,Veg,,,,Check app
+Small Plate Bowls,,Asian Spiced Arancini,₹350,,,Veg,,,,Check app
+Small Plate Bowls,,Cyprus Garden Falafel Platter,₹450,,"Crispy falafel served with hummus, olives and pita bread.",Veg,,,,Check app
+Small Plate Bowls,,South American Yucca Fries,₹275,,,Veg,,,,Check app
+Small Plate Bowls,,Thai Corn Fritters,₹350,,,Veg,,,,Check app
+Dessert,,Flourless Vegan Brownie Fudge,₹375,,,Veg,,,,Check app
+Dessert,,Nutella Espresso Cheesecake Mouse ,₹375,,,Veg,,,,Check app
+Dessert,,Sesame Street,₹450,,,Veg,,,,Check app
+Dessert,,Vegan Upside Down Cake,₹250,,,Veg,,,,Check app
+Whole Truth,,Peanut Choco Fudge,₹60,,,Veg,,,,Check app
+Whole Truth,,Coco Cranberry Fudge,₹60,,,Veg,,,,Check app
+Whole Truth,,Double Cocoa,₹100,,,Veg,,,,Check app

@@ -13,5 +13,9 @@ module Llm
     def threat
       ENV.fetch("OPENAI_THREAT_MODEL", "gpt-4o-mini")
     end
+
+    def review_digest
+      ENV.fetch("OPENAI_REVIEW_DIGEST_MODEL", digest)
+    end
   end
 end

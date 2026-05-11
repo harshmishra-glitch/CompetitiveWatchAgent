@@ -77,6 +77,16 @@ module Api
       }
     end
 
+    # GET /api/pilot_restaurants/:id/reviews_digest?date=
+    def reviews_digest
+      pilot = PilotRestaurant.find(params[:id])
+      date  = parse_date(params[:date], default: Date.current)
+      return render_error(:bad_request, "future_date", "Cannot generate review digest for a future date") if date > Date.current
+
+      digest = ReviewDigest.fetch_or_generate(pilot_restaurant_id: pilot.id, date: date)
+      render json: { reviews_digest: reviews_digest_payload(digest) }
+    end
+
     # GET /api/pilot_restaurants/:id/suggested_questions
     def suggested_questions
       pilot = PilotRestaurant.find(params[:id])
@@ -132,6 +142,16 @@ module Api
             priority: c.priority
           }
         }
+      }
+    end
+
+    def reviews_digest_payload(d)
+      {
+        id: d.id,
+        digest_date: d.digest_date,
+        status: d.status,
+        generated_at: d.generated_at,
+        restaurants: d.reviews_payload
       }
     end
   end

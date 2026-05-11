@@ -1,0 +1,40 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Pizza Collection,,"12"" Margherita ",₹399,,"Homemade pizza sauce, mozzarella, fresh basil.",Veg,,,,Check app
+Pizza Collection,,"12"" Fungi",₹399,,"Melange of wild mushrooms, truffle oil, mozzarella and tomato.",Veg,,,,Check app
+Pizza Collection,,"12"" Quattro Fromage",₹399,,Topped with combination of four cheese.,Veg,,,,Check app
+Pizza Collection,,12'' Basil Pesto,₹399,,"Basil pine nuts pesto, semi dried herbed tomatoes, yelow zucchini and olives.",Veg,,,,Check app
+Pizza Collection,,"12"" Chicken Pepperoni",₹449,,"Chicken pepperoni, mozzarella.",Non-Veg,,,,Check app
+Pizza Collection,,"12"" Bbq Chicken",₹449,,"Bbq chicken, mozzarella.",Non-Veg,,,,Check app
+Pizza Collection,,12'' Gamberi,₹549,,"Marinated prawns with mushrooms, cherry tomato and olives.",Non-Veg,,,,Check app
+Pizza Collection,,"12"" Paneer Tikka Pizza",₹399,,"Paneer tikka, onions, and chillies.",Veg,,,,Check app
+Pizza Collection,,"12"" Chicken Tikka Pizza",₹449,,"Chicken tikka, onions, chillies.",Non-Veg,,,,Check app
+Light & Crisp,,Chicken Hot Dog,₹449,,"Chicken sausage, cheese and bread roll.",Non-Veg,,,,Check app
+Light & Crisp,,Cheese Nachos,₹399,,Mexican tortilla chips topped with cream cheese and tomato salsa.,Veg,,,,Check app
+Light & Crisp,,Cheese Chilly Toast,₹399,,Toasted bread topped with succulent mixture of cheese & chillies.,Veg,,,,Check app
+Light & Crisp,,Classic Bruschetta,₹399,,"Traditional italian antipasto with grilled  bread topped with tomato, mozzerella and shredded basil, drizzled with evoo.",Veg,,,,Check app
+Light & Crisp,,Crispy Mushroom Roll,₹399,,"Phyllo stuffed with mushroom duxelle, served with sun-dried tomato aioli.",Veg,,,,Check app
+Light & Crisp,,Fish & Chips,₹499,,"Lightly battered fish, malt vinegar chips, house made remoulade.",Non-Veg,,,,Check app
+Light & Crisp,,Grilled Prawn Skewer,₹549,,Chargrilled prawns rubbed with creole spice.,Non-Veg,,,,Check app
+Light & Crisp,,Bbq Chicken Wings,₹499,,Crispy fried chicken wings smothered in barbecue sauce.,Non-Veg,,,,Check app
+Between The Buns & Breads,,Veg Club Sandwich,₹379,,"Triple layered sandwich filled with grilled cottage cheese and herb marinated grilled vegetables, served with french fries on side.",Veg,,,,Check app
+Between The Buns & Breads,,Bombay Sandwich,₹339,,"Street style sliced vegetables with mint chutney sandwich, served with french fries on side.",Veg,,,,Check app
+Between The Buns & Breads,,Harvest Burger,₹349,,"Vegetables and potato patty, lettuce, tomatoes, caramelised onion rings, jalapenos, yellow cheddar dressed with peri peri mayo in buttered buns, served with french fries on side.",Veg,,,,Check app
+Between The Buns & Breads,,Classic Chicken Club Sandwich,₹499,,"Triple layered sandwich filled with grilled chicken, fried egg, onion, lettuce and cheddar, served with french fries on side.",Non-Veg,,,,Check app
+Between The Buns & Breads,,Crispy Chicken And Fire ,₹499,,"Crispy fried chicken thigh, extra spicy sauce, pickled vegetables and jalapenos, served with french fries on side.",Non-Veg,,,,Check app
+Between The Buns & Breads,,Lamb And Mint Burger ,₹499,,"Grilled minced lamb patty with mint jelly sauce, feta spread and harissa aioli with french fries on side.",Non-Veg,,,,Check app
+Cuppa Soup,,Minestrone,₹279,,"Rich thick soup made with fresh seasonal vegetables, an 
+italian favourite.",Veg,,,,Check app
+Cuppa Soup,,Fresh Mushroom With Thyme ,₹279,,Thyme infused in creamy mushroom soup with garlic flavour.,Veg,,,,Check app
+Cuppa Soup,,Roasted Tomato And Basil,₹279,,Made with fresh garden tomatoes and italian  basil.,Veg,,,,Check app
+Cuppa Soup,,Creamy Chicken And Pepper Jack,₹339,,Black pepper monterey jack cheese infused rich chicken broth,Non-Veg,,,,Check app
+Chilled Out,,Caesar Salad- Chicken,₹449,,"Lettuce, croutons, cream dressing, chicken and parmesan cheese",Non-Veg,,,,Check app
+Chilled Out,,Caesar Salad,₹399,,"Lettuce, croutons, cream dressing, and parmesan cheese.",Veg,,,,Check app
+Chilled Out,,Caprese,₹399,,"Classic italian salad made with fresh mozzarella, tomatoes and sweet basil dressed with balsamic glaze, pesto and evoo.",Veg,,,,Check app
+Chilled Out,,"Watermelon, Feta And Mint",₹399,,"Seasoned & basil flavored watermelon, feta snow, balsamic reduction.",Veg,,,,Check app
+Soft Beverages,,Red Bull Can,₹220,,,Veg,,,,Check app
+Soft Beverages,,Tonic Water Can,₹150,,,Veg,,,,Check app
+Soft Beverages,,Ginger Ale Can,₹150,,,Veg,,,,Check app
+Soft Beverages,,Diet Coke Can,₹150,,,Veg,,,,Check app
+Dessert,,Blueberry Cheesecake,₹349,,Baked cheesecake with blueberry compote.,Non-Veg,,,,Check app
+Dessert,,Brownie With Chocolate Sauce	,₹349,,Brownie with chocolate sauce only.,Non-Veg,,,,Check app
+Dessert,,Chocolate Truffle Pastry,₹349,,Rich dark chocolate ganache pastry.,Veg,,,,Check app

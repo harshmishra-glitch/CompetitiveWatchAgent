@@ -1,0 +1,64 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Summer 2026,,Iced Chocolate,₹179,,"Cool, creamy chocolate over ice — smooth, indulgent, and effortlessly chill.",Veg,,,Yes,Check app
+Summer 2026,,Iced Chocolate Boba,₹239,,"Chilled, creamy iced chocolate with chocolate popping boba — rich, smooth sips with bursts of double chocolate fun.",Veg,,,,Check app
+Daily Sips,,Mocha,₹169,Mini Hot (240 Ml): ₹169 | Maxx Cold (480 Ml): ₹189,"Chocolate and coffee, holding hands - perfect hot or cold.",Veg,3.7,3,,Check app
+Daily Sips,,Iced Latte,₹159,,"Milk-led, caffeine-powered - always smooth. Contains no sugar.",Veg,5.0,4,Yes,Check app
+Daily Sips,,Americano,₹119,Mini Hot (240 Ml): ₹119 | Maxx Cold (480 Ml): ₹139,Americano your way - hot or cold.,Veg,,,,Check app
+Daily Sips,,Vietnamese Iced Coffee,₹189,,"Slow-dripped bold coffee over thick, sweetened milk.",Veg,3.9,12,Yes,Check app
+Daily Sips,,Cappuccino,₹159,,"A warm classic - rich, creamy, and frothy. No sugar added.",Veg,5.0,4,,Check app
+Daily Sips,,Hot Chocolate,₹179,,"Warm, smooth, and indulgent.",Veg,5.0,1,,Check app
+Daily Sips,,Classic Cold Coffee,₹179,,"Just bold coffee, cold milk, and a sweet hit of nostalgia.",Veg,4.3,7,Yes,Check app
+Daily Sips,,Filter Coffee,₹79,,"Slow-brewed the traditional South Indian way for a rich, velvety coffee.",Veg,,,,Check app
+Daily Sips,,Tea,₹79,Ginger Tea: ₹79 | Masala Tea: ₹79,Aromatic Indian chai - a classic that feels like home. Serve size 120 ml.,Veg,,,,Check app
+Flavored Cappuccino/cold Coffee,,Tiramisu Treat Coffee,₹159,Mini Hot (240 Ml): ₹159 | Maxx Cold (480 Ml): ₹189,"Coffee meets dessert in this rich, creamy tiramisu-inspired cuppa.",Veg,4.2,6,,Check app
+Flavored Cappuccino/cold Coffee,,Caramel Craze Coffee,₹159,Mini Hot (240 Ml): ₹159 | Maxx Cold (480 Ml): ₹189,"Smooth caramel coffee, enjoyed hot or cold.",Veg,,,,Check app
+Flavored Cappuccino/cold Coffee,,Hazelnut Haze Coffee,₹159,Mini Hot (240 Ml): ₹159 | Maxx Cold (480 Ml): ₹189,"Whether hot or cold, this one is a stealer.",Veg,3.0,1,,Check app
+Flavored Cappuccino/cold Coffee,,Vanilla Vibe Coffee,₹159,Mini Hot (240 Ml): ₹159 | Maxx Cold (480 Ml): ₹189,"Coffee with just the right touch of sweet, made to slow sip.",Veg,,,,Check app
+Flavored Cappuccino/cold Coffee,,Butterscotch Buzz Coffee,₹159,Mini Hot (240 Ml): ₹159 | Maxx Cold (480 Ml): ₹189,"Rich butterscotch coffee, served hot or cold.",Veg,,,,Check app
+Flavored Cappuccino/cold Coffee,,Choco Cloud Coffee,₹159,Mini Hot (240 Ml): ₹159 | Maxx Cold (480 Ml): ₹189,"Light, dreamy chocolate coffee.",Veg,,,,Check app
+Fizzy Boba,,Blueberry Fizzy Boba,₹179,,A bubbly blueberry refresher with soda and bursting blueberry boba.,Veg,,,,Check app
+Fizzy Boba,,Mango Fizzy Boba,₹179,,A sparkling mango refresher with fizzy soda and juicy mango boba.,Veg,,,,Check app
+Fizzy Boba,,Strawberry Fizzy Boba,₹179,,A bubbly blueberry refresher with soda and bursting blueberry boba.,Veg,,,,Check app
+Matcha,,Just Matcha,₹220,,"Smooth, earthy, and full of calm - the OG green whisk.",Veg,,,,Check app
+Matcha,,Mango Tango Matcha,₹239,,"Tropical mango meets earthy matcha in a creamy, dreamy, layered swirl.",Veg,,,,Check app
+Matcha,,Strawberry Matcha Swirl,₹239,,Matcha with a strawberry twist - blended to bliss with bold colors and big flavour energy.,Veg,3.0,1,,Check app
+Matcha,,Blueberry Matcha Pop,₹239,,A refreshing fusion of earthy matcha and sweet blueberry.,Veg,,,,Check app
+Matcha,,Dirty Kyoto Matcha (with Coffee),₹239,,"Earthy matcha shaken up with a bold espresso shot—smooth, strong.",Veg,,,,Check app
+Thickshakes,,Oreo Overload Thickshake,₹239,,"A thick, creamy shake packed with Oreo cookies.",Veg,,,,Check app
+Thickshakes,,Brownie Blast Thickshake,₹239,,"Fudgy, chocolatey, and unapologetically rich - a dessert you can sip.",Non-Veg,5.0,6,Yes,Check app
+Thickshakes,,Ferrero Rocher Dream Thickshake,₹239,,"A rich, indulgent thickshake made with creamy chocolate, roasted hazelnut flavours, and crushed Ferrero Rocher.",Veg,,,,Check app
+Thickshakes,,Kitkat Crunch Thickshake,₹239,,"A creamy, chocolatey thickshake blended with crispy KitKat wafer chunks.",Veg,,,,Check app
+Thai Iced Tea,,Thai Iced Tea,₹239,,"Bold, sweet, and iconic",Veg,,,,Check app
+Bursting Boba Bestsellers,,Iced Latte Chocolate Boba,₹219,,"Chocolate, coffee and popping boba.",Veg,,,,Check app
+Bursting Boba Bestsellers,,Mango Tango Matcha Boba,₹259,,"Matcha meets mango, with bouncy mango boba in every sip.",Veg,,,,Check app
+Desserts & Bakes,,Blueberry Cheesecake Jar,₹199,,"Layers of creamy cheesecake, buttery biscuit base, and blueberry compote - in a jar.",Veg,,,,Check app
+Desserts & Bakes,,Fudgy Brownie,₹149,,"Dense, fudgy, and baked to perfection",Non-Veg,5.0,2,,Check app
+Desserts & Bakes,,Tiramisu Jar,₹199,,"Espresso-soaked sponge, silky mascarpone cream, and a dusting of cocoa",Veg,4.0,1,,Check app
+Desserts & Bakes,,Belgian Chocolate Truffle Jar,₹199,,"A sinful, spoonable delight with velvety Belgian chocolate and soft cake layers.",Veg,,,,Check app
+Desserts & Bakes,,Butter Croissant,₹129,,"Crisp on the outside, soft and buttery on the inside.",Veg,,,Yes,Check app
+Desserts & Bakes,,Choco Chip Cookie,₹89,,"Soft, chewy, and loaded with gooey chocolate chips.",Veg,,,,Check app
+Desserts & Bakes,,Chocolate Croissant,₹149,,"Light, flaky, and loaded with indulgent chocolate goodness.",Veg,,,,Check app
+Desserts & Bakes,,Double Choco Chip Cookie,₹99,,A decadent cookie bursting with cocoa and loaded with melty choco chips.,Veg,5.0,58,,Check app
+Quick Bites,,Classic Fries,₹119,,"Crisp, golden fries with a light salt sprinkle.",Veg,4.0,2,,Check app
+Quick Bites,,Peri Peri Fries,₹159,,Your classic fries just got spiced up,Veg,4.5,5,Yes,Check app
+Quick Bites,,Chicken Popcorn (6 Pieces),₹179,,"Bite-sized chicken pieces, coated and fried till golden crisp.",Non-Veg,4.0,2,,Check app
+Quick Bites,,Cheesy Saucy Fries,₹179,,"Straight-cut fries loaded with warm, creamy cheese.",Veg,,,,Check app
+Panini (italian Grilled Sandwich),,Crunchy Chicken Panini,₹239,,"All the crunch of chicken popcorn, now in a loaded panini.",Non-Veg,,,,Check app
+Panini (italian Grilled Sandwich),,Paneer On Fire Panini,₹239,,"A spicy paneer explosion inside a warm, crunchy panini.",Veg,,,,Check app
+Panini (italian Grilled Sandwich),,Veggie & Cheesy Panini,₹179,,"For the veggie lover who wants it hot, cheesy, and bold.",Veg,,,,Check app
+Panini (italian Grilled Sandwich),,Classic Chicken Panini,₹165,,"Grilled chicken, melted cheese, and fresh veggies in crispy pressed bread.",Non-Veg,,,,Check app
+Burgers,,OG Veggie Burger,₹179,,"No fuss, all flavour — this veggie burger hits the spot with every bite.",Veg,4.9,4,,Check app
+Burgers,,Chicken Popcorn Stack Burger,₹239,,Popcorn chicken meets creamy layers for the ultimate crunch-loaded bite.,Non-Veg,,,,Check app
+Burgers,,Simply Chicken Burger,₹179,,"Juicy chicken patty, crisp lettuce, cheese, and house sauce in a soft bun.",Non-Veg,,,,Check app
+Burgers,,Spicy Paneer Stack Burger,₹239,,"Desi spice meets creamy paneer in this bold, juicy burger.",Veg,5.0,2,,Check app
+Wraps,,Garden Wrap,₹179,,"A satisfying veg wrap that hits every craving — cheesy, spicy, and snack-sized.",Veg,,,Yes,Check app
+Wraps,,Paneer Wrap-n-roll,₹239,,"Creamy paneer meets spicy drip in this bold, handheld wrap.",Veg,,,,Check app
+Wraps,,Chicken Popcorn Wrap,₹239,,For the crispy chicken lover who wants it snack-sized and snacky.,Non-Veg,,,,Check app
+Iced Teas,,Peach Please Iced Tea,₹129,,Refreshing tea with a sweet peachy flavor.,Veg,,,,Check app
+Iced Teas,,Lemon Rush Iced Tea,₹129,,Relaxing combination of brewed tea with lemon juice.,Veg,,,,Check app
+Iced Teas,,Lavender Zen Iced Tea,₹129,,Aromatic blend of brewed tea infused with lavender.,Veg,5.0,2,,Check app
+Iced Teas,,Strawberry Splash Iced Tea,₹129,,Brewed tea with a burst of strawberry.,Veg,,,,Check app
+Proffee (protein Coffee),,Classic Cold Proffee,₹239,,Smooth coffee blended with clean Whole Truth protein for the perfect energy + protein boost in one cup. Serve size 240 ml.,Veg,,,,Check app
+Cold Brews (without Milk),,Mango Chilli Cold Brew,₹179,,"Ripe mango, tangy spice, and chilli warmth that lingers just right. Served bottled or canned, subject to availability.",Veg,,,,Check app
+Cold Brews (without Milk),,Classic Cold Brew (zero Sugar),₹179,,"Bold, chilled, and made to fuel your day. Served bottled or canned, subject to availability.",Veg,,,,Check app
+Cold Brews (without Milk),,Hazelnut Cold Brew,₹179,,"Earthy, nutty, and straight-up smooth. Served bottled or canned, subject to availability.",Veg,,,,Check app

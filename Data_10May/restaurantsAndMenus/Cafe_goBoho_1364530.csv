@@ -1,0 +1,54 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Coffee,,Espresso,₹99,,"Made with 100% arabica coffee beans. Indulge in a rich, aromatic brew that delivers a bold and revitalizing flavor, perfect for any coffee lover.",Veg,,,,Check app
+Coffee,,Hot Americano,₹159,,,Veg,,,,Check app
+Coffee,,Hot Cappuccino,₹229,,,Veg,,,,Check app
+Coffee,,Hot Latte,₹229,,"Indulge in a silky soft milk based coffee featuring steamed milk, a strong shot of espresso, and foam.",Veg,,,,Check app
+Coffee,,Hot Spanish Latte,₹259,,,Veg,,,,Check app
+Coffee,,Iced Espresso,₹109,,,Veg,,,,Check app
+Coffee,,Iced Americano,₹159,,A strong shot of espresso diluted with iced water for a pleasant black coffee experience.,Veg,,,,Check app
+Coffee,,Iced Cappuccino,₹229,,"Indulge in a rich, frothy delight that blends creamy texture of milk with aromatic warmth of single origin espresso, perfect for a cozy moment.",Veg,,,,Check app
+Coffee,,Iced Latte,₹229,,"Indulge in a creamy, frothy blend of chilled milk and a strong shot of espresso with every sip.",Veg,,,,Check app
+Coffee,,Iced Spanish Latte,₹259,,"Indulge in a creamy, rich coffee experience that perfectly balances robust flavors of arabica coffee with a smooth, velvety finish of chilled milk.",Veg,,,,Check app
+Coffee,,Vietnamese Cold Coffee,₹209,,"Indulge in a rich and aromatic coffee, soft and sweet condensed milk over ice, a perfectly balanced drink for a delightful pick-me-up.",Veg,,,,Check app
+Coffee,,Island Americano,₹179,,"Savor a rich and aromatic coffee experience, perfectly balanced with the sweetness of coconut water and ice to awaken your senses and delight your palate.",Veg,,,,Check app
+Coffee,,Coffee Tiramisu Latte,₹329,,"Indulge in a creamy, coffee-infused delight layered with rich flavors of mascaropone and cream to add a hint of sweetness, perfect for any coffee lover.",Veg,,,,Check app
+High protein smoothie drinks,,Banana smoothie,₹159,,,Veg,,,,Check app
+High protein smoothie drinks,,Choco banana smoothie,₹159,,,Veg,,,,Check app
+High protein smoothie drinks,,Choco peanut butter smoothie,₹159,,,Veg,,,,Check app
+High protein smoothie drinks,,Mango smoothie,₹159,,,Veg,,,,Check app
+High protein smoothie drinks,,Banana superfood smoothie,₹249,,,Veg,,,,Check app
+High protein smoothie drinks,,Mango superfood smoothie,₹249,,,Veg,,,,Check app
+High protein smoothie drinks,,High protein banana superfood smoothie,₹249,,,Veg,,,,Check app
+High protein smoothie drinks,,High protein mango superfood smoothie,₹249,,,Veg,,,,Check app
+Zero guilt mango specials,,High Protein Mango Chia Seed Pudding,₹249,,"Zero Added Sugar | Zero Guilt. This high protein chia seed pudding features layers of fresh mango puree, high protein, high fiber chia seed pudding, and crunchy nuts and seeds. Made with real mangoes.",Veg,,,,Check app
+Zero guilt mango specials,,High Protein Mango & Superfood Smoothie,₹329,,"Zero added sugar | Zero guilt. Indulge in a creamy, refreshing delight that combines the tropical sweetness of mango with a nutritious, protein-packed twist.",Veg,,,,Check app
+Zero guilt mango specials,,Mango Matcha,₹389,,A guiltfree refreshing collab between sweet mangoes and earthy matcha latte. Made with real mangoes.,Veg,,,,Check app
+Guiltfree House Special Drinks,,Jaljeera Mocktail,₹109,,Experience a refreshing burst of tangy flavors and invigorating aromas of jaljeera mocktail in this delightful house special.,Veg,,,,Check app
+Guiltfree House Special Drinks,,Nannari Soda,₹139,,"Experience a delightful fusion of flavors originating from south India in this house special. A root-based natural body coolant, where each sip offers a refreshing and aromatic journey to the coastal beaches.",Veg,,,,Check app
+Guiltfree House Special Drinks,,Iced Tea,₹199,,"A refreshing blend of brewed tea, chilled to perfection, offering a delightful balance of flavors that invigorate the senses.",Veg,,,,Check app
+Guiltfree House Special Drinks,,Nannari Noir,₹249,,"Indulge in a refreshing blend of herbal notes of nannari and strong undertones of 48hrs steeped cold brew coffee, perfect for a revitalizing experience.",Veg,,,,Check app
+Guiltfree House Special Drinks,,Coastal Brew,₹289,,"Experience a refreshing blend of zesty flavors of nannari, coconut water, and 48hrs steeped cold brew. Vibrant colors that dance on your palate, perfect for a midday pick me up.",Veg,,,,Check app
+Guiltfree House Special Drinks,,Coromandel Iced Tea,₹269,,A guiltfree indulgent mix of earthy flavors of nannari and iced tea for a refreshing drink.,Veg,,,,Check app
+High protein salad bowls,,Kasundi Podi Paneer,₹319,,"Zero Lettuce | Zero Mayo. This refreshing salad features creamy paneer coated in a tangy Bengali-style mustard and spicy Andhra podi blend, delivering a delightful burst of flavor.",Veg,,,,Check app
+High protein salad bowls,,Barbeque Paneer,₹319,,"Zero Lettuce | Zero Mayo. Soft, tender, and juicy paneer cubes tossed in smoky, tangy BBQ sauce to comppiment the fresh veggies for a delightful crunch.",Veg,,,,Check app
+High protein salad bowls,,Kasundi Podi Egg,₹219,,"Zero Lettuce | Zero Mayo. This vibrant salad features perfectly cooked eggs, tossed with tangy mustard and spicy podi, bringing a delightful tang and rich flavor to every bite.",Non-Veg,,,,Check app
+High protein salad bowls,,Kasundi Podi Chicken Salad Bowl,₹319,,"Zero Lettuce | Zero Mayo. Succulent chicken is expertly seasoned and tossed in a tangy mustard  and spicy podi blend, creating a delightful salad experience.",Non-Veg,,,,Check app
+High protein salad bowls,,High Protein Barbeque Chicken Salad Bowl,₹319,,"Zero Lettuce | Zero Mayo. Tender, juicy chicken tossed in tangy BBQ sauce combined with crunchy veggies for a delightful, satisfying salad experience.",Non-Veg,,,,Check app
+High protein rice bowls,,Barbeque Paneer Rice Bowl,₹329,,Zero Lettuce | Zero Mayo. Savor the smoky flavors of soft paneer and crunchy veggies tossed in tangy BBQ sauce. Perfectly paired with fragrant donne biryani rice for a delightful meal.,Veg,,,,Check app
+High protein rice bowls,,Kasundi Podi Paneer Rice Bowl,₹329,,"Zero Lettuce | Zero Mayo. A medley of Bengali and Andhra flavors tossed in soft and supple paneer. Crunchy veggies, soft paneer, and flavorful donne biryani rice.",Veg,,,,Check app
+High protein rice bowls,,Kasundi Podi Egg Rice Bowl,₹289,,"Zero Lettuce | Zero Mayo. Savor the delightful blend of roasted spices tossed with boiled eggs and aromatic donne biryani rice, topped with perfectly roasted nuts for a comforting experience.",Non-Veg,,,,Check app
+High protein rice bowls,,Kasundi Podi Chicken Rice Bowl,₹329,,"Zero Lettuce | Zero Mayo. Savor succulent chicken coated in tangy mustard and spicy podi. Aromatic flavors, served over a bed of fluffy donne biryani rice for an irresistible meal.",Non-Veg,,,,Check app
+High protein rice bowls,,Barbeque Chicken Rice Bowl,₹329,,"Zero Lettuce | Zero Mayo. Tender, smoky chicken is served over a bed of fluffy donne biryani rice and crunchy fresh veggies, creating a mouthwatering flavor sensation.",Non-Veg,,,,Check app
+Matcha,,Iced Matcha Latte,₹229,,"Indulge in a creamy, vibrant green beverage that offers a soothing blend of earthy flavors of Matcha and a hint of sweetness, perfect for any time of the day. Served chilled and with monk fruit sweetener.",Veg,,,,Check app
+Matcha,,Tiramisu Matcha latte,₹349,,,Veg,,,,Check app
+Matcha,,Coconut Matcha,₹249,,"Indulge in a creamy blend of vibrant matcha and luscious coconut water, creating a refreshing and delightful treat.",Veg,,,,Check app
+Matcha,,Mango Matcha Latte,₹349,,"Indulge in a vibrant fusion of earthy matcha and tropical sweetness of fresh mango puree, creating a refreshing, delightful experience.",Veg,,,,Check app
+Health shots,,Amla,₹69,,Skincare in a shot glass. Experience a refreshing burst of tangy goodness that's both revitalizing and nourishing for your body.,Veg,,,,Check app
+Health shots,,Kale,₹69,,"Skincare in a shot glass. A vibrant blend of earthy flavors, vit c, this nutritious shot delivers a refreshing boost of vitality in every sip.",Veg,,,,Check app
+Health shots,,Mint,₹69,,"Skincare in a shot glass. Refreshing and invigorating, this vibrant drink offers a burst of coolness and a hint of sweetness, making it a delightful health boost.",Veg,,,,Check app
+Cold Brew,,Classic Cold Brew,₹209,,48hr steeped arabica coffee. Strong. Bold. Clean. Refreshing.,Veg,,,,Check app
+Cold Brew,,Tonic Cold Brew,₹249,,Sparkly bubbly tonic paired with strong bold 48hr steeped arabica coffee served with ice for that refreshing kick.,Veg,,,,Check app
+Cold Brew,,Coconut Cold Brew,₹249,,,Veg,,,,Check app
+High protein smoothie bowls,,Superfood Smoothie Bowl,₹249,,"Looks, feels, and tastes like an ice cream but nourishes like a tasty meal. Made with berries, blue spirulina and served with in-house granola, dates, and nuts for the crunch.",Veg,,,,Check app
+High protein smoothie bowls,,Mango Smoothie Bowl,₹249,,Indulge in a tropical delight with this where creamy mango bliss. Made with fresh mangoes and crunch with the in-house granola toppings for a vibrant treat.,Veg,,,,Check app
+High protein smoothie bowls,,Choco Banana Smoothie Bowl,₹249,,"Indulge in a creamy, sweet blend of rich chocolate and ripe bananas, topped with delightful crunchy toppings for a blissful treat.",Veg,,,,Check app

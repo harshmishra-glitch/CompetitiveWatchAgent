@@ -1,0 +1,298 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Hot Chocolate,₹249,Regular (240ml): ₹249 | Large (360ml): ₹289,"Steamed milk blended with rich chocolate for a thick, comforting classic.",Veg,4.5,313,Yes,Check app
+Recommended,,Classic Cold Coffee,₹295,Regular (360ml): ₹295 | Large (480ml): ₹339,"Our bestselling classic—rich coffee blended into a smooth, creamy cold indulgence.
+261 Kcal (regular)",Veg,4.7,505,Yes,Check app
+Recommended,,Iced Chocolate,₹259,Regular (360ml): ₹259 | Large (480ml): ₹299,"Lush chocolate folded into cold milk for a creamy, refreshing classic.
+Size - 360/480ml for Regular/Large & 199/266 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,4.5,26,Yes,Check app
+Recommended,,Classic Chocolate Fudge Brownie,₹225,,"Gooey and fudgy dark chocolate brownie, made with our secret recipe.Size - 100 gms & 445 Kcal respectively. Allergen contains - wheat - Milk - eggs . An average active adult requires 2000 kcal energy per day.",Non-Veg,4.6,80,,Check app
+Recommended,,Cinnamon Roll,₹239,,"Southern American breakfast rolls, layered with cinnamon sugar, topped with a pure cream cheese frosting.",Veg,4.7,55,Yes,Check app
+Breakfast Special,,Eggs Kejriwal,₹339,,"Serves 1 | A Bombay classic - Soft bun topped up with eggs, cheese, and mushroom Allergens:Wheat, Milk, Soy, Egg   kcal:540",Non-Veg,4.0,2,,Check app
+Breakfast Special,,Masala Egg Bun,₹259,,"Serves 1 | A soft, fluffy bun filled with spiced scrambled eggs and melted cheese. Warm, comforting, and full of bold, savoury flavours. Allergens:Wheat, Milk, Soy, Egg   kcal:346",Non-Veg,5.0,64,,Check app
+Breakfast Special,,Apple Carrot Beetroot Juice,₹269,,"Serves 1 | Crisp apple, sweet carrot and earthy beet, cold-pressed into a smooth, naturally sweet juice.
+Kcal : 288Allergens : No allergens",Veg,,,,Check app
+Breakfast Special,,Valencia Orange Juice,₹269,,"Serves 1 | Freshly squeezed Valencia oranges—bright, juicy, and naturally refreshing.
+ Allergens:No allergens  kcal:219",Veg,,,,Check app
+Breakfast Special,,"Egg, Mushroom & Ham Croissant Sandwich",₹369,,"Serves 1 | Flaky, buttery croissant filled with soft scrambled eggs, sautéed mushrooms, and savoury ham. A hearty, flavourful bite that perfectly balances comfort and indulgence. Allergens:Wheat, Milk, Soy, Egg  kcal:549",Non-Veg,,,,Check app
+Breakfast Special,,Egg Mustard Croissant Sandwich,₹250,,"Serves 1 | Buttery, flaky croissant layered with creamy scrambled eggs and a bold mustard kick. Allergens:Wheat, Milk, Soy, Egg kcal:487",Non-Veg,,,,Check app
+Breakfast Special,,Hummus & Veggies Croissant Sandwich,₹295,,"Serves 1 | A light and wholesome croissant stuffed with smooth hummus and fresh, crunchy vegetables. Perfectly buttery and flaky. Allergens:Wheat, Milk, Soy  kcal:426",Veg,5.0,2,,Check app
+Breakfast Special,,Chocolate & Dates Smoothie Bowl,₹375,,"Serves 1 | A rich, creamy smoothie bowl made with cocoa and naturally sweet dates. Topped with fresh fruits, oats, granola and seeds and crunch for a wholesome, indulgent treat",Veg,,,,Check app
+Breakfast Special,,Strawberry Smoothie Bowl,₹375,,"Serves 1 | A thick, creamy blend of strawberries topped with fresh fruits, oats, granola and seeds. Refreshing, vibrant, and packed with natural sweetness in every spoonful",Veg,,,,Check app
+Summer Special Beach Packers,,Alphonso Mango Milkshake Frappe,₹370,Regular (360ml): ₹370 | Large (480ml): ₹415,"Serves 1 | ""A rich Alphonso mango milkshake blended to silky perfection.Topped with whipped cream and mango jelly cubes for a refreshing yet indulgent finish.
+Allergens:Milk, Soy
+Kcal: R-455 & L-610""",Veg,5.0,1,,Check app
+Summer Special Beach Packers,,Alphonso Mango Matcha Frappe,₹365,Regular (360ml): ₹365 | Large (480ml): ₹410,"Serves 1 | ""Juicy tropical mango layered with smooth Japanese matcha, creating a refreshing fusion of fruity brightness and earthy elegance.
+Allergens:No allergen
+Kcal:R-254 & L-323""",Veg,,,,Check app
+Summer Special Beach Packers,,Brazilian Lemonade Frappe,₹355,Regular (360ml): ₹355 | Large (480ml): ₹400,"Serves 1 | ""Cloud-like lime slush balanced with luscious, condensed milk sweetness.Zesty, creamy, and irresistibly refreshing.
+Allergens:Milk
+Kcal: R-244 & L-329""",Veg,,,,Check app
+Summer Special Beach Packers,,Tropical Alphonso Mango Frappe,₹385,Regular (360ml): ₹385 | Large (480ml): ₹430,"Serves 1 | ""A vibrant blend of silky coconut and sun-ripe Alphonso mango.Chilled, refreshing and beautifully balanced for the ultimate summer sip.
+Allergens:No allergen
+Kcal: R-365 & L-477""",Veg,,,,Check app
+Summer Special Beach Packers,,Vietnamese Coconut Frappe​,₹395,Regular (360ml): ₹395 | Large (480ml): ₹440,"Serves 1 | ""Rich coffee swirled with coconut milk for a creamy tropical twist.Smooth, chilled, and deeply satisfying in every sip.
+Allergens:Milk
+Kcal: R-252 & L-364""",Veg,,,,Check app
+Espresso Tonics,,Punchy Peach Espresso Tonic,₹345,Regular (360ml): ₹345 | Large (480ml): ₹379,"Serves 1 | Peachy notes layered over a bold espresso base, finished with a refreshing squeeze of lime - sweet punchy refreshment!",Veg,,,,Check app
+Espresso Tonics,,Espresso Turbo Tonic,₹329,Regular (360ml): ₹329 | Large (480ml): ₹359,"Serves 1 | Bold espresso, citrusy sweet-tang and a minty cool finish -  smooth and refreshing.
+Kcal : Regular-68 & Large-98",Veg,,,,Check app
+Espresso Tonics,,Citrus Crush Espresso Tonic,₹359,Regular (360ml): ₹359 | Large (480ml): ₹395,"Serves 1 | A vibrant blend of orange & grapefruit, lifted with sparkling espresso tonic for a bold citrus kick.
+Kcal : Regular-118 & Large-179",Veg,,,,Check app
+Hot Beverages,TWC Specials - Hot Beverage,Hot Sea Salt Mocha,₹325,Regular (240ml): ₹325 | Large (360ml): ₹365,"A warm embrace of rich chocolate and espresso, finished with a gentle sea salt touch.
+Size - 240/360ml for Regular/Large & 142/213 Kcal respectively. Allergen contains - Milk, Soy. An average active adult requires 2000 kcal energy per day.",Veg,4.4,24,,Check app
+Hot Beverages,TWC Specials - Hot Beverage,Hot Toffee Nut Latte,₹369,Regular (240ml): ₹369 | Large (360ml): ₹409,"Serves 1 | A comforting hot latte layered with sweet, nutty toffee richness.
+Kcal: Regular: 170, Large:258. Allergen contains - Milk, Wheat",Veg,5.0,9,,Check app
+Hot Beverages,TWC Specials - Hot Beverage,Hot Orange Zest Mocha,₹319,Regular (240ml): ₹319 | Large (360ml): ₹359,"Luxurious chocolate and espresso balanced with a subtle orange brightness.
+Size - 240/360ml for Regular/Large & 149/224 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,5.0,16,,Check app
+Hot Beverages,TWC Specials - Hot Beverage,Peppermint Mocha,₹325,Regular (240ml): ₹325 | Large (360ml): ₹360,"Creamy mocha infused with peppermint, finished with whipped cream and cocoa dusting. Regular:Kcal  312, Large:Kcal  481, Allergenes: Milk, Soy",Veg,5.0,5,,Check app
+Hot Beverages,TWC Specials - Hot Beverage,Hot Dry Hazelnut Cappuccino,₹325,Regular (240ml): ₹325 | Large (360ml): ₹365,"Silky espresso crowned with thick foam and nutty hazelnut depth.
+Size - 240/360ml for Regular/Large & 155/233 Kcal respectively. Allergen contains - Milk,Nut. An average active adult requires 2000 kcal energy per day.",Veg,4.8,23,,Check app
+Hot Beverages,TWC Specials - Hot Beverage,Hot Caramel Macchiato,₹345,Regular (240ml): ₹345 | Large (360ml): ₹385,"Sweet, rich, and comforting—our hot caramel macchiato is indulgence perfected.
+Kcal: Regular: 185, Large:288. Allergen contains - Milk",Veg,4.9,10,,Check app
+Hot Beverages,TWC Specials - Hot Beverage,Hot French Vanilla Latte,₹339,Regular (240ml): ₹339 | Large (360ml): ₹379,"Smooth espresso blended with creamy milk and rich French vanilla for a cozy indulgence.
+Size - 240/360ml for Regular/Large & 145/217 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,5.0,15,,Check app
+Hot Beverages,Classics,Hot Americano,₹219,Regular (240ml): ₹219 | Large (360ml): ₹259,"Rich espresso softened with hot water for a clean, intense cup that lets the coffee shine.",Veg,4.8,90,,Check app
+Hot Beverages,Classics,Hot Cappuccino,₹229,Regular (240ml): ₹229 | Large (360ml): ₹269,"Bold espresso layered with steamed milk and topped with a dense, creamy foam.
+ 93 Kcal (regular). Allergen contains - Milk. No added sugar.",Veg,4.7,130,Yes,Check app
+Hot Beverages,Classics,Hot Japanese Matcha Latte,₹289,Regular (240ml): ₹289 | Large (360ml): ₹319,"Ceremonial Japanese matcha whisked into velvety milk for a smooth, warming indulgence.
+Allergens: Milk | Kcal: 150",Veg,4.9,13,,Check app
+Hot Beverages,Classics,Hot Flatwhite,₹249,Regular (240ml): ₹249 | Large (360ml): ₹289,Intense espresso finished with satin-smooth milk for a refined indulgence..Size - 240/360ml for Regular/Large  & 95/142 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.,Veg,4.9,17,,Check app
+Hot Beverages,Classics,Hot Chocolate,₹249,Regular (240ml): ₹249 | Large (360ml): ₹289,"Steamed milk blended with rich chocolate for a thick, comforting classic.",Veg,4.5,313,Yes,Check app
+Hot Beverages,Classics,Hot Latte,₹229,Regular (240ml): ₹229 | Large (360ml): ₹269,"A creamy pour of steamed milk over espresso for a soft, comforting finish.Size - 240/360ml for Regular/Large & 95/142 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.8,43,,Check app
+Hot Beverages,Classics,Hot Signature Filter Coffee,₹218,,"Classic filter coffee, naturally sweetened with jaggery—comfort in every small cup.
+Size - 180ml for Regular & 114 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.7,15,,Check app
+Hot Beverages,Hot Tea,Hot Chamomile Wellness Tea,₹229,Regular (240ml): ₹229 | Large (360ml): ₹229,"A soothing infusion of delicate chamomile blossoms, gently brewed for pure comfort.
+caffeine-free.",Veg,4.3,3,,Check app
+Hot Beverages,Hot Tea,Hot Himalayan Green Tea,₹239,Regular (240ml): ₹239 | Large (360ml): ₹239,"Pure Himalayan green tea, light-bodied and gently refreshing.",Veg,,,,Check app
+Hot Beverages,Hot Tea,Hot Masala Chai Latte,₹249,Regular (240ml): ₹249 | Large (360ml): ₹279,"Traditional masala chai elevated with smooth milk and indulgent spice notes.
+Size - 240/360ml for Regular/Large & 212/330 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,5.0,4,,Check app
+Cold Beverages,Frappe,Classic Cold Coffee,₹295,Regular (360ml): ₹295 | Large (480ml): ₹339,"Our bestselling classic—rich coffee blended into a smooth, creamy cold indulgence.
+261 Kcal (regular)",Veg,4.7,505,Yes,Check app
+Cold Beverages,Frappe,Toffee Nut Frappe,₹389,Regular (360ml): ₹389 | Large (480ml): ₹435,"Serves 1 | Smooth coffee frappé swirled with sweet toffee nut richness.
+ Kcal: Regular: 308, Large:425. Allergen contains - Milk, Wheat, Soy",Veg,4.4,11,,Check app
+Cold Beverages,Frappe,Caramel Frappe,₹339,Regular (360ml): ₹339 | Large (480ml): ₹385,"Velvety coffee blended with golden caramel into a luxuriously icy delight.
+ Kcal: Regular: 289, Large:406. Allergen contains - Milk,Soy",Veg,4.7,44,,Check app
+Cold Beverages,Frappe,Mocha Chocochip Frappe,₹369,Regular (360ml): ₹369 | Large (480ml): ₹415,"Serves 1 | Rich mocha blended with crunchy choco chips into a thick, icy indulgence.
+.Kcal: Regular: 474, Large:649. Allergen contains - Milk,Wheat,Soy",Veg,4.8,39,,Check app
+Cold Beverages,Frappe,Choco Hazelnut Frappe,₹349,Regular (360ml): ₹349 | Large (480ml): ₹395,"Thick, creamy, and indulgent—chocolate and hazelnut in perfect harmony.
+Size - 360/480ml for Regular/Large & 365/487 Kcal respectively. Allergen contains - Milk,Soy,Nuts. An average active adult requires 2000 kcal energy per day.",Veg,4.7,16,,Check app
+Cold Beverages,Iced Classics,Iced Signature Filter Coffee,₹269,,"Serves 1 | Classic filter coffee, naturally sweetened with jaggery—comfort in every small cup.
+Size - Regular 360ml & 142 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.7,27,,Check app
+Cold Beverages,Iced Classics,Iced Americano,₹229,Regular (360ml): ₹229 | Large (480ml): ₹269,"Freshly pulled espresso over ice and cold water for a bold, refreshing coffee that stays crisp sip after sip.",Veg,5.0,113,,Check app
+Cold Beverages,Iced Classics,Iced Cappuccino,₹239,Regular (360ml): ₹239 | Large (480ml): ₹279,"Smooth espresso and cold milk, finished with a creamy foam, served over ice.Size - 360/480ml for Regular/Large & 64/92 kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.7,10,,Check app
+Cold Beverages,Iced Classics,Iced Flatwhite,₹259,Regular (360ml): ₹259 | Large (480ml): ₹299,"A rich espresso, made with milk, topped with micro foam.Size - 360/480ml for Regular/Large & 83/117 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,5.0,20,,Check app
+Cold Beverages,Iced Classics,Iced Chocolate,₹259,Regular (360ml): ₹259 | Large (480ml): ₹299,"Lush chocolate folded into cold milk for a creamy, refreshing classic.
+Size - 360/480ml for Regular/Large & 199/266 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,4.5,26,Yes,Check app
+Cold Beverages,Iced Classics,Iced Latte,₹239,Regular (360ml): ₹239 | Large (480ml): ₹279,"Fresh espresso with cold milk over ice for a rich, satisfying coffee that stays smooth. 
+81 Kcal (regular). Allergen contains - milk",Veg,4.1,210,,Check app
+Cold Beverages,Cold Brews,Vietnamese Shakerato,₹299,Regular (360ml): ₹299 | Large (480ml): ₹329,"Bold espresso shaken Vietnamese-style till frothy and poured over ice for a luxuriously smooth sip.
+Size - 360/480ml for Regular/Large & 133/176 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.5,290,Yes,Check app
+Cold Beverages,Cold Brews,Berry Hibiscus Cold Brew,₹325,Regular (360ml): ₹325 | Large (480ml): ₹369,"Serves 1 | ""A smooth cold brew infused with berry and hibiscus notes, bringing together bold, fruity, and subtly floral flavours in a refreshing sip.""
+Kcal-R-45 & Kcal-L-66
+Allergen-No Allergens""",Veg,,,,Check app
+Cold Beverages,Cold Brews,Classic Cold Brew,₹299,Regular (360ml): ₹299 | Large (480ml): ₹329,"Slow brewed for hours, this cold brew is smooth, bold, and irresistibly refreshing.
+Size - 360/480ml for Regular/Large & 0/0 Kcal respectively. An average active adult requires 2000 kcal energy per day.",Veg,4.9,174,,Check app
+Cold Beverages,Cold Brews,Citrus Orange Cold Brew,₹335,Regular (360ml): ₹335 | Large (480ml): ₹365,"Slow-brewed coffee infused with vibrant orange citrus—refreshing, bold, and bright.
+Size - 360/480ml for Regular/Large & 35/45 Kcal respectively. An average active adult requires 2000 kcal energy per day.",Veg,4.4,53,,Check app
+Cold Beverages,Cold Brews,Lemon Cold Brew,₹335,Regular (360ml): ₹335 | Large (480ml): ₹365,"Bold cold brew meets fresh lemon for a bright, thirst-quenching twist.",Veg,,,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Iced Toffee Nut Latte,₹379,Regular (360ml): ₹379 | Large (480ml): ₹419,"Serves 1 | A dessert-like iced latte with deep toffee richness and nutty warmth.
+Kcal: Regular: 170, Large:258. Allergen contains - Milk, Wheat",Veg,5.0,3,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Creamy Taro Iced Latte,₹305,Regular (360ml): ₹305 | Large (480ml): ₹349,"Serves 1 | ""Lush, creamy taro blended with chilled milk for a subtly sweet, nutty iced latte that’s smooth in every sip.""
+Kcal-R-321 & Kcal-L-439
+Allergen-Milk",Veg,,,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,OG Dirtea Iced Latte,₹305,Regular (360ml): ₹305 | Large (480ml): ₹349,"Serves 1 | ""Our classic iced latte with bold tea notes and creamy milk—simple, smooth, and signature.""
+Kcal-R-275 & Kcal-L-385
+Allergen-Milk",Veg,,,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Velvet Iced Tea Latte,₹305,Regular (360ml): ₹305 | Large (480ml): ₹349,"Serves 1 | ""A delicate fusion of brewed tea and chilled milk, lightly sweetened for a soft, velvety finish.""
+Kcal-R-333 & Kcal-L-470
+Allergen-Milk",Veg,,,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Iced Sea Salt Mocha,₹329,Regular (360ml): ₹329 | Large (480ml): ₹369,"Rich chocolate and bold espresso over ice, lifted with a subtle sea salt finish.
+Size - 360/480ml for Regular/Large & 171/228 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,3.8,9,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Iced Orange Zest Mocha,₹329,Regular (360ml): ₹329 | Large (480ml): ₹369,"Silky iced mocha with a burst of orange zest—sweet, bold, and refreshing.
+Size - 360/480ml for Regular/Large & 142/190 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,4.4,4,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Peppermint Mocha Frappe,₹360,Regular (360ml): ₹360 | Large (480ml): ₹395,"Creamy mocha frappe blended with peppermint and topped with whipped cream and cocoa. Regular:Kcal  533, Large:Kcal  734, Allergenes: Wheat, Milk, Soy",Veg,5.0,1,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Iced Dry Hazelnut Cappuccino,₹329,Regular (360ml): ₹329 | Large (480ml): ₹369,"Cold, smooth, and luxuriously nutty—hazelnut cappuccino perfected over ice.
+Size - 360/480ml for Regular/Large & 165/220 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.0,2,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Iced Caramel Macchiato,₹355,Regular (360ml): ₹355 | Large (480ml): ₹395,"Chilled milk layered with bold espresso and finished with a rich caramel drizzle.
+Kcal: Regular: 146, Large:207. Allergen contains - Milk",Veg,3.0,10,,Check app
+Cold Beverages,TWC Specials - Cold Beverage,Iced French Vanilla Latte,₹349,Regular (360ml): ₹349 | Large (480ml): ₹389,"Cold, creamy latte infused with smooth French vanilla and bold espresso.
+Size - 360/480ml for Regular/Large & 145/217 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.6,13,,Check app
+Cold Beverages,Iced Teas & Lemonades,Strawberry Lemonade Delight,₹289,Regular (360ml): ₹289 | Large (480ml): ₹319,"Juicy strawberries blended with zesty lemonade for a bright, refreshing burst of flavour.",Veg,4.0,2,,Check app
+Cold Beverages,Iced Teas & Lemonades,Ruby Hibiscus Iced Tea,₹275,Regular (360ml): ₹275 | Large (480ml): ₹319,"Serves 1 | ""A vibrant hibiscus iced tea with floral notes and a refreshing tangy twist.""
+Kcal-R-120 & Kcal-L-167
+Allergen-No Allergens",Veg,,,,Check app
+Cold Beverages,Iced Teas & Lemonades,Classic Lemonade,₹279,Regular (360ml): ₹279 | Large (480ml): ₹309,"Lightly sweet, boldly citrusy and served cold—lemonade done the right way.",Veg,4.9,4,,Check app
+Cold Beverages,Iced Teas & Lemonades,Strawberry Iced Tea,₹249,Regular (360ml): ₹249 | Large (480ml): ₹289,A refreshing iced tea infused with sweet strawberry notes and crisp freshness.,Veg,4.7,5,,Check app
+Cold Beverages,Iced Teas & Lemonades,Citrus Iced Tea,₹249,Regular (360ml): ₹249 | Large (480ml): ₹289,"Zesty citrus blended with cold-brewed tea, light, tangy, and perfectly cooling.",Veg,3.1,4,,Check app
+Cold Beverages,Iced Teas & Lemonades,Iced Masala Chai Latte,₹249,Regular (360ml): ₹249 | Large (480ml): ₹289,"Bold Indian masala chai, slow-brewed and poured over ice for a smooth, spiced chill.
+Size - 360/480ml for Regular/Large & 240/328 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.0,2,,Check app
+Cold Beverages,Milkshakes,Strawberry Dream Shake,₹329,Regular (360ml): ₹329 | Large (480ml): ₹375,"Lush, creamy milkshake blended with ripe strawberry goodness—pure dream in a glass.",Veg,1.9,4,,Check app
+Cold Beverages,Milkshakes,Cookie & Cream Milkshake,₹329,Regular (360ml): ₹329 | Large (480ml): ₹375,"Serves 1 | Rich, creamy, and generously cookie-filled for the ultimate indulgence.
+Kcal: Regular: 274, Large:376. Allergen contains - Milk, Wheat, Soy",Veg,4.9,5,,Check app
+Cold Beverages,Milkshakes,Berry Burst Smoothie,₹315,,"Serves 1 | ""A refreshing blend of mixed berries, bursting with juicy, tangy-sweet flavours in every sip.""
+Kcal-R-381
+Allergen-Milk, Soy",Veg,,,,Check app
+Cold Beverages,Milkshakes,Choco Crush Smoothie,₹315,,"Serves 1 | ""A rich chocolate smoothie, smooth and indulgent with a perfectly creamy texture.""
+Kcal-R-621
+Allergen-Milk, Soy",Veg,,,,Check app
+Cold Beverages,Milkshakes,Chocolicious Milkshake,₹289,Regular (360ml): ₹289 | Large (480ml): ₹329,"For true chocolate lovers—thick, rich, and irresistibly chocolicious.",Veg,5.0,7,,Check app
+Cold Beverages,Bubble Tea,Grapefruit Orange Bubble Tea,₹235,Regular (360ml): ₹235 | Large (480ml): ₹265,"Serves 1 | Meet your new citrus crush: grapefruit and orange in a bubble tea that snaps, zings, and pops!",Veg,,,,Check app
+Cold Beverages,Bubble Tea,Thai Bubble Tea,₹259,Regular (360ml): ₹259 | Large (480ml): ₹289,"Serves 1 | Thai spices meet sweet cream in a bold milk bubble tea that's all kick, chill with chewy boba included.Allergen : Milk",Veg,3.5,3,,Check app
+Cold Beverages,Bubble Tea,Taro Bubble Tea,₹279,Regular (360ml): ₹279 | Large (480ml): ₹309,Serves 1 | Sweet taro goes purple power mode in this creamy bubble tea with chewy boba to match the vibe.Allergen : Milk,Veg,4.1,3,,Check app
+Cold Beverages,Bubble Tea,Original Milk Bubble Tea,₹259,Regular (360ml): ₹259 | Large (480ml): ₹289,"Serves 1 | The Original milk bubble tea - creamy, dreamy, and loaded with chewy boba to keep things classic.Allergen : Milk",Veg,3.0,1,,Check app
+Cold Beverages,Bubble Tea,Vanilla Milk Bubble Tea,₹279,Regular (360ml): ₹279 | Large (480ml): ₹309,Serves 1 | Smooth vanilla rides a wave of creamy tea with chewy boba bringing the bounce in every sip.Allergen : Milk,Veg,4.0,1,,Check app
+Cold Beverages,Bubble Tea,Vanilla Matcha Bubble Tea,₹299,Regular (360ml): ₹299 | Large (480ml): ₹329,"Serves 1 | Where creamy vanilla meets vibrant matcha, finished with playful bobbles.
+Allergen : Milk",Veg,4.0,2,,Check app
+Cold Beverages,Bubble Tea,Orange Strawberry Bubble Tea,₹235,Regular (360ml): ₹235 | Large (480ml): ₹265,Serves 1 | Bubbly orange and bold strawberry bring the juicy drama with popping boba adding to the bubble tea party.,Veg,4.0,1,,Check app
+Cold Beverages,Bubble Tea,Grapefruit Strawberry Bubble Tea,₹235,Regular (360ml): ₹235 | Large (480ml): ₹265,"Serves 1 | Grapefruit brings the zing, strawberry brings the sweet in a popping boba bubble tea blast.",Veg,5.0,1,,Check app
+Cold Beverages,Bubble Tea,Peach Grapefruit Bubble Tea,₹235,Regular (360ml): ₹235 | Large (480ml): ₹265,Serves 1 | Peach and grapefruit throw a flavour party in this bubble tea with popping boba on the guest list.,Veg,,,,Check app
+Cold Beverages,Matcha,Strawberry Matcha Latte,₹259,Regular (360ml): ₹259 | Large (480ml): ₹289,"Serves 1 | A silky matcha drink swirled with sweet strawberry for a refreshing yet indulgent treat.
+Allergen : Milk",Veg,2.7,4,,Check app
+Cold Beverages,Matcha,Iced Japanese Matcha Latte,₹299,Regular (360ml): ₹299 | Large (480ml): ₹339,"A premium iced latte with authentic matcha and silky milk for the ultimate refreshment.
+Size - 360/480ml for Regular/Large & 152/199 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.0,31,,Check app
+Food,Baked Goodness,Chilli Paneer Calzone,₹165,,"Serves 1 | Golden-baked calzone stuffed with spicy and flavourful chilli paneer.Kcal: 433Allergens -  Wheat,Milk,Soy",Veg,4.5,8,,Check app
+Food,Baked Goodness,Chilli Chicken Calzone,₹165,,"Serves 1 | Stuffed with spicy chilli chicken and sealed in a golden-baked calzone.Kcal: 414 Allergens - Wheat,Milk,Soy",Non-Veg,4.4,6,,Check app
+Food,Baked Goodness,Classic Korean Bun,₹239,,"Serves 1 | A soft bun filled with smooth cream cheese and finished with a savoury herb garlic butter glaze.Kcal: 431Allergens – Wheat,Milk",Veg,4.6,7,,Check app
+Food,Baked Goodness,Gochujhang Spicy  Korean Bun,₹259,,"Serves 1 | A soft Korean-style bun with a spicy twist filled with gochujang-spiced cream cheese and brushed with herb garlic butter.Kcal: 402Allergens – Wheat, Milk & Soy",Veg,5.0,6,,Check app
+Food,Baked Goodness,Charcoal Chicken Croissant,₹215,,"Serves 1 | A multi layered buttery pastry with smoky charcoal grilled chicken. Size - 100 gms & 472 Kcal respectively. Allergen contains - Wheat, Milk",Non-Veg,4.5,25,,Check app
+Food,Baked Goodness,Mushroom and Cheese Croissant,₹249,,"Our signature croissant, stuffed with mushroom saut?ed with thyme, garlic and cheese.Size - 115 gm & 275 Kcal respectively. Allergen contains - wheat - Milk . An average active adult requires 2000 kcal energy per day.",Veg,4.8,35,,Check app
+Food,Baked Goodness,Butter Croissant,₹209,,"A bestseller, our hand-made butter croissant is light, flaky, and baked freshly. The golden brown traditional pastry is laminated with 100% pure butter. Size - 80 gms & 320 Kcal",Veg,4.4,171,,Check app
+Food,Pizza,Tandoori Chicken Pizza,₹345,,"A fusion of smoky tandoori flavors and creamy cheese, balanced with a chilled iced beverage. Kcal  794",Non-Veg,4.0,1,,Check app
+Food,Pizza,Margherita Pizza & Reg-Classic Cold Coffee,₹380,,"Serves 1 | Indulge in a Classic Margherita, perfectly complemented by the rich, refreshing Classic Cold Coffee. Margherita Pizza - Kcal – 616 : Regular Classic Cold Coffee - Kcal - 261",Veg,4.0,1,,Check app
+Food,Pizza,Mexican Paneer Pizza & Reg-Classic Cold Coffee,₹535,,"Serves 1 | The heat of Mexican spices and the creaminess of mozzarella meet the bold refreshment of Classic Cold Coffee. Mexican Paneer Pizza - Kcal – 713 : Wheat, Milk​Regular Classic Cold Coffee - Kcal - 261",Veg,,,,Check app
+Food,Pizza,Tandoori Chicken Pizza & Reg-Classic Cold Coffee,₹535,,"Serves 1 | A fusion of smoky tandoori flavors and creamy cheese, balanced with a chilled Classic Cold Coffee. Tandoori Chicken Pizza - Kcal – 794 : Wheat, Milk​Regular Classic Cold Coffee - Kcal - 261",Non-Veg,3.0,1,,Check app
+Food,Pizza,Veg Bonanza Pizza & Reg-Classic Cold Coffee,₹476,,"Serves 1 | Packed with Fresh veggies and Cheesy mozzarella, this pizza is best enjoyed with a chilled Classic Cold Coffee. Veg Bonanza Pizza - Kcal – 633 : Wheat, Milk​Regular Classic Cold Coffee - Kcal - 261",Veg,,,,Check app
+Food,Pizza,Veg Bonanza Pizza,₹329,,"Serves 1 | Packed with Fresh veggies and Cheesy mozzarella, this pizza is best enjoyed with our cold beverages.Kcal – 633",Veg,,,,Check app
+Food,Pizza,Mexican Paneer Pizza,₹345,,The heat of Mexican spices and the creaminess of mozzarella meet the bold refreshment of our iced beverages.  Kcal  713,Veg,,,,Check app
+Food,Salads,Herb Chicken Salad,₹325,,"Serves 1 | A hearty combination of grilled chicken, cherry tomatoes, jalapeños, and seed mix, with a tangy vinaigrette for a flavorful bite. Kcal 361/ 260 gm. Contains No Allergens",Non-Veg,4.0,2,,Check app
+Food,Salads,Mexican Paneer Salad,₹325,,"Serves 1 | A zesty combination of paneer, cherry tomatoes, jalapeños, and seed mix, all tossed in a tangy vinaigrette dressing.Kcal 377/ 260 gm. Contains Milk.",Veg,4.0,1,,Check app
+Food,Sandwiches & Wraps,Tandoori Chicken Sandwich,₹355,,"Serves 1 | Roasted to perfection tandoori chicken cubes stuffed in herbed focaccia bread, layered with Makhani mayo, crunchy & flavorful coleslaw and lettuce, served with flavored potato chips",Non-Veg,4.3,104,,Check app
+Food,Sandwiches & Wraps,Mexican Paneer Sandwich,₹314,,"Serves 1 | A fusion delight featuring soft mexican flavored paneer cubes infused with a combination of spicy aioli, lettuce and coleslaw, all stuffed in herbed focaccia bread, served with flavored potato chips",Veg,4.7,21,,Check app
+Food,Sandwiches & Wraps,Paneer Tikka Sandwich,₹314,,"Serves 1 | Cubes of indian styled paneer tikka, stuffed in herbed focaccia bread with Makhani Mayo and crunchy and flavorful coleslaw, lettuce, served with flavored potato chips",Veg,4.3,7,,Check app
+Food,Sandwiches & Wraps,Spiced Potato Sandwich,₹309,,"Serves 1 | A blend of flavorful potato pieces stuffed in herbed focaccia bread, infused with the goodness of makani mayo, lettuce and coleslaw, served with flavored potato chips",Veg,4.5,17,,Check app
+Food,Sandwiches & Wraps,Peppery Chicken Sandwich,₹314,,"Serves 1 | Cubes of peppered chicken mixed with Herb n Pepper Mayo, and a delightful layer of coleslaw, lettuce, served with flavored potato chips . Size - 270 gms & 573 Kcal respectively. Allergen contains - Wheat, Soy, Milk",Non-Veg,4.8,12,,Check app
+Food,Sandwiches & Wraps,Spicy Chicken Sandwich,₹314,,"Serves 1 | Cubes of herbed chicken topped with spicy aioli, layered with farm-fresh lettuce, and crispy coleslaw veggies, all stuffed in a herbed focaccia bread. Size - 270 gms & 630 Kcal respectively. Allergen contains - Wheat, Soy, Milk",Non-Veg,5.0,5,,Check app
+Food,Sandwiches & Wraps,Paneer Tikka Wrap,₹319,,"Serves 1 | Deliciously spiced paneer tikka wrapped in a warm tortilla layered with makhani mayo, fresh lettuce and coleslaw, served with flavored potato chips",Veg,4.8,24,,Check app
+Food,Sandwiches & Wraps,Tandoori Chicken Wrap,₹319,,"Serves 1 | Cubes of perfectly cooked Tandoori chicken wrapped in a toasted tortilla stuffed with the goodness of Makhani mayo, lettuce and coleslaw",Non-Veg,4.6,13,,Check app
+Food,Quick Bites,Baked Chilli Cheese Toast,₹299,,"Serves 1 | Toasted baguette with garlic , green chilli, mozzarella cheese and herbs.Size - 210gms & 727 Kcal respectively. Allergen contains - wheat - Milk . An average active adult requires 2000 kcal energy per day.",Veg,4.7,37,Yes,Check app
+Food,Quick Bites,Chicken n Cheese Toasties,₹355,,Serves 1 | Toasted bread topped with peppered chicken coupled with the delight of double cheese layers,Non-Veg,3.0,11,,Check app
+Food,Quick Bites,Paneer n Cheese Toasties,₹319,,Serves 1 | Toasted bread topped with paneer tikka coupled with a double layer of cheese,Veg,4.9,3,,Check app
+Food,Quick Bites,Hummus And Pita Platter,₹299,,"Serves 1 | Creamy fresh hummus with olives, African piri piri chilli hummus  with red paprika served with toasted pita bread and pickled veggies. Size - 245 gms & 468 Kcal respectively. Allergen contains - Wheat, Soy",Veg,4.6,91,,Check app
+Food,All Day Breakfast,Classic Cream Cheese Bagel,₹265,,"A freshly baked bagel with a generous spread with smooth creamy cream cheese. Size - 110 gms & 272 Kcal respectively. Allergen contains - Wheat, Milk, Soy",Veg,4.3,124,,Check app
+Food,All Day Breakfast,European Ham & Cheese Bagel,₹325,,"Serves 1 | A savoury delight featuring a freshly baked bagel paired with chicken ham and rich cheese. Size - 180 gms & 307 Kcal respectively. Allergen contains - Wheat, Milk, Soy",Non-Veg,4.7,26,,Check app
+Food,All Day Breakfast,English Cucumber & Cream Cheese Bagel,₹265,,"Serves 1 | A refreshing crunch of English cucumber paired with smooth cream cheese on a perfectly baked bagel. Size - 140 gms & 276 Kcal respectively. Allergen contains - Wheat, Milk, Soy",Veg,4.8,28,,Check app
+Food,All Day Breakfast,American Egg & Cheese Bagel,₹289,,"Serves 1 | A perfectly cooked egg paired with melting cheese on a freshly baked bagel. Size - 180 gms & 390 Kcal respectively. Allergen contains - Wheat, Milk, Eggs, Nuts",Non-Veg,4.8,18,,Check app
+Food,All Day Breakfast,Loaded Indian Masala Egg Bagel,₹315,,"Serves 1 | An Indian inspired bagel, generously loaded with flavorful masala and spices. Size - 235 gms & 420 Kcal respectively. Allergen contains - Wheat, Milk, Eggs, Soy",Non-Veg,4.6,19,,Check app
+Food,All Day Breakfast,Classic Pancakes,₹229,,"Serves 1 | Fluffy golden pancakes drizzled with golden maple syrup. Size - 230 gms & 540 Kcal respectively. Allergen contains - Wheat, Milk",Veg,4.7,17,,Check app
+Food,All Day Breakfast,Choco Bliss Pancakes,₹325,,"Fluffy pancakes infused with rich chocolate, topped with chocolate sauce. Size - 280 gms & 740 Kcal respectively. Allergen contains - Wheat, Milk, Soy",Veg,4.9,10,,Check app
+Food,All Day Breakfast,Breakfast Pancakes,₹309,,"Japanese-style fluffy pancakes, served with seasonal fruits, banana, whipped cream and maple syrup. Size - 310 gms & 533 Kcal respectively. Allergen contains - wheat - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.7,177,,Check app
+Dessert Studio,Sweet Treats,Banana Walnut Tea Cake,₹209,,"Vegan-friendly banana and walnut dry cake, flavored with cinnamon and chocolate.Size - 90 gms & 351 Kcal respectively. Allergen contains - wheat - nuts . An average active adult requires 2000 kcal energy per day.",Veg,4.7,53,,Check app
+Dessert Studio,Sweet Treats,Lemon Raspberry Tea Cake,₹205,,"Zesty and fresh English pound cake, flavored with real raspberries, lemon zest, glazed with lemon icing.Size - 90 gms & 363 Kcal respectively. Allergen contains - wheat - Milk - An average active adult requires 2000 kcal energy per day.",Veg,4.4,15,,Check app
+Dessert Studio,Sweet Treats,Rich Hazelnut Truffle Cake Slice,₹345,,"Serves 1 | Triple-layered chocolate cake, with the flavor of hazelnut.",Veg,4.7,7,,Check app
+Dessert Studio,Sweet Treats,Classic Chocolate Fudge Brownie,₹225,,"Gooey and fudgy dark chocolate brownie, made with our secret recipe.Size - 100 gms & 445 Kcal respectively. Allergen contains - wheat - Milk - eggs . An average active adult requires 2000 kcal energy per day.",Non-Veg,4.6,80,,Check app
+Dessert Studio,Sweet Treats,Basque Cheese Cake,₹341,,A Decadent Cheesecake From The Basque Region Of Spain Known For It's Burnt Top That Lends A Caramelly Note To The Cheesecake.Size - 125 gms & 445 Kcal respectively. Allergen contains - wheat - Milk - eggs. An average active adult requires 2000 kcal energy per day.,Non-Veg,5.0,46,,Check app
+Dessert Studio,Sweet Treats,Cinnamon Roll,₹239,,"Southern American breakfast rolls, layered with cinnamon sugar, topped with a pure cream cheese frosting.",Veg,4.7,55,Yes,Check app
+Dessert Studio,Sweet Treats,Tiramisu,₹365,,"Espresso-soaked sponge and creamy mascarpone for an Italian delight. 364 kcal. Allergen contains - Wheat, Soy, Nut, Milk?.",Veg,4.5,5,,Check app
+Dessert Studio,Sweet Treats,Almond Croissant,₹279,,"Serves 1 | Traditional French baked breakfast pastry, made with 100% pure butter and almond cream.Size - 115 gms & 472Kcal respectively. Allergen contains - wheat - Milk - eggs - nuts. An average active adult requires 2000 kcal energy per day.",Non-Veg,4.8,182,Yes,Check app
+Dessert Studio,Sweet Treats,Chocolate Croissant,₹269,,"Traditional French breakfast pastry, made with 100% pure butter and 45% dark Belgian couverture chocolate ganache.Size - 115 gms & 345 Kcal respectively. Allergen contains - wheat - Milk . An average active adult requires 2000 kcal energy per day.",Veg,4.9,156,,Check app
+Dessert Studio,Sweet Treats,Death By Chocolate Cookie,₹205,,"Dark chocolate and cocoa cookies, topped with chocolate chunks and French sea salt.Size - 115 gms & 428 Kcal respectively. Allergen contains - wheat - Milk - eggs. An average active adult requires 2000 kcal energy per day.",Non-Veg,5.0,13,,Check app
+Dessert Studio,Sweet Treats,Salted Caramel Cookie,₹209,,Egg based chocolate cookie with salted caramel centre.Size - 130 gms & 556 Kcal respectively. Allergen contains - wheat - Milk - eggs . An average active adult requires 2000 kcal energy per day.,Non-Veg,5.0,2,,Check app
+Dessert Studio,Sundaes,Choco Cookie Sundae,₹242,,"Serves 1 | Warm DBC Cookie served with ice cream topped with perfect pair of hot fudge and caramel sauce garnished with crushed hazelnut. Kcal-570. Allergens-Milk, Egg, Wheat, Nut, Soy",Non-Veg,4.0,2,,Check app
+Dessert Studio,Sundaes,Hot Fudge Brownie Sundae,₹251,,"Serves 1 | Gooey warm Fudge Brownie topped with Ice cream and Hot fudge sauce. Kcal-548. Allergens-Milk, Egg, Wheat, Nut, Soy",Non-Veg,4.3,4,,Check app
+Dessert Studio,Sundaes,Death By Chocolate Sundae,₹346,,"Serves 1 | Rich hazelnut truffle cake topped with ice cream and hot fudge sauce. Kcal-625. Allergens-Milk, wheat, oat, nut, soy",Veg,2.0,3,,Check app
+Ready-to-Savour Treats,Chocolates & Snacks,Roasted & Salted Almonds,₹147,,"Serves 1 | Crunchy, premium almonds roasted to perfection and lightly salted for a satisfying, protein-rich snack.",Veg,,,,Check app
+Ready-to-Savour Treats,Chocolates & Snacks,Roasted & Salted Cashews,₹147,,"Serves 1 | Buttery cashews roasted to golden perfection and lightly salted for a rich, crunchy snack.",Veg,4.0,1,,Check app
+Ready-to-Savour Treats,Chocolates & Snacks,Choco Coated Almond,₹161,,"Crunchy almonds wrapped in rich, smooth chocolate for a perfect bite.",Veg,,,,Check app
+Ready-to-Savour Treats,Chocolates & Snacks,Choco Coated Hazelnut,₹161,,Nutty hazelnuts coated in creamy chocolate for a delicious crunch.,Veg,,,,Check app
+Ready-to-Savour Treats,Chocolates & Snacks,Roasted Almond Chocolate Bar,₹169,,"Smooth, velvety chocolate blended with crunchy roasted almonds for a rich and satisfying bite in every square.",Veg,,,,Check app
+Ready-to-Savour Treats,Chocolates & Snacks,Salted Caramel Chocolate Bar,₹169,,Creamy milk chocolate filled with gooey caramel and a hint of sea salt—perfectly sweet with a touch of savory.,Veg,5.0,1,,Check app
+Coffee at Home,Easy Coffee Bags,Vienna Roast Easy Coffee Bags - Box of 10,₹339,,Bold flavors to kickstart your day,Veg,5.0,1,,Check app
+Coffee at Home,Easy Coffee Bags,Monsoon Malabar Easy Coffee Bags - Box of 10,₹339,,"Warm and comforting, just like home",Veg,,,,Check app
+Coffee at Home,Easy Coffee Bags,Single Origin Easy Coffee Bags - Box of 10,₹339,,Taste the distinct character of its origin,Veg,,,,Check app
+Coffee at Home,Easy Coffee Bags,Assorted Easy Coffee Bags - Box of 10,₹339,,Try a little bit of everything we love,Veg,4.0,1,,Check app
+Coffee at Home,Easy Coffee Bags,Easy Coffee Box of 5 - Vienna Roast,₹212,,"Serves 1 | Start your day with the deep, rich flavor of our Vienna Roast Coffee. This dark roast strikes the perfect balance between smooth and bold, giving you just the right kick to tackle whatever comes your way. Enjoy the cozy notes of chocolate and caramel in every sip, making your morning coffee a delightful and energizing experience. Wake up, feel great, and power through your day with Vienna Roast Easy Coffee!",Veg,,,,Check app
+Coffee at Home,Easy Coffee Bags,Easy Coffee Box of 5 - SO Medium Light Roast,₹212,,"Serves 1 | Get ready to savor the vibrant, fruity notes of our Single-Origin Coffee, carefully sourced from one exceptional farm. We traveled far and wide to find the perfect beans, ensuring top quality and unique flavors. Each bean is roasted to perfection to bring out its balanced, fruity nuances. Enjoy a cup that's as special as you are, and start your morning with a delightful boost of pure coffee happiness!",Veg,4.0,2,,Check app
+Coffee at Home,Easy Coffee Bags,Easy Coffee Box of 5 - Monsoon Malabar,₹212,,"Serves 1 | Our Monsoon Malabar coffee is an homage to a historical process originating from the long sea journeys in the days of the British Raj. Each cup is packed with bold flavours, complemented by strong, nutty, earthy notes. Sip on this for a perfectly versatile cup that can be enjoyed any time of the day. Our suggestion? Keep a second Easy Coffee Bag of our Monsoon Malabar coffee handy because you’ll definitely want more!",Veg,,,,Check app
+Coffee at Home,Freshly Roasted Beans,Vienna Roast  (250 GMS),₹514,Fine Grind: ₹514 | Medium Grind: ₹514 | Coarse Grind: ₹514 | Whole Beans: ₹514,"Serves 1 | Dark Roast Suited for south Indian filter, espresso machine,moka pot or french press Notes : Bittersweet chocolate, burnt caramel & toasted walnuts.",Veg,4.9,12,,Check app
+Coffee at Home,Freshly Roasted Beans,Signature South Indian Filter Coffee (250 GMS),₹514,Fine Grind: ₹514 | Medium Grind: ₹514 | Coarse Grind: ₹514 | Whole Beans: ₹514,"Serves 1 | Organic Dark Roast. Suited for South Indian Filter, Espresso, Moka Pot or French Press. Notes: Smooth & Strong 100% Arabica Coffee",Veg,5.0,3,,Check app
+Coffee at Home,Freshly Roasted Beans,Monsoon Malabar (250 GMS),₹514,Fine Grind: ₹514 | Medium Grind: ₹514 | Coarse Grind: ₹514 | Whole Beans: ₹514,"Serves 1 | Medium Dark Roast Each cup of this coffee is packed with earthy flavors, complemented by nutty, dark chocolate notes.",Veg,5.0,9,,Check app
+Coffee at Home,Freshly Roasted Beans,French Roast (250 GMS),₹514,Fine Grind: ₹514 | Medium Grind: ₹514 | Coarse Grind: ₹514 | Whole Beans: ₹514,"Serves 1 | Dark Roast. Suited for south Indian filter, espresso machine, moka pot or french press. Notes : Cocoa, Bitter & Intense.",Veg,4.0,2,,Check app
+Coffee at Home,Freshly Roasted Beans,El Diablo Blend (250 GMS),₹514,Fine Grind: ₹514 | Medium Grind: ₹514 | Coarse Grind: ₹514 | Whole Beans: ₹514,"Serves 1 | Medium Dark Roast. Suited for espresso machine, french press or moka pot. Notes: Orange, Banana, Sweet, Syrup.",Veg,5.0,13,,Check app
+Coffee at Home,Freshly Roasted Beans,Single Origin Medium Light Roast (250 GMS),₹562,Fine Grind: ₹562 | Medium Grind: ₹562 | Coarse Grind: ₹562 | Whole Beans: ₹562,,Veg,5.0,6,,Check app
+Coffee at Home,Freshly Roasted Beans,Single Origin Medium Roast  (250 GMS),₹562,Fine Grind: ₹562 | Medium Grind: ₹562 | Coarse Grind: ₹562 | Whole Beans: ₹562,,Veg,4.0,2,,Check app
+Coffee at Home,Manual Brews,French Press Coffee,₹219,Vienna French Press: ₹219 | SO Medium Roast French Press: ₹219 | El Diablo Blend French Press: ₹219 | Monsoon Malabar French Press: ₹219,Serves 1 | Black coffee with cupper notes of the beans you choose.,Veg,4.6,27,,Check app
+Coffee at Home,Manual Brews,Pour Over Coffee,₹229,Hot-SO Medium Light Roast Pour Over: ₹229 | Iced-SO Medium Light Roast Pour Over: ₹229 | Hot-SO Medium Roast Pour Over: ₹229 | Iced-SO Medium Roast Pour Over: ₹229 | Hot-El Diablo Pour Over: ₹229 | Iced-El Diablo Pour Over: ₹229,Serves 1 | Black coffee with cupper notes of the beans you choose.,Veg,5.0,33,,Check app
+Gifting & Merchandise,Drinkware,Ceramic Tiger Mug,₹592,,Enjoy your coffee with a touch of wild,Veg,,,,Check app
+Gifting & Merchandise,Drinkware,Mug-Off White.,₹423,,Ceramic mugs inspired by the origin of coffee beans.,Veg,,,,Check app
+Gifting & Merchandise,Drinkware,Mug Off White,₹423,,Ceramic mugs inspired by the origin of coffee beans.,Veg,,,,Check app
+Gifting & Merchandise,Drinkware,French Press- 350 ML,₹1271,,"Enjoy rich, full-bodied coffee brewed fresh with our French press",Veg,,,,Check app
+Gifting & Merchandise,Drinkware,Brass Dabra Set,₹592,,"Sip your coffee the traditional way with Third Wave Coffee’s Brass Dabra Set. This elegant set celebrates South Indian coffee culture, making every cup feel special and authentic.",Veg,,,,Check app
+Gifting & Merchandise,Drinkware,Sipper Mug - 710ml,₹847,,"Stay refreshed in style with Third Wave Coffee's Acrylic Sipper Mug (710ml). A vibrant, textured sipper perfect for on-the-go hydration, keeping your drinks cool and your look even cooler!",Veg,,,,Check app
+Gifting & Merchandise,Drinkware,Travel Mug SS- 500ml,₹931,,"The Third Wave Coffee Travel Mug is effortlessly stylish, and adventure-ready at all times. Built for durability and spill-free sips, it's the perfect travel buddy for your favorite beverages.",Veg,,,,Check app
+Gifting & Merchandise,Drinkware,Brass Dabra Set & Filter,₹1694,,"Elevate your coffee ritual with Third Wave Coffee’s Brass Coffee Filter & Brass Dabra. This beautifully crafted set celebrates South Indian coffee culture, delivering an authentic experience with every brew and sip.",Veg,,,,Check app
+Flasks,,Americano Flask,₹439,,Serves 1 | Americano Flask - 500 ML,Veg,,,,Check app
+Flasks,,Classic Cold Coffee Flask,₹455,,Serves 1 | Classic Cold Coffee Flask - 500 ML,Veg,4.0,1,,Check app
+Flasks,,Signature Filter Kappi Flask,₹455,,Serves 1 | Signature Filter Kappi Flask 500ml,Veg,,,,Check app
+Flasks,,Latte Flask,₹615,,Serves 1 | Latte Flask 500ml,Veg,,,,Check app
+Flasks,,Classic Mocha Flask,₹615,,Serves 1 | Classic Mocha Flask 500ml,Veg,5.0,1,,Check app
+Flasks,,Flavoured Latte Flask,₹500,,Serves 1 | Flavoured Latte Flask 500ml,Veg,,,,Check app
+Flasks,,Masala Chai Latte Flask,₹385,,Serves 1 | Masala Chai Latte Flask 500ml,Veg,,,,Check app
+Flasks,,Classic Lemonade Flask,₹395,,Serves 1 | Classic Lemonade Flask 500ml,Veg,,,,Check app
+Flasks,,Lemon Iced Tea Flask,₹449,,Serves 1 | Lemon Iced Tea Flask 500ml,Veg,5.0,1,,Check app
+Flasks,,Cold Mocha Flask,₹489,,Serves 1 | Cold Mocha Flask 500ml,Veg,5.0,1,,Check app
+Deal of the Day,,Hot Americano [Regular],₹219,,"Serves 1 | Rich espresso softened with hot water for a clean, intense cup that lets the coffee shine.",Veg,5.0,18,,Check app
+Deal of the Day,,Hot Cappuccino [Regular],₹229,,"Serves 1 | Bold espresso layered with steamed milk and topped with a dense, creamy foam. 93 Kcal (regular). Allergen contains - Milk. No added sugar.",Veg,5.0,3,,Check app
+Deal of the Day,,Hot Latte [Regular],₹229,,"Serves 1 | A rich espresso, balanced with milk and a thin layer of foam.Size - 240ml for Regular & 95 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,5.0,3,,Check app
+Deal of the Day,,Hot Chocolate [Regular],₹249,,"Serves 1 | Steamed milk blended with rich chocolate for a thick, comforting classic.",Veg,3.8,9,,Check app
+Deal of the Day,,Iced Americano [Regular],₹229,,"Serves 1 | Freshly pulled espresso over ice and cold water for a bold, refreshing coffee that stays crisp sip after sip.",Veg,5.0,4,,Check app
+Deal of the Day,,Iced Cappuccino [Regular],₹239,,"Serves 1 | Smooth espresso and cold milk, finished with a creamy foam, served over ice.Size - 360ml for Regular & 64 kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.0,1,,Check app
+Deal of the Day,,Iced Latte [Regular],₹239,,"Serves 1 | Fresh espresso with cold milk over ice for a rich, satisfying coffee that stays smooth. 81 Kcal (regular). Allergen contains - milk",Veg,4.8,13,,Check app
+Deal of the Day,,Vietnamese Shakerato [Regular],₹299,,"Serves 1 | Bold espresso shaken Vietnamese-style till frothy and poured over ice for a luxuriously smooth sip.
+Size - 360ml for Regular & 133 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,3.7,7,Yes,Check app
+Deal of the Day,,Classic Cold Brew [Regular],₹299,,"Serves 1 | Slow brewed for hours, this cold brew is smooth, bold, and irresistibly refreshing.
+Size - 360ml for Regular & 0 Kcal respectively. An average active adult requires 2000 kcal energy per day.",Veg,5.0,3,,Check app
+Deal of the Day,,Classic Cold Coffee [Regular],₹295,,"Serves 1 | OOur bestselling classic—rich coffee blended into a smooth, creamy cold indulgence.
+261 Kcal (regular)",Veg,4.4,16,Yes,Check app
+Deal of the Day,,Caramel Frappe [Regular],₹339,,"Serves 1 | Velvety coffee blended with golden caramel into a luxuriously icy delight.
+ Kcal: Regular: 289. Allergen contains - Milk,Soy",Veg,5.0,1,,Check app
+Deal of the Day,,Hot Sea Salt Mocha [Regular],₹325,,"Serves 1 | A warm embrace of rich chocolate and espresso, finished with a gentle sea salt touch.
+Size - 240ml for Regular & 142 Kcal respectively. Allergen contains - Milk, Soy. An average active adult requires 2000 kcal energy per day.",Veg,4.7,4,,Check app
+Deal of the Day,,Hot Orange Zest Mocha [Regular],₹319,,"Serves 1 | Luxurious chocolate and espresso balanced with a subtle orange brightness.
+Size - 240ml for Regular & 149 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,4.9,10,,Check app
+Deal of the Day,,Hot Dry Hazelnut Cappuccino [Regular],₹325,,"Serves 1 | Silky espresso crowned with thick foam and nutty hazelnut depth.
+Size - 240ml for Regular & 155 Kcal respectively. Allergen contains - Milk,Nut. An average active adult requires 2000 kcal energy per day.",Veg,4.0,2,,Check app
+Deal of the Day,,Hot Caramel Macchiato [Regular],₹345,,"Serves 1 | Sweet, rich, and comforting—our hot caramel macchiato is indulgence perfected.
+Size - 240ml for Regular & 201 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,,,,Check app
+Deal of the Day,,Hot French Vanilla Latte [Regular],₹339,,"Serves 1 | Smooth espresso blended with creamy milk and rich French vanilla for a cozy indulgence.
+ Size - 240ml for Regular & 145 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.0,2,,Check app
+Deal of the Day,,Toffee Nut Frappe [Regular],₹389,,"Serves 1 | Smooth coffee frappé swirled with sweet toffee nut richness.
+Kcal: Regular: 308. Allergen contains - Milk, Wheat, Soy",Veg,,,,Check app
+Deal of the Day,,Choco Hazelnut Frappe [Regular],₹349,,"Serves 1 | Thick, creamy, and indulgent—chocolate and hazelnut in perfect harmony.
+Size - 360ml for Regular & 365 Kcal respectively. Allergen contains - Milk,Soy,Nuts. An average active adult requires 2000 kcal energy per day.",Veg,4.6,10,,Check app
+Deal of the Day,,Iced-Signature Filter Coffee [Regular],₹269,,"Serves 1 | Classic South Indian coffee, made with jaggery and milk.Size - 360ml for Regular & 142 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,5.0,2,,Check app
+Deal of the Day,,Iced Flatwhite [Regular],₹259,,"Serves 1 | A rich espresso, made with milk, topped with micro foam.Size - 360ml for Regular & 83 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,4.0,2,,Check app
+Deal of the Day,,Iced Chocolate [Regular],₹259,,"Serves 1 | Lush chocolate folded into cold milk for a creamy, refreshing classic.
+Size - 360ml for Regular & 199 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,4.8,5,,Check app
+Deal of the Day,,Iced Toffee Nut Latte [Regular],₹379,,"Serves 1 | A dessert-like iced latte with deep toffee richness and nutty warmth.
+Kcal: Reg: 170. Allergen contains - Milk, Wheat",Veg,4.0,1,,Check app
+Deal of the Day,,Iced Sea Salt Mocha [Regular],₹329,,"Serves 1 | Rich chocolate and bold espresso over ice, lifted with a subtle sea salt finish.
+Size - 360ml for Regular & 171 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,4.0,1,,Check app
+Deal of the Day,,Citrus Orange Cold Brew [Regular],₹335,,"Serves 1 | Slow-brewed coffee infused with vibrant orange citrus—refreshing, bold, and bright.
+Size - 360ml for Regular & 35 Kcal respectively. An average active adult requires 2000 kcal energy per day.",Veg,4.0,2,,Check app
+Deal of the Day,,Iced Orange Zest Mocha [Regular],₹329,,"Serves 1 | Silky iced mocha with a burst of orange zest—sweet, bold, and refreshing.
+Size - 360ml for Regular & 142 Kcal respectively. Allergen contains - Milk,Soy. An average active adult requires 2000 kcal energy per day.",Veg,3.8,3,,Check app
+Deal of the Day,,Iced Dry Hazelnut Cappuccino [Regular],₹329,,"Serves 1 | Cold, smooth, and luxuriously nutty—hazelnut cappuccino perfected over ice.
+Size - 360ml for Regular & 165 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,5.0,2,,Check app
+Deal of the Day,,Iced Caramel Macchiato [Regular],₹355,,"Serves 1 | Chilled milk layered with bold espresso and finished with a rich caramel drizzle.
+Size - 360ml for Regular & 152 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,,,,Check app
+Deal of the Day,,Iced French Vanilla Latte [Regular],₹349,,"Serves 1 | Cold, creamy latte infused with smooth French vanilla and bold espresso.
+ Size - 240ml for Regular & 145 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,5.0,1,,Check app
+Deal of the Day,,Lemon Cold Brew [Regular],₹335,,"Serves 1 | Bold cold brew meets fresh lemon for a bright, thirst-quenching twist.",Veg,5.0,3,,Check app
+Deal of the Day,,Iced Japanese Matcha Latte [Regular],₹299,,"Serves 1 | A premium iced latte with authentic matcha and silky milk for the ultimate refreshment.
+Size - 360ml for Regular & 152 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,5.0,3,,Check app
+Deal of the Day,,Hot Toffee Nut Latte [Regular],₹369,,"Serves 1 | A comforting hot latte layered with sweet, nutty toffee richness.
+Kcal: Reg: 170. Allergen contains - Milk, Wheat",Veg,,,,Check app
+Deal of the Day,,Hot Flatwhite [Regular],₹249,,"Serves 1 | Intense espresso finished with satin-smooth milk for a refined indulgence.
+Size - 240ml for Regular & 95 Kcal respectively. Allergen contains - Milk. An average active adult requires 2000 kcal energy per day.",Veg,,,,Check app
+Deal of the Day,,Hot Japanese Matcha Latte [Regular],₹289,,"Serves 1 | Ceremonial Japanese matcha whisked into velvety milk for a smooth, warming indulgence.",Veg,4.0,2,,Check app
+Deal of the Day,,Mocha Choco Chip Frappe [Regular],₹369,,"Serves 1 | Rich mocha blended with crunchy choco chips into a thick, icy indulgence.
+Kcal: Reg: 474. Allergen contains - Milk,Wheat,Soy",Veg,4.1,3,,Check app

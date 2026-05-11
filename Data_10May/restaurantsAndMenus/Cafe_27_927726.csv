@@ -1,0 +1,131 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+Recommended,,Cheese Omelette,₹210,,"Light, tender and fluffy, made with 3 eggs filled with gooey, stretchy cheese. Comes with a side of garlic toast.",Non-Veg,,,,Check app
+Salads,,Potato Egg Salad,₹300,,"Potato egg salad is a delicious and popular dish made from boiled potatoes, hard-boiled eggs, and a creamy mustard dressing, topped with spring onions.",Non-Veg,,,,Check app
+Salads,,Thai Mango Salad Veg,₹270,,"Our raw mango salad has a burst of flavours: fruity, hot, sweet, sour and salty with an amazing balance of textures. To top it all you have the crunch of peanuts",Veg,3.8,4,,Check app
+Salads,,Greek Salad Non Veg,₹360,,,Non-Veg,,,,Check app
+Salads,,Thai Mango Salad Non Veg,₹340,,,Non-Veg,,,,Check app
+Salads,,Greek Salad Veg,₹300,,"Our greek salad is a delicious combination of mixed lettuce, sliced english cucumbers, chopped cherry tomatoes, pitted black and green olives, red bell peppers, onions and feta cheese with a dressing that is sure to make you drool.",Veg,,,,Check app
+Salads,,Caesar Salad Non Veg,₹340,,,Non-Veg,,,,Check app
+Salads,,Caesar Salad Veg,₹290,,"Our caesar salad is a classic with crispy lettuce, crunchy croutons, shaved parmesan cheese and a light creamy home made dressing. This is a go to meal at anytime, anyday!",Veg,4.8,4,,Check app
+Salads,,Citrus Chickpea Salad Chicken,₹350,,"A vibrant medley of roasted chickpeas, juicy orange segments, crisp lettuce and shredded chicken, this citrus chickpea salad is tossed in a unique citrus and sweet potato dressing. Sweet, tangy, and full of texture, it's a refreshing and nourishing dish.",Non-Veg,,,,Check app
+Salads,,Carrot & Cucumber Salad,₹280,,"Thinly julienned carrots and cucumbers provide a crisp texture, while the addition of roasted peanuts adds a nutty crunch. The salad is dressed with a savory umami-packed sauce. A drizzle of chili oil enhances the dish with a spicy kick, complemented by  fresh cilantro garnish.",Veg,,,,Check app
+Salads,,Citrus Chickpea Salad,₹350,,"A vibrant medley of roasted chickpeas, juicy orange segments, and crisp lettuce, this citrus chickpea salad is tossed in a unique citrus and sweet potato dressing. Sweet, tangy, and full of texture, it's a refreshing and nourishing dish.",Veg,4.8,5,,Check app
+Salads,,Pesto Pasta Salad Veg,₹280,,"Our pasta salad is dressed with freshly made basil pesto, it",Veg,5.0,3,,Check app
+Salads,,Pesto Pasta Salad Non Veg,₹350,,,Non-Veg,,,,Check app
+Salads,,Thai Veg Crunch & Chicken Salad,₹360,,"Thai veg crunch salad is a colorful medley of shredded cabbage, carrots, and peppers, tossed with fresh herbs and a creamy, tangy peanut dressing. Topped with crunchy peanuts for extra texture, it",Non-Veg,4.9,3,,Check app
+Salads,,Roasted Vegetable & Grilled Chicken Salad,₹390,,"A colorful medley of roasted veggies, grilled chicken and a vibrant mediterranean dressing, this salad is a big bowl of brightness and a very satisfying meal. A must try!",Non-Veg,,,,Check app
+Salads,,Thai Veg Crunch Salad,₹290,,"Thai veg crunch salad is a colorful medley of shredded cabbage, carrots, and peppers, tossed with fresh herbs and a creamy, tangy peanut dressing. Topped with crunchy peanuts for extra texture, it",Veg,5.0,3,,Check app
+Salads,,Roasted Vegetable Salad,₹375,,,Veg,,,,Check app
+Salads,,Roasted Broccoli Salad With Chicken,₹395,,,Non-Veg,,,,Check app
+Salads,,Roasted Broccoli Salad,₹360,,"A vibrant salad of roasted broccoli and zucchini, paired with hearty lentils and drizzled in creamy tahini dressing, topped with fresh dill leaves.",Veg,4.3,6,,Check app
+Salads,,Crispy Smashed Potato Salad,₹290,,"The tender, smashed potatoes are crisped to perfection, while the creamy yogurt and zesty lemon dressing adds a refreshing, tangy contrast. The pomegranate seeds on top provide a burst of sweetness and color. This dish is a perfect balance of rich, fresh and tart notes, making it an irresistible side or a light meal.",Veg,4.7,7,,Check app
+Salads,,Beet Glow Salad,₹260,,"This beetroot, dill & pomegranate salad is a vibrant and refreshing dish that beautifully balances earthy, tangy, and herbal flavors. Grated beetroot provides a naturally sweet and earthy base, while fresh dill adds a fragrant, slightly citrusy note. Juicy pomegranate seeds burst with a tart and fruity contrast, enhancing both flavor and texture. This salad is as stunning as it is delicious.",Veg,5.0,4,,Check app
+Salads,,Barbecue Chicken Salad,₹350,,"A flavorful dish, featuring grilled chicken tossed with fresh vegetables, lettuce, and a smoky barbecue dressing. A perfect balance of savory, tangy, and crunchy textures you will love!",Non-Veg,4.5,3,,Check app
+All Day Eggs,,Masala Omelette,₹280,,"Our masala omlette is fluffy and delicious, comes with a side of sauted mushrooms and grilled tomato topped with spinach.",Non-Veg,4.8,7,,Check app
+All Day Eggs,,Truffle Mushroom Omelette With Spinach,₹310,,Mushroom and spinach omelette with a drizzle of delicious truffle oil elevates the taste of this hearty dish.,Non-Veg,4.9,5,,Check app
+All Day Eggs,,Eggs Florentine,₹320,,Our eggs florentine is made with two poached eggs on a toasted brioche bun with spinach and a signature homemade avocado hollandaise. A must try!,Non-Veg,4.3,10,,Check app
+All Day Eggs,,Scrambled Eggs With Gaucamole,₹290,,"Creamy scrambled eggs with freshly made guacamole is a delicious and nutritious combination. Topped with cherry tomatoes and microgreens, comes with a side of toast.",Non-Veg,5.0,14,,Check app
+All Day Eggs,,Cheese Omelette,₹210,,"Light, tender and fluffy, made with 3 eggs filled with gooey, stretchy cheese. Comes with a side of garlic toast.",Non-Veg,,,,Check app
+All Day Eggs,,Scotch Egg,₹350,,"Boiled egg wrapped in spiced chicken mince, coated in breadcrumbs, and fried to golden perfection. Served with our special sauce.",Non-Veg,5.0,3,,Check app
+Appetizers,,Spinach And Cheese Stuffed Chillies,₹260,,"Mild green chillies generously stuffed with a luscious mix of creamy spinach and cheese, then baked to a golden finish. These flavor-packed bites offer a delightful contrast of smoky heat and velvety filling, paired perfectly with a tangy spiced dip on the side.",Veg,3.3,4,,Check app
+Appetizers,,Roasted Chickpea Chakna,₹260,,"Our roasted chickpea and edamame chakna is a spicy and crunchy snack, you will love! chickpeas and edamame beans are also a great source of protein.",Veg,,,,Check app
+Appetizers,,Lamb Meatballs,₹420,,"Tender, deliciously spiced lamb meatballs with home made toum sauce melt in your mouth.",Veg,5.0,6,,Check app
+Appetizers,,Tempeh 65,₹310,,"Tempeh is an excellent food from indonesia made with soyabeans. Tempeh, cooked in our 65 masala is a flavourful, aromatic dish made with freshly ground spices.",Veg,,,,Check app
+Appetizers,,Spicy Cauliflower Bites,₹250,,Our cauliflower bites are baked in the oven until golden brown and coated in our tangy and spicy homemade sauce.,Veg,5.0,4,,Check app
+Appetizers,,Peri Peri Chicken Cubes,₹290,,"Succulent chicken cubes marinated in a bold and spicy peri peri sauce, then grilled to perfection. The chicken is paired with saut",Non-Veg,,,,Check app
+Appetizers,,Falafel With Muhammara Dip,₹290,,"All chickpea dreams are transformed into a falafel! ultra crispy on the outside, moist and fluffy on the inside, a high  protein snack. Served with homemade tabbouleh and muhammara dip.",Veg,4.1,6,,Check app
+Appetizers,,Pesto Grilled Chicken,₹350,,Succulent cuts of chicken delicately marinated in a vibrant house-made pesto,Non-Veg,,,,Check app
+Mains,,"Sauted Mushroom, Kale & Broccoli Rice Bowl",₹350,,"Stir-fried brocolli, oyster mushrooms and kale in garlic and oyster sauce is a super delicious rice bowl.",Veg,5.0,3,,Check app
+Mains,,Cilantro Lime Chicken Steak,₹450,,"Tender boneless chicken, marinated in zesty cilantro & lime marinade,  grilled to perfection, comes with brown rice & sauteed veggies, a healthy rice bowl.",Non-Veg,5.0,5,,Check app
+Mains,,Black Eye Pea And Mixed Lentil Stew,₹340,,"Our guyanese style blackeye pea and mixed lentil stew is a hearty meal filled with protein. A flavour packed dish that will keep you wanting more, a delicious rice bowl.",Veg,,,,Check app
+Mains,,Chicken Parmesan,₹420,,"Chicken breast cooked in homemade marinara sauce, finished with perfectly melted mozzarella and parmesan cheese",Non-Veg,4.4,22,,Check app
+Mains,,Brazillian Seafood Rice Bowl,₹440,,"A vibrant medley of prawns and tender fish simmered in a fragrant brazilian-style coconut and tomato curry. Served over a bed of wholesome brown rice and adorned with fresh microgreens and delicate edible flowers, this bowl bursts with tropical flavors, aromatic spices, and a hint of the sea in every bite.",Veg,3.9,4,,Check app
+Mains,,Tofu Bolognese With Whole Wheat Spaghetti,₹395,,"Yes, tofu bolognese is a thing and it is very delicious! it is topped with mushrooms and comes with whole wheat spaghetti pasta.",Veg,5.0,5,,Check app
+Mains,,Peri Peri Paneer Steak,₹410,,"Grilled peri peri paneer steak infused with zesty spices, paired with creamy mash, stir-fried veggies, and fragrant herbed rice",Veg,4.8,4,,Check app
+Mains,,Peri Peri Chicken Steak,₹470,,"Awaken your taste buds with our high-protein, peri peri chicken steak. Served with a side of seasoned brown rice, mashed potato and sauted veggies, a hearty rice bowl.",Non-Veg,4.4,29,,Check app
+Mains,,Chicken Cacciatore With Wholewheat Pasta,₹410,,"Chicken cacciatore pasta combines tender braised chicken with pasta in a flavorful tomato, pepper, olive and caper sauce. Chicken cacciatore is a classic italian stew dish that makes a wonderful meal.",Non-Veg,3.7,3,,Check app
+Mains,,Spaghetti Marinara With Falafel,₹330,,"It is a classic dish made with our home made marinara sauce. What makes it special is our delicious falafel cutlets, you will love this!",Veg,,,,Check app
+Mains,,Chicken Roulade With Spinach And Mushroom,₹450,,"Chicken stuffed with spinach and mushroom, finished with a creamy homemade sauce. Comes with a side of crispy baby potato and sauted veggies.",Non-Veg,4.7,28,,Check app
+Mains,,Lemon Piccata Fish With Spaghetti,₹390,,"Lemon piccata fish is a delicious dish that combines the tangy flavors of lemon and capers with tender, flaky fish. Comes with a side of pasta.",Non-Veg,3.4,5,,Check app
+Mains,,Grilled Fish Fillet With Cauli Puree & Baby Potato,₹390,,This is an incredible fish fillet recipe with cauliflower puree and delicious saut,Non-Veg,3.8,3,,Check app
+Mains,,Chicken Steak With Creamy Mushroom Sauce,₹460,,"Creamy, home made mushroom sauce and grilled chicken with savory garlic and herb flavors, sauteed veggies and brown rice make for a perfect healthy rice bowl!",Non-Veg,4.6,23,,Check app
+Mains,,Chicken Stroganoff,₹420,,"Chicken stroganoff is a rich and creamy comfort dish that combines tender, pan-seared chicken in a luscious, velvety sauce made from saut",Non-Veg,4.2,18,,Check app
+Mains,,Teriyaki Chicken Steak,₹470,,"Our teriyaki chicken steak is made with chicken breast marinated in a savory-sweet teriyaki sauce and grilled to perfection. The teriyaki sauce, gives the chicken a rich, glossy coating with a perfect balance of umami and sweetness. It's served with brown rice, mash potato and vegetables.",Non-Veg,4.7,9,,Check app
+Mains,,Spaghetti With Lamb Meatballs,₹440,,"This dish features spaghetti with rich, slow-cooked lamb meatballs in a hearty marinara sauce. The meatballs are generously coated in the sauce, which is infused with herbs and spices. The dish is topped with freshly grated cheese, microgreens, and edible flowers, adding a fresh and elegant touch.",Veg,3.7,5,,Check app
+Mains,,Basil Pesto Pasta With Prawns,₹410,,"Our basil pesto pasta with prawns features succulent prawns tossed with al dente pasta in a rich, garlicky pesto sauce. Fresh basil, parmesan, and olive oil enhance the flavors, creating a delicious and aromatic dish.",Non-Veg,,,,Check app
+Mains,,Basil Pesto Pasta With Chicken,₹410,,"Our basil pesto pasta with chicken features tender, juicy chicken tossed with pasta in a rich, creamy pesto sauce. Fresh basil, garlic, parmesan, and olive oil add a flavorful and aromatic touch.",Non-Veg,4.7,3,,Check app
+Mains,,Basil Pesto Pasta,₹350,,"Our basil pesto pasta features whole wheat penne tossed in a rich, creamy, home made pesto sauce made from fresh basil, garlic, cashewnuts, parmesan, and olive oil. Enhanced with sun-dried tomatoes and herbs, it's a flavorful and comforting dish, garnished with fresh basil for a final touch.",Veg,,,,Check app
+Mains,,Pepper Paneer Steak,₹395,,"Tender paneer steak topped with a rich homemade pepper sauce, served alongside hearty brown rice, creamy mash, and saut",Veg,,,,Check app
+Mains,,Pepper Chicken Steak,₹460,,"Juicy pepper chicken steak seared to perfection, served with wholesome brown rice, buttery mash, and a medley of saut",Non-Veg,4.4,17,,Check app
+Mains,,Grilled Fish With Lemon Garlic Sauce,₹450,,"A succulent basa steak, perfectly grilled and topped with a luscious lemon garlic cream sauce. Served alongside herbed brown rice, velvety garlic mash, and a colorful medley of saut",Non-Veg,4.1,9,,Check app
+Mains,,Barbecue Chicken Steak,₹450,,"Succulent grilled chicken breast smothered in a smoky-sweet barbecue sauce, paired with fluffy, nutty brown rice crowned with fresh parsley. A colorful medley of saut",Non-Veg,,,,Check app
+Mains,,Tofu Stroganoff,₹350,,Comforting tofu stroganoff with brown rice and a side of saut,Veg,,,,Check app
+Mains,,Grilled Paneer With Lemon Garlic Sauce,₹350,,A zesty twist on comfort,Veg,,,,Check app
+Mains,,Coconut Lime Chicken Steak,₹460,,"Grilled chicken steak bathed in a creamy coconut-lime sauce, bursting with tropical freshness. Paired with zesty raw mango salsa and a side of vibrant saut",Non-Veg,4.9,18,,Check app
+Desserts,,"Almond, Millet & Oats Cookie",₹80,,"A naturally gluten-free cookie crafted with a hearty blend of oats, almonds, ancient millet grains and sweetened by jaggery. Each bite is delightfully nutty and chewy, perfect for those craving a wholesome treat.",Veg,5.0,6,,Check app
+Desserts,,"Raisin, Millet & Oat Cookie",₹80,,"A hearty and wholesome cookie baked with a nourishing trio of rolled oats, ancient millet grains, and plump black raisins. Every bite offers a chewy texture, natural sweetness, and a satisfying crunch",Veg,5.0,7,,Check app
+Add On / Extras,,Whey Isolate,₹90,,,Veg,,,,Check app
+Add On / Extras,,Garlic Toast,₹40,,"Golden, crunchy garlic toast on the side",Veg,4.7,3,,Check app
+Beverages,,Chocolate Peanut Butter,₹300,,,Veg,4.0,3,,Check app
+High Protein Meals,,Periperi Chicken Rice Bowl,₹380,,Lean peri peri,Non-Veg,5.0,5,,Check app
+High Protein Meals,,Periperi Fish Rice Bowl,₹390,,Lightly grilled peri peri,Non-Veg,,,,Check app
+High Protein Meals,,Devilled Eggs,₹200,,"Protein-rich, perfectly boiled eggs filled with a light, well-seasoned devilled yolk, served over fresh mixed greens with olives, tomatoes, and onions. A low-carb, nutrient-dense dish packed with healthy fats and essential micronutrients",Non-Veg,,,,Check app
+High Protein Meals,,Boiled Egg Tortilla Wrap,₹200,,"Lean boiled eggs for sustained protein, wrapped in a soft whole-wheat tortilla with crisp, fiber-rich seasonal vegetables. Lightly seasoned for clean flavor and optimal nutrition, this wrap delivers steady energy, supports muscle recovery, and keeps you full without feeling heavy",Non-Veg,,,,Check app
+High Protein Meals,,Grilled Chicken Meatballs In Marinara,₹320,,"Tender, oven-grilled chicken meatballs crafted for lean protein and clean fuel, simmered in a rich, slow-cooked marinara sauce and lightly topped with melted cheese for added satiety. Served with toasted whole-grain bread for balanced carbs and sustained energy. A performance-driven meal that supports muscle recovery, keeps you fuller longer, and satisfies without heaviness.",Non-Veg,,,,Check app
+Hot Coffee,,Flat White,₹220,,,Veg,,,,Check app
+Hot Coffee,,Latte,₹200,,,Veg,,,,Check app
+Hot Coffee,,Americano,₹140,,,Veg,,,,Check app
+Hot Coffee,,Mocha,₹240,,,Veg,,,,Check app
+Hot Coffee,,Cappuccino,₹200,,,Veg,5.0,3,,Check app
+Hot Coffee,,Cortado,₹170,,,Veg,,,,Check app
+Hot Coffee,,Espresso,₹130,,,Veg,,,,Check app
+Wraps,,Paneer Tortilla Wrap,₹210,,"A deliciously wholesome wholewheat tortilla wrap filled with soft, grilled paneer, saut",Veg,,,,Check app
+Wraps,,Chicken Tortilla Wrap,₹230,,"A wholesome and hearty wholewheat tortilla wrap, grilled to perfection and generously filled with tender grilled chicken, crunchy vegetables, and a rich, creamy sauce. This nutritious wrap offers a satisfying bite, balancing savory flavors and wholesome ingredients in every mouthful.",Non-Veg,,,,Check app
+Sandwiches,,Falafel Sandwich,₹300,,"It has crispy falafel cutlets made from ground chickpeas, herbs, and spices, stuffed into whole wheat bread garnished with fresh tabbouleh, topped with toum sauce.",Veg,,,,Check app
+Sandwiches,,Grilled Teriyaki Eggplant & Tofu,₹290,,"Tender eggplant and sweet teriyaki sauce are the perfect match! using a homemade teriyaki sauce, this sandwich is sure to delight you.",Non-Veg,,,,Check app
+Sandwiches,,Egg And Avocado Sandwich,₹310,,Avocado & egg sandwich is an absolute classic! the creamy filling made of avocado and eggs paired with our whole wheat bread makes a wholesome meal. Comes with a side of refreshing side salad.,Non-Veg,5.0,15,,Check app
+Sandwiches,,Chopped Egg Salad Toast,₹280,,A classic egg salad spread generously on a sourdough toast,Non-Veg,,,,Check app
+Sandwiches,,Mediterranean Grilled Chicken Sandwich,₹350,,"Sumac and zaatar are delightful middle eastern flavours, that add a burst of flavour to the chicken. This tangy and aromatic sandwich has the perfect blend of flavours and textures. Comes with a refreshing side salad. This one is a must try!",Non-Veg,3.9,3,,Check app
+Sandwiches,,Grilled Lamb And Toum Sandwich,₹420,,"Tender lamb meatballs and toum are the perfect blend of flavours. To elevate the flavors further, it is finished off with home made muhammara sauce and dill.",Veg,,,,Check app
+Sandwiches,,Paneer Pesto Sandwich,₹320,,"The protein from paneer, vitamins and essential fats from nuts and basil which makeup the pesto sauce and carbs from our whole wheat bread makes it a great meal!",Veg,5.0,3,,Check app
+Sandwiches,,Chicken Pesto Grilled Sandwich,₹350,,"The protein from chicken, vitamins & essential fats from nuts, basil which makeup the pesto sauce & carbs from our whole wheat bread makes it a great meal!",Non-Veg,4.7,4,,Check app
+Sandwiches,,Hummus & Tofu Toast,₹300,,"Homemade hummus & cherry tomato on a sourdough toastie, topped with marinara tofu.",Veg,,,,Check app
+Sandwiches,,"Kale, Spinach & Prawn Toast",₹380,,"Perfectly seasoned kale, spinach & prawn on a sourdough toast",Non-Veg,,,,Check app
+Sandwiches,,Guacamole & Cream Cheese Toastie,₹330,,"A vibrant toast layered with creamy guacamole and smooth cream cheese, topped with juicy cherry tomatoes and fresh microgreens. Served with a crisp side salad, it's a wholesome and flavorful bite perfect for any time of day.",Veg,,,,Check app
+Sandwiches,,Beet Hummus & Grilled Chicken Toast,₹350,,Homemade beetroot hummus & mediterranean grilled chicken on a sourdough toastie,Non-Veg,5.0,4,,Check app
+Sandwiches,,Chicken Ham & Cheese Sandwich,₹310,,"Our chicken ham and cheese sandwich is delicious, comforting and satisfying. Bite into the layers of chicken ham and gooey cheese!",Non-Veg,,,,Check app
+Sandwiches,,Sourdough Toastie With Scrambled Egg And Guacamole,₹360,,"A hearty open-faced toast topped with fluffy scrambled eggs, creamy guacamole, and smooth cream cheese, garnished with herbs and edible petals for a touch of elegance. Served with a fresh garden salad on the side for a balanced, flavorful meal.",Non-Veg,4.7,5,,Check app
+Sandwiches,,Peanut Butter And Banana Toast,₹280,,"Gooey, caramelized banana on a bed of peanut butter,  sprinkled with toasted sesame seeds.",Veg,,,,Check app
+Sandwiches,,Corn And Spinach Sandwich,₹320,,A classic corn and spinach sandwich with oozing cream and cheese.,Veg,,,,Check app
+Sandwiches,,Peri Peri Chicken Sandwich,₹350,,"Tender, grilled chicken marinated in a spicy peri peri sauce, served between soft, toasted wholewheat bread. A deliciously bold and satisfying meal, ideal for spice lovers!",Non-Veg,,,,Check app
+Sandwiches,,Pesto Chicken Toastie,₹320,,"Tender grilled chicken cooked with our homemade pesto sauce, all served on a toasted slice of our signature sourdough bread. It's a flavorful dish that combines savory chicken with the fresh, garlicky richness of pesto, creating a satisfying and hearty bite. Comes with a side salad.",Non-Veg,,,,Check app
+Sandwiches,,Peri Peri Paneer Sandwich,₹320,,"A peri peri paneer wholewheat sandwich is a flavorful and spicy sandwich made with marinated paneer cooked in home made peri peri sauce, which adds a zesty, fiery kick. The paneer is grilled and then sandwiched between slices of wholewheat bread, which provides a healthy and hearty base.",Veg,,,,Check app
+Sandwiches,,Apple Crumble Toastie,₹280,,"This delicious sourdough toast is topped with caramelized apples, cream cheese and crunchy home made granola.",Veg,4.7,5,,Check app
+Bliss Bowls,,Fruit Granola Parfait,₹280,,,Veg,5.0,3,,Check app
+Bliss Bowls,,Snickers Chia Pudding,₹280,,,Veg,,,,Check app
+Smoothies,,Mixed Berry Smoothie,₹300,,"This refreshing mixed berry smoothie combines a medley of ripe berries with creamy almond milk for a dairy-free, antioxidant-rich drink. Blended to a smooth, velvety texture and topped with slivered almonds and fresh mint, it delivers a perfect balance of fruity sweetness and nutty richness",Veg,,,,Check app
+Smoothies,,Mango Coconut Chia,₹300,,,Veg,,,,Check app
+Smoothies,,Apple Cinnamon,₹300,,,Veg,,,,Check app
+Smoothies,,Detox Smoothie,₹300,,"This vibrant green detox smoothie is a refreshing blend of leafy greens, fresh apple, pineapple and orange, designed to cleanse and energize the body. Topped with chopped fruits and a sprig of cilantro, it offers a delicious balance of sweetness and earthiness. Perfect for a healthy start to the day or a revitalizing mid-day boost.",Veg,,,,Check app
+Specials Hot,,Hazzlenut Latte,₹240,,,Veg,,,,Check app
+Specials Hot,,Caramel Latte,₹240,,Indulge in our caramel latte,Veg,,,,Check app
+Specials Hot,,Vanilla Latte,₹240,,"A smooth and creamy blend of rich espresso, steamed milk, and a hint of sweet vanilla. Our vanilla latte is a comforting classic, perfect for any time of day.",Veg,,,,Check app
+Iced Coffee,,Classic Cold Coffee,₹230,,,Veg,1.9,3,,Check app
+Iced Coffee,,Vietnamese Coffee,₹250,,"Experience the bold, smooth taste of vietnamese coffee",Veg,,,,Check app
+Iced Coffee,,Latte Iced Coffee,₹220,,,Veg,,,,Check app
+Iced Coffee,,Mocha Iced Coffee,₹260,,,Veg,,,,Check app
+Iced Coffee,,Americano Iced Coffee,₹140,,,Veg,,,,Check app
+Iced Coffee,,Shakerato,₹170,,,Veg,,,,Check app
+Cold Brew,,Cranberry Cold Brew,₹230,,,Veg,4.7,3,,Check app
+Cold Brew,,Classic Cold Brew,₹180,,,Veg,,,,Check app
+Cold Brew,,Orange Cold Brew,₹230,,,Veg,,,,Check app
+Iced Tea,,Peach Ice Tea,₹200,,Cool down with our refreshing peach iced tea,Veg,,,,Check app
+Juices,,Abc Juice,₹220,,"Our  cold pressed apple, beetroot & carrot juice has a hint of ginger and lime, making it the ultimate miracle drink. It is packed with essential nutrients like zinc, potassium, mangnesium, iron and many vitamins like vitamin a, b6, c, and more that support healthy functioning of the body. Contains no added sugar.",Veg,4.8,10,,Check app
+Juices,,Cucumber Apple Lime,₹200,,,Veg,,,,Check app
+Juices,,Watermelon Mint Cooler,₹170,,This delicious watermelon cooler with refreshing mint and lime is  healthy and a perfect thirst quencher. No added sugar.,Veg,,,,Check app
+Juices,,Musk Melon & Pomegranate,₹200,,,Veg,,,,Check app
+Coffee,,Hazelnut Cold Coffee,₹270,,,Veg,,,,Check app
+Coffee,,Vanilla Latte Iced Coffee,₹260,,,Veg,,,,Check app
+Coffee,,Hazelnut Latte Iced Coffee,₹260,,,Veg,,,,Check app
+Coffee,,Chocolate Cold Coffee,₹270,,,Veg,,,,Check app
+Coffee,,Vanilla Cold Coffee,₹270,,,Veg,,,,Check app

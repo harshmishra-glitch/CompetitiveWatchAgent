@@ -1,0 +1,84 @@
+category,subcategory,name,price,variants,description,veg,rating,rating_count,bestseller,availability
+South Indian,,Idli 2 Pieces No Samber,₹60,,,Veg,4.7,142,Yes,Check app
+South Indian,,Vada No Samber,₹45,,,Veg,4.6,1.0K+,,Check app
+South Indian,,Benne Masala Dosa,₹100,,,Veg,4.7,1.2K+,Yes,Check app
+South Indian,,Kesari Bath,₹55,,,Veg,4.7,2.2K+,Yes,Check app
+South Indian,,Chow Chow Bath,₹90,,A wholesome meal from Karnataka comprising of a savory rava bath or upittu and a sweet kesari bath.,Veg,4.3,1.0K+,Yes,Check app
+South Indian,,Khara Bath,₹55,,,Veg,4.7,2.8K+,Yes,Check app
+South Indian,,Plain Dosa,₹100,,,Veg,4.6,600,,Check app
+South Indian,,Masala Dosa,₹100,,,Veg,4.7,4.7K+,,Check app
+South Indian,,Shavige Bath,₹90,,,Veg,4.0,6,,Check app
+South Indian,,Bisibele Bhath,₹80,,,Veg,4.7,9,,Check app
+Ready Mixes,,By2batter,₹90,,,Veg,4.6,855,Yes,Check app
+Ready Mixes,,Spl Idli Batter,₹95,,,Veg,4.8,13,Yes,Check app
+Ready Mixes,,Puliogare Masala 250gm,₹125,,,Veg,3.8,6,Yes,Check app
+Ready Mixes,,Rava Idly Mix,₹125,,,Veg,5.0,4,Yes,Check app
+Ready Mixes,,Rasam Pudi Masala 100gm,₹90,,,Veg,,,,Check app
+Ready Mixes,,Spl Kundapra Rasam Masala 100gm,₹90,,,Veg,,,,Check app
+Ready Mixes,,Bisibelebath Pudi Masala,₹80,,,Veg,4.5,7,,Check app
+Ready Mixes,,Samber Pudi Masala 100gm,₹80,,,Veg,,,,Check app
+Ready Mixes,,Vangibath Pudi Masala 100gm,₹80,,,Veg,4.6,5,,Check app
+Ready Mixes,,Puliogare Masala,₹60,,,Veg,4.6,3,,Check app
+Lunch,,Full Meals Bhojanashale,₹300,,,Veg,4.3,169,,Check app
+Lunch,,Rice Samber,₹110,,,Veg,4.8,243,,Check app
+Lunch,,Chapathi Meals,₹120,,,Veg,4.5,25,,Check app
+Lunch,,Rice Rasam,₹110,,,Veg,4.8,120,,Check app
+Lunch,,Rice Bath,₹85,,,Veg,4.8,175,,Check app
+Lunch,,Puliogare,₹85,,,Veg,4.1,7,,Check app
+Lunch,,Curd Rice,₹80,,,Veg,4.8,165,,Check app
+Lunch,,Bajji 4 Pc,₹50,,,Veg,,,,Check app
+Lunch,,Chapathi,₹65,,,Veg,4.2,6,,Check app
+Savouries,,Jackfruit Salt Chips 150gm,₹120,,,Veg,,,,Check app
+Savouries,,Banana Salt 150gm,₹90,,,Veg,5.0,2,,Check app
+Savouries,,Banana Masala 150gm,₹90,,,Veg,,,,Check app
+Savouries,,Banana Pepper 150gm,₹90,,,Veg,,,,Check app
+Savouries,,Masala Congress 200gm,₹85,,,Veg,4.6,49,,Check app
+Savouries,,Khara Chakkuli,₹90,,,Veg,,,,Check app
+Savouries,,Muruku 200gm,₹80,,,Veg,5.0,2,,Check app
+Savouries,,Masala Kadale 200gm,₹80,,,Veg,4.7,3,,Check app
+Savouries,,Rava Kodubale 200gm,₹80,,,Veg,5.0,1,,Check app
+Savouries,,Khara Boondi 200gm,₹80,,,Veg,4.8,30,,Check app
+Savouries,,Garlic Mixture 200gm,₹80,,,Veg,,,,Check app
+Savouries,,Shankara Pali 200gm,₹80,,,Veg,4.9,23,,Check app
+Savouries,,Mota Sev 200gm,₹80,,,Veg,,,,Check app
+Savouries,,Rice Kodubale,₹80,,,Veg,4.6,4,,Check app
+Savouries,,Mixture 200gm,₹80,,,Veg,,,,Check app
+Savouries,,Bombay Mixture 200gm,₹80,,,Veg,4.8,4,,Check app
+Savouries,,Khara Muruku 200gm,₹80,,,Veg,,,,Check app
+Savouries,,Masala Avalakki 150gm,₹70,,,Veg,4.8,50,,Check app
+Savouries,,Maddur Vade 150gm,₹60,,,Veg,4.6,98,,Check app
+Savouries,,Om Pudi 150gm,₹60,,,Veg,4.4,31,,Check app
+Savouries,,Avalakki Chivda,₹70,,,Veg,,,,Check app
+Savouries,,Avarebele Mixture 150gm,₹80,,,Veg,,,,Check app
+Savouries,,Baked Nippattu,₹60,,,Veg,,,,Check app
+Savouries,,Chakkuli 200gm,₹90,,,Veg,,,,Check app
+Savouries,,Chintamani Kadalebeeja Pepper,₹70,,,Veg,,,,Check app
+Savouries,,Chintamani Kadalebeeja Red,₹75,,,Veg,,,,Check app
+Savouries,,Chintamani Kadalebeeja Salt,₹75,,,Veg,,,,Check app
+Savouries,,Jackfruit Khara Chips 150gm,₹120,,,Veg,,,,Check app
+Savouries,,Kai Kodubale 200gm,₹80,,,Veg,,,,Check app
+Savouries,,Kara Nippattu,₹60,,,Veg,,,,Check app
+Savouries,,Khara Kaddi Chips,₹70,,,Veg,,,,Check app
+Savouries,,Khara Kodubale 200gm,₹80,,,Veg,,,,Check app
+Savouries,,Khara Shankarpali,₹80,,,Veg,,,,Check app
+Savouries,,Khara Tengalu,₹80,,,Veg,,,,Check app
+Savouries,,Masala Kadlepuri,₹50,,,Veg,,,,Check app
+Savouries,,Masala Moong Dhal 100gm,₹40,,,Veg,,,,Check app
+Savouries,,Mini Chakkali 200gm,₹90,,,Veg,,,,Check app
+Savouries,,Moongdal 100gm,₹35,,,Veg,,,,Check app
+Savouries,,Muchore 180gm,₹70,,,Veg,,,,Check app
+Savouries,,Nippattu,₹60,,,Veg,,,,Check app
+Savouries,,Onion Kodubale 200gm,₹80,,,Veg,,,,Check app
+Savouries,,Potato Masala Chips 200gm,₹125,,,Veg,,,,Check app
+Savouries,,Potato Mix 150gm,₹90,,,Veg,,,,Check app
+Savouries,,Potato Salt Chips 200gm,₹125,,,Veg,,,,Check app
+Savouries,,Red Chakkali 200gm,₹90,,,Veg,,,,Check app
+Savouries,,Red Mixture 200gm,₹80,,,Veg,,,,Check app
+Savouries,,Sabakki Nippattu,₹60,,,Veg,,,,Check app
+Savouries,,Special Mixture,₹70,,,Veg,,,,Check app
+Savouries,,Spl Karaboondi,₹90,,,Veg,,,,Check app
+Savouries,,Tengalu,₹90,,,Veg,,,,Check app
+Sweets,,Badam Halwa,₹50,,,Veg,4.6,12,Yes,Check app
+Sweets,,Ghee Mysore Pak,₹50,,,Veg,5.0,2,,Check app
+Sweets,,Ghee Rava Laddu,₹30,,,Veg,,,,Check app
+Sweets,,Jamoon 1 Piece,₹20,,,Veg,,,,Check app

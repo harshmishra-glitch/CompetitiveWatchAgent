@@ -1,0 +1,3 @@
+review_id,place_name,reviewer_name,reviewer_id,local_guide,rating,review_text,likes,date,attributes
+Ci9DQUlRQUNvZENodHljRjlvT2tRMFprZGpibFo1VkhwaVoxUk1VVk00VXpCSFQyYxAB,Shelby The Barista,Shaun Mark,101917665520592959370,True,4,,0,7 hours ago,"{""price_per_person"": ""₹1–200"", ""food"": 5, ""service_rating"": 4, ""atmosphere"": 4, ""noise_level"": ""Loud, but you can still talk"", ""group_size"": ""Suitable for all group sizes"", ""wait_time"": ""No wait""}"
+Ci9DQUlRQUNvZENodHljRjlvT2t4R1MybFBZV2cxUjNCSVdYZGtValJoWTJGQ04yYxAB,Shelby The Barista,Nasim Ahmed,117522439314632201521,False,5,,0,11 hours ago,"{""price_per_person"": ""₹1,200–1,400"", ""food"": 5, ""service_rating"": 5, ""atmosphere"": 5}"

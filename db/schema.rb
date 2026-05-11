@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2026_05_10_120026) do
+ActiveRecord::Schema[7.0].define(version: 2026_05_11_000002) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -120,7 +120,9 @@ ActiveRecord::Schema[7.0].define(version: 2026_05_10_120026) do
     t.datetime "generated_at", precision: 0
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["pilot_restaurant_id", "digest_date"], name: "index_daily_digests_on_pilot_and_date", unique: true
+    t.bigint "competitor_set_id"
+    t.index ["competitor_set_id"], name: "index_daily_digests_on_competitor_set_id"
+    t.index ["pilot_restaurant_id", "competitor_set_id", "digest_date"], name: "index_daily_digests_on_pilot_set_and_date", unique: true
     t.index ["pilot_restaurant_id"], name: "index_daily_digests_on_pilot_restaurant_id"
   end
 
@@ -340,6 +342,22 @@ ActiveRecord::Schema[7.0].define(version: 2026_05_10_120026) do
     t.index ["swiggy_restaurant_id", "scrapped_at_date"], name: "index_rest_scrap_on_swiggy_id_and_date", unique: true, where: "(swiggy_restaurant_id IS NOT NULL)"
   end
 
+  create_table "review_digests", force: :cascade do |t|
+    t.bigint "pilot_restaurant_id", null: false
+    t.bigint "competitor_set_id"
+    t.date "digest_date", null: false
+    t.string "status", default: "draft", null: false
+    t.string "model_version"
+    t.jsonb "prompt_context"
+    t.jsonb "reviews_payload", default: [], null: false
+    t.datetime "generated_at", precision: 0
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["competitor_set_id"], name: "index_review_digests_on_competitor_set_id"
+    t.index ["pilot_restaurant_id", "competitor_set_id", "digest_date"], name: "index_review_digests_on_pilot_set_and_date", unique: true
+    t.index ["pilot_restaurant_id"], name: "index_review_digests_on_pilot_restaurant_id"
+  end
+
   create_table "serp_organic_results", force: :cascade do |t|
     t.bigint "google_serp_scrape_id", null: false
     t.bigint "restaurant_id", null: false
@@ -410,6 +428,7 @@ ActiveRecord::Schema[7.0].define(version: 2026_05_10_120026) do
   add_foreign_key "competitor_set_members", "competitor_sets"
   add_foreign_key "competitor_set_members", "restaurants"
   add_foreign_key "competitor_sets", "pilot_restaurants"
+  add_foreign_key "daily_digests", "competitor_sets"
   add_foreign_key "daily_digests", "pilot_restaurants"
   add_foreign_key "digest_competitor_cards", "daily_digests"
   add_foreign_key "digest_competitor_cards", "restaurants", column: "competitor_restaurant_id"
@@ -422,6 +441,8 @@ ActiveRecord::Schema[7.0].define(version: 2026_05_10_120026) do
   add_foreign_key "menu_items", "restaurants_scrapped"
   add_foreign_key "pilot_restaurants", "restaurants"
   add_foreign_key "restaurants_scrapped", "restaurants"
+  add_foreign_key "review_digests", "competitor_sets"
+  add_foreign_key "review_digests", "pilot_restaurants"
   add_foreign_key "serp_organic_results", "google_serp_scrapes"
   add_foreign_key "serp_organic_results", "restaurants"
   add_foreign_key "serp_questions", "google_serp_scrapes"
