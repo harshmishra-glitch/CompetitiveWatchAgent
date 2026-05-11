@@ -1,0 +1,199 @@
+[
+    {
+        "#debug": {
+            "requestId": "XesL6KrcdGpUTgk",
+            "url": "http://www.google.com/search?q=Shelby+The+Barista",
+            "loadedUrl": "http://www.google.com/search?q=Shelby+The+Barista",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Shelby The Barista",
+            "url": "http://www.google.com/search?q=Shelby+The+Barista",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Shelby+The+Barista",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Shelby the barista menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Shelby+the+barista+menu&sa=X&ved=2ahUKEwjy2ISo5K-UAxVFaqQEHes5MJAQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "Shelby the barista HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Shelby+the+barista+HSR&sa=X&ved=2ahUKEwjy2ISo5K-UAxVFaqQEHes5MJAQ1QJ6BAh6EAE"
+            },
+            {
+                "title": "Shelby the barista bangalore",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Shelby+the+barista+bangalore&sa=X&ved=2ahUKEwjy2ISo5K-UAxVFaqQEHes5MJAQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Shelby the barista owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Shelby+the+barista+owner&sa=X&ved=2ahUKEwjy2ISo5K-UAxVFaqQEHes5MJAQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "Shelby the barista photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Shelby+the+barista+photos&sa=X&ved=2ahUKEwjy2ISo5K-UAxVFaqQEHes5MJAQ1QJ6BAh3EAE"
+            },
+            {
+                "title": "Shelby cafe Nagarbhavi",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Shelby+cafe+Nagarbhavi&sa=X&ved=2ahUKEwjy2ISo5K-UAxVFaqQEHes5MJAQ1QJ6BAh0EAE"
+            },
+            {
+                "title": "Shelby and Co",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Shelby+and+Co&sa=X&ved=2ahUKEwjy2ISo5K-UAxVFaqQEHes5MJAQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Chelvies coffee",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chelvies+coffee&sa=X&ved=2ahUKEwjy2ISo5K-UAxVFaqQEHes5MJAQ1QJ6BAhkEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "SHELBYTHEBARISTA (@shelby.the.barista) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/shelby.the.barista/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0shelby.the.barista",
+                "description": "700 Followers, 322 Following, 48 Posts - SHELBYTHEBARISTA (@shelby.the.barista) on Instagram: \"Let Coffee Connect Us. Banglore. Founder: @mr_m0tte\"",
+                "emphasizedKeywords": [
+                    "SHELBYTHEBARISTA"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "710+ followers",
+                "channelName": "shelby.the.barista",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "SHELBYTHEBARISTA (@shelby.the.barista) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/shelby.the.barista/reels/",
+                "displayedUrl": "https://www.instagram.com \u203a shelby.the.barista",
+                "description": "Dec 21, 2024 \u2014 715 followers \u00b7 51 posts \u00b7 Let Coffee Connect Us. Banglore. Founder: @mr_m0tte.",
+                "date": "2024-12-21T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "715 followers"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "shelby.the.barista",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Shelby The Barista - 358, 25th B Main Rd, 2nd Sector, Parangi ...",
+                "url": "https://www.corner.inc/place/1474964",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "VIBE. Late-night coffee counter that stays open until 1am when everything else shuts down. Minimal seating, mostly people grabbing drinks to go.Read more",
+                "emphasizedKeywords": [
+                    "Late-night coffee counter that stays open until 1am"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Part 1 \u2728 Barista Spotlight: Shelby! \u2728 Meet Shelby\u2014her energy ...",
+                "url": "https://www.facebook.com/revecoffeelab/videos/part-1-barista-spotlight-shelby-meet-shelbyher-energy-and-smile-are-as-bright-an/663030699391009/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0R\u00eave Coffee Lab, River Ranch",
+                "description": "Next time you stop by R\u00eave River Ranch, be sure to say hi to Shelby\u2014she'll serve you up a killer latte and probably make you laugh while she's\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "reactions": "4 reactions",
+                "lastUpdated": "1 year ago",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Shelby The Barista, BDA Layout, Bangalore",
+                "url": "https://magicpin.in/Bangalore/Bda-Layout/Restaurant/Shelby-The-Barista/store/1a62498?srsltid=AfmBOorbQLxBZ5_sGJWukBr8Nh1MEKN_09aoxzvGCRIJiMxJEbQbEEfl",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "Shelby The Barista. \u00b7BDA Layout, Kasavanahalli, Bangalore\u00b7 Open \u00b7 11:30 AM \u2013 2:00 PM.Read more",
+                "emphasizedKeywords": [
+                    "Shelby The Barista"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Pnw Barista Shelby",
+                "url": "https://www.tiktok.com/discover/pnw-barista-shelby",
+                "displayedUrl": "https://www.tiktok.com \u203a Discover",
+                "description": "7 days ago \u2014 Discover Shelby, the PNW barista, and explore her coffee journey and daily life behind the espresso machine. barista life in PNW,\u00a0...Read more",
+                "date": "2026-05-03T22:37:09.520Z",
+                "emphasizedKeywords": [
+                    "the PNW barista"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "SHELBY Shelby has been a Barista at Best ...",
+                "url": "https://www.facebook.com/bestfriendscoffeeandbagels/photos/employee-spotlight-shelbyshelby-has-been-a-barista-at-best-friends-for-over-a-ye/717356430394409/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Best Friends Coffee & Bagels",
+                "description": "EMPLOYEE SPOTLIGHT: SHELBY Shelby has been a Barista at Best Friends for over a year, occasionally filling in on kitchen shifts when needed.",
+                "emphasizedKeywords": [
+                    "Shelby has been a Barista at Best Friends for over a year"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "reactions": "80+ reactions",
+                "lastUpdated": "3 years ago",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Roaster Champ Shelby Williamson Is on a Winning Streak",
+                "url": "https://www.baristamagazine.com/roasting-champ-shelby-williamson/",
+                "displayedUrl": "https://www.baristamagazine.com \u203a roasting-champ-she...",
+                "description": "U.S. Roaster Championship winner Shelby Williamson talks about prepping for competition and what she hopes to achieve on the world stage.Read more",
+                "date": "2019-03-27T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "U.S. Roaster Championship winner Shelby Williamson"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Menu of Barista Coffee, Sadashiv Nagar, Bangalore",
+                "url": "https://www.zomato.com/bangalore/barista-coffee-sadashiv-nagar-bangalore/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Barista Coffee",
+                "description": "Barista Coffee, Cafe, Coffee, Tea, Desserts, 371/5, 8th Main Road, Upper Palace, Orchard Extention, Sadashiv Nagar, Bangalore, Closed Opens at 8am.Read more",
+                "emphasizedKeywords": [
+                    "371/5, 8th Main Road, Upper Palace, Orchard Extention, Sadashiv Nagar, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.5,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/StfraOykUZK8VfrJ8/records/XesL6KrcdGpUTgk-0.html?signature=1ysmKrL2NkECAcdykj3lm"
+    }
+]

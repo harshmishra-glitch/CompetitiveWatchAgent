@@ -1,0 +1,226 @@
+[
+    {
+        "#debug": {
+            "requestId": "nDVylOFiEkvRgTb",
+            "url": "http://www.google.com/search?q=Star+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=Star+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Star Cafe",
+            "url": "http://www.google.com/search?q=Star+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Star+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Star cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+cafe+menu&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Star cafe near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+cafe+near+me&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAhEEAE"
+            },
+            {
+                "title": "Star Cafe Fort worth menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+Fort+worth+menu&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Star cafe clearfield menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+cafe+clearfield+menu&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Star Cafe Imperial menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+Imperial+menu&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Star Cafe and Cocktails",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+and+Cocktails&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Star Cafe stockyards",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+stockyards&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg5EAE"
+            },
+            {
+                "title": "Star Cafe menu with prices",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+menu+with+prices&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Star cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+cafe+menu&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Star cafe near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+cafe+near+me&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAhEEAE"
+            },
+            {
+                "title": "Star Cafe Fort worth menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+Fort+worth+menu&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Star cafe clearfield menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+cafe+clearfield+menu&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Star Cafe Imperial menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+Imperial+menu&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Star Cafe and Cocktails",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+and+Cocktails&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "Star Cafe stockyards",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+stockyards&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg5EAE"
+            },
+            {
+                "title": "Star Cafe menu with prices",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Star+Cafe+menu+with+prices&sa=X&ved=2ahUKEwiT1O3F5K-UAxWud_UHHZZgBKgQ1QJ6BAg4EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Home | Stars Cafe",
+                "url": "https://www.starscafeannarbor.com/",
+                "displayedUrl": "https://www.starscafeannarbor.com",
+                "description": "The Best Middle Eastern Food. We have served the Ann Arbor community for many years and hope to serve you many more. GET IN TOUCH. We'd love\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "The Best Middle Eastern Food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Star Cafe LLC: Order Online",
+                "url": "https://www.starcafeseckman.com/",
+                "displayedUrl": "https://www.starcafeseckman.com",
+                "description": "Shopping Cart ... Create an account to access rewards and quick reordering. Sign up.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "The Star Caf\u00e9 | West Point KY",
+                "url": "https://www.facebook.com/WestPointStar/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0The Star Caf\u00e9",
+                "description": "Historic Railroad Hotel Building. Home Cooking, Daily Specials, Plate Lunches & Homemade Desserts. Antiques, Collectables and Various Treasures.Read more",
+                "emphasizedKeywords": [
+                    "Historic Railroad Hotel Building"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 48,
+                "followersAmount": "860+ followers",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Star Cafe | Order Online | Breakfast, Brunch | American Food ...",
+                "url": "https://www.starcafetogo.com/",
+                "displayedUrl": "https://www.starcafetogo.com",
+                "description": "Welcome to Star Cafe located in Clearfield, UT 84015. We served Breakfast, Brunch, Lunch & Dinner for American food. Dine-in & take out.",
+                "emphasizedKeywords": [
+                    "Star Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "The Star Cafe - Fort Worth, TX",
+                "url": "https://www.yelp.com/biz/the-star-cafe-fort-worth-2",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a Burgers",
+                "description": "THE STAR CAFE - Try Our New Menu - 111 W Exchange Ave, Fort Worth, TX 76164, 177 Photos, (817) 624-8701, Mon - Closed, Tue - Closed, Wed - Closed,\u00a0...",
+                "emphasizedKeywords": [
+                    "STAR CAFE"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.5,
+                "numberOfReviews": 210,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Stars Cafe - Shelter Island",
+                "url": "https://www.starscafeshelterisland.com/",
+                "displayedUrl": "https://www.starscafeshelterisland.com",
+                "description": "Our caf\u00e9 is the place for a cup of freshly-brewed organic coffee, hot-out-of-the oven muffins, cookies, croissants and other pastries, and a full breakfast and\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "caf\u00e9"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Star Caf\u00e9 | Fort Worth Stockyards Eatery",
+                "url": "https://www.fortworthstockyards.org/eat/star-cafe",
+                "displayedUrl": "https://www.fortworthstockyards.org \u203a eat \u203a star-cafe",
+                "description": "The Star Cafe offers a nostalgic trip back to days long ago. Family owned and operated with pride, the Star Cafe is dedicated to old-fashioned service and\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "The Star Cafe offers a nostalgic trip back to days long ago"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Star Cafe| Imperial Missouri (@starcafe.imperial)",
+                "url": "https://www.instagram.com/starcafe.imperial/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0starcafe.imperial",
+                "description": "Coffee, Smoothies, and more! \u2615\ufe0f Local Family Owned \u2b50\ufe0f 2868 Seckman Rd Imperial, MO 63052 \u00b7 Who's coming tonight?! \u2b50\ufe0f We're OPEN 4\u20137pm tonight! No \u00b7 TEACHERS.Read more",
+                "emphasizedKeywords": [
+                    "2868 Seckman Rd Imperial, MO 63052"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.5K+ followers",
+                "channelName": "starcafe.imperial",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Star Cafe - 12320 Bellaire Blvd, Houston, TX, 77072-2265",
+                "url": "https://www.mapquest.com/us/texas/star-cafe-276714222",
+                "displayedUrl": "https://www.mapquest.com \u203a ... \u203a Houston, TX \u203a 77031",
+                "description": "Star Cafe is a cozy coffee shop in Houston, TX that offers a variety of hot and cold beverages, pastries, and light snacks.Read more",
+                "emphasizedKeywords": [
+                    "offers a variety of hot and cold beverages, pastries, and light snacks"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/dSfznljfBN2LXZUc2/records/nDVylOFiEkvRgTb-0.html?signature=ElrnOErSsKONxoqFi5rb"
+    }
+]

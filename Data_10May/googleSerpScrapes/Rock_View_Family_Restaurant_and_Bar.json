@@ -1,0 +1,260 @@
+[
+    {
+        "#debug": {
+            "requestId": "WOlR4FIBkYRt9tg",
+            "url": "http://www.google.com/search?q=Rock+View+Family+Restaurant+and+Bar",
+            "loadedUrl": "http://www.google.com/search?q=Rock+View+Family+Restaurant+and+Bar",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Rock View Family Restaurant and Bar",
+            "url": "http://www.google.com/search?q=Rock+View+Family+Restaurant+and+Bar",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Rock+View+Family+Restaurant+and+Bar",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Rock view family restaurant and bar menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+menu&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar locations",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+locations&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "The Rock Restaurant and Bar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Rock+Restaurant+and+Bar&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhYEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+reviews&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhSEAE"
+            },
+            {
+                "title": "The Rock restaurant and Bar menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Rock+restaurant+and+Bar+menu&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhJEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar prices",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+prices&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar phone number",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+phone+number&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+photos&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+menu&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar locations",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+locations&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhZEAE"
+            },
+            {
+                "title": "The Rock Restaurant and Bar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Rock+Restaurant+and+Bar&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhYEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+reviews&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhSEAE"
+            },
+            {
+                "title": "The Rock restaurant and Bar menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Rock+restaurant+and+Bar+menu&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhJEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar prices",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+prices&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar phone number",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+phone+number&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Rock view family restaurant and bar photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Rock+view+family+restaurant+and+bar+photos&sa=X&ved=2ahUKEwjf4IKo5a-UAxX5TmwGHWUILvAQ1QJ6BAg-EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "The Rock Restaurant & Bar",
+                "url": "https://rockrestaurantandbar.com/",
+                "displayedUrl": "https://rockrestaurantandbar.com",
+                "description": "Bring your family in for Breakfast, Lunch or Dinner and enjoy the Restaurant and our Award-winning patio. Come over to the bar side and try one of the Local Tap\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Bring your family in for Breakfast, Lunch or Dinner"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Rockview Family Farms: Home",
+                "url": "https://www.rockviewfarms.com/",
+                "displayedUrl": "https://www.rockviewfarms.com",
+                "description": "We're committed to delivering the most natural flavors and ensuring that every sip and bite is as wholesome as the land our cows roam.Read more",
+                "emphasizedKeywords": [
+                    "We're committed to delivering the most natural flavors"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Rockview Family Farms (@rockviewfarms) \u00b7 Downey, CA",
+                "url": "https://www.instagram.com/rockviewfarms/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0rockviewfarms",
+                "description": "Family-owned Southern California-based milk company providing high-quality dairy products   @LAFC & @LBCoastbaseball Official Dairy Partner.Read more",
+                "emphasizedKeywords": [
+                    "Family-owned Southern California-based milk company"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.6K+ followers",
+                "channelName": "rockviewfarms",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "The Rock Resturant & Bar - Centennial Restaurants",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g609128-d4191676-Reviews-The_Rock_Resturant_Bar-Centennial_Colorado.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Centennial Restaurants",
+                "description": "Serving Breakfast All Day Monday! If you haven't been to the Rock Restaurant and Bar yet, you are missing out on Saddle Rock's best kept secret!Read more",
+                "emphasizedKeywords": [
+                    "Serving Breakfast All Day Monday"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.7,
+                "numberOfReviews": 53,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Rock's Family Diner - Restaurant Reviews",
+                "url": "https://www.yelp.com/biz/rocks-family-diner-fort-kent",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a American",
+                "description": "What a great diner. Family run with a great atmosphere. Service was super friendly and the food was delicious. Rocks has a very expansive menu selection.Read more",
+                "emphasizedKeywords": [
+                    "Family run with a great atmosphere"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.7,
+                "numberOfReviews": 20,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Looking for a somewhere with a nice view:) Thoughts on ...",
+                "url": "https://www.facebook.com/groups/227161716029100/posts/1083860440359219/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Turks and Caicos Trip Planning (all resorts)",
+                "description": "Just ate appetizers at Vita Rock House Cave Bar and it was fabulous! Amazing views of the ocean. The pool and overall decor is stunning. I don't\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Just ate appetizers at Vita Rock House Cave Bar"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "reactions": "10+ comments",
+                "lastUpdated": "10 months ago",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Home - American Food & Live Music Restaurant | Rock ...",
+                "url": "https://www.rockandbrews.com/",
+                "displayedUrl": "https://www.rockandbrews.com",
+                "description": "Our food is made from scratch using locally sourced ingredients to provide a dining experience that is both enjoyable and feels good.Read more",
+                "emphasizedKeywords": [
+                    "made from scratch using locally sourced ingredients"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "How May We Help You?",
+                "url": "https://www.rockviewfarms.com/our-services/",
+                "displayedUrl": "https://www.rockviewfarms.com \u203a our-services",
+                "description": "From our farming operations to our state-of-the-art processing facilities and our warehousing and distribution capabilities, Rockview Family Farms does it all!Read more",
+                "emphasizedKeywords": [
+                    "Rockview Family Farms"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "THE ROCK BAR & GRILL - Restaurant Reviews",
+                "url": "https://www.yelp.com/biz/the-rock-bar-and-grill-beloit",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a New American",
+                "description": "THE ROCK BAR & GRILL - Try Our New Menu - 101 Maple Ave, Beloit, WI 53511, 62 Photos, (608) 363-7625, Mon - 11:00 am - 9:00 pm, Tue - 11:00 am - 9:00 pm,\u00a0...",
+                "emphasizedKeywords": [
+                    "101 Maple Ave, Beloit, WI 53511"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.3,
+                "numberOfReviews": 132,
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What is the 30 30 30 rule for restaurants?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Who owns Rockview Dairy?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "A Fine Dining Restaurant Like Nowhere Else in the World Nestled riverside under the Brooklyn Bridge, The River Caf\u00e9 exudes romance with its breathtaking NYC skyline views, gorgeous atmosphere and above all our classic American cuisine. The River Caf\u00e9 similarly boasts one of the most outstanding wine lists in the world.",
+                "question": "What is the best restaurant under the Brooklyn Bridge?",
+                "title": "Fine Dining NYC - The River Caf\u00e9 - American Restaurant",
+                "url": "https://rivercafe.com/#:~:text=A%20Fine%20Dining%20Restaurant%20Like%20Nowhere%20Else%20in%20the%20World&text=Nestled%20riverside%20under%20the%20Brooklyn,wine%20lists%20in%20the%20world.",
+                "date": null
+            },
+            {
+                "answer": "Rockwood Grill Popular Dishes\nPrime Rib. 11 Photos52 Reviews.Ahi Poke. 9 Photos6 Reviews.Eggs Benedict. 7 Photos12 Reviews.+7 Popular Dishes. King Crab Legs, Bacon Wrapped Dates, Filet Mignon, Caesar Salad, Cheese Pizza, Market Salad, Risotto.",
+                "question": "What are some popular dishes at Rockwood Grill?",
+                "title": "ROCKWOOD GRILL - Updated May 2026 - 939 Photos & 548 Reviews",
+                "url": "https://m.yelp.com/biz/rockwood-grill-palm-desert",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/5wdJCvjLwqtgyXaZZ/records/WOlR4FIBkYRt9tg-0.html?signature=vV3pEwkVNmpV3wUB8sDI"
+    }
+]

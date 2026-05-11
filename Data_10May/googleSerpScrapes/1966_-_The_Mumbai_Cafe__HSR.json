@@ -1,0 +1,281 @@
+[
+    {
+        "#debug": {
+            "requestId": "6SO9ZTVrrGFwSNQ",
+            "url": "http://www.google.com/search?q=1966+-+The+Mumbai+Cafe+%40+HSR",
+            "loadedUrl": "http://www.google.com/search?q=1966+-+The+Mumbai+Cafe+%40+HSR",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "1966 - The Mumbai Cafe @ HSR",
+            "url": "http://www.google.com/search?q=1966+-+The+Mumbai+Cafe+%40+HSR",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=1966+-+The+Mumbai+Cafe+%40+HSR",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "1966 the mumbai cafe hsr reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+hsr+reviews&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhfEAE"
+            },
+            {
+                "title": "1966 - The Mumbai Cafe hsr bengaluru reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+-+The+Mumbai+Cafe+hsr+bengaluru+reviews&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "1966 Mumbai Cafe Basavanagudi",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+Mumbai+Cafe+Basavanagudi&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhmEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe hsr menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+hsr+menu&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhlEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe hsr photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+hsr+photos&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhkEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe kaggadasapura",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+kaggadasapura&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "1966 The Mumbai Cafe Indiranagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+The+Mumbai+Cafe+Indiranagar&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe hsr price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+hsr+price&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhhEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe hsr reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+hsr+reviews&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhfEAE"
+            },
+            {
+                "title": "1966 - The Mumbai Cafe hsr bengaluru reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+-+The+Mumbai+Cafe+hsr+bengaluru+reviews&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "1966 Mumbai Cafe Basavanagudi",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+Mumbai+Cafe+Basavanagudi&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhmEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe hsr menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+hsr+menu&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhlEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe hsr photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+hsr+photos&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhkEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe kaggadasapura",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+kaggadasapura&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "1966 The Mumbai Cafe Indiranagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+The+Mumbai+Cafe+Indiranagar&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "1966 the mumbai cafe hsr price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=1966+the+mumbai+cafe+hsr+price&sa=X&ved=2ahUKEwjh0er05a-UAxUyUKQEHQhXCwoQ1QJ6BAhhEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "1966 - The Mumbai Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/1966-the-mumbai-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "1966 - The Mumbai Cafe \u00b7 Street Food \u00b7 Maharashtrian \u00b7 Fast Food \u00b7 Beverages \u00b7 Gujarati. 1583, 2nd Sector, 27th Main Road, Near IDC Kitchen, HSR, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "1583, 2nd Sector, 27th Main Road, Near IDC Kitchen, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4,
+                "numberOfReviews": 929,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "1966 - THE MUMBAI CAFE (@1966_themumbaicafe)",
+                "url": "https://www.instagram.com/1966_themumbaicafe/?hl=en",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a01966_themumbaicafe",
+                "description": "Celebrating the vibrancy of Mumbai street food in Namma Bengaluru! #1966mumbaicafe. Jayanagar | Indiranagar | Koramangala | Basavanagudi | HRBR | BTM \u00b7 Serving\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Celebrating the vibrancy of Mumbai street food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "4.8K+ followers",
+                "channelName": "1966_themumbaicafe",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "1966 - The Mumbai Cafe | HSR, Bangalore | Book Table",
+                "url": "https://www.district.in/dining/bangalore/1966-the-mumbai-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a 1966-the-mumbai-cafe-...",
+                "description": "1966 - The Mumbai Cafe. 1583, 2nd Sector, 27th Main Road, Near IDC Kitchen, HSR, Bangalore. See all outlets. Get directions \u00b7 +918668759182. Book a table\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "1583, 2nd Sector, 27th Main Road, Near IDC Kitchen, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "1966 The Mumbai Cafe - Fast Food in Hsr Layout",
+                "url": "https://www.justdial.com/Bangalore/1966-The-Mumbai-Cafe-Near-Idc-Kitchen-Hsr-Layout/080PXX80-XX80-250829100050-T7Z2_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a ... \u203a Fast Food in Hsr Layout",
+                "description": "Order Food Online from 1966 The Mumbai Cafe in hsr layout,Bangalore well known for Fast Food in Bangalore . Rated 4.3 based on 412 Customer Reviews and\u00a0...",
+                "emphasizedKeywords": [
+                    "1966 The Mumbai Cafe in hsr layout,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 412,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "HSR Layout, get ready! \ud83d\udea8 1966 The Mumbai Cafe is here ...",
+                "url": "https://www.instagram.com/p/DNM44NOTb5Y/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a01966_themumbaicafe",
+                "description": "Come be among the first to try it! \u200b   Address: Near Cinemax Theater, Government Colony, Bandra East, Mumbai - 400051 Reservations: +91 96197\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Near Cinemax Theater, Government Colony, Bandra East, Mumbai - 400051"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "10+ likes",
+                "lastUpdated": "9 months ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "1966-The Mumbai Cafe - Bangalore",
+                "url": "https://www.swiggy.com/city/bangalore/1966-the-mumbai-cafe-btm-layout-near-idc-kitchen-rest1036450",
+                "displayedUrl": "https://www.swiggy.com \u203a ... \u203a NEAR IDC KITCHEN",
+                "description": "1966-The Mumbai Cafe. (Outlet:NEAR IDC KITCHEN). NO.1583, 27TH MAIN ROAD, 2ND SECTOR NEAR IDC KITCHEN HSR LAYOUT BENGALURU, INDIA ,BTM South,Karnataka-560102.Read more",
+                "emphasizedKeywords": [
+                    "NO.1583, 27TH MAIN ROAD, 2ND SECTOR NEAR IDC KITCHEN HSR LAYOUT BENGALURU"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 271,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "1966 - The Mumbai Cafe | Bangalore",
+                "url": "https://www.facebook.com/1966TheMumbaiCafe/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a01966 - The Mumbai Cafe",
+                "description": "At 1966 The Mumbai Cafe, every plate carries a piece of Maharashtra's streets and stories For many, misal pav is a first taste \u2014 a bold introduction to layers\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "1966 The Mumbai Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "10+ followers",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "1966 - The Mumbai Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/vi/bangalore/1966-the-mumbai-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR",
+                "description": "1583, 2nd Sector, 27th Main Road, Near IDC Kitchen, HSR, Bangalore. ClosedOpens at 9am. Order Online. Book a Table. Offers available.Read more",
+                "emphasizedKeywords": [
+                    "1583, 2nd Sector, 27th Main Road, Near IDC Kitchen, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 873,
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "1966 - The Mumbai Cafe, HSR, Bangalore",
+                "url": "https://magicpin.in/Bangalore/Hsr/Restaurant/1966---The-Mumbai-Cafe/store/17690c7/",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Bangalore \u203a HSR \u203a Restaurant",
+                "description": "1966 - The Mumbai Cafe is a popular eating spot serving customers in HSR, Bangalore. Visit the store for more information.",
+                "emphasizedKeywords": [
+                    "1966 - The Mumbai Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 707,
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "1966 - The Mumbai Cafe, Jayanagar In the heart of Jayanagar ...",
+                "url": "https://www.instagram.com/reel/CzNfSrhrnn5/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0miss.explorer_blr",
+                "description": "The Mumbai Cafe takes pride in serving authentic Marathi cuisine, offering a delightful array of dishes that capture the essence of Mumbai's culinary heritage.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "320+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "reel",
+                "reelLength": "0:18",
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Leopold cafe is one of the most famous restaurant and bar in this place. This place was the first site where the 2008 Mumbai attacks took place on 26 November. The terrorists had first attacked here where the cafe had been very severely damaged.",
+                "question": "Why is Leopold Cafe so famous?",
+                "title": "Leopold Cafe: A Taste of History, Culture, and Resilience in Mumbai",
+                "url": "https://www.tripoto.com/mumbai/places-to-visit/leopold-cafe#:~:text=Leopold%20cafe%20is%20one%20of,had%20been%20very%20severely%20damaged.",
+                "date": null
+            },
+            {
+                "answer": "The Bombay Canteen is a restaurant and bar that is Indian at heart. It was born out of the desire to showcase the wealth of our country's cuisine. We recreate local, seasonal dishes and reinterpret age-old Indian culinary traditions with our frequently changing seasonal menus.",
+                "question": "What is Bombay Canteen famous for?",
+                "title": "About Us - The Bombay Canteen",
+                "url": "https://thebombaycanteen.com/pages/about-us#:~:text=The%20Bombay%20Canteen%20is%20a,our%20frequently%20changing%20seasonal%20menus.",
+                "date": null
+            },
+            {
+                "answer": "Maya Bangalore is known as India's first slow-moving restaurant, focusing on sustainability and art. The restaurant resembles a charming bungalow in Pondicherry and features an art gallery.",
+                "question": "What is Maya Bangalore famous for?",
+                "title": "Maya Bangalore, Bengaluru, India - Reviews, Ratings, Tips ... - Wanderlog",
+                "url": "https://wanderlog.com/place/details/3949276/maya-bangalore#:~:text=Maya%20Bangalore%20is%20known%20as,and%20features%20an%20art%20gallery.",
+                "date": null
+            },
+            {
+                "answer": "Caf\u00e9 Le Procope - one of the crucial cultural landmarks of Paris. Opening its doors in 1686, Caf\u00e9 Le Procope is to be considered as the oldest operating caf\u00e9 in Paris, and probably one of the most ancient ones in the Western world.",
+                "question": "Where is the oldest cafe?",
+                "title": "The oldest coffee houses around the world - Lavazza",
+                "url": "https://www.lavazzausa.com/en/other-than-coffee/oldest-coffee-houses-around-world#:~:text=Caf%C3%A9%20Le%20Procope%20%2D%20one%20of,ones%20in%20the%20Western%20world.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/llYaTgSnEYGjN72CF/records/6SO9ZTVrrGFwSNQ-0.html?signature=mwrIVdayF3aUIUutyMj3"
+    }
+]

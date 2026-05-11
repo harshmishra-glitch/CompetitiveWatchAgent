@@ -1,0 +1,228 @@
+[
+    {
+        "#debug": {
+            "requestId": "DTY8kIZqqssijrD",
+            "url": "http://www.google.com/search?q=abcoffee+HSR+Layout",
+            "loadedUrl": "http://www.google.com/search?q=abcoffee+HSR+Layout",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "abcoffee HSR Layout",
+            "url": "http://www.google.com/search?q=abcoffee+HSR+Layout",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=abcoffee+HSR+Layout",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Abcoffee hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Abcoffee+hsr+layout+menu&sa=X&ved=2ahUKEwiqr5Wt46-UAxUphf0HHaQsBE8Q1QJ6BAh0EAE"
+            },
+            {
+                "title": "Abcoffee hsr menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Abcoffee+hsr+menu&sa=X&ved=2ahUKEwiqr5Wt46-UAxUphf0HHaQsBE8Q1QJ6BQiKARAB"
+            },
+            {
+                "title": "Abcoffee hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Abcoffee+hsr+layout+reviews&sa=X&ved=2ahUKEwiqr5Wt46-UAxUphf0HHaQsBE8Q1QJ6BQiIARAB"
+            },
+            {
+                "title": "Abcoffee hsr layout offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Abcoffee+hsr+layout+offers&sa=X&ved=2ahUKEwiqr5Wt46-UAxUphf0HHaQsBE8Q1QJ6BQiCARAB"
+            },
+            {
+                "title": "Abcoffee hsr Layout photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Abcoffee+hsr+Layout+photos&sa=X&ved=2ahUKEwiqr5Wt46-UAxUphf0HHaQsBE8Q1QJ6BAh-EAE"
+            },
+            {
+                "title": "Abcoffee HSR reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Abcoffee+HSR+reviews&sa=X&ved=2ahUKEwiqr5Wt46-UAxUphf0HHaQsBE8Q1QJ6BAh8EAE"
+            },
+            {
+                "title": "Abcoffee indiranagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Abcoffee+indiranagar&sa=X&ved=2ahUKEwiqr5Wt46-UAxUphf0HHaQsBE8Q1QJ6BAh6EAE"
+            },
+            {
+                "title": "Abcoffee Koramangala",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Abcoffee+Koramangala&sa=X&ved=2ahUKEwiqr5Wt46-UAxUphf0HHaQsBE8Q1QJ6BAh5EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "abcoffee, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/abcoffee-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "1252/C, Ground Floor, 22Nd Main Road, 1St Sector, Btm Layout, B.B.M.P HSR, Bangalore. Open now6:40am \u2013 11:50pm (Today)\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "1252/C, Ground Floor, 22Nd Main Road, 1St Sector, Btm Layout, B.B.M.P HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": 64,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Our Decks",
+                "url": "https://www.abcoffee.in/our-decks?srsltid=AfmBOor48u35pyEduxHHjF0PkNY9ZfHvkzMjLaBT_WoImxlRVjk_g2ck",
+                "displayedUrl": "https://www.abcoffee.in \u203a our-decks",
+                "description": "abcoffee | HSR Layout. 1252/C, Ground Floor, 22nd Main Road, 1st Sector, HSR Layout, Bengaluru - 560102. 8655438042. Timing. Mon - Fri: 7:00AM to 2:00AM. Sat\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "1252/C, Ground Floor, 22nd Main Road, 1st Sector, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "abcoffee | HSR, Bangalore | Coffee Restaurant",
+                "url": "https://www.district.in/dining/bangalore/abcoffee-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a abcoffee-hsr-bangalore",
+                "description": "abcoffee. 1252/C, Ground Floor, 22Nd Main Road, 1St Sector, Btm Layout, B.B.M.P HSR, Bangalore. See all outlets. Get directions \u00b7 +919136300338. Select Location.Read more",
+                "emphasizedKeywords": [
+                    "1252/C, Ground Floor, 22Nd Main Road, 1St Sector, Btm Layout, B.B.M.P HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Ab Coffee in HSR Layout Sector 1,Bangalore",
+                "url": "https://www.justdial.com/Bangalore/A-B-Coffee-Hsr-Layout/080PXX80-XX80-250109193109-X2T9_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a A-B-Coffee-Hsr-...",
+                "description": "Ab Coffee in HSR Layout Sector 1,Bangalore well known for Coffee Shops in Bangalore . Rated 4.2 based on 237 Customer Reviews and Ratings with 39 Photos.",
+                "emphasizedKeywords": [
+                    "Ab Coffee in HSR Layout Sector 1,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": 237,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Best Cafes in HSR Layout Bangalore + Flat 50% Off Dineout ...",
+                "url": "https://www.youtube.com/shorts/Ull5MwtuaJk",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0Zafir Syed",
+                "description": "\u200b@swiggydineout I stumbled on a new abcoffee dine-in spot in HSR Layout ... Best Cafes in HSR Layout Bangalore + Flat 50% Off Dineout Deals (\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "2.9K+ views",
+                "lastUpdated": "1 month ago",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "AB Coffee, HSR Layout",
+                "url": "https://www.mappls.com/place-ab+coffee-no+1252$c-ground+floor-22nd+main+road-vanganahalli-1st+sector-hsr+layout-bengaluru-karnataka-560102-I6F93F@zdata=MTIuOTE2NDIxKzc3LjY0NzI5NysxNytJNkY5M0YrK25yed",
+                "displayedUrl": "https://www.mappls.com \u203a place-ab+coffee-no+1252$c...",
+                "description": "Information \u00b7 i6f93f, No 1252/C, Ground Floor, 22nd Main Road, Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka, 560102. DIGIPIN: 4P3-JP4-P23M.Read more",
+                "emphasizedKeywords": [
+                    "No 1252/C, Ground Floor, 22nd Main Road, Vanganahalli, 1st Sector, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Bangalore Buzz : Offers and More | abCoffee First Retail Deck ...",
+                "url": "https://www.instagram.com/reel/DEP71gVSfSC/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0offerbengaluru",
+                "description": "abCoffee First Retail Deck in HSR Layout Bangalore \u00b7 #cafe #coffee #bangalore #nammabengaluru #abcoffee #coffeetime #caffeine #ghibli #anime #\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "10+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:05",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "abcoffee, HSR, Bangalore",
+                "url": "https://magicpin.in/Bangalore/Hsr/Restaurant/Abcoffee/store/17114c1/",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Bangalore \u203a HSR \u203a Restaurant",
+                "description": "Photos. PhotosFood Menu. Address. abCoffee 1252/C, Ground Floor, 22nd Main Road, 1st Sector, HSR Layout, Bengaluru, BTM Layout, B.B.M.P South, Karnataka-560102.Read more",
+                "emphasizedKeywords": [
+                    "1252/C, Ground Floor, 22nd Main Road, 1st Sector, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": 2,
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Abcoffee Hsr Layout",
+                "url": "https://www.instagram.com/popular/abcoffee-hsr-layout/",
+                "displayedUrl": "https://www.instagram.com \u203a popular \u203a abcoffee-hsr-la...",
+                "description": "Mar 27, 2026 \u2014 Abcoffee Hsr Layout \u00b7 Purpose Matcha + Coffee House , Richmond town, Bangalore @purpose.matcha # \u00b7 when one matcha isn't enough, 12g it is     . .Read more",
+                "date": "2026-03-27T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Abcoffee Hsr Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "popular",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "\u200dabCoffee's Specialty Coffee beans are high-quality, ethically sourced from India's Finest Coffee Estates, i.e. Harley's & Barbara Estates, with distinct flavors.",
+                "question": "Where did AB Coffee originate?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Where do we get the best coffee in Bangalore?",
+                "title": null,
+                "url": "https://socialoffline.in/blogs/best-cafes-in-bangalore/",
+                "date": null
+            },
+            {
+                "answer": "Meet our second speaker, Abhijeet Anand. Founder and CEO of abCoffee, he's redefining how India experiences specialty coffee on the go. From a decade in global oil and gas to building a fast-scaling consumer brand, his journey is anything but ordinary.",
+                "question": "Who is the CEO of AB Coffee?",
+                "title": "Abhijeet Anand (@brewwithabhijeet) \u2022 Instagram photos and videos",
+                "url": "https://www.instagram.com/brewwithabhijeet/#:~:text=Meet%20our%20second%20speaker%2C%20Abhijeet,journey%20is%20anything%20but%20ordinary.",
+                "date": null
+            },
+            {
+                "answer": "100% Specialty coffee blend of premium specialty Arabica and Robusta beans. Roasted to perfection to have the best of features of Aroma, Body and after taste as per Indian palate.",
+                "question": "What kind of coffee is abCoffee?",
+                "title": "Signature Blends \u2013 abcoffee",
+                "url": "https://abcoffeeeindia.myshopify.com/products/abcoffee#:~:text=100%25%20Specialty%20coffee%20blend%20of,taste%20as%20per%20Indian%20palate.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/yQQ2OgCf9Dc391Z51/records/DTY8kIZqqssijrD-0.html?signature=94Kmw8T3atpYSyLHjZmG"
+    }
+]

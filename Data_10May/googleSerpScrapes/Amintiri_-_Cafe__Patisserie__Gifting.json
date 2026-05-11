@@ -1,0 +1,220 @@
+[
+    {
+        "#debug": {
+            "requestId": "7YmBpjyioETwNJx",
+            "url": "http://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting",
+            "loadedUrl": "http://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Amintiri - Cafe | Patisserie | Gifting",
+            "url": "http://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Amintiri+-+Cafe+%7C+Patisserie+%7C+Gifting",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Amintiri cafe patisserie gifting price list",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amintiri+cafe+patisserie+gifting+price+list&sa=X&ved=2ahUKEwjYhda04q-UAxUGSjABHbrmLKEQ1QJ6BAhzEAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amintiri+cafe+patisserie+gifting+menu&sa=X&ved=2ahUKEwjYhda04q-UAxUGSjABHbrmLKEQ1QJ6BQiNARAB"
+            },
+            {
+                "title": "Amintiri Cafe Patisserie Gifting reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amintiri+Cafe+Patisserie+Gifting+reviews&sa=X&ved=2ahUKEwjYhda04q-UAxUGSjABHbrmLKEQ1QJ6BQiJARAB"
+            },
+            {
+                "title": "Amintiri Cafe patisserie gifting photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amintiri+Cafe+patisserie+gifting+photos&sa=X&ved=2ahUKEwjYhda04q-UAxUGSjABHbrmLKEQ1QJ6BQiHARAB"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amintiri+cafe+patisserie+gifting+price&sa=X&ved=2ahUKEwjYhda04q-UAxUGSjABHbrmLKEQ1QJ6BQiEARAB"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amintiri+cafe+patisserie+gifting+near+me&sa=X&ved=2ahUKEwjYhda04q-UAxUGSjABHbrmLKEQ1QJ6BQiBARAB"
+            },
+            {
+                "title": "Amintiri menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amintiri+menu&sa=X&ved=2ahUKEwjYhda04q-UAxUGSjABHbrmLKEQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "Amintiri cafe patisserie gifting Bengaluru",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amintiri+cafe+patisserie+gifting+Bengaluru&sa=X&ved=2ahUKEwjYhda04q-UAxUGSjABHbrmLKEQ1QJ6BAh0EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Amintiri: Online Cake Delivery Near Me | Order Best Cakes in ...",
+                "url": "https://amintiri.in/?srsltid=AfmBOoou8XBCLAxIpR64OuTxIyp2jA-7kEM3vyR7xfffnDNwhZaGQcII",
+                "displayedUrl": "https://amintiri.in",
+                "description": "Best Customized Cakes for all Occasions. Choose from the widest varieties of cakes Online. Freshly prepared cakes delivered anywhere in Bangalore\u00a0...",
+                "emphasizedKeywords": [
+                    "Best Customized Cakes for all Occasions"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Cafe",
+                "url": "https://amintiri.in/pages/cafe?srsltid=AfmBOoq9qjCY7hPAMH9U97ZordIEv09uvIRWbRFIiE9UooQ9IjUkmexY",
+                "displayedUrl": "https://amintiri.in \u203a pages \u203a cafe",
+                "description": "Access to our cafe menu including all the food, desserts and beverages. Also available on this link is a select range of cakes, cake loaves and macarons.Read more",
+                "emphasizedKeywords": [
+                    "Access to our cafe menu"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "(@amintiriindia) \u2022 Instagram photos and videos",
+                "url": "https://www.instagram.com/amintiriindia/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0amintiriindia",
+                "description": "Simple joy, beautifully done! \u2728Cakes | Cafe | Gifts | Flowers Museum Road HSR Breakfast: 8:30am to 11:30am. Lunch: 1pm onwards. Order Now    . Follow.Read more",
+                "emphasizedKeywords": [
+                    "Museum Road HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "51.1K+ followers",
+                "channelName": "amintiriindia",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Hampers",
+                "url": "https://amintiri.in/collections/hampers?srsltid=AfmBOooe_8JuPo4XONvGJdKcVv409yv7LyXYhzncDW81MZbL-y9dhDvx",
+                "displayedUrl": "https://amintiri.in \u203a collections \u203a hampers",
+                "description": "Hamper : Luxurious (Eggless) \u00b7 Rs. 3,340 ; Hamper : Sumptuous (Eggless) \u00b7 Rs. 2,370 ; Butter Classics Combo \u00b7 Rs. 990 ; Hamper : Indulgent (Eggless) \u00b7 Rs. 1,040.Read more",
+                "emphasizedKeywords": [
+                    "Hamper : Luxurious (Eggless) \u00b7 Rs. 3,340"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "AMINTIRI - PATISSERIE | CAFE | CAKE SHOP, Bengaluru",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g297628-d24976820-Reviews-Amintiri_Patisserie_Cafe_Cake_Shop-Bengaluru_Bangalore_District_Karnataka.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Bengaluru Restaurants",
+                "description": "Stylish bakery & cafe creating handmade cakes & desserts, plus pasta plates & salads.Amintiri - Patisserie | Cafe | Cake ShopRead more",
+                "emphasizedKeywords": [
+                    "Stylish bakery & cafe creating handmade cakes & desserts"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Celebration Cakes",
+                "url": "https://amintiri.in/collections/celebration-cakes?srsltid=AfmBOorTPpP9H1p2oTcUQsKTgfiHEMV1Nfct8tl4tzKkux_gCL0xrFoL",
+                "displayedUrl": "https://amintiri.in \u203a collections \u203a celebration-cakes",
+                "description": "Filters \u00b7 Mango And Coconut Cake \u00b7 Mango Pull Up Cake (eggless) \u00b7 Mango Tres Leches Dapper (Eggless) \u00b7 Mango And Cashew Entremet \u00b7 Mango Cheesecake (Eggless).Read more",
+                "emphasizedKeywords": [
+                    "Mango And Coconut Cake"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Amintiri - Cafe | Patisserie | Gifting, Bengaluru, India",
+                "url": "https://wanderlog.com/place/details/2365574/amintiri-cafe--patisserie--gifting",
+                "displayedUrl": "https://wanderlog.com \u203a place \u203a details \u203a amintiri-cafe--...",
+                "description": "Amintiri is a trendy bakery and cafe located in Ashok Nagar, known for its handmade cakes, desserts, pasta dishes, and salads. The establishment offers an\u00a0...",
+                "emphasizedKeywords": [
+                    "Amintiri is a trendy bakery and cafe located in Ashok Nagar"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Desserts and Cafe",
+                "url": "https://amintiri.in/collections/desserts-and-cafe?srsltid=AfmBOoorTwCt45ibywEwIIZA_KAZZUjWeH8IXJsmob5iVmUeJqOgDQOn",
+                "displayedUrl": "https://amintiri.in \u203a collections \u203a desserts-and-cafe",
+                "description": "Hazelnut Chocolate Truffle Cake (Eggless). Regular price Rs. 1,380. Sale price Rs. 1,380 Regular price. Unit price. /. ADD. Moist cocoa sponge layered with\u00a0...Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Amintiri HSR Layout Amintiri in HSR is a popular caf\u00e9 and ...",
+                "url": "https://www.instagram.com/reel/DN0EnX1ZDD3/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0brewtiful_bengaluru",
+                "description": "Amintiri in HSR is a popular caf\u00e9 and patisserie known for its elegant desserts and chic ambience, but reviews suggest the experience here can\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "40+ likes",
+                "lastUpdated": "8 months ago",
+                "channelName": "reel",
+                "reelLength": "0:20",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Founded by Suraj Madhnani, Amintiri is a new age online and offline cafe and cakery in Bangalore.",
+                "question": "Who is the owner of amintiri?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Address.Popular Dishes. Blueberry Cheesecake, Hot Chocolate, Cakes, Desserts.People Say This Place Is Known For. Elegant Decor, Humble Staff, Excellent Location, Served Quickly, Clean and Hygienic Place, Mouth Watering Food.Average Cost. \u20b91,100 for two people (approx.)More Info.",
+                "question": "What's famous in Amintiri?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "AMINTIRI,Which means 'Memories' in Romanian language is an absolute gem in Bangalore,Church Street.",
+                "question": "What does amintiri mean?",
+                "title": null,
+                "url": null,
+                "date": "Mar 7, 2025"
+            },
+            {
+                "answer": "Best Sellers\nCookie Dough Cake (Eggless) Rs. 680. ... Cookie Dough Cake. Rs. 680. ... Almond and Milk Chocolate Brunette. Rs. 680. ... Double Chocolate Walnut Brownie. Rs. 680. ... Double Chocolate Walnut Brownie (Eggless) Rs. 680. ... Gluten Free Chocolate Fudge Brownie. Rs. 680. ... Nutella and Fresh Strawberry Entremet. Rs. 1,380. ... Matilda Cake. Rs.",
+                "question": "Which is the best cake in Amintiri?",
+                "title": "Best Sellers - Amintiri",
+                "url": "https://amintiri.in/collections/best-sellers",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/lysVN2MO83ac7zeCc/records/7YmBpjyioETwNJx-0.html?signature=1fWU7IiJBzhe9JTEJslh3"
+    }
+]

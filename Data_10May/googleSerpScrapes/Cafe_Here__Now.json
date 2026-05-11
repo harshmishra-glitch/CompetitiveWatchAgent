@@ -1,0 +1,241 @@
+[
+    {
+        "#debug": {
+            "requestId": "oyrSP3HpDk98F0Q",
+            "url": "http://www.google.com/search?q=Cafe+Here+%26+Now",
+            "loadedUrl": "http://www.google.com/search?q=Cafe+Here+%26+Now",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Cafe Here & Now",
+            "url": "http://www.google.com/search?q=Cafe+Here+%26+Now",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Cafe+Here+%26+Now",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Cafe here & now menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+%26+now+menu&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Cafe here & now reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+%26+now+reviews&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhyEAE"
+            },
+            {
+                "title": "Cafe here & now hsr layout",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+%26+now+hsr+layout&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhxEAE"
+            },
+            {
+                "title": "Cafe here and now menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+and+now+menu&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhwEAE"
+            },
+            {
+                "title": "Cafe here & now photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+%26+now+photos&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Cafe Here and Now owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+Here+and+Now+owner&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "HSR Cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=HSR+Cafe&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Best cafe in HSR Layout",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Best+cafe+in+HSR+Layout&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhrEAE"
+            },
+            {
+                "title": "Cafe here & now menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+%26+now+menu&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Cafe here & now reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+%26+now+reviews&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhyEAE"
+            },
+            {
+                "title": "Cafe here & now hsr layout",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+%26+now+hsr+layout&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhxEAE"
+            },
+            {
+                "title": "Cafe here and now menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+and+now+menu&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhwEAE"
+            },
+            {
+                "title": "Cafe here & now photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+here+%26+now+photos&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Cafe Here and Now owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cafe+Here+and+Now+owner&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "HSR Cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=HSR+Cafe&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Best cafe in HSR Layout",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Best+cafe+in+HSR+Layout&sa=X&ved=2ahUKEwjNpKad4a-UAxXpXvEDHT-QD2MQ1QJ6BAhrEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Cafe Here & Now | HSR Layout (@cafehereandnow)",
+                "url": "https://www.instagram.com/cafehereandnow/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cafehereandnow",
+                "description": "1.5K+ followers \u00b7 965 posts \u00b7 A cozy, little gem in HSR that serves All Day English Breakfast, Pancakes, Burgers, Sandwiches & Omelettes.",
+                "emphasizedKeywords": [
+                    "All Day English Breakfast, Pancakes, Burgers, Sandwiches & Omelettes"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.5K+ followers",
+                "channelName": "cafehereandnow",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Here & Now, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/here-now-hsr",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "This place is known for brunch place, breakfast options, positive vibe, beautiful cafe, large portions, nice cozy place.Read more",
+                "emphasizedKeywords": [
+                    "cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.7,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Happier Now Market and Cafe | Visit, Dine, Enjoy Today",
+                "url": "https://www.happiernowcafe.com/",
+                "displayedUrl": "https://www.happiernowcafe.com",
+                "description": "Enjoy fresh, high-quality food and beverages at La Grange Park's Happier Now Caf\u00e9 & Market, featuring casual dining, events, and local market offerings.",
+                "emphasizedKeywords": [
+                    "La Grange Park's Happier Now Caf\u00e9 & Market"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "From Here On Caf\u00e9 Menu",
+                "url": "https://www.fromhereonchicago.com/from-here-on-cafe-menu",
+                "displayedUrl": "https://www.fromhereonchicago.com \u203a from-here-on-caf...",
+                "description": "The From Here On Caf\u00e9 is crafting delicious coffee drinks using traditional methods and quality beans from local roasters. Stop by for a macchiato,\u00a0...",
+                "emphasizedKeywords": [
+                    "crafting delicious coffee drinks using traditional methods"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Cheever's Cafe | American Restaurant in Oklahoma City, OK",
+                "url": "https://www.cheeverscafe.com/",
+                "displayedUrl": "https://www.cheeverscafe.com",
+                "description": "Elegant bistro offering upscale Southwestern & Southern cuisine plus cocktails & wines.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "HERE CAFE - Updated April 2026 - 1101 ...",
+                "url": "https://www.yelp.com/biz/here-cafe-arlington",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a Cafes",
+                "description": "1 review of HERE CAFE \"I really wanted to like this place since it's located across the street from where and when something new opens in Rosslyn,\u00a0...",
+                "emphasizedKeywords": [
+                    "HERE CAFE"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 2,
+                "numberOfReviews": 1,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "And Cafe Here and Now is where you get them all. # ...",
+                "url": "https://www.instagram.com/p/CNK00DmFGqS/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cafehereandnow",
+                "description": "An English kitchen where the works refuse to behave. Visit us today ! Cafe Here and Now. HSR Layout #Cafehereandnow #hsrlayout #englishkitchen\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Cafe Here and Now"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "10+ likes",
+                "lastUpdated": "5 years ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "fromhereonchicago.menu: Home",
+                "url": "https://fromhereonchicago.menu/",
+                "displayedUrl": "https://fromhereonchicago.menu",
+                "description": "Order food and drinks \u00b7 Click Here for Catering Orders.Read more",
+                "emphasizedKeywords": [
+                    "Order food and drinks"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Heritage House Coffee & Tea",
+                "url": "https://www.heritagehousecoffee.com/",
+                "displayedUrl": "https://www.heritagehousecoffee.com",
+                "description": "Over the years, Heritage House has flourished into the business that it is today, now offering over 40 diverse coffees from all over the world, a collection of\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Heritage House"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Heather's Cafe",
+                "url": "http://www.heatherscafe.com/",
+                "displayedUrl": "http://www.heatherscafe.com",
+                "description": "Home \u00b7 Food \u00b7 Drinks \u00b7 Catering \u00b7 Catering Menu \u00b7 Charcuterie Catering Menu \u00b7 ezCater \u00b7 Inquiry \u00b7 Our Story \u00b7 Our History \u00b7 Our Sponsors \u00b7 Find Us\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/48fAnxm7dG3eB6XJZ/records/oyrSP3HpDk98F0Q-0.html?signature=WGkJCqONRCgQi6lTdyr"
+    }
+]

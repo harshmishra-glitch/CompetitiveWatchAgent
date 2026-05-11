@@ -1,0 +1,243 @@
+[
+    {
+        "#debug": {
+            "requestId": "ZFUSkPgkBPf6Yd6",
+            "url": "http://www.google.com/search?q=TEA+HOUSE",
+            "loadedUrl": "http://www.google.com/search?q=TEA+HOUSE",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "TEA HOUSE",
+            "url": "http://www.google.com/search?q=TEA+HOUSE",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=TEA+HOUSE",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Tea house near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+house+near+me&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Tea house restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+house+restaurant&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhOEAE"
+            },
+            {
+                "title": "Tea House Minneapolis",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+Minneapolis&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhHEAE"
+            },
+            {
+                "title": "Tea house menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+house+menu&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhGEAE"
+            },
+            {
+                "title": "Tea House Tea",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+Tea&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Tea House stadium village",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+stadium+village&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Tea House dinkytown",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+dinkytown&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Tea House Plymouth",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+Plymouth&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "Tea house near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+house+near+me&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Tea house restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+house+restaurant&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhOEAE"
+            },
+            {
+                "title": "Tea House Minneapolis",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+Minneapolis&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhHEAE"
+            },
+            {
+                "title": "Tea house menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+house+menu&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhGEAE"
+            },
+            {
+                "title": "Tea House Tea",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+Tea&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Tea House stadium village",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+stadium+village&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Tea House dinkytown",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+dinkytown&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Tea House Plymouth",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tea+House+Plymouth&sa=X&ved=2ahUKEwidsJ3G5a-UAxVkSKQEHXh-DxUQ1QJ6BAg8EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Tea House Chinese Restaurant",
+                "url": "https://www.teahouseumn.com/",
+                "displayedUrl": "https://www.teahouseumn.com",
+                "description": "The best Chinese restaurant in the Twin Cities is on University Avenue in Minneapolis ... Tea House embraces the soul of China's regional cuisines \u2014 and nails it\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "on University Avenue in Minneapolis"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "The Teahouse: Home",
+                "url": "https://teahousebeverage.com/",
+                "displayedUrl": "https://teahousebeverage.com",
+                "description": "To create exceptional community experiences through traditional Taiwanese tea flavors, inspiring happiness in every cup. 832-468-7388 (TEA-HOU-SETT). Follow\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "832-46"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Teahouse",
+                "url": "https://en.wikipedia.org/wiki/Teahouse",
+                "displayedUrl": "https://en.wikipedia.org \u203a wiki \u203a Teahouse",
+                "description": "A teahouse [1] or tearoom (also tea room) is an establishment which primarily serves tea and other light refreshments.Read more",
+                "emphasizedKeywords": [
+                    "teahouse",
+                    "tea room"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Santa Fe Teahouse: Teahouse Santa Fe | A Place For ...",
+                "url": "https://www.santafeteahouse.com/?srsltid=AfmBOopfuNOYnuHyvvzRQI_ZMW4b0VMAGoJLkyZPWomI_TlfNVaGfIgj",
+                "displayedUrl": "https://www.santafeteahouse.com",
+                "description": "Order our fine imported teas and local Santa Fe blends including, Green Teas, Oolong Teas, Black Teas, Herbal Teas, Matcha and more!",
+                "emphasizedKeywords": [
+                    "Order our fine imported teas and local Santa Fe blends"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "THE TEA HOUSE ON LOS RIOS - Updated May 2026",
+                "url": "https://www.yelp.com/biz/the-tea-house-on-los-rios-san-juan-capistrano",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Food \u203a Tea Rooms",
+                "description": "THE TEA HOUSE ON LOS RIOS - Try Our New Menu - 31731 Los Rios St, San Juan Capistrano, CA 92675, 4272 Photos, (949) 443-3914, Mon - 11:00 am - 4:00 pm,\u00a0...",
+                "emphasizedKeywords": [
+                    "31731 Los Rios St, San Juan Capistrano, CA 92675"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.2,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "The Tea House, Cannabis Dispensary in Vermont \u2013 The Tea ...",
+                "url": "https://teahousevt.com/",
+                "displayedUrl": "https://teahousevt.com",
+                "description": "Best Cannabis Dispensary in White River Junction, also a Medical Cannabis Dispensary. Providing Premium Vermont cannabis flower, edibles,\u00a0...",
+                "emphasizedKeywords": [
+                    "Best Cannabis Dispensary in White River Junction"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Original Tea House",
+                "url": "https://theoriginalteahouse.com/",
+                "displayedUrl": "https://theoriginalteahouse.com",
+                "description": "Immerse yourself in our carefully curated collection of premium teas from around the world, each selected for its exceptional quality and authentic character.Read more",
+                "emphasizedKeywords": [
+                    "premium teas from around the world"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "The Teahouse | Melbourne FL",
+                "url": "https://www.facebook.com/p/The-Teahouse-100079545641516/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0The Teahouse",
+                "description": "Location: 819-2 Strawbridge Avenue in Historic Downtown Melbourne. FL 32901 (La Galerie Arcade, north end) Gallery Hours: T-F 12-5, Sat 12-6, Sun 12-4 Contact\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "819-2 Strawbridge Avenue in Historic Downtown Melbourne"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 1,
+                "followersAmount": "1.1K+ followers",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What is a tea house?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "During the Edo period, the term \"teahouse\" came to refer to the place where geisha would entertain their clients or as a place where couples seeking privacy could go. In this case, the establishment was referred to as an ochaya, literally meaning \"tea house\"; however, these establishments only served tea incidentally.",
+                "question": "Why are they called tea houses?",
+                "title": "Teahouse - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Teahouse#:~:text=During%20the%20Edo%20period%2C%20the,establishments%20only%20served%20tea%20incidentally.",
+                "date": null
+            },
+            {
+                "answer": "A porcelain gaiwan is a common choice for lighter teas \u2014 white, green, and light oolongs. Floral and milky Taiwanese oolongs are often served in traditional porcelain gaiwan with floral patterns. Darker teas, like black tea, pu-erh, and dark oolongs, might be served in Yixing clay gaiwan or round teapots.",
+                "question": "What kind of tea is served in a tea house?",
+                "title": "Visiting A Tea Hut - Path of Cha",
+                "url": "https://pathofcha.com/blogs/all-about-tea/visiting-a-tea-hut#:~:text=A%20porcelain%20gaiwan%20is%20a,clay%20gaiwan%20or%20round%20teapots.",
+                "date": "Dec 23, 2019"
+            },
+            {
+                "answer": "They typically provide traditional afternoon tea or cream teas including freshly made sandwiches, scones, cakes, biscuits and sweet pastries. Some are also licensed to serve alcohol such as Pimms, Prosecco and champagne as part of luxury afternoon tea menus.",
+                "question": "What is a tea house in England?",
+                "title": "Tea Room | SWLEP",
+                "url": "https://static.swlep.co.uk/swlep/docs/librariesprovider2/business-opportunity-profiles-(bops)/tea-room-1514.pdf?sfvrsn=1d32b2c1_4#:~:text=They%20typically%20provide%20traditional%20afternoon,of%20luxury%20afternoon%20tea%20menus.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/EpjA9YCWhYY2qti7G/records/ZFUSkPgkBPf6Yd6-0.html?signature=1gBxeuD2zzgztYxlWdOEd"
+    }
+]

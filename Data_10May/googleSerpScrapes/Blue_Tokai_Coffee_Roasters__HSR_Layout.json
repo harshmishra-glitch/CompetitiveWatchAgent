@@ -1,0 +1,261 @@
+[
+    {
+        "#debug": {
+            "requestId": "KfaOgi95vQ0EpdB",
+            "url": "http://www.google.com/search?q=Blue+Tokai+Coffee+Roasters+%7C+HSR+Layout",
+            "loadedUrl": "http://www.google.com/search?q=Blue+Tokai+Coffee+Roasters+%7C+HSR+Layout",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Blue Tokai Coffee Roasters | HSR Layout",
+            "url": "http://www.google.com/search?q=Blue+Tokai+Coffee+Roasters+%7C+HSR+Layout",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Blue+Tokai+Coffee+Roasters+%7C+HSR+Layout",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Blue tokai coffee roasters hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+coffee+roasters+hsr+layout+reviews&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAgtEAE"
+            },
+            {
+                "title": "Blue tokai coffee roasters hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+coffee+roasters+hsr+layout+menu&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Blue tokai hsr sector 7",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+hsr+sector+7&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Blue tokai coffee roasters HSR layout photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+coffee+roasters+HSR+layout+photos&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Blue Tokai Koramangala",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+Tokai+Koramangala&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Blue Tokai Bangalore",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+Tokai+Bangalore&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Blue tokai hsr sector 1",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+hsr+sector+1&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAgwEAE"
+            },
+            {
+                "title": "Blue Tokai near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+Tokai+near+me&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAguEAE"
+            },
+            {
+                "title": "Blue tokai coffee roasters hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+coffee+roasters+hsr+layout+reviews&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAgtEAE"
+            },
+            {
+                "title": "Blue tokai coffee roasters hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+coffee+roasters+hsr+layout+menu&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Blue tokai hsr sector 7",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+hsr+sector+7&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Blue tokai coffee roasters HSR layout photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+coffee+roasters+HSR+layout+photos&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Blue Tokai Koramangala",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+Tokai+Koramangala&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Blue Tokai Bangalore",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+Tokai+Bangalore&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Blue tokai hsr sector 1",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+tokai+hsr+sector+1&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAgwEAE"
+            },
+            {
+                "title": "Blue Tokai near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Blue+Tokai+near+me&sa=X&ved=2ahUKEwi_ysmr4q-UAxUhRmcHHeLOCKoQ1QJ6BAguEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Blue Tokai Coffee Roasters | HSR Layout",
+                "url": "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-hsr-layout-cafe-sector-1-hsr-layout-bengaluru-436787/Home/",
+                "displayedUrl": "https://stores.bluetokaicoffee.com \u203a Home",
+                "description": "Blue Tokai Coffee Roasters | HSR Layout \u00b7 Bengaluru \u00b7 919311762817 \u00b7 Mon to Sun : 08:00 AM to 11:00 PM. Open until 11:00 PM. GET DIRECTION.Read more",
+                "emphasizedKeywords": [
+                    "Blue Tokai Coffee Roasters | HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Blue Tokai Coffee Roasters | HSR Layout Sec 7",
+                "url": "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-hsr-layout-sec-7-cafe-sector-7-hsr-layout-bengaluru-473753/Home/",
+                "displayedUrl": "https://stores.bluetokaicoffee.com \u203a Home",
+                "description": "Blue Tokai Coffee Roasters | HSR Layout Sec 7 \u00b7 Bengaluru \u00b7 919266010035 \u00b7 Mon to Sun : 07:00 AM to 11:00 PM. Closed \u2022 Opens at 07:\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Blue Tokai Coffee Roasters | HSR Layout Sec 7"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Blue Tokai Coffee Roasters, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-1-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Blue Tokai Coffee Roasters \u00b7 Cafe \u00b7 Coffee \u00b7 Beverages. 780, 19th Main, HSR, Bangalore. Closes in 1 hour 30 minutes7am \u2013 11pm (Today). Order online. Order\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "780, 19th Main, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 115,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Blue Tokai Coffee Roasters: Buy Freshly Roasted Coffee Beans",
+                "url": "https://bluetokaicoffee.com/?srsltid=AfmBOopIjx4L9SaktgsmkcH_8NNaGBiS4XYMCDHtub_Kff3ouoN6XSoD",
+                "displayedUrl": "https://bluetokaicoffee.com",
+                "description": "Blue Tokai Coffee brings you fresh single estate 100% Arabica coffee beans, roasted with care, from the best farms across India. Order yours online now!",
+                "emphasizedKeywords": [
+                    "fresh single estate 100% Arabica coffee beans"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Blue Tokai Coffee Roasters | HSR, Bangalore",
+                "url": "https://www.district.in/dining/bangalore/blue-tokai-coffee-roasters-2-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a blue-tokai-coffee-roaste...",
+                "description": "Had a lovely time at Blue Tokai, HSR Layout Sector 7. Great coffee, nice ambience, and polite staff. Would happily visit again! \u2615  . About the restaurant\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Blue Tokai",
+                    "HSR Layout",
+                    "coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Blue Tokai Coffee Roasters (@bluetokaicoffee)",
+                "url": "https://www.instagram.com/bluetokaicoffee/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0bluetokaicoffee",
+                "description": "Proudly Indian. Honestly crafted. Roasting + brewing India's best coffee. India | Dubai | Japan \u00b7 Motherhood is life altering. \u00b7 A Sensory Flight is now\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Proudly Indian"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "133.4K+ followers",
+                "channelName": "bluetokaicoffee",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Blue Tokai Coffee Roasters | HSR Layout - Ground Floor, NO.",
+                "url": "https://www.corner.inc/place/104100",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "Laptop-friendly cafe where the WiFi works and nobody bothers you for camping out. Staff that actually cares about making good coffee, not just moving orders.Read more",
+                "emphasizedKeywords": [
+                    "Laptop-friendly cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Blue Tokai Coffee Roasters, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-2-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Blue Tokai Coffee Roasters \u00b7 Coffee \u00b7 Cake \u00b7 Beverages. Door 36, Shop 2, Ground Floor, 7th Sector, Near BDA Complex, 14th Main Road, HSR, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "Blue Tokai Coffee Roasters",
+                    "Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 23,
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Blue Tokai Coffee Roasters - HSR Layout",
+                "url": "https://www.swiggy.com/city/bangalore/blue-tokai-coffee-roasters-hsr-layout-rest518778",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Enjoy delicious meals from Blue Tokai Coffee Roasters in HSR Layout, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery\u00a0...",
+                "emphasizedKeywords": [
+                    "Blue Tokai Coffee Roasters in HSR Layout, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "The undisclosed investment is part of the company's Series B funding. Shruti Mishra has more details. #DeepikaPadukone #BlueTokai #Investment.",
+                "question": "Is Deepika Padukone owner of Blue Tokai?",
+                "title": "Deepika Padukone invests in speciality coffee brand Blue Tokai ...",
+                "url": "https://www.instagram.com/reel/CxNzjGGo2Tr/#:~:text=brand%20Blue%20Tokai.-,The%20undisclosed%20investment%20is%20part%20of%20the%20company's%20Series%20B,Shruti%20Mishra%20has%20more%20details&text=%23DeepikaPadukone%20%23BlueTokai%20%23Investment,-more",
+                "date": "Sep 15, 2023"
+            },
+            {
+                "answer": null,
+                "question": "How to use Blue Tokai Coffee Roasters?",
+                "title": "You HAVE to try this easy way to brew coffee | Blue Tokai Easy Pour",
+                "url": "https://www.youtube.com/watch?v=WnBVU-ErdiI",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is special about blue tokai coffee?",
+                "title": "Blue Tokai Coffee Roasters - LinkedIn",
+                "url": "https://in.linkedin.com/company/bluetokaicoffeeroasters#:~:text=The%20company%20ensures%20highest%20quality,classes%2C%20website%20and%20social%20media.",
+                "date": null
+            },
+            {
+                "answer": "Recommended Products\n\u20b9250. Americano | Drop - Specialty Coffee Concentrate.\u20b9250. Signature | Drop - Specialty Coffee Concentrate.\u20b9600. Cold Brew Bags - Bold.\u20b9600.Mixed | Light to Dark Roasts - Easy Pour.",
+                "question": "Which is the best selling blue tokai coffee?",
+                "title": "Bestsellers - Blue Tokai Coffee Roasters",
+                "url": "https://bluetokaicoffee.com/collections/bestsellers",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/zewyJOwFDHAGBf644/records/KfaOgi95vQ0EpdB-0.html?signature=bnObwKWe0HUUy8oYvbRX"
+    }
+]

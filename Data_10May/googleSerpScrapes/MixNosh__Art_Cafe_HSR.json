@@ -1,0 +1,197 @@
+[
+    {
+        "#debug": {
+            "requestId": "n6Epo6wnLFQ8v7b",
+            "url": "http://www.google.com/search?q=MixNosh+%7C+Art+Cafe%2C+HSR",
+            "loadedUrl": "http://www.google.com/search?q=MixNosh+%7C+Art+Cafe%2C+HSR",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "MixNosh | Art Cafe, HSR",
+            "url": "http://www.google.com/search?q=MixNosh+%7C+Art+Cafe%2C+HSR",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=MixNosh+%7C+Art+Cafe%2C+HSR",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Mixnosh Art Cafe Jayanagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mixnosh+Art+Cafe+Jayanagar&sa=X&ved=2ahUKEwjxvabz4a-UAxVtVaQEHc36CTMQ1QJ6BAhxEAE"
+            },
+            {
+                "title": "Mixnosh art cafe hsr menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mixnosh+art+cafe+hsr+menu&sa=X&ved=2ahUKEwjxvabz4a-UAxVtVaQEHc36CTMQ1QJ6BQiDARAB"
+            },
+            {
+                "title": "Mixnosh art cafe hsr reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mixnosh+art+cafe+hsr+reviews&sa=X&ved=2ahUKEwjxvabz4a-UAxVtVaQEHc36CTMQ1QJ6BAh_EAE"
+            },
+            {
+                "title": "Mixnosh Art Cafe HSR offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mixnosh+Art+Cafe+HSR+offers&sa=X&ved=2ahUKEwjxvabz4a-UAxVtVaQEHc36CTMQ1QJ6BAh9EAE"
+            },
+            {
+                "title": "Mixnosh Art Cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mixnosh+Art+Cafe+menu&sa=X&ved=2ahUKEwjxvabz4a-UAxVtVaQEHc36CTMQ1QJ6BAh7EAE"
+            },
+            {
+                "title": "Mixnosh Art cafe HSR photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mixnosh+Art+cafe+HSR+photos&sa=X&ved=2ahUKEwjxvabz4a-UAxVtVaQEHc36CTMQ1QJ6BAh4EAE"
+            },
+            {
+                "title": "Mixnosh art cafe hsr price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mixnosh+art+cafe+hsr+price&sa=X&ved=2ahUKEwjxvabz4a-UAxVtVaQEHc36CTMQ1QJ6BAh3EAE"
+            },
+            {
+                "title": "Mixnosh art Cafe, Jayanagar reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mixnosh+art+Cafe,+Jayanagar+reviews&sa=X&ved=2ahUKEwjxvabz4a-UAxVtVaQEHc36CTMQ1QJ6BAh1EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Mixnosh | Art Caf\u00e9",
+                "url": "https://mixnosh.in/",
+                "displayedUrl": "https://mixnosh.in",
+                "description": "Join us for engaging sneaker and resin art workshops, one-on-one art lessons, or fun DIY art sessions\u2014all while enjoying great company and savoring irresistibly\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "engaging sneaker and resin art workshops, one-on-one art lessons, or fun DIY art sessions"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "MixNosh Art Cafe (@mixnosh) - Instagram",
+                "url": "https://www.instagram.com/mixnosh/?hl=en",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0mixnosh",
+                "description": "India's first food + sneaker + resin art caf\u00e9. Workshops, DIY art activities, parties & events \u2014 DM us! Jayanagar \u2022 HSR Layout \u00b7 This Mother's Day, treat your\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "India's first food + sneaker + resin art caf\u00e9"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "12K+ followers",
+                "channelName": "mixnosh",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Mixnosh, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/mixnosh-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Building 1919, Sector-2, HSR Layout, Opposite Ovum Hospital, 21st Main Road, Near 25th Cross Road, HSR, Bangalore. Open now10am \u2013 10pm (Today)\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Building 1919, Sector-2, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.5,
+                "numberOfReviews": 206,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "MixNosh Art Cafe on Instagram: \"If you're a foodie who likes ...",
+                "url": "https://www.instagram.com/reel/DWvF3iNPJ8b/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0mixnosh",
+                "description": "We're open, all 7 days to serve you the most delicious food & offer the best DIY artwork options. No prior bookings required for DIY artwork.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "8 likes",
+                "lastUpdated": "1 month ago",
+                "channelName": "reel",
+                "reelLength": "0:34",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "About Us",
+                "url": "https://mixnosh.in/about.php",
+                "displayedUrl": "https://mixnosh.in \u203a about",
+                "description": "We are the premier destination for DIY art experiences, offering daily walk-in sessions and expert workshops in Resin Art, Custom Sneaker Painting, and more.Read more",
+                "emphasizedKeywords": [
+                    "DIY art experiences"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "An Art Cafe at HSR layout Bangalore to have good food and ...",
+                "url": "https://www.youtube.com/shorts/088h20R0NfM",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0MasalaBox Travel, Food & Life",
+                "description": "This is an art cafe a one of its kind and it was a great find they provide you with all the art supplies and you can choose what you want to paint on.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "2.2K+ views",
+                "lastUpdated": "5 months ago",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "MixNosh | Art Cafe, HSR | Why People Come Here?",
+                "url": "https://www.explurger.com/pd/95x6ncet0ws31exwj",
+                "displayedUrl": "https://www.explurger.com \u203a ...",
+                "description": "MixNosh | Art Cafe, HSR, 25th Cross Road, Garden Layout, Sector 2, HSR ... Art Cafe \u2013 This is MixNosh | Art Cafe, a unique establishment in HSR LayoutRead more",
+                "emphasizedKeywords": [
+                    "25th Cross Road, Garden Layout, Sector 2, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Some places aren't just caf\u00e9s, they're a whole mood Mixnosh ...",
+                "url": "https://www.instagram.com/reel/DWaw1dwAWp1/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0nashinedivya",
+                "description": "@mixnosh, HSR Layout (Bangalore art cafe, Mixnoush HSR Layout, HSR hidden gems, creative cafe Bangalore, aesthetic cafe vibe, coffee & art\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "180+ likes",
+                "lastUpdated": "1 month ago",
+                "channelName": "reel",
+                "reelLength": "0:23",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Events",
+                "url": "https://mixnosh.in/events.php",
+                "displayedUrl": "https://mixnosh.in \u203a events",
+                "description": "Mixnosh Art Cafe, Jayanagar. Learn sneaker art from our expert artists, attend our workshop for an unmatched and immersive art experience! Price quoted above\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Mixnosh Art Cafe, Jayanagar"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/NVzFfnhuLgC4DCXzc/records/n6Epo6wnLFQ8v7b-0.html?signature=ZHWUGtoGYEt4LXzTVXK2"
+    }
+]

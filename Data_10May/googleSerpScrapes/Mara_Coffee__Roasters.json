@@ -1,0 +1,262 @@
+[
+    {
+        "#debug": {
+            "requestId": "3jczkDGNNU5YpGU",
+            "url": "http://www.google.com/search?q=Mara+Coffee+%26+Roasters",
+            "loadedUrl": "http://www.google.com/search?q=Mara+Coffee+%26+Roasters",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Mara Coffee & Roasters",
+            "url": "http://www.google.com/search?q=Mara+Coffee+%26+Roasters",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Mara+Coffee+%26+Roasters",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Mara coffee & roasters menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+%26+roasters+menu&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhZEAE"
+            },
+            {
+                "title": "Mara Coffee roasters photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+Coffee+roasters+photos&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhcEAE"
+            },
+            {
+                "title": "Mara coffee & roasters reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+%26+roasters+reviews&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhdEAE"
+            },
+            {
+                "title": "Mara coffee & roasters owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+%26+roasters+owner&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhfEAE"
+            },
+            {
+                "title": "Mara coffee and Roasters reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+and+Roasters+reviews&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhgEAE"
+            },
+            {
+                "title": "Mara cafe hsr menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+cafe+hsr+menu&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhhEAE"
+            },
+            {
+                "title": "Mara coffee HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+HSR&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAheEAE"
+            },
+            {
+                "title": "Mara caf\u00e9 Mysore",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+caf%C3%A9+Mysore&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhbEAE"
+            },
+            {
+                "title": "Mara coffee & roasters menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+%26+roasters+menu&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhZEAE"
+            },
+            {
+                "title": "Mara Coffee roasters photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+Coffee+roasters+photos&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhcEAE"
+            },
+            {
+                "title": "Mara coffee & roasters reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+%26+roasters+reviews&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhdEAE"
+            },
+            {
+                "title": "Mara coffee & roasters owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+%26+roasters+owner&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhfEAE"
+            },
+            {
+                "title": "Mara coffee and Roasters reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+and+Roasters+reviews&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhgEAE"
+            },
+            {
+                "title": "Mara cafe hsr menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+cafe+hsr+menu&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhhEAE"
+            },
+            {
+                "title": "Mara coffee HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee+HSR&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAheEAE"
+            },
+            {
+                "title": "Mara caf\u00e9 Mysore",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+caf%C3%A9+Mysore&sa=X&ved=2ahUKEwiJi4aX46-UAxUNADQIHeYpJf8Q1QJ6BAhbEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Mara Coffee & Roasters (@maracoffeeandroasters)",
+                "url": "https://www.instagram.com/maracoffeeandroasters/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0maracoffeeandroasters",
+                "description": "Artisan coffees, manual brews & cafe books, community, healthy food. \ud83d\udccd 9.30 am - 10.30pm all days.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.4K+ followers",
+                "channelName": "maracoffeeandroasters",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "maracoffee.in",
+                "url": "https://maracoffee.in/",
+                "displayedUrl": "https://maracoffee.in",
+                "description": "Mara Coffee & Roasters ; Affordable Luxury. Enjoy premium coffee and food at prices that won't break the bank. ; Cozy Atmosphere. A warm, welcoming space perfect\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Mara Coffee & Roasters"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Mara Coffee & Roasters, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/mara-coffee-roasters-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Mara Coffee & Roasters, 1073, Sector 2, Garden Layout, Near Prithvi Fashions, 24th A Cross Road, HSR, Bangalore, Closed, Opens at 9am.Read more",
+                "emphasizedKeywords": [
+                    "1073, Sector 2, Garden Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 9,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Do reviews matter? Nope. \u200d\u2642\ufe0f What really matters? Quality ...",
+                "url": "https://www.instagram.com/reel/DFNhKSuspcg/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0maracoffeeandroasters",
+                "description": "Every bite is a step towards a better you......... ... Mara Coffee & Roasters 1073, 24th A Cross Rd, Garden Layout, Sector 2, HSR Layout,\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "50+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:06",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Mara Coffee & Roasters (@maracoffeeandroasters)",
+                "url": "https://www.instagram.com/maracoffeeandroasters/reels/",
+                "displayedUrl": "https://www.instagram.com \u203a maracoffeeandroasters",
+                "description": "artisan coffees, manual brews & cafe books, community, healthy food \u2728 9.30 am - 10.30pm all days. Follow. Message. Bangalore's buzzing \u2014 and it's not\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "artisan coffees, manual brews & cafe books, community, healthy food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "maracoffeeandroasters",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Mara Coffee & Roasters in Hsr Layout,Bangalore",
+                "url": "https://www.justdial.com/Bangalore/Mara-Coffee-Roasters-Hsr-Layout/080PXX80-XX80-241011232402-H9N6_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Mara-Coffee-Roa...",
+                "description": "Order Food Online from Mara Coffee & Roasters in Hsr Layout,Bangalore well known for Coffee Shops in Bangalore . Rated 4.3 based on 266 Customer Reviews and\u00a0...",
+                "emphasizedKeywords": [
+                    "Mara Coffee & Roasters in Hsr Layout,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 266,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "MARU COFFEE",
+                "url": "https://www.marucoffee.com/?srsltid=AfmBOorU57tlpwCGOAVFRBgNNa0kCs8nvZysgKoTa1rHRkkZNgNOkEa1",
+                "displayedUrl": "https://www.marucoffee.com",
+                "description": "A coffee company and roaster based in Los Angeles, CA; we focus on offering unique and high quality coffees that undergo intensive processing.",
+                "emphasizedKeywords": [
+                    "A coffee company and roaster based in Los Angeles"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "MARA COFFEE AND ROASTERS #coffeelover #relax ...",
+                "url": "https://www.instagram.com/p/DWSe2dZk9yw/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0venom_rider05",
+                "description": "Late night bonding & catch up? 4 GUMAMELA ST BREWSCO DAILY 8pm to 2am MUST TRY BREWSCO DAILY PROTEIN SHAKE SERIES VANILLA PEANUT BUTTER,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "4 GUMAMELA ST BREWSCO DAILY 8pm to 2am"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "3 likes",
+                "lastUpdated": "1 month ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Mara Coffee and Roasters, HSR Layout Mara Coffee and ...",
+                "url": "https://www.instagram.com/reel/DKLt7suTGRJ/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0miss.explorer_blr",
+                "description": "A quiet escape from the city with soft natural light, earthy tones, and beautiful outdoor seating in Dollars Colony, JP Nagar, this aesthetic\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "3.1K+ likes",
+                "lastUpdated": "11 months ago",
+                "channelName": "reel",
+                "reelLength": "0:20",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "Who is the owner of Maru coffee?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Maru adopts its name from a native Korean language, San Ma Ru, which means 'mountaintop'. This is our symbol of quality as the finest coffee beans are grown and harvested from areas of high altitude.",
+                "question": "What is Maru coffee famous for?",
+                "title": "MARU COFFEE",
+                "url": "https://www.marucoffee.com/#:~:text=Maru%20adopts%20its%20name%20from,from%20areas%20of%20high%20altitude.",
+                "date": null
+            },
+            {
+                "answer": "The ambiance at Mara combines modern elegance with a welcoming vibe, making it suitable for both intimate dinners and larger gatherings. Elements like handcrafted ceramics and artisanal linens contribute to the overall aesthetic, creating a cohesive environment that complements the cuisine.",
+                "question": "What is Mara Cafe known for?",
+                "title": "Mara | Fine Dining Lovers",
+                "url": "https://www.finedininglovers.com/restaurants/mara#:~:text=The%20ambiance%20at%20Mara%20combines,environment%20that%20complements%20the%20cuisine.",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Who are the top coffee roasters in the US?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/lisvJKVaEqnk3jKdt/records/3jczkDGNNU5YpGU-0.html?signature=VPYe7UKnJ6hPlbtJAe3j"
+    }
+]

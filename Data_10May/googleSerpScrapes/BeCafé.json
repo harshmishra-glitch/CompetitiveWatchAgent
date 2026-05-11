@@ -1,0 +1,243 @@
+[
+    {
+        "#debug": {
+            "requestId": "mUOE8LJIL9INkXT",
+            "url": "http://www.google.com/search?q=BeCaf%C3%A9",
+            "loadedUrl": "http://www.google.com/search?q=BeCaf%C3%A9",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "BeCaf\u00e9",
+            "url": "http://www.google.com/search?q=BeCaf%C3%A9",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=BeCaf%C3%A9",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Becaf\u00e9 meaning",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+meaning&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgpEAE"
+            },
+            {
+                "title": "Becaf\u00e9 menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+menu&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Becaf\u00e9 near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+near+me&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAg0EAE"
+            },
+            {
+                "title": "Be Caffeinated menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Be+Caffeinated+menu&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgzEAE"
+            },
+            {
+                "title": "Becaf\u00e9 restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+restaurant&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgyEAE"
+            },
+            {
+                "title": "Becaf\u00e9 locations",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+locations&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgqEAE"
+            },
+            {
+                "title": "Carrie's Be Cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Carrie%27s+Be+Cafe&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAguEAE"
+            },
+            {
+                "title": "Brody's Be Cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Brody%27s+Be+Cafe+menu&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgrEAE"
+            },
+            {
+                "title": "Becaf\u00e9 meaning",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+meaning&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgpEAE"
+            },
+            {
+                "title": "Becaf\u00e9 menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+menu&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Becaf\u00e9 near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+near+me&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAg0EAE"
+            },
+            {
+                "title": "Be Caffeinated menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Be+Caffeinated+menu&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgzEAE"
+            },
+            {
+                "title": "Becaf\u00e9 restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+restaurant&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgyEAE"
+            },
+            {
+                "title": "Becaf\u00e9 locations",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Becaf%C3%A9+locations&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgqEAE"
+            },
+            {
+                "title": "Carrie's Be Cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Carrie%27s+Be+Cafe&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAguEAE"
+            },
+            {
+                "title": "Brody's Be Cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Brody%27s+Be+Cafe+menu&sa=X&ved=2ahUKEwjNxOju5K-UAxXhZmwGHbNOCAIQ1QJ6BAgrEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Be Cafe | coffee shop",
+                "url": "https://www.becafe.org/",
+                "displayedUrl": "https://www.becafe.org",
+                "description": "Be Cafe is a coffee shop located in East Grand Rapids, Ada, and Lowell that provides meaningful employment to individuals with intellectual disabilities.",
+                "emphasizedKeywords": [
+                    "provides meaningful employment to individuals with intellectual disabilities"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Coffee Coffee Shop Drive Thru BeCaffeinated Community",
+                "url": "https://www.becaffcoffee.com/",
+                "displayedUrl": "https://www.becaffcoffee.com",
+                "description": "Chattanooga's most caffeinated drive-thru! We are a small chain of coffee shops devoted to supporting our local communities!",
+                "emphasizedKeywords": [
+                    "Chattanooga's most caffeinated drive-thru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Locations | Be Cafe",
+                "url": "https://www.becafe.org/locations",
+                "displayedUrl": "https://www.becafe.org \u203a locations",
+                "description": "Be Cafe has locations in Ada, East Grand Rapids, and Lowell. Learn more ... Brody's Be Cafe. Monday - Friday 7am - 3pm. Saturday 9am - 12pm. Learn More\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Be Cafe has locations in Ada, East Grand Rapids, and Lowell"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Be Cafe \u2615\ufe0f (@thebecafe)",
+                "url": "https://www.instagram.com/thebecafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0thebecafe",
+                "description": "3.8K+ followers \u00b7 162 following \u00b7 657 posts \u00b7 @thebecafe: \u201c   4 Locations | Ada, Lowell, East Grand Rapids, and Koetsier's Greenhouse \u2615\ufe0f Coffee With a Purpose\u00a0...",
+                "emphasizedKeywords": [
+                    "4 Locations | Ada, Lowell, East Grand Rapids, and Koetsier's Greenhouse"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "3.8K+ followers",
+                "channelName": "thebecafe",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "The Be Cafe | Ada MI",
+                "url": "https://www.facebook.com/thebecafe/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0The Be Cafe",
+                "description": "The Be Cafe. Every nonprofit Be Cafe provides meaningful employment for people with intellectual disabilities. \udb85\udfb4 Nonprofit organization \u00b7 $ \u00b7 \udb85\udeea (616) 682-5641.Read more",
+                "emphasizedKeywords": [
+                    "provides meaningful employment for people with intellectual disabilities"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 13,
+                "followersAmount": "5.1K+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Be Caffeinated in Rossville, GA United States",
+                "url": "https://maps.apple.com/place?place-id=I283EA15100A2FDEC",
+                "displayedUrl": "https://maps.apple.com \u203a place",
+                "description": "View details about Be Caffeinated in Rossville, GA United States on Apple Maps. Address, driving directions, images, nearby attractions and more.",
+                "emphasizedKeywords": [
+                    "Be Caffeinated in Rossville, GA United States"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Carrie's Be Cafe",
+                "url": "https://www.becafe.org/copy-of-liam-s-be-cafe",
+                "displayedUrl": "https://www.becafe.org \u203a copy-of-liam-s-be-cafe",
+                "description": "Tuesday 7:00 am - 3:00 pm. Wednesday 7:00 am - 3:00 pm. Thursday 7:00 am - 3:00 pm. Friday 7:00 am - 3:00 pmRead more",
+                "date": "2026-05-11T07:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Monday 7:00 am - 3:00 pm"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Coffee Shops In Durham NC, Buy Organic Coffee Online ...",
+                "url": "https://beyucaffe.com/?srsltid=AfmBOoruYptClMsp3EL_798mKUJPhbWvc9qT-PxHQc8bhJ52SRFHR9V7",
+                "displayedUrl": "https://beyucaffe.com",
+                "description": "Beyu Caffe offers locally-roasted specialty coffee for subscription or one-time delivery. Safely dine-in or take-out breakfast and lunch classics from our\u00a0...",
+                "emphasizedKeywords": [
+                    "Beyu Caffe offers locally-roasted specialty coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What does caf\u00e9 mean?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Welcome to Coffee with a Purpose The Be Cafe is a donor-funded nonprofit providing meaningful employment to people with intellectual disabilities.",
+                "question": "What is Becaffe about?",
+                "title": "Be Cafe | coffee shop",
+                "url": "https://www.becafe.org/#:~:text=Welcome%20to%20Coffee%20with%20a,to%20people%20with%20intellectual%20disabilities.",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Is it caf\u00e9 or caf\u00e9?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Is it caff\u00e9 or caff\u00e8?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/7IDNij2ZLQpyPYPBy/records/mUOE8LJIL9INkXT-0.html?signature=1i3lMdOk9gazHHhftpilr"
+    }
+]

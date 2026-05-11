@@ -1,0 +1,262 @@
+[
+    {
+        "#debug": {
+            "requestId": "avCGP7IliBmSwx9",
+            "url": "http://www.google.com/search?q=Kappu",
+            "loadedUrl": "http://www.google.com/search?q=Kappu",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Kappu",
+            "url": "http://www.google.com/search?q=Kappu",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Kappu",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": 94,
+        "relatedQueries": [
+            {
+                "title": "Kappu men",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+men&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhcEAE"
+            },
+            {
+                "title": "Kappu jewelry",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+jewelry&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Kappu Gold",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+Gold&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "Kappu bracelet",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+bracelet&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhhEAE"
+            },
+            {
+                "title": "Kappu in english",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+in+english&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "Kappu Design In Gold",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+Design+In+Gold&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhfEAE"
+            },
+            {
+                "title": "Kappu movie",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+movie&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAheEAE"
+            },
+            {
+                "title": "Kappu Japanese",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+Japanese&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhdEAE"
+            },
+            {
+                "title": "Kappu men",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+men&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhcEAE"
+            },
+            {
+                "title": "Kappu jewelry",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+jewelry&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Kappu Gold",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+Gold&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "Kappu bracelet",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+bracelet&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhhEAE"
+            },
+            {
+                "title": "Kappu in english",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+in+english&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "Kappu Design In Gold",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+Design+In+Gold&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhfEAE"
+            },
+            {
+                "title": "Kappu movie",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+movie&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAheEAE"
+            },
+            {
+                "title": "Kappu Japanese",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kappu+Japanese&sa=X&ved=2ahUKEwjd2O_n46-UAxUK2gIHHdSAFiwQ1QJ6BAhdEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Discover 15 Kappu for mens and mens gold bracelets ideas",
+                "url": "https://www.pinterest.com/saviaru007/kappu-for-mens/",
+                "displayedUrl": "https://www.pinterest.com \u203a saviaru007 \u203a kappu-for-me...",
+                "description": "From mens gold bracelets to gold jewelry fashion, find what you're looking for on Pinterest!",
+                "emphasizedKeywords": [
+                    "mens gold bracelets"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Silver Kada - Size 2 X 4 | F Men Kaapu",
+                "url": "https://giriusa.com/products/silver-kada-size-2-x-4-f-men-kaapu-bracelet-kada-bangle-kada-for-daily-and-traditional-wear?srsltid=AfmBOopkJ4VgtVqbYW2A4fDXnMT752Ho0QVvIDUpApvl8m2AEywqsFCw",
+                "displayedUrl": "https://giriusa.com \u203a Collections \u203a Bracelet",
+                "description": "\"Discover the power of tradition with the Pure Silver kaapu for men, a beautifully crafted bracelet that blends cultural significance with modern elegance.\".Read more",
+                "emphasizedKeywords": [
+                    "Pure Silver kaapu for men"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Plain Kappu",
+                "url": "https://vilakkukadai.com/product/plain-kappu/?srsltid=AfmBOor048Rqkm4wrefxDj0rgIQ36qs2P5FQO2-WY4un2CTqhJ2xLzGe",
+                "displayedUrl": "https://vilakkukadai.com \u203a Shop",
+                "description": "Sulam Rudraksham kappu. Highlights: This is made up of impon(panchalogam). Impon(panchaloha) is the perfect blend of gold, silver, copper, lead and iron. All\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "kappu"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Gold Kappu",
+                "url": "https://www.pinterest.com/ideas/gold-kappu/908066614592/",
+                "displayedUrl": "https://www.pinterest.com \u203a Explore",
+                "description": "Discover Pinterest's best ideas and inspiration for Gold kappu. Get inspired and try out new things. 738 people searched this. \u00b7. Last updated 2h.Read more",
+                "emphasizedKeywords": [
+                    "Gold kappu"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "r/Chennai - Kaapu",
+                "url": "https://www.reddit.com/r/Chennai/comments/1aifhb9/kaapu/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/Chennai",
+                "description": "Kappu is typically made of copper or some other metals or combination. Anything other than copper is on special recommendation by a Sidda\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Kappu is typically made of copper or some other metals or combination"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "commentsAmount": "110+ comments",
+                "lastUpdated": "2 years ago",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "110 Gold kappu (men) ideas",
+                "url": "https://in.pinterest.com/annapoornam0047/gold-kappu-men/",
+                "displayedUrl": "https://in.pinterest.com \u203a annapoornam0047 \u203a gold-kap...",
+                "description": "Explore Annapoornam's board \"Gold kappu (men)\" on Pinterest. See more ideas about mens gold bracelets, gold bangles design, mens gold\u00a0...",
+                "date": "2023-05-13T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "mens gold bracelets, gold bangles design, mens gold"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Kappu",
+                "url": "https://www.amazon.in/kappu/s?k=kappu",
+                "displayedUrl": "https://www.amazon.in \u203a kappu \u203a k=kappu",
+                "description": "Men's Jewellery High Plated Stainless Steel Cuff Style Adjustable Men's Kada For Boys and Men BR1000046 ... MEENAZ Kada Bracelets for Men Boys brother boyfriend\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Men's Jewellery High Plated Stainless Steel Cuff Style Adjustable Men's Kada"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "20 Kappu ideas in 2026 | man gold bracelet design, mens ...",
+                "url": "https://in.pinterest.com/murugeshkumar1982/kappu/",
+                "displayedUrl": "https://in.pinterest.com \u203a murugeshkumar1982 \u203a kappu",
+                "description": "Explore Murugeshkumar's board \"kappu\" on Pinterest. See more ideas about man gold bracelet design, mens gold jewelry, mens gold bracelets.",
+                "date": "2026-03-07T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "kappu"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What is kappu in Japanese?",
+                "title": "Japanese word for cup is kappu - YouTube",
+                "url": "https://www.youtube.com/watch?v=krMRUsUXBr4",
+                "date": null
+            },
+            {
+                "answer": "Usage notes. \u30ab\u30c3\u30d7 (kappu) refers specifically to cups with handles (mugs), as for coffee or Western tea, while \u30b3\u30c3\u30d7 (koppu) refers to glass containers (tumblers), as for water.",
+                "question": "Is it Koppu or Kappu?",
+                "title": "\u30ab\u30c3\u30d7 - Wiktionary, the free dictionary",
+                "url": "https://en.wiktionary.org/wiki/%E3%82%AB%E3%83%83%E3%83%97#:~:text=cup%20(brassiere%20size)-,Usage%20notes,tumblers)%2C%20as%20for%20water.",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is an Indian bracelet called?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "In Kannada, Kappu means black \u2014 and it's how we like our coffee.",
+                "question": "What does kappu mean in Kannada?",
+                "title": "KAPPU is here.   Black. Bold. Brutally honest. In Kannada ... - Instagram",
+                "url": "https://www.instagram.com/p/DKw9sDjTOlp/#:~:text=In%20Kannada%2C%20Kappu%20means%20black,how%20we%20like%20our%20coffee.",
+                "date": "Jun 11, 2025"
+            }
+        ],
+        "aiOverview": {
+            "type": "static",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Satyen_Kappu",
+                    "title": "Satyen Kappu - Wikipedia",
+                    "description": "Satyen Kappu - Wikipedia. Satyen Kappu. Article. Satyendra Kappu (born Satyendra Sharma; also credited as Satyen Kappu; 7 February..."
+                },
+                {
+                    "url": "https://vilakkukadai.com/product/plain-kappu/",
+                    "title": "Plain Kappu - Vilakkukadai",
+                    "description": "Price Summary. Maximum Retail Price. of all taxes) \u20b91,460.00. Selling Price \u20b91,100.00. Discount 25% Total \u20b91,100.00. Overall you s..."
+                },
+                {
+                    "url": "https://www.reddit.com/r/TamilNadu/comments/125e1qi/whats_with_the_sudden_kaapu_culture/",
+                    "title": "What's with the sudden 'Kaapu' culture? : r/TamilNadu - Reddit",
+                    "description": "* Fabulous_69. \u2022 3y ago. Rugged boys starter pack. * dioswetpanties. \u2022 3y ago. kinda cool , and some wear it for religious purpose..."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/ZEohPddohiZ9jyPqA/records/avCGP7IliBmSwx9-0.html?signature=1tOSpTn9VhaSiEqYP0Kfh"
+    }
+]

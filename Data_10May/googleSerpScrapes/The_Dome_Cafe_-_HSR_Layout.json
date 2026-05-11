@@ -1,0 +1,216 @@
+[
+    {
+        "#debug": {
+            "requestId": "gzDrWMHanItZHT9",
+            "url": "http://www.google.com/search?q=The+Dome+Cafe+-+HSR+Layout",
+            "loadedUrl": "http://www.google.com/search?q=The+Dome+Cafe+-+HSR+Layout",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "The Dome Cafe - HSR Layout",
+            "url": "http://www.google.com/search?q=The+Dome+Cafe+-+HSR+Layout",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=The+Dome+Cafe+-+HSR+Layout",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "The Dome Cafe HSR Layout Menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Dome+Cafe+HSR+Layout+Menu&sa=X&ved=2ahUKEwin37vr4a-UAxVNDkQIHfeKOdwQ1QJ6BAhwEAE"
+            },
+            {
+                "title": "The Dome Cafe HSR Layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Dome+Cafe+HSR+Layout+reviews&sa=X&ved=2ahUKEwin37vr4a-UAxVNDkQIHfeKOdwQ1QJ6BQiWARAB"
+            },
+            {
+                "title": "The dome cafe hsr layout price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+dome+cafe+hsr+layout+price&sa=X&ved=2ahUKEwin37vr4a-UAxVNDkQIHfeKOdwQ1QJ6BQiPARAB"
+            },
+            {
+                "title": "The Dome Cafe bangalore",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Dome+Cafe+bangalore&sa=X&ved=2ahUKEwin37vr4a-UAxVNDkQIHfeKOdwQ1QJ6BQiJARAB"
+            },
+            {
+                "title": "Dome Cafe birthday party Price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Dome+Cafe+birthday+party+Price&sa=X&ved=2ahUKEwin37vr4a-UAxVNDkQIHfeKOdwQ1QJ6BQiDARAB"
+            },
+            {
+                "title": "The Dome Cafe, koramangala",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Dome+Cafe,+koramangala&sa=X&ved=2ahUKEwin37vr4a-UAxVNDkQIHfeKOdwQ1QJ6BAh-EAE"
+            },
+            {
+                "title": "The Dome Cafe hsr layout birthday celebration price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Dome+Cafe+hsr+layout+birthday+celebration+price&sa=X&ved=2ahUKEwin37vr4a-UAxVNDkQIHfeKOdwQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "The dome cafe hsr layout photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+dome+cafe+hsr+layout+photos&sa=X&ved=2ahUKEwin37vr4a-UAxVNDkQIHfeKOdwQ1QJ6BAh3EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "The Dome Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/the-dome-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "The Dome Cafe, Chinese, Fast Food, Street Food, Oriental, North Indian, Continental, BBQ, Pizza, 5th Floor, 9th Main, HSR Layout, Sector 7, 17th Cross Road,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "5th Floor, 9th Main, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.7,
+                "numberOfReviews": 428,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "The Dome Cafe - HSR Layout (@thedomecafe_hsr_layout)",
+                "url": "https://www.instagram.com/thedomecafe_hsr_layout/?hl=en",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0thedomecafe_hsr_layout",
+                "description": "India's first and only Dome shaped cafe. Main ACC - @thedomecafe_official Birthdays | Anniversaries | Parties \ud83d\udcde 96064 59935 (Booking & Enquiries)Read more",
+                "emphasizedKeywords": [
+                    "India's first and only Dome shaped cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "7.2K+ followers",
+                "channelName": "thedomecafe_hsr_layout",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Menu of The Dome Cafe, HSR, South Bengaluru",
+                "url": "https://www.eazydiner.com/bengaluru/the-dome-cafe-hsr-south-bengaluru-683746/menu",
+                "displayedUrl": "https://www.eazydiner.com \u203a bengaluru \u203a menu",
+                "description": "Menu - Discover the complete menu of The Dome Cafe, HSR, South Bengaluru on EazyDiner. Book a table for FREE now and enjoy up to 50% off on your bill!",
+                "emphasizedKeywords": [
+                    "The Dome Cafe, HSR, South Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 181,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "The Dome Cafe | HSR, Bangalore | Book Table",
+                "url": "https://www.district.in/dining/bangalore/the-dome-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a the-dome-cafe-hsr-ban...",
+                "description": "Restaurant Location Map. The Dome Cafe. 5th Floor, 9th Main, HSR Layout, Sector 7, 17th Cross Road, Near Lenskart, HSR, Bangalore. See all outlets. Get\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "5th Floor, 9th Main, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "The Dome Cafe - HSR Layout - Reviews, Photos & Phone ...",
+                "url": "https://the-dome-cafe-hsr-layout.wheree.com/",
+                "displayedUrl": "https://the-dome-cafe-hsr-layout.wheree.com",
+                "description": "What is the location of The Dome Cafe - HSR Layout? The Dome Cafe is located at 5th floor, #16, 9th main, 17th Cross Rd, above Lenskart, 7th Sector, HSR Layout,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "5th floor, #16, 9th main, 17th Cross Rd"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Thedomecafe_hsr_layout | Bangalore",
+                "url": "https://www.facebook.com/Domecafehsr/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Thedomecafe_hsr_layout",
+                "description": "The Dome Cafe - HSR Layout, 5th Floor #16, 9th main 17th cross 7th sector above Lenskart Hsr Lay... Contact info. \udb81\udeea. +91 96064 59935. \udb81\ude22. thedomecafee@gmail.com\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "5th Floor #16, 9th main 17th cross 7th sector above Lenskart"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "20+ followers",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "The Dome Cafe - HSR Layout on Instagram: \"Step into your ...",
+                "url": "https://www.instagram.com/reel/DGiOMHASEAX/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0thedomecafe_hsr_layout",
+                "description": "Cozy lights, private space, and vibes that feel like a dream. Book your celebration now and let the ambience do the talking. The Dome Cafe\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "20+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:26",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "The Dome Cafe - HSR Layout (@thedomecafe_hsr_layout)",
+                "url": "https://www.instagram.com/thedomecafe_hsr_layout/reels/",
+                "displayedUrl": "https://www.instagram.com \u203a reels",
+                "description": "7136 Followers, 2 Following, 301 Posts - The Dome Cafe - HSR Layout (@thedomecafe_hsr_layout) on Instagram: \"India's first and only Dome shaped cafe.",
+                "emphasizedKeywords": [
+                    "The Dome Cafe",
+                    "HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "thedomecafe_hsr_layout",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Renowned for its specialty coffee, every fine cup of D\u00d4ME coffee starts with high quality coffee beans. The finest Arabica beans are selected and roasted to perfection using the latest technologies to maximize freshness and flavour for the ultimate caffeine fix.",
+                "question": "What is Dome Cafe famous for?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "The ambiance is warm and comfortable, ideal for catching up with friends or spending a slow evening.",
+                "question": "What is the Dome Cafe ambiance like?",
+                "title": null,
+                "url": null,
+                "date": "Jun 26, 2025"
+            },
+            {
+                "answer": "There are now over 130 D\u00f4me caf\u00e9s in about eight countries. The corporate headquarters are in the former Peninsula Hotel in Maylands, Western Australia.",
+                "question": "Is Dome Cafe world wide?",
+                "title": "D\u00f4me (coffeehouse) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/D%C3%B4me_(coffeehouse)#:~:text=There%20are%20now%20over%20130,Hotel%20in%20Maylands%2C%20Western%20Australia.",
+                "date": null
+            },
+            {
+                "answer": "DOME . RS 3490/- + TAX 2 slots 11:30 am to 1:30 pm 1:30 pm to 3:30 pm . RS 3490/- + TAX 2 slots 11:30 am to 1:30 pm 1:30 pm to 3:30 pm .",
+                "question": "What is the price of dome Sunday brunch?",
+                "title": "Most luxurious and peaceful Sunday Brunch Buffet @thedome.dk Rs 3490",
+                "url": "https://www.instagram.com/reel/DR99LjtCK6l/#:~:text=DOME%20.,pm%20to%203%3A30%20pm%20.",
+                "date": "Dec 7, 2025"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/22epcuMsbIaPE00xh/records/gzDrWMHanItZHT9-0.html?signature=1qX5ktCIfyxJTjWhMtioQ"
+    }
+]

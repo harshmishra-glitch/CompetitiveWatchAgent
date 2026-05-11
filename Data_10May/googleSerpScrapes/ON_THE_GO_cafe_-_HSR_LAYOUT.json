@@ -1,0 +1,220 @@
+[
+    {
+        "#debug": {
+            "requestId": "R0BbiKJcV3Gt3To",
+            "url": "http://www.google.com/search?q=ON+THE+GO+cafe+-+HSR+LAYOUT",
+            "loadedUrl": "http://www.google.com/search?q=ON+THE+GO+cafe+-+HSR+LAYOUT",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "ON THE GO cafe - HSR LAYOUT",
+            "url": "http://www.google.com/search?q=ON+THE+GO+cafe+-+HSR+LAYOUT",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=ON+THE+GO+cafe+-+HSR+LAYOUT",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "On the go cafe hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=On+the+go+cafe+hsr+layout+menu&sa=X&ved=2ahUKEwimkqL-46-UAxVrVqQEHZESNbwQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "On the go cafe hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=On+the+go+cafe+hsr+layout+reviews&sa=X&ved=2ahUKEwimkqL-46-UAxVrVqQEHZESNbwQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "On the go cafe hsr layout menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=On+the+go+cafe+hsr+layout+menu&sa=X&ved=2ahUKEwimkqL-46-UAxVrVqQEHZESNbwQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "On the go cafe hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=On+the+go+cafe+hsr+layout+reviews&sa=X&ved=2ahUKEwimkqL-46-UAxVrVqQEHZESNbwQ1QJ6BAhjEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "On The Go Cafe - Hsr Layout, Bangalore",
+                "url": "https://www.justdial.com/Bangalore/On-The-Go-Cafe-Hsr-Layout-Below-Printo-Hsr-Layout/080PXX80-XX80-240730161021-C7I8_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a On-The-Go-Cafe...",
+                "description": "On The Go Cafe - Hsr Layout in Hsr Layout,Bangalore well known for Coffee Shops in Bangalore . Rated 4.8 based on 58 Customer Reviews and Ratings with 6\u00a0...",
+                "emphasizedKeywords": [
+                    "On The Go Cafe - Hsr Layout in Hsr Layout,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 58,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "ON THE GO cafe - HSR Layout Sector 4, Kasavanahalli",
+                "url": "https://magicpin.in/Bangalore/Hsr-Layout-Sector-4/Restaurant/On-The-Go-Cafe-Hsr-Layout/store/197951a?srsltid=AfmBOoop5-Bs2MsbLnyzd_Mbc94Vz_w632FGN9qII-w5f_kt85CrMF4w",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "ON THE GO cafe - HSR LAYOUT is a popular eating spot located in HSR Layout Sector 4, Kasavanahalli, Bangalore. Visit the store for more information.",
+                "emphasizedKeywords": [
+                    "HSR Layout Sector 4, Kasavanahalli"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "On The Go Cafeteria, Bellandur, Bangalore",
+                "url": "https://www.zomato.com/bangalore/on-the-go-cafeteria-bellandur-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Bellandur",
+                "description": "1&2, 2nd Court, Green Lane Layout, Opposite To Iblur Park, Near Suncity Corporate Leisure, Bellandur, Bangalore. Average Cost \u20b9300 for two people (approx.)Read more",
+                "emphasizedKeywords": [
+                    "1&2, 2nd Court, Green Lane Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "6 Photos of On The Go Cafe - Hsr Layout in ...",
+                "url": "https://www.justdial.com/Bangalore/On-The-Go-Cafe-Hsr-Layout-Below-Printo-Hsr-Layout/080PXX80-XX80-240730161021-C7I8_BZDET/photos",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a photos",
+                "description": "6 Photos of On The Go Cafe - Hsr Layout in Hsr Layout, Bangalore Rated 4.8 based on 58 Customer Reviews and Ratings with 6 Photos.",
+                "emphasizedKeywords": [
+                    "On The Go Cafe",
+                    "Hsr Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 58,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Exploring few more Restaurants in HSR Layout 1. Go ...",
+                "url": "https://www.instagram.com/p/DTNeunqE48q/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0fascinatingfoodblog",
+                "description": "1. Go native, HSR Layout We visited this restaurant for lunch and had an amazing experience with the quality of food. On my table for lunchRead more",
+                "emphasizedKeywords": [
+                    "SR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "8 likes",
+                "lastUpdated": "4 months ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "On The Go cafe - Hsr Layout, \u043a\u0430\u0444\u0435, \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, ...",
+                "url": "https://yandex.ru/maps/org/on_the_go_cafe_hsr_layout/213530394947/",
+                "displayedUrl": "https://yandex.ru \u203a ... \u203a \u041a\u0430\u0444\u0435",
+                "description": "\u041a\u0430\u0444\u0435 On The Go cafe - Hsr Layout \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440, \u260e\ufe0f +91 7349 36 21 38. \u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0447\u0430\u0441\u044b \u0440\u0430\u0431\u043e\u0442\u044b. \u041f\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043c\u0430\u0440\u0448\u0440\u0443\u0442 \u0432 \u042f\u043d\u0434\u0435\u043a\u0441 \u041a\u0430\u0440\u0442\u0430\u0445.",
+                "emphasizedKeywords": [
+                    "\u041a\u0430\u0444\u0435 On The Go cafe - Hsr Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Menu of On The Go Cafeteria, Bellandur, Bangalore",
+                "url": "https://www.zomato.com/bangalore/on-the-go-cafeteria-bellandur-bangalore/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a On The Go Cafeteria",
+                "description": "1&2, 2nd Court, Green Lane Layout, Opposite To Iblur Park, Near Suncity Corporate Leisure, Bellandur, Bangalore. Open now9am \u2013 10:30pm (Today)\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "1&2, 2nd Court, Green Lane Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "This cafe in HSR Layout offers many budget-friendly dishes ...",
+                "url": "https://www.instagram.com/reel/DGjAjnDyHUT/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0go_to_spot_blr",
+                "description": "This cafe in HSR Layout offers many budget-friendly dishes with good taste and ambiance, worth a visit. \u00b7 There are caf\u00e9s\u2026 and then there are\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "30+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:11",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What does cafe hopping mean?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "A complete coffee shop menu typically covers five core categories: espresso-based drinks, brewed coffee, cold beverages, specialty and seasonal offerings, and food.",
+                "question": "What is typically on a cafe menu?",
+                "title": "Coffee Shop Menu Ideas [Food & Drink] | Shamrock FSW",
+                "url": "https://www.shamrockfsw.com/blog/coffee-shop-menu-ideas/#:~:text=A%20complete%20coffee%20shop%20menu,and%20seasonal%20offerings%2C%20and%20food.",
+                "date": "May 1, 2026"
+            },
+            {
+                "answer": "Be mindful of how much space you take up when working from a coffee shop. It's a public space, and you're obviously not the only one using it. If possible, use individual tables rather than communal tables and couches that are meant to be used by several people at once.",
+                "question": "Is it acceptable to work from a cafe?",
+                "title": "13 Etiquette Tips When Working Remotely from Coffee Shops",
+                "url": "https://cornerperk.com/13-etiquette-tips-when-working-remotely-from-coffee-shops/#:~:text=Be%20mindful%20of%20how%20much,by%20several%20people%20at%20once.",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What sells good in a cafe?",
+                "title": "What to Sell in a Coffee Shop",
+                "url": "https://esquirescoffee.co.uk/news/what-to-sell-coffee-shop/",
+                "date": null
+            }
+        ],
+        "aiOverview": {
+            "type": "live",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://www.zomato.com/bangalore/on-the-go-cafeteria-bellandur-bangalore",
+                    "title": "On The Go Cafeteria, Bellandur, Bangalore | Zomato",
+                    "description": "On The Go Cafeteria is a fast food restaurant in Bellandur, Bangalore. It serves beverages and has a 7-page menu. The restaurant i..."
+                },
+                {
+                    "url": "https://www.instagram.com/reel/DP5UBlXkq9h/",
+                    "title": "on Instagram: \"Most Pocket Friendly Cafe in HSR Menu starts ...",
+                    "description": "Oct 16, 2025 \u2014 hello guys varieties of shakes furas and cocktails. they provide with lot of snacks main follow around Bangalore. Most Pocket Frie..."
+                },
+                {
+                    "url": "https://www.justdial.com/Bangalore/On-The-Go-Cafe-Hsr-Layout-Below-Printo-Hsr-Layout/080PXX80-XX80-240730161021-C7I8_BZDET",
+                    "title": "On The Go Cafe - Hsr Layout, Bangalore - Justdial",
+                    "description": "On The Go Cafe - Hsr Layout in Hsr Layout,Bangalore well known for Coffee Shops in Bangalore . Rated 4.8 based on 58 Customer Revi..."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/JobePGduQdQLU0Zj4/records/R0BbiKJcV3Gt3To-0.html?signature=4V7RZe0MrvVozli5SKJB"
+    }
+]

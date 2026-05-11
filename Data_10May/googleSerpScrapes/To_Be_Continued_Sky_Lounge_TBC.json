@@ -1,0 +1,209 @@
+[
+    {
+        "#debug": {
+            "requestId": "p2fN2SKFrmGMDm8",
+            "url": "http://www.google.com/search?q=To+Be+Continued+Sky+Lounge+TBC",
+            "loadedUrl": "http://www.google.com/search?q=To+Be+Continued+Sky+Lounge+TBC",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "To Be Continued Sky Lounge TBC",
+            "url": "http://www.google.com/search?q=To+Be+Continued+Sky+Lounge+TBC",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=To+Be+Continued+Sky+Lounge+TBC",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "To be continued sky lounge tbc menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=To+be+continued+sky+lounge+tbc+menu&sa=X&ved=2ahUKEwjz5ubX5K-UAxXFr1YBHdw6Or8Q1QJ6BQiAARAB"
+            },
+            {
+                "title": "To be continued sky lounge tbc review",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=To+be+continued+sky+lounge+tbc+review&sa=X&ved=2ahUKEwjz5ubX5K-UAxXFr1YBHdw6Or8Q1QJ6BQiVARAB"
+            },
+            {
+                "title": "To Be continued Sky Lounge TBC offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=To+Be+continued+Sky+Lounge+TBC+offers&sa=X&ved=2ahUKEwjz5ubX5K-UAxXFr1YBHdw6Or8Q1QJ6BQiSARAB"
+            },
+            {
+                "title": "TBC sky lounge, HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=TBC+sky+lounge,+HSR&sa=X&ved=2ahUKEwjz5ubX5K-UAxXFr1YBHdw6Or8Q1QJ6BQiQARAB"
+            },
+            {
+                "title": "To be continued Sky Lounge TBC photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=To+be+continued+Sky+Lounge+TBC+photos&sa=X&ved=2ahUKEwjz5ubX5K-UAxXFr1YBHdw6Or8Q1QJ6BQiLARAB"
+            },
+            {
+                "title": "To Be continued Sky Lounge menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=To+Be+continued+Sky+Lounge+menu&sa=X&ved=2ahUKEwjz5ubX5K-UAxXFr1YBHdw6Or8Q1QJ6BQiIARAB"
+            },
+            {
+                "title": "To be continued sky lounge tbc hsr menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=To+be+continued+sky+lounge+tbc+hsr+menu&sa=X&ved=2ahUKEwjz5ubX5K-UAxXFr1YBHdw6Or8Q1QJ6BQiFARAB"
+            },
+            {
+                "title": "To be continued sky lounge reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=To+be+continued+sky+lounge+reviews&sa=X&ved=2ahUKEwjz5ubX5K-UAxXFr1YBHdw6Or8Q1QJ6BQiDARAB"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "TBC- Sky Lounge, Kadubeesanahalli, Bangalore",
+                "url": "https://www.zomato.com/bangalore/tbc-sky-lounge-kadubeesanahalli-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Kadubeesanahalli",
+                "description": "TBC- Sky Lounge Bangalore, Kadubeesanahalli; View reviews, menu, contact, location, and more for TBC- Sky Lounge Restaurant.",
+                "emphasizedKeywords": [
+                    "TBC- Sky Lounge Bangalore, Kadubeesanahalli"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.5,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "To Be Continued - Sky Lounge (@tbc.skylounge)",
+                "url": "https://www.instagram.com/tbc.skylounge/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0tbc.skylounge",
+                "description": "787 followers \u00b7 4 following \u00b7 44 posts \u00b7 @tbc.skylounge: \u201cBar & Grill Come, Drink, Eat & the rest is TO BE CONTINUED... HSR | MARATHAHALLI\u201d",
+                "emphasizedKeywords": [
+                    "tbc",
+                    "skylounge",
+                    "TO BE CONTINUED"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "780+ followers",
+                "channelName": "tbc.skylounge",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "TBC SKY LOUNGE, Bengaluru - Restaurant Reviews, ...",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g297628-d14985693-Reviews-TBC_Sky_Lounge-Bengaluru_Bangalore_District_Karnataka.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Bengaluru Restaurants",
+                "description": "TBC Sky Lounge ; CUISINES. Italian, Chinese, Thai, Grill, Wine Bar ; Meal types. Dinner ; PRICE. $$ - $$$ ; FEATURES. Reservations. Seating. Table Service.Read more",
+                "emphasizedKeywords": [
+                    "TBC Sky Lounge"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.8,
+                "numberOfReviews": 13,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "To Be Continued Sky Lounge TBC, Bengaluru, India",
+                "url": "https://wanderlog.com/place/details/1279237/to-be-continued-sky-lounge-tbc",
+                "displayedUrl": "https://wanderlog.com \u203a place \u203a details \u203a to-be-continue...",
+                "description": "Enjoy a casual rooftop dining experience with ample seating space \u00b7 Breathtaking view of the sky from the location \u00b7 Good food options with delicious offerings\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "casual rooftop dining experience with ample seating space"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "TBC Sky Lounge | Bangalore",
+                "url": "https://www.facebook.com/tbcskylounge/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0TBC Sky Lounge",
+                "description": "TBC Sky Lounge. Enjoy the towns best food & drinks, accompanied by good vibes, & conversations with your folk\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "TBC Sky Lounge"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.6,
+                "numberOfReviews": 36,
+                "followersAmount": "2.8K+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "TBC- Sky Lounge, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/tbc-sky-lounge-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "This place is known for sevice and food, cozy seatings, quick and prompt service, ambience was lovely, courteous and helping staff, good food and good ambience.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.5,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Visit TBC Sky Lounge With Your Squad For Sumptuous ...",
+                "url": "https://lbb.in/bangalore/tbc-sky-lounge-4c14da/",
+                "displayedUrl": "https://lbb.in \u203a bangalore \u203a tbc-sky-lounge-4c14da",
+                "description": "I recently visited To Be Continued (TBC) Sky Lounge and loved the food and ambience of the place. Pesto chicken pasta (INR 280)Read more",
+                "emphasizedKeywords": [
+                    "loved the food and ambience of the place"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "To Be Continued Sky Lounge TBC \u2014 Pub in Bangalore",
+                "url": "https://pubsinbangalore.com/pubs/to-be-continued-sky-lounge-tbc-hsr-layout",
+                "displayedUrl": "https://pubsinbangalore.com \u203a Pubs \u203a HSR Layout",
+                "description": "Pub profile. To Be Continued Sky Lounge TBC. HSR Layout. Cocktails, global fare & outdoor dining in a dramatic, 2-story glass structure filled with plants.Read more",
+                "emphasizedKeywords": [
+                    "Cocktails, global fare & outdoor dining"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Good ambience and a rooftop Really liked the food and ambience especially the rooftop where you get the view of the flyover and 27th main road of HSR. Go with your jackets on in winters cause it's really chilly at night only if you are dining on rooftop.",
+                "question": "Does the Tbc Sky Lounge have a good view?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "TBC- Sky Lounge Dining Reviews Would recommended everyone to visit TBC. Biplop was super good in the service and very helpful. Had a great experience at TBC. Rohith provided excellent service with professionalism, clear communication, and genuine customer care.",
+                "question": "How is the service at TBC Sky Lounge HSR?",
+                "title": "Reviews of TBC- Sky Lounge, Kadubeesanahalli, Bangalore",
+                "url": "https://www.zomato.com/bangalore/tbc-sky-lounge-kadubeesanahalli-bangalore/reviews#:~:text=TBC%2D%20Sky%20Lounge%20Dining%20Reviews&text=Would%20recommended%20everyone%20to%20visit,the%20service%20and%20very%20helpful.&text=Had%20a%20great%20experience%20at,communication%2C%20and%20genuine%20customer%20care.",
+                "date": null
+            },
+            {
+                "answer": "Known for offering some of the amazing flavors of North Indian, Continental and Asian cuisines, TBC Sky Lounge very precisely blends flavorful ingredients with fresh seasoning.",
+                "question": "What is Tbc Sky Lounge HSR known for?",
+                "title": "TBC - Sky Lounge - Kadubeesanahalli - Resy",
+                "url": "https://resy.com/cities/bengaluru-india/venues/tbc-sky-lounge-kadubeesanahalli#:~:text=Known%20for%20offering%20some%20of,flavorful%20ingredients%20with%20fresh%20seasoning.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/mg9vCTKtECrfBAvHP/records/p2fN2SKFrmGMDm8-0.html?signature=cit4CQ1JBjx4BTvhkhiP"
+    }
+]

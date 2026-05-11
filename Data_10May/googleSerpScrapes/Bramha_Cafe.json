@@ -1,0 +1,207 @@
+[
+    {
+        "#debug": {
+            "requestId": "vEJRQY0foQy5kmB",
+            "url": "http://www.google.com/search?q=Bramha+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=Bramha+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Bramha Cafe",
+            "url": "http://www.google.com/search?q=Bramha+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Bramha+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Bramha Cafe HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+HSR&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhAEAE"
+            },
+            {
+                "title": "Bramha cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+cafe+menu&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhGEAE"
+            },
+            {
+                "title": "Bramha Cafe raipur",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+raipur&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Bramha Cafe Heritage",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+Heritage&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhEEAE"
+            },
+            {
+                "title": "Bramha Cafe heritage Bengaluru",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+heritage+Bengaluru&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Brahma cafe JP Nagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Brahma+cafe+JP+Nagar&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Brahma Cafe Heritage jayanagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Brahma+Cafe+Heritage+jayanagar&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Bramha Cafe heritage Bengaluru menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+heritage+Bengaluru+menu&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Bramha Cafe HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+HSR&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhAEAE"
+            },
+            {
+                "title": "Bramha cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+cafe+menu&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhGEAE"
+            },
+            {
+                "title": "Bramha Cafe raipur",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+raipur&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhFEAE"
+            },
+            {
+                "title": "Bramha Cafe Heritage",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+Heritage&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhEEAE"
+            },
+            {
+                "title": "Bramha Cafe heritage Bengaluru",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+heritage+Bengaluru&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Brahma cafe JP Nagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Brahma+cafe+JP+Nagar&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Brahma Cafe Heritage jayanagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Brahma+Cafe+Heritage+jayanagar&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Bramha Cafe heritage Bengaluru menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bramha+Cafe+heritage+Bengaluru+menu&sa=X&ved=2ahUKEwjQhoLR4q-UAxX70gIHHQ9MFnoQ1QJ6BAg_EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Bramha Cafe \u2014 South Indian Restaurant",
+                "url": "https://www.bramhacafe.com/",
+                "displayedUrl": "https://www.bramhacafe.com",
+                "description": "Bramha Cafe \u2014 Authentic South Indian flavours, filter coffee, and premium ambience in HSR. Pure Veg. Order now on Swiggy or Zomato.",
+                "emphasizedKeywords": [
+                    "Authentic South Indian flavours, filter coffee, and premium ambience"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Bramha Cafe (@bramhacafe) \u2022 Instagram photos and videos",
+                "url": "https://www.instagram.com/bramhacafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0bramhacafe",
+                "description": "Bramha Caf\u00e9 Pure Veg South Indian Restaurant Authentic South Indian experience. HSR Layout | Jayanagar (Bengaluru) Raipur \u2014 Now Open \u00b7 Open Butter Masala\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Pure Veg South Indian Restaurant"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "2.8K+ followers",
+                "channelName": "bramhacafe",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Bramha Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/bramha-cafe-2-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Bramha Cafe, South Indian, North Indian, Street Food, Beverages, 1088/A, Khata 1179/1088/A, 18th Cross, 3rd Sector, HSR, Bangalore, Open now 7am \u2013 12midnightRead more",
+                "emphasizedKeywords": [
+                    "1088/A, Khata 1179/1088/A, 18th Cross, 3rd Sector, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 13,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Bramha Cafe on Instagram: \"From the rich flavors of South ...",
+                "url": "https://www.instagram.com/reel/DF7zWfeyDc_/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0bramhacafe",
+                "description": "We look forward to welcoming you to experience authentic South Indian flavours, thoughtfully crafted with tradition, pure ingredients, and\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "20+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "1:03",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Bramha Cafe - HSR Layout",
+                "url": "https://www.swiggy.com/city/bangalore/bramha-cafe-hsr-layout-rest966996",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Bramha Signature Thalis & Combos (5) \u00b7 Veg Item. Akki Roti Combo. Costs: 209 rupees, Description: (1 Akki Roti + Veg Kurma + Dal + Chutney + Flavoured Rice +\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Bramha Signature Thalis & Combos"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Bramha Cafe (@bramhacaferaipur)",
+                "url": "https://www.instagram.com/bramhacaferaipur/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0bramhacaferaipur",
+                "description": "Experience flavor like never before! \u2728 +91 7000700350 BRAMHA CAFE, Sector 5, Hora Chowk, Devendra Nagar, Raipur, Chhattisgarh - 492001 Follow @\u00a0...",
+                "emphasizedKeywords": [
+                    "BRAMHA CAFE, Sector 5, Hora Chowk, Devendra Nagar, Raipur"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "920+ followers",
+                "channelName": "bramhacaferaipur",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Bramha Cafe, Jayanagar, Bangalore",
+                "url": "https://www.zomato.com/bangalore/bramha-cafe-jayanagar-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Jayanagar",
+                "description": "764/44, Ground Floor, 18th Main, 37th Cross, 4th T Block, Jayanagar, Bangalore. Open now7:30am \u2013 10:30pm (Today). Order online\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "764/44, Ground Floor, 18th Main, 37th Cross, 4th T Block, Jayanagar, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4,
+                "numberOfReviews": 24,
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/bCaSpjgZyhuBGtzqJ/records/vEJRQY0foQy5kmB-0.html?signature=NY5hIBnkUtJBR9Jj4qAA"
+    }
+]

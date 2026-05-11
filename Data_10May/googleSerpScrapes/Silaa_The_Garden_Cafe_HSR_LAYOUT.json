@@ -1,0 +1,245 @@
+[
+    {
+        "#debug": {
+            "requestId": "Rnmg0yQ0IinIK2C",
+            "url": "http://www.google.com/search?q=Silaa+The+Garden+Cafe+HSR+LAYOUT",
+            "loadedUrl": "http://www.google.com/search?q=Silaa+The+Garden+Cafe+HSR+LAYOUT",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Silaa The Garden Cafe HSR LAYOUT",
+            "url": "http://www.google.com/search?q=Silaa+The+Garden+Cafe+HSR+LAYOUT",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Silaa+The+Garden+Cafe+HSR+LAYOUT",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Silaa The Garden Cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+Garden+Cafe+menu&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhVEAE"
+            },
+            {
+                "title": "Silaa The garden Cafe HSR Layout menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+garden+Cafe+HSR+Layout+menu&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhUEAE"
+            },
+            {
+                "title": "Silaa The Garden Cafe bookmyshow",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+Garden+Cafe+bookmyshow&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhwEAE"
+            },
+            {
+                "title": "Silaa The Garden Cafe HSR Layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+Garden+Cafe+HSR+Layout+reviews&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Silaa The Garden cafe HSR Layout photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+Garden+cafe+HSR+Layout+photos&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Silaa the garden cafe hsr layout timings",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+the+garden+cafe+hsr+layout+timings&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Sila garden cafe malleshwaram menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Sila+garden+cafe+malleshwaram+menu&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhfEAE"
+            },
+            {
+                "title": "Silaa The garden cafe offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+garden+cafe+offers&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhdEAE"
+            },
+            {
+                "title": "Silaa The Garden Cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+Garden+Cafe+menu&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhVEAE"
+            },
+            {
+                "title": "Silaa The garden Cafe HSR Layout menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+garden+Cafe+HSR+Layout+menu&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhUEAE"
+            },
+            {
+                "title": "Silaa The Garden Cafe bookmyshow",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+Garden+Cafe+bookmyshow&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhwEAE"
+            },
+            {
+                "title": "Silaa The Garden Cafe HSR Layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+Garden+Cafe+HSR+Layout+reviews&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "Silaa The Garden cafe HSR Layout photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+Garden+cafe+HSR+Layout+photos&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Silaa the garden cafe hsr layout timings",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+the+garden+cafe+hsr+layout+timings&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Sila garden cafe malleshwaram menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Sila+garden+cafe+malleshwaram+menu&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhfEAE"
+            },
+            {
+                "title": "Silaa The garden cafe offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Silaa+The+garden+cafe+offers&sa=X&ved=2ahUKEwiuq4iC5a-UAxXOaHADHTMUErEQ1QJ6BAhdEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Silaa-The garden cafe (@silaathegardencafe)",
+                "url": "https://www.instagram.com/silaathegardencafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0silaathegardencafe",
+                "description": "An Indianised Jamming cafe in. Malleshwara 9071096565. HSR Layout 8296236667. Booking 8296256667. Pure Veg Cafe with Garden & Books! Follow. Message\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "cafe",
+                    "HSR Layout",
+                    "Cafe",
+                    "Garden"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "336.2K+ followers",
+                "channelName": "silaathegardencafe",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Upcoming Events at Silaa The Garden Cafe, HSR Layout",
+                "url": "https://in.bookmyshow.com/explore/c/venues/silaa-the-garden-cafe-hsr-layout-bengaluru/aizk",
+                "displayedUrl": "https://in.bookmyshow.com \u203a ... \u203a Venues",
+                "description": "Things & activities to do near you and events happening at Silaa The Garden Cafe, HSR Layout: Bengaluru.",
+                "emphasizedKeywords": [
+                    "events happening at Silaa The Garden Cafe, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Silaa The Garden Cafe, Sankey Road, Bangalore",
+                "url": "https://www.zomato.com/bangalore/silaa-the-garden-cafe-sankey-road-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Sankey Road",
+                "description": "Silaa The Garden Cafe, Cafe, Coffee, Continental, Goan, Mexican, Italian, Fast Food, Beverages, 1/2, 14th Cross Road, Near Sankey Road, BangaloreRead more",
+                "emphasizedKeywords": [
+                    "Silaa The Garden Cafe",
+                    "Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 115,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Sila The Garden Cafe",
+                "url": "https://silaathegardencafe.com/",
+                "displayedUrl": "https://silaathegardencafe.com",
+                "description": "Nature's Taste Awaits You. Contact Us. Copyright \u00a9 2025 Sila The Garden Cafe - All Rights Reserved. Powered by This website uses cookies.Read more",
+                "emphasizedKeywords": [
+                    "Nature's Taste Awaits You"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Silaa The Garden Cafe in Hsr Layout,Bangalore - Justdial",
+                "url": "https://www.justdial.com/Bangalore/Silaa-The-Garden-Cafe-Above-Haldirams-Hsr-Layout/080PXX80-XX80-251209133029-B1P2_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Silaa-The-Garde...",
+                "description": "Silaa The Garden Cafe in Hsr Layout,Bangalore well known for Coffee Shops in Bangalore . Rated 4.8 based on 691 Customer Reviews and Ratings with 12 Photos.",
+                "emphasizedKeywords": [
+                    "Silaa The Garden Cafe in Hsr Layout,Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 691,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Menu of Silaa The Garden Cafe, Sankey Road, Bangalore",
+                "url": "https://www.zomato.com/bangalore/silaa-the-garden-cafe-sankey-road-bangalore/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Silaa The Garden Cafe",
+                "description": "14th Cross Road, Near Sankey Road, Bangalore. Closes in 40 minutes12noon \u2013 12midnight (Today). Silaa The Garden Cafe Menu. Food Menu menu. Food Menu.Read more",
+                "date": "2026-01-02T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "1/2, 14th Cross Road, Near Sankey Road, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 115,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Silaa The garden cafe",
+                "url": "https://www.youtube.com/@SilaaThegardencafe",
+                "displayedUrl": "https://www.youtube.com \u203a @SilaaThegardencafe",
+                "description": "Silaa The garden cafe ; Dec 11 Grand opening Kannada jamming. 2.3K views ; HSR Layout. 2.4K views ; Kannada and Hindi jamming @SilaaThegardencafe. 936 views ; Hindi\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Silaa The garden cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Bengaluru best cafe Silaa The Garden Cafe HSR LAYOUT",
+                "url": "https://www.instagram.com/p/DXLf_CKCOdy/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0i_am_akash_7.0",
+                "description": "This place is my current coffee obsession in Bangalore. ... Lola's, Manyata Tried their quick stackables and cocktail drinks. My kinda fancy date\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "10+ likes",
+                "lastUpdated": "3 weeks ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "aiOverview": {
+            "type": "live",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://www.instagram.com/reel/DTEsn0ek6j-/",
+                    "title": "@silaathegardencafe @sahanasudhakara #silaa #kannada ...",
+                    "description": "Jan 3, 2026 \u2014 Our kind of hanging out \u2764\ufe0f Silaa silaa The Garden Cafe PURE VEG CAFE PLANTS AND POTS SOLD HERE LIBRARY Silaa, The garden cafe, HSR..."
+                },
+                {
+                    "url": "https://www.justdial.com/Bangalore/Silaa-The-Garden-Cafe-Above-Haldirams-Hsr-Layout/080PXX80-XX80-251209133029-B1P2_BZDET",
+                    "title": "Silaa The Garden Cafe in Hsr Layout,Bangalore - Best Coffee Shops near me in Bangalore - Justdial",
+                    "description": "The contact number for Silaa The Garden Cafe in HSR Layout, Bangalore is: * **Address**: 3rd Floor, Lotus Building, 95, Sector 4, ..."
+                },
+                {
+                    "url": "https://www.instagram.com/popular/silaa-the-garden-cafe-hsr-layout-bengaluru/",
+                    "title": "Silaa The Garden Cafe Hsr Layout Bengaluru - Instagram",
+                    "description": "\ud83d\udccdSilaa The Garden Cafe, Malleshwaram Silaa is a trendy, aesthetically designed caf\u00e9 located in Malleswaram, Bangalore. It's known..."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/LIirsbSNMWZgBAYCp/records/Rnmg0yQ0IinIK2C-0.html?signature=Fc3fnzikoUN9dWU9j5Xk"
+    }
+]

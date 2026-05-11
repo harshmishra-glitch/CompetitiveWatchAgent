@@ -1,0 +1,217 @@
+[
+    {
+        "#debug": {
+            "requestId": "djhbU31VPLri2oV",
+            "url": "http://www.google.com/search?q=Cafe+27",
+            "loadedUrl": "http://www.google.com/search?q=Cafe+27",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Cafe 27",
+            "url": "http://www.google.com/search?q=Cafe+27",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Cafe+27",
+        "hasNextPage": true,
+        "serpProviderCode": "L",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Cafe 27 miami",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+miami&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAgvEAE"
+            },
+            {
+                "title": "Cafe 27 menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+menu&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAhREAE"
+            },
+            {
+                "title": "Cafe 27 Bar and Grill upcoming events",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+Bar+and+Grill+upcoming+events&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAhJEAE"
+            },
+            {
+                "title": "Cafe 27, Weston",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27,+Weston&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAhGEAE"
+            },
+            {
+                "title": "Cafe 27 motorcycle",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+motorcycle&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Cafe 27 Bar Grill photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+Bar+Grill+photos&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Cafe 27 okeechobee",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+okeechobee&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Cafe 27 truck stop",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+truck+stop&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAgwEAE"
+            },
+            {
+                "title": "Cafe 27 miami",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+miami&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAgvEAE"
+            },
+            {
+                "title": "Cafe 27 menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+menu&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAhREAE"
+            },
+            {
+                "title": "Cafe 27 Bar and Grill upcoming events",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+Bar+and+Grill+upcoming+events&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAhJEAE"
+            },
+            {
+                "title": "Cafe 27, Weston",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27,+Weston&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAhGEAE"
+            },
+            {
+                "title": "Cafe 27 motorcycle",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+motorcycle&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Cafe 27 Bar Grill photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+Bar+Grill+photos&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Cafe 27 okeechobee",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+okeechobee&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Cafe 27 truck stop",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Cafe+27+truck+stop&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQ1QJ6BAgwEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Cafe On 27: HOME",
+                "url": "https://www.cafe-27.com/",
+                "displayedUrl": "https://www.cafe-27.com",
+                "description": "Cafe on 27 is surrounded by the most breathtaking views of Topanga Canyon. Find us on highway 27 in the heart of the hills and enjoy your fresh food\u00a0...",
+                "emphasizedKeywords": [
+                    "Cafe",
+                    "27",
+                    "27"
+                ],
+                "siteLinks": [
+                    {
+                        "title": "RESERVATIONS",
+                        "url": "https://www.cafe-27.com/reservations",
+                        "description": "top of page. cafe+27+IG+button - logo.png. ABOUT ..."
+                    },
+                    {
+                        "title": "Menu",
+                        "url": "https://www.cafe-27.com/menu?menu=cafe-on-27-menu",
+                        "description": "Albacore tuna grilled with our three cheese blend on 5 seeded ..."
+                    },
+                    {
+                        "title": "More results from cafe-27.com\u00a0\u00bb",
+                        "url": "https://www.google.com/search?q=Cafe+27+site:cafe-27.com&sca_esv=af156264804c4707&hl=en&sa=X&ved=2ahUKEwiS_4SN5K-UAxXIjLAFHT0iF6sQrAN6BAgfEAE",
+                        "description": ""
+                    }
+                ],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Cafe 27 | Live music south florida | 4690 US Highway 27 ...",
+                "url": "https://www.cafe27fl.com/",
+                "displayedUrl": "https://www.cafe27fl.com",
+                "description": "Cafe 27 offers a menu that's like a road trip across American flavors. Start with gator bites, a taste of the South, then dive into classic American\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Cafe 27 offers a menu that's like a road trip across American flavors"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Cafe 27 | Weston FL",
+                "url": "https://www.facebook.com/Cafe27FL/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Cafe 27",
+                "description": "Cafe 27, Weston. 26664 likes \u00b7 2700 talking about this \u00b7 102094 were here. Tiki Bar on the edge of the Everglades. Live Bands 4 days a week. Awesome...",
+                "emphasizedKeywords": [
+                    "Tiki Bar on the edge of the Everglades"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "26.6K+ followers",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Cafe 27 Bar & Restaurant - All You SHOULD Know 2026 ...",
+                "url": "https://www.tripadvisor.com/Attraction_Review-g34733-d6198866-Reviews-Cafe_27_Bar_Restaurant-Weston_Broward_County_Florida.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a Attraction_Review-g347...",
+                "description": "Great place if you are into Motorcycles, live music and beer. Dont expect a fancy restaurant, its not. It's a Hangout for people from 40 Years and up who love\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Great place if you are into Motorcycles, live music and beer"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Cafe On 27 (@cafeonn27) \u00b7 Topanga",
+                "url": "https://www.instagram.com/cafeonn27/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cafeonn27",
+                "description": "Caf\u00e9 on 27 \u2728Flavorful bites, artisan coffee & canyon views Topanga, CA \u2b07\ufe0f Extended Hours Fri\u2013Sun until 8PM \u2b07\ufe0f. Follow. Message. Accounts you might like.Read more",
+                "emphasizedKeywords": [
+                    "Caf\u00e9",
+                    "27"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "12.8K+ followers",
+                "channelName": "cafeonn27",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "CAFE 27 - Updated May 2026 - 282 Photos & 162 Reviews",
+                "url": "https://www.yelp.com/biz/cafe-27-southwest-ranches",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Nightlife \u203a Bars \u203a Tiki Bars",
+                "description": "CAFE 27 - Try Our New Menu - 4690 US Hwy 27, Southwest Ranches, FL 33332, 282 Photos, (954) 306-4000, Mon - 11:00 am - 11:00 pm, Tue - 11:00 am - 11:00 pm,\u00a0...",
+                "emphasizedKeywords": [
+                    "4690 US Hwy 27, Southwest Ranches, FL 33332"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "CAFE 27 TRUCK STOP",
+                "url": "https://www.visitlauderdale.com/listing/cafe-27-truck-stop/6988/",
+                "displayedUrl": "https://www.visitlauderdale.com \u203a listing \u203a cafe-27-truc...",
+                "description": "CAFE 27 TRUCK STOP \u00b7 4690 US Highway 27 Weston, FL 33332 \u00b7 (954) 659-9957. Ranked #37 of 136 Places to Eat in Weston. Tripadvisor Traveler\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "4690 US Highway 27 Weston, FL 33332"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/ESHMF42lkgi1fs3GH/records/djhbU31VPLri2oV-0.html?signature=1q1UsQfx9SvurWffuamjl"
+    }
+]

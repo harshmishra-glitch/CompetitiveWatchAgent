@@ -1,0 +1,247 @@
+[
+    {
+        "#debug": {
+            "requestId": "P7GkPhYqNV3bTBv",
+            "url": "http://www.google.com/search?q=Kapoor%27s+Cafe+-+HSR+Branch",
+            "loadedUrl": "http://www.google.com/search?q=Kapoor%27s+Cafe+-+HSR+Branch",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Kapoor's Cafe - HSR Branch",
+            "url": "http://www.google.com/search?q=Kapoor%27s+Cafe+-+HSR+Branch",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Kapoor%27s+Cafe+-+HSR+Branch",
+        "hasNextPage": true,
+        "serpProviderCode": "L",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Kapoor's cafe hsr branch menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Kapoor%27s+cafe+hsr+branch+menu&sa=X&ved=2ahUKEwj-6u2X4a-UAxX7TKQEHUoxI6cQ1QJ6BAh9EAE"
+            },
+            {
+                "title": "Kapoor's cafe hsr branch phone number",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Kapoor%27s+cafe+hsr+branch+phone+number&sa=X&ved=2ahUKEwj-6u2X4a-UAxX7TKQEHUoxI6cQ1QJ6BQioARAB"
+            },
+            {
+                "title": "Kapoor's cafe hsr branch contact number",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Kapoor%27s+cafe+hsr+branch+contact+number&sa=X&ved=2ahUKEwj-6u2X4a-UAxX7TKQEHUoxI6cQ1QJ6BQifARAB"
+            },
+            {
+                "title": "Kapoors cafe hsr branch reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Kapoors+cafe+hsr+branch+reviews&sa=X&ved=2ahUKEwj-6u2X4a-UAxX7TKQEHUoxI6cQ1QJ6BQibARAB"
+            },
+            {
+                "title": "Kapoor's cafe hsr timings",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Kapoor%27s+cafe+hsr+timings&sa=X&ved=2ahUKEwj-6u2X4a-UAxX7TKQEHUoxI6cQ1QJ6BQiZARAB"
+            },
+            {
+                "title": "Kapoor's cafe sarjapur",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Kapoor%27s+cafe+sarjapur&sa=X&ved=2ahUKEwj-6u2X4a-UAxX7TKQEHUoxI6cQ1QJ6BQiUARAB"
+            },
+            {
+                "title": "Kapoors cafe near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Kapoors+cafe+near+me&sa=X&ved=2ahUKEwj-6u2X4a-UAxX7TKQEHUoxI6cQ1QJ6BQiLARAB"
+            },
+            {
+                "title": "Kapoor cafe - jayanagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Kapoor+cafe+-+jayanagar&sa=X&ved=2ahUKEwj-6u2X4a-UAxX7TKQEHUoxI6cQ1QJ6BQiGARAB"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Kapoor's Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/kapoors-cafe-hsr",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Kapoor's Cafe Bangalore, HSR; View reviews, menu, contact, location, and more for Kapoor's Cafe Restaurant.",
+                "emphasizedKeywords": [
+                    "Kapoor's Cafe Bangalore, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.5,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Kapoor's Cafe - HSR Layout",
+                "url": "https://www.swiggy.com/city/bangalore/kapoors-cafe-hsr-layout-rest27746",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Kapoor's Cafe. (Outlet:HSR Layout). 337, 27Th Main,Sector1 Hsr Layout Bangalore 02. For better experience, download the Swiggy app now. Download Android App\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Kapoor's Cafe",
+                    "HSR",
+                    "Hsr"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Kapoor's Cafe - HSR Branch | Bangalore",
+                "url": "https://www.facebook.com/KapoorsCafeHSR/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Kapoor's Cafe - HSR Branch",
+                "description": "Lip-smacking Rice Dishes @ Kapoor's Cafe Dine-in Open - 11.00 a.m. to 10.00 p.m. Free Home Delivery via - Zomato & Swiggy Contact # 8527844455 #We #Are #\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Dine-in Open - 11.00 a.m. to 10.00 p.m"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 50,
+                "followersAmount": "980+ followers",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Kapoor's Cafe in Hsr Layout,Bangalore - Order Food Online",
+                "url": "https://www.justdial.com/Bangalore/Kapoors-Cafe-Next-Moti-Mahal-Deluxe-Near-Mothi-Mahal-Delux-Hsr-Layout/080PXX80-XX80-170413090736-V9N1_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Kapoors-Cafe-Ne...",
+                "description": "Nestled near Next Moti Mahal Deluxe, Near Mothi Mahal Delux in Hsr Layout, Kapoor's Cafe is a convenient stop for both locals and visitors exploring the city.Read more",
+                "emphasizedKeywords": [
+                    "Near Mothi Mahal Delux in Hsr Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.8,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Kapoor's Cafe - HSR Branch - WM42+62M, 337, 27th Main ...",
+                "url": "https://www.corner.inc/place/604242",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "North Indian decor with traditional beds and bolsters creates a homey atmosphere. Menu highlights include chola bhatura, aloo paratha, and a hearty Punjabi\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "North Indian decor with traditional beds and bolsters creates a homey atmosphere"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Menu of Kapoor's Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/kapoors-cafe-hsr/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR \u203a Kapoor's Cafe",
+                "description": "337, 27th Main, Sector 2, HSR, Bangalore. ClosedOpens at 10am. Order Online. Kapoor's Cafe Menu. Food Menu menu. Food Menu. 13 pages. Beverages menu\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "337, 27th Main, Sector 2, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.5,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Kapoor's Cafe - HSR Branch",
+                "url": "https://www.instagram.com/explore/locations/257318804677196/kapoors-cafe-hsr-branch/",
+                "displayedUrl": "https://www.instagram.com \u203a kapoors-cafe-hsr-branch",
+                "description": "Kapoor's Cafe - HSR Branch. 560102. Punjabi Restaurant\u20221,809 posts. $$$$\u2022Open until 4:00 PM. +91 97392 67702.Read more",
+                "emphasizedKeywords": [
+                    "Punjabi Restaurant"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "explore",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Kapoor's Cafe | LBB",
+                "url": "https://lbb.in/bangalore/kapoors-cafe-45ab82/",
+                "displayedUrl": "https://lbb.in \u203a ... \u203a Kapoor's Cafe \u203a Kapoor's Cafe",
+                "description": "Kapoor's Cafe, HSR, Bengaluru ... A selection of stuffed parathas all topped with a dollop of homemade white butter is what's on the menu at the Whitefield, HSR,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Kapoor's Cafe, HSR, Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Kapoor's Cafe | HSR, Bangalore | North Indian Restaurant",
+                "url": "https://www.district.in/dining/bangalore/kapoors-cafe-hsr",
+                "displayedUrl": "https://www.district.in \u203a bangalore \u203a kapoors-cafe-hsr",
+                "description": "Kapoor's Cafe. 3.5. 337, 27th Main, Sector 2, HSR, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "Kapoor's Cafe",
+                    "HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Kapoor's Cafe, HSR - Hungry Panda's diaries",
+                "url": "https://hungrypandadiaries.wordpress.com/2017/08/21/4065/",
+                "displayedUrl": "https://hungrypandadiaries.wordpress.com \u203a 2017/08/21",
+                "description": "A great menu and a nice looking place, but unfortunately sub-standard food. I was so looking forward to go back for chole bhature and other\u00a0...Read more",
+                "date": "2017-08-21T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "A great menu and a nice looking place"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Arpit Kapoor - Kapoor's Cafe | LinkedIn.",
+                "question": "Who is the owner of Kapoor's Cafe?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "HSR Layout is a locality in the south-eastern area of Bangalore. The locality is surrounded by areas such as Koramangala, BTM Layout, Bommanahalli, etc. The HSR Layout pin code is 560102, and its proximity to the Outer Ring Road and Hosur Road makes it convenient to reach other locations.",
+                "question": "Which part of Bangalore is HSR Layout?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "HSR Layout, an abbreviation of Hosur Sarjapura Road Layout, is a suburb in South Eastern Bangalore, India.",
+                "question": "Is HSR in West Bangalore?",
+                "title": "HSR Layout - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/HSR_Layout#:~:text=HSR%20Layout%2C%20an%20abbreviation%20of,in%20South%20Eastern%20Bangalore%2C%20India.",
+                "date": null
+            },
+            {
+                "answer": "HSR Layout, an abbreviation of Hosur Sarjapura Road Layout is a prominent suburb of South-Eastern Bangalore, India.",
+                "question": "Is HSR Bangalore East?",
+                "title": "HSR Layout in Bengaluru, Karnataka, India - Apple Maps",
+                "url": "https://maps.apple.com/place?auid=2520369173038907649#:~:text=HSR%20Layout%2C%20an%20abbreviation%20of,South%2DEastern%20Bangalore%2C%20India.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/jUbHcSlazgUc9mnJ1/records/P7GkPhYqNV3bTBv-0.html?signature=kJTqMh9qg1eSdXSCqj6o"
+    }
+]

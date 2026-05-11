@@ -1,0 +1,219 @@
+[
+    {
+        "#debug": {
+            "requestId": "vx5ieQW7Cdbxr5h",
+            "url": "http://www.google.com/search?q=Now+Boarding+Caf%C3%A9+%28Board+Game+Caf%C3%A9%29+-+Terminal+2",
+            "loadedUrl": "http://www.google.com/search?q=Now+Boarding+Caf%C3%A9+%28Board+Game+Caf%C3%A9%29+-+Terminal+2",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Now Boarding Caf\u00e9 (Board Game Caf\u00e9) - Terminal 2",
+            "url": "http://www.google.com/search?q=Now+Boarding+Caf%C3%A9+%28Board+Game+Caf%C3%A9%29+-+Terminal+2",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Now+Boarding+Caf%C3%A9+%28Board+Game+Caf%C3%A9%29+-+Terminal+2",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Now boarding caf\u00e9 board game caf\u00e9 terminal 2 review",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Now+boarding+caf%C3%A9+board+game+caf%C3%A9+terminal+2+review&sa=X&ved=2ahUKEwjXg5OQ46-UAxUMfKQEHRB1H4oQ1QJ6BAhzEAE"
+            },
+            {
+                "title": "Now Boarding Caf\u00e9 board game caf\u00e9 menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Now+Boarding+Caf%C3%A9+board+game+caf%C3%A9+menu&sa=X&ved=2ahUKEwjXg5OQ46-UAxUMfKQEHRB1H4oQ1QJ6BQiKARAB"
+            },
+            {
+                "title": "Now boarding caf\u00e9 board game caf\u00e9 terminal 2 location",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Now+boarding+caf%C3%A9+board+game+caf%C3%A9+terminal+2+location&sa=X&ved=2ahUKEwjXg5OQ46-UAxUMfKQEHRB1H4oQ1QJ6BQiFARAB"
+            },
+            {
+                "title": "Now boarding caf\u00e9 board game caf\u00e9 terminal 2 jayanagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Now+boarding+caf%C3%A9+board+game+caf%C3%A9+terminal+2+jayanagar&sa=X&ved=2ahUKEwjXg5OQ46-UAxUMfKQEHRB1H4oQ1QJ6BAh_EAE"
+            },
+            {
+                "title": "Now boarding caf\u00e9 board game caf\u00e9 terminal 2 menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Now+boarding+caf%C3%A9+board+game+caf%C3%A9+terminal+2+menu&sa=X&ved=2ahUKEwjXg5OQ46-UAxUMfKQEHRB1H4oQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "Now boarding caf\u00e9 board game caf\u00e9 terminal 2 price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Now+boarding+caf%C3%A9+board+game+caf%C3%A9+terminal+2+price&sa=X&ved=2ahUKEwjXg5OQ46-UAxUMfKQEHRB1H4oQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "Now boarding caf\u00e9 board game caf\u00e9 terminal 2 photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Now+boarding+caf%C3%A9+board+game+caf%C3%A9+terminal+2+photos&sa=X&ved=2ahUKEwjXg5OQ46-UAxUMfKQEHRB1H4oQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Now boarding cafe board game Cafe offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Now+boarding+cafe+board+game+Cafe+offers&sa=X&ved=2ahUKEwjXg5OQ46-UAxUMfKQEHRB1H4oQ1QJ6BAh0EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Cafe with board games | Jayanagar 3rd Block",
+                "url": "https://www.nowboarding.co.in/",
+                "displayedUrl": "https://www.nowboarding.co.in",
+                "description": "Discover the ultimate board game experience at Now Boarding Cafe in Jayanagar 3rd Block, Bangalore ... Games Catalogue - Terminal 2 \u00b7 Buy Board Games \u00b7 Cafe\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Games Catalogue - Terminal"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Locations & Games",
+                "url": "https://www.nowboarding.co.in/locations",
+                "displayedUrl": "https://www.nowboarding.co.in \u203a locations",
+                "description": "Cafe Ambience. Terminal 2. HSR Layout. We're thrilled to announce the opening of our brand new branch, Now Boarding Cafe Terminal 2, in the vibrant HSR Layout!Read more",
+                "emphasizedKeywords": [
+                    "Cafe",
+                    "Terminal 2",
+                    "Now Boarding Cafe Terminal 2"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Now Boarding Caf\u00e9 Terminal 2 | Bangalore",
+                "url": "https://www.facebook.com/p/Now-Boarding-Caf%C3%A9-Terminal-2-61569722843542/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Now Boarding Caf\u00e9 Terminal 2",
+                "description": "Now Boarding Caf\u00e9 Terminal 2. Your friendly neighbourhood board game cafe in Bengaluru, now in HSR Layout!Read more",
+                "date": "2026-05-10T22:31:50.360Z",
+                "emphasizedKeywords": [
+                    "board game cafe in Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "10+ followers",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Now Boarding Cafe Terminal 2 - HSR Layout, Bengaluru",
+                "url": "https://playo.co/venues/hsr-layout-bengaluru/now-boarding-cafe-terminal-2-hsr-layout-bengaluru",
+                "displayedUrl": "https://playo.co \u203a Places \u203a HSR Layout",
+                "description": "Boarding Cafe Terminal 2 \u00b7 Timing \u00b7 965, 4th And 5th Floor, Anvi Pride, 9th Main Road, HSR Layout, Bengaluru, Karnataka - 560102 \u00b7 Sports Available \u00b7 Top Sports\u00a0...Read more",
+                "date": "2026-05-10T22:31:50.363Z",
+                "emphasizedKeywords": [
+                    "965, 4th And 5th Floor, Anvi Pride, 9th Main Road, HSR Layout, Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 3,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Board Games Bengaluru (@nowboardingcafe)",
+                "url": "https://www.instagram.com/nowboardingcafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0nowboardingcafe",
+                "description": "Bengaluru's hub for board games, food & fun! Eat Play Repeat \u267b 9663568855 (Jayanagar) 8904283855 (HSR Layout). Follow. Message\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Bengaluru's hub for board games, food & fun"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "18.3K+ followers",
+                "channelName": "nowboardingcafe",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "NOW BOARDING CAF\u00c9 TERMINAL 2, HSR LAYOUT ...",
+                "url": "https://www.instagram.com/reel/DDWmyKxyHnm/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0nagashreeraghu",
+                "description": "This cafe is just doing the opposite of brain rot, brain cleansing, \u2026.here you r just off from all the genz gadgets, refreshing from workload,\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "50+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:45",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Now Boarding Caf\u00e9 (Board Game Caf\u00e9) - Terminal 2",
+                "url": "https://mindtrip.ai/restaurant/bengaluru-karnataka/now-boarding-cafe-board-game-cafe-terminal-2/re-SCu3nTxT",
+                "displayedUrl": "https://mindtrip.ai \u203a restaurant \u203a bengaluru-karnataka \u203a n...",
+                "description": "Boarding Caf\u00e9 (Board Game Caf\u00e9) - Terminal 2 is a vibrant venue dedicated to board game enthusiasts, located on the 4th and 5th floors of Anvi Pride in\u00a0...",
+                "date": "2026-05-10T22:31:50.679Z",
+                "emphasizedKeywords": [
+                    "located on the 4th and 5th floors of Anvi Pride"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Bengaluru's favourite Board Game Cafe! Details If you've been ...",
+                "url": "https://www.instagram.com/reel/DWoOCGbDYTx/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0eat_n_burn",
+                "description": "This is Now Boarding Cafe in Jayanagar, now in HSR Layout as well. And it's run by two passionate teachers who just wanted to remind us how fun\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "5.7K+ likes",
+                "lastUpdated": "1 month ago",
+                "channelName": "reel",
+                "reelLength": "0:55",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Avoid bending cards, excessively handling game pieces, or causing damage to the components. Remember that these games are shared resources meant to be enjoyed by many. 2. Be mindful of noise levels: Board game cafes are buzzing with excitement, but remember to keep your volume in check.",
+                "question": "What is the etiquette for board game cafes?",
+                "title": null,
+                "url": null,
+                "date": "Mar 7, 2024"
+            },
+            {
+                "answer": "We are located in the heart of Dubai, right in front of the iconic Burj Khalifa! Our mission is to bring people and reconnect back together! You can sit and play as many games as you like for as long as you like, we only charge 45/AED per person.",
+                "question": "How much does the six board game cafe cost?",
+                "title": "The Six | Board Game Cafe",
+                "url": "https://www.thesixcafe.com/#:~:text=We%20are%20located%20in%20the,people%20and%20reconnect%20back%20together!&text=You%20can%20sit%20and%20play,charge%2045%2FAED%20per%20person.",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Is a board game cafe profitable?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "A board game caf\u00e9 is a type of caf\u00e9 in which patrons play board and card games while being served food and drink. Customers usually pay an entry fee or rent a table in order to access a large library of games and instruction from the staff on how to play them. Many board game caf\u00e9s also sell the games.",
+                "question": "What exactly is a board game cafe?",
+                "title": "Board game caf\u00e9 - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Board_game_caf%C3%A9#:~:text=A%20board%20game%20caf%C3%A9%20is,caf%C3%A9s%20also%20sell%20the%20games.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/hLff9kwbJwbF8axaR/records/vx5ieQW7Cdbxr5h-0.html?signature=1axfmyQjSR0xA4nL7z4Td"
+    }
+]

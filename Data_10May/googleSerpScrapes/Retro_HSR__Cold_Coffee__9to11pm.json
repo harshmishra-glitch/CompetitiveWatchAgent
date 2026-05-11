@@ -1,0 +1,195 @@
+[
+    {
+        "#debug": {
+            "requestId": "rwgdYEbbo25r7Ek",
+            "url": "http://www.google.com/search?q=Retro+HSR+%7C+Cold+Coffee+%7C+9to11pm",
+            "loadedUrl": "http://www.google.com/search?q=Retro+HSR+%7C+Cold+Coffee+%7C+9to11pm",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Retro HSR | Cold Coffee | 9to11pm",
+            "url": "http://www.google.com/search?q=Retro+HSR+%7C+Cold+Coffee+%7C+9to11pm",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Retro+HSR+%7C+Cold+Coffee+%7C+9to11pm",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Retro hsr cold coffee 9to11pm review",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Retro+hsr+cold+coffee+9to11pm+review&sa=X&ved=2ahUKEwjH8Zj15K-UAxVlDrkGHRM1Kn8Q1QJ6BAhbEAE"
+            },
+            {
+                "title": "Retro hsr cold coffee 9to11pm price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Retro+hsr+cold+coffee+9to11pm+price&sa=X&ved=2ahUKEwjH8Zj15K-UAxVlDrkGHRM1Kn8Q1QJ6BAhcEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "9 to 11 Cold Coffee (@retro.hsr)",
+                "url": "https://www.instagram.com/retro.hsr/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0retro.hsr",
+                "description": "Chill vibes and flavorful sips await at HSR's retro coffee and lassi spot! Enjoy fresh milk creations, no ice needed, with six tasty flavors starting at just\u00a0...",
+                "emphasizedKeywords": [
+                    "HSR's retro coffee and lassi spot"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "910+ followers",
+                "channelName": "retro.hsr",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Namma HSR | Bengaluru \u2764\ufe0f on Instagram: \"@retro.hsr - Try ...",
+                "url": "https://www.instagram.com/reel/C5D8vQbr-hV/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0hsr_layout",
+                "description": "We are The Retro, a unique concept of cold coffee on streets is at our HSR Layout. This cold coffee cart in HSR opens only for 2 hours at night,\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "530+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "reel",
+                "reelLength": "0:47",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Retro HSR | Cold Coffee | 9to11pm Reviews",
+                "url": "https://magicpin.in/Bangalore/Hsr/Restaurant/Retro-Hsr-%7C-Cold-Coffee-%7C-9to11pm/store/197c990/reviews?srsltid=AfmBOopqn_kXElud3OLKGVqwi3S7o4MOdobRr7JbHj1bs1pXEqWCmzkC",
+                "displayedUrl": "https://magicpin.in \u203a Bangalore \u203a Hsr \u203a Restaurant \u203a store",
+                "description": "Retro HSR | Cold Coffee | 9to11pm offers dining services within HSR, Bangalore. Customers can visit for more details. Cost for two: \u20b9800. 4.4. 20\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Retro HSR | Cold Coffee | 9to11pm"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Retro The Vintage Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/retro-the-vintage-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "This place is known for good wifi, weekend brunch, student crowd, customizable food, good music, elaborate menu.Read more",
+                "emphasizedKeywords": [
+                    "good wifi, weekend brunch, student crowd"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4,
+                "numberOfReviews": 49,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Amazing Cold Coffee and Lassi at the Retro HSR! @retro.hsr ...",
+                "url": "https://www.instagram.com/reel/C6i3cCDIQP5/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0mr.justyum",
+                "description": "Amazing Cold Coffee and Lassi at the Retro HSR! @retro.hsr 2 Locations : Location \ud83d\udccd: Next to Shubh Sweets. HSR 27th Main Location \ud83d\udccd: Next to Sketchers Outlet,\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "100+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "reel",
+                "reelLength": "0:58",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "This cart in HSR is a unique spot where you can find Cold ...",
+                "url": "https://www.instagram.com/reel/C5Tff-zywux/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0bits_of_lavender",
+                "description": "This cart in HSR is a unique spot where you can find Cold coffee and lassi on the streets. Named as Retro they serve one of the best Cold coffee I ever had at\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "3.6K+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "reel",
+                "reelLength": "0:32",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "New find alert \ud83d\ude9a\u2615 \u2013 This aesthetic cafe truck in HSR is all ...",
+                "url": "https://www.reddit.com/r/Bengaluru/comments/1lssg1x/new_find_alert_this_aesthetic_cafe_truck_in_hsr/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/Bengaluru",
+                "description": "Checked the google reviews, customers are frustrated about long waiting hours. Hope the cafe take notes and rectify.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "commentsAmount": "40+ comments",
+                "lastUpdated": "10 months ago",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "@retro.hsr serves creamy cold coffee in 6 different flavours. ...",
+                "url": "https://www.instagram.com/p/Cwm0KtSPofK/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0hungryy__travellerr",
+                "description": "... retro.hsr serves creamy cold coffee in 6 different flavours. You can find them at 27th main road, HSR Layout, Bengaluru. #27thmainroad\u00a0...",
+                "emphasizedKeywords": [
+                    "27th main road, HSR Layout, Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "80+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "A cute little caf\u00e9 in HSR that stays open till midnight. Perfect ...",
+                "url": "https://www.instagram.com/reel/DXeWjfskvM9/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0food__enthusiasts_",
+                "description": "Just discovered this beautiful vintage-themed caf\u00e9 in Jayanagar \u2013 Nammuru Katte \u2615\u2728 ... Hot Coffee, Cold Coffee, Thick Shakes, Fruit & Caffeine\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "640+ likes",
+                "lastUpdated": "2 weeks ago",
+                "channelName": "reel",
+                "reelLength": "0:13",
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Location Retro Coffee -Next to Shubh Sweets 27th Main HsR ...",
+                "url": "https://www.instagram.com/reel/DJgMUZzPJma/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0foodietraveller_dharak",
+                "description": "Location Retro Coffee -Next to Shubh Sweets 27th Main HsR layout -Next to sketchers outlet 13th cross road HSR layout -opp Plum and sugar,\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "140+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "reel",
+                "reelLength": "0:28",
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/GRqhhNA8amMa7ZVp2/records/rwgdYEbbo25r7Ek-0.html?signature=1JbgAEEZOBWH3pFvOj0uo"
+    }
+]

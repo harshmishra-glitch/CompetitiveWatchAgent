@@ -1,0 +1,212 @@
+[
+    {
+        "#debug": {
+            "requestId": "4z3ZsC3YHqCSyu7",
+            "url": "http://www.google.com/search?q=Coffee+%26+More",
+            "loadedUrl": "http://www.google.com/search?q=Coffee+%26+More",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Coffee & More",
+            "url": "http://www.google.com/search?q=Coffee+%26+More",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Coffee+%26+More",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Coffee & more menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+%26+more+menu&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg0EAE"
+            },
+            {
+                "title": "Coffee & more restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+%26+more+restaurant&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Coffee & more locations",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+%26+more+locations&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Coffee and more Sioux Falls",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+and+more+Sioux+Falls&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg1EAE"
+            },
+            {
+                "title": "Coffee and more Sunnyvale",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+and+more+Sunnyvale&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Coffee near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+near+me&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "Coffee and more tea sd",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+and+more+tea+sd&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Coffee Sunnyvale",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+Sunnyvale&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Coffee & more menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+%26+more+menu&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg0EAE"
+            },
+            {
+                "title": "Coffee & more restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+%26+more+restaurant&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Coffee & more locations",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+%26+more+locations&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Coffee and more Sioux Falls",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+and+more+Sioux+Falls&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg1EAE"
+            },
+            {
+                "title": "Coffee and more Sunnyvale",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+and+more+Sunnyvale&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Coffee near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+near+me&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "Coffee and more tea sd",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+and+more+tea+sd&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Coffee Sunnyvale",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+Sunnyvale&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQ1QJ6BAg2EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "COFFEE & MORE",
+                "url": "https://coffeeandmoresf.com/",
+                "displayedUrl": "https://coffeeandmoresf.com",
+                "description": "Coffee & More - vintage bus serving Handcrafted Coffee, Teas and specialty drinks and more to guest in Sioux Falls, SD and surrounding areas.",
+                "emphasizedKeywords": [
+                    "Coffee & More"
+                ],
+                "siteLinks": [
+                    {
+                        "title": "Menu",
+                        "url": "https://coffeeandmoresf.com/menu",
+                        "description": "GENERAL \u00b7 COFFEE DRINKS \u00b7 SODAK SWEETY LATTE ..."
+                    },
+                    {
+                        "title": "Order Online",
+                        "url": "https://coffeeandmoresf.com/order/coffee-more-210-n-joseph-ave",
+                        "description": "Order online from Live in the \"MORE\", including COFFEE ..."
+                    },
+                    {
+                        "title": "More results from coffeeandmoresf.com\u00a0\u00bb",
+                        "url": "https://www.google.com/search?q=Coffee+%26+More+site:coffeeandmoresf.com&sca_esv=af156264804c4707&gl=US&hl=en&sa=X&ved=2ahUKEwio55jd5a-UAxVtgK8BHfUPHtkQrAN6BAgnEAE",
+                        "description": ""
+                    }
+                ],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "COFFEE & MORE - Updated May 2026",
+                "url": "https://www.yelp.com/biz/coffee-and-more-sunnyvale-7",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Food \u203a Coffee & Tea",
+                "description": "COFFEE & MORE - Try Our New Menu - 100 S Murphy Ave, Ste 1, Sunnyvale, CA 94086, 608 Photos, (408) 245-1900, Mon - 8:00 am - 4:00 pm, Tue - 8:00 am - 4:00\u00a0...",
+                "emphasizedKeywords": [
+                    "100 S Murphy Ave, Ste 1, Sunnyvale, CA 94086"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Coffee & Moore: Home",
+                "url": "https://www.coffeenmoore.com/",
+                "displayedUrl": "https://www.coffeenmoore.com",
+                "description": "Unique Coffee Drinks, Food, ... Sold by the pound, our organic fair trade coffee beans come in a variety of blends, whole or ground - learn more about them here !Read more",
+                "emphasizedKeywords": [
+                    "Unique Coffee Drinks, Food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Coffee & More Cafe - Sunnyvale, CA",
+                "url": "https://joe.coffee/locations/ca/sunnyvale/coffee-and-more-cafe-sunnyvale-ee78d6fa-14bc-48e4-b3c0-837ed2d12bfc/",
+                "displayedUrl": "https://joe.coffee \u203a Find Coffee \u203a California \u203a Sunnyvale",
+                "description": "What are Coffee & More Cafe's hours? Coffee & More Cafe is located in Sunnyvale, California. Monday: 8 AM - 4 PM. Tuesday: 8 AM - 4 PM. Wednesday: 8 AM - 4 PM.Read more",
+                "emphasizedKeywords": [
+                    "Coffee & More Cafe is located in Sunnyvale, California"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Coffee & More",
+                "url": "https://www.facebook.com/p/Coffee-More-61557144193753/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Coffee & More",
+                "description": "Coffee & More. 1683 likes \u00b7 182 talking about this. \u2615 Vintage coffee bus serving Sioux Falls & surrounding communities! Fresh coffee, teas, treats, and...",
+                "emphasizedKeywords": [
+                    "Vintage coffee bus serving Sioux Falls & surrounding communities"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.7K+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "COFFEE & MORE, Sunnyvale - Restaurant Reviews, ...",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g33146-d917154-Reviews-Coffee_More-Sunnyvale_California.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Sunnyvale Restaurants",
+                "description": "This is a large and roomy cafe with a lot of cosy couches and nice music. They serve cappuccino in a very weird way though for such a nice cafe.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Coffee & More Cafe (@coffeeandmorecafe) \u00b7 Sunnyvale, CA",
+                "url": "https://www.instagram.com/coffeeandmorecafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0coffeeandmorecafe",
+                "description": "There's nothing quite like a good cup of coffee and a quiet, cozy place to enjoy it -- that's what we strive to provide here at Coffee & More Cafe.Read more",
+                "emphasizedKeywords": [
+                    "a quiet, cozy place to enjoy it"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "360+ followers",
+                "channelName": "coffeeandmorecafe",
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/wcRfhQs34bVV6Sl7n/records/4z3ZsC3YHqCSyu7-0.html?signature=14WXHQy8lqBanwQPgwxvB"
+    }
+]

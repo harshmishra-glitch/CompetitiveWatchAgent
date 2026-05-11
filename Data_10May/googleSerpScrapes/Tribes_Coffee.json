@@ -1,0 +1,182 @@
+[
+    {
+        "#debug": {
+            "requestId": "zSk5Fjxv2UFLWnJ",
+            "url": "http://www.google.com/search?q=Tribes+Coffee",
+            "loadedUrl": "http://www.google.com/search?q=Tribes+Coffee",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Tribes Coffee",
+            "url": "http://www.google.com/search?q=Tribes+Coffee",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Tribes+Coffee",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Tribes coffee menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tribes+coffee+menu&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "Tribes coffee House",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Tribes+coffee+House&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQ1QJ6BQiIARAB"
+            },
+            {
+                "title": "Who owns tribes coffee",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Who+owns+tribes+coffee&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQ1QJ6BQiLARAB"
+            },
+            {
+                "title": "Stumptown Coffee",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Stumptown+Coffee&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQ1QJ6BQiFARAB"
+            },
+            {
+                "title": "Mara coffee",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Mara+coffee&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQ1QJ6BQiBARAB"
+            },
+            {
+                "title": "Volcanica Coffee",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Volcanica+Coffee&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQ1QJ6BAh-EAE"
+            },
+            {
+                "title": "Coffee near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+near+me&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "Bulletproof coffee",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Bulletproof+coffee&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQ1QJ6BAh6EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Tribes Coffee House",
+                "url": "https://tribescoffeehouse.net/",
+                "displayedUrl": "https://tribescoffeehouse.net",
+                "description": "Tribes Coffeehouse - a Santa Fe favorite on Zafarano, pouring hand-crafted lattes and hearty breakfast plates since sunrise. Order Online. 4.6 / 2,447 reviews.",
+                "emphasizedKeywords": [
+                    "Tribes"
+                ],
+                "siteLinks": [
+                    {
+                        "title": "Breakfast",
+                        "url": "https://www.tribescoffeehouse.net/breakfast-near-santa-fe-new-mexico",
+                        "description": "Here you will find a variety of breakfast items available at ..."
+                    },
+                    {
+                        "title": "Sandwiches & More",
+                        "url": "https://www.tribescoffeehouse.net/best-lunch-sandwiches-santa-fe-new-mexico",
+                        "description": "Here you will find a variety of sandwiches for lunch and ..."
+                    },
+                    {
+                        "title": "Drink Menu",
+                        "url": "https://www.tribescoffeehouse.net/coffee-tea-drink-menu",
+                        "description": "Here you will find a variety of coffee, tea and specialty drinks ..."
+                    },
+                    {
+                        "title": "Our Specials & Vegan Items",
+                        "url": "https://www.tribescoffeehouse.net/dinner-specials-and-vegan-menu-santa-fe-new-mexico",
+                        "description": "Tribes Spring Salad | $12.95. Romaine Lettuce, Onions ..."
+                    },
+                    {
+                        "title": "For Your Eyes Only",
+                        "url": "https://www.tribescoffeehouse.net/gallery-tribe-coffeehouse-santa-fe-new-mexico",
+                        "description": "From steaming mugs of coffee to colorful New Mexican dishes ..."
+                    },
+                    {
+                        "title": "More results from tribescoffeehouse.net\u00a0\u00bb",
+                        "url": "https://www.google.com/search?q=Tribes+Coffee+site:tribescoffeehouse.net&sca_esv=af156264804c4707&gl=US&hl=en&sa=X&ved=2ahUKEwjZjNbK4q-UAxWpQ_EDHdqgFfIQrAN6BAhPEAE",
+                        "description": ""
+                    }
+                ],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "TRIBES COFFEE HOUSE - Updated May 2026",
+                "url": "https://www.yelp.com/biz/tribes-coffee-house-santa-fe",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a Sandwiches",
+                "description": "TRIBES COFFEE HOUSE - Try Our New Menu - 3470 Zafarano Dr, Ste A, Santa Fe, NM 87507, 83 Photos, (505) 473-3615, Mon - 7:00 am - 5:00 pm, Tue - 7:00 am\u00a0...",
+                "emphasizedKeywords": [
+                    "TRIBES COFFEE"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "You Can't Win 'Em All",
+                "url": "https://sfreporter.com/food/tribes-coffee-house-review/",
+                "displayedUrl": "https://sfreporter.com \u203a food \u203a tribes-coffee-house-review",
+                "description": "Nearly every restaurant at San Isidro Plaza shines\u2026and then there's Tribes Coffee House.",
+                "date": "2024-09-18T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Tribes Coffee House"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Tribes Coffee \u2013 World's First Organic Terroir Coffee",
+                "url": "https://tribescoffee.com/",
+                "displayedUrl": "https://tribescoffee.com",
+                "description": "Tribes Coffee is cultivated by some of the world's oldest communities, merging ancient traditions with modern techniques to create an exceptional brew.Read more",
+                "emphasizedKeywords": [
+                    "Tribes Coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "TRIBES COFFEE HOUSE, Santa Fe - 3470 Zafarano Dr",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g60958-d5074880-Reviews-Tribes_Coffee_House-Santa_Fe_New_Mexico.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Santa Fe Restaurants",
+                "description": "Great coffees, funky local atmosphere, awesome staff, always fresh foods (try the spinach-bean burrito or frito pie). This is a solid little restaurant/coffee\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Great coffees, funky local atmosphere, awesome staff"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Tribes Coffee House - Santa Fe, NM",
+                "url": "https://joe.coffee/locations/nm/santa-fe/tribes-coffee-house-santa-fe/",
+                "displayedUrl": "https://joe.coffee \u203a Find Coffee \u203a New Mexico \u203a Santa Fe",
+                "description": "Tribes Coffee House is where Santa Fe's community gathers for thoughtfully crafted coffee and delicious food in a space that feels genuinely welcoming. Whether\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Tribes Coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/FdSH2sAwQR8a5HpfD/records/zSk5Fjxv2UFLWnJ-0.html?signature=1rcMFna0vBbE8VnLGRq83"
+    }
+]

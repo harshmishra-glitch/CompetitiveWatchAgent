@@ -1,0 +1,223 @@
+[
+    {
+        "#debug": {
+            "requestId": "2PvirhxjlvJDNQi",
+            "url": "http://www.google.com/search?q=caf%C3%A9+goBoho",
+            "loadedUrl": "http://www.google.com/search?q=caf%C3%A9+goBoho",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "caf\u00e9 goBoho",
+            "url": "http://www.google.com/search?q=caf%C3%A9+goBoho",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=caf%C3%A9+goBoho",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Caf\u00e9 goboho reviews",
+                "url": "https://www.google.com/search?sca_esv=63d9c8b4a9442f4e&gl=US&hl=en&q=Caf%C3%A9+goboho+reviews&sa=X&ved=2ahUKEwiOjKnj5a-UAxUcaHADHdKTAFEQ1QJ6BAhhEAE"
+            },
+            {
+                "title": "Caf\u00e9 goboho decor",
+                "url": "https://www.google.com/search?sca_esv=63d9c8b4a9442f4e&gl=US&hl=en&q=Caf%C3%A9+goboho+decor&sa=X&ved=2ahUKEwiOjKnj5a-UAxUcaHADHdKTAFEQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Boho Cafe Holdingford menu",
+                "url": "https://www.google.com/search?sca_esv=63d9c8b4a9442f4e&gl=US&hl=en&q=Boho+Cafe+Holdingford+menu&sa=X&ved=2ahUKEwiOjKnj5a-UAxUcaHADHdKTAFEQ1QJ6BAhjEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "goBoho Caf\u00e9 | Coffee & Great Food | Looks like just another ...",
+                "url": "https://www.instagram.com/reel/DWzBPakAQg5/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0gobohocafe",
+                "description": "goBoho Caf\u00e9 | Coffee & Great Food | Looks like just another \u201chealthy\u201d spot. Walk in\u2014it's different. Calm space. Food that actually fuels you\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "10+ likes",
+                "lastUpdated": "1 month ago",
+                "channelName": "reel",
+                "reelLength": "0:19",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "goBoho Caf\u00e9 | Coffee & Great Food (@gobohocafe)",
+                "url": "https://www.instagram.com/gobohocafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0gobohocafe",
+                "description": "Coffee worth stepping in for \u2615 Bowls, burritos & salads worth staying for. Great coffee, even greater food & surprisingly healthy Eat. Sit. Work\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Coffee worth stepping in for"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "150+ followers",
+                "channelName": "gobohocafe",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "BoHo Cafe",
+                "url": "https://visitstcloud.com/dine/boho-cafe/",
+                "displayedUrl": "https://visitstcloud.com \u203a dine \u203a boho-cafe",
+                "description": "Treat yourself to a specialty coffee that pairs perfectly with their cookies, scones, and cinnamon rolls in the morning. Maybe lunch is a better option for you,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "specialty coffee that pairs perfectly with their cookies, scones, and cinnamon rolls"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "BOHO CAFE, Holdingford - Restaurant Reviews, Photos & ...",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g43169-d26788176-Reviews-Boho_Cafe-Holdingford_Minnesota.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a Restaurant_Review-g431...",
+                "description": "Boho Cafe, Holdingford: See 5 unbiased reviews of Boho Cafe, rated 4.8 of 5 on Tripadvisor.",
+                "emphasizedKeywords": [
+                    "Boho Cafe, Holdingford"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 5,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "BOHO House Miami - joe coffee",
+                "url": "https://joe.coffee/locations/fl/miami/boho-house-miami-miami/",
+                "displayedUrl": "https://joe.coffee \u203a Find Coffee \u203a Florida \u203a Miami",
+                "description": "Welcome to BOHO House Miami, where independent spirit meets genuine hospitality. This beloved local caf\u00e9 has earned its stellar reputation as a cherished\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "BOHO House Miami"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "BOHO CAFE - 39 S Main St, White River Junction, Vermont",
+                "url": "https://www.yelp.com/biz/boho-cafe-white-river-junction",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a Cafes",
+                "description": "Yelpers report this location has closed. Find a similar spot. White River Junction, VT.Read more",
+                "emphasizedKeywords": [
+                    "Yelpers report this location has closed"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.4,
+                "numberOfReviews": 27,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Boho Cafe El Gouna",
+                "url": "https://bohocafe.bio.link/",
+                "displayedUrl": "https://bohocafe.bio.link",
+                "description": "Boho Cafe. Menu \u00b7 Instagram \u00b7 Google review \u00b7 TripAdvisor \u00b7 Help us improve. Share this Bio Link. Download. Share on Twitter \u00b7 Share on Facebook.Read more",
+                "emphasizedKeywords": [
+                    "Boho Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "BOHO (@bohorestaurantsf) \u00b7 San Francisco, CA",
+                "url": "https://www.instagram.com/bohorestaurantsf/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0bohorestaurantsf",
+                "description": "That's our journey. We are open Thursday-Sunday 5 pm to 2 am. Walk-ins and party reservations are both welcome. Experience the Summer menu.Read more",
+                "emphasizedKeywords": [
+                    "We are open Thursday-Sunday 5 pm to 2 am"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.9K+ followers",
+                "channelName": "bohorestaurantsf",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Home | BOHO HOUSE",
+                "url": "https://www.bohohousemiami.com/",
+                "displayedUrl": "https://www.bohohousemiami.com",
+                "description": "Our Story \u00b7 Menus \u00b7 RSVP Policy \u00b7 BOHO FAQS. BOHO house miami LOGO 3.png. BOHEMIAN CUISINE. See Menu \u00b7 Journal \u00b7 Reservations. 85 NW 25th St, Miami,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "85 NW 25th St, Miami"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "BOHO House on Instagram: \" Step into the enchanting oasis of ...",
+                "url": "https://www.instagram.com/reel/C4YZp3AuLt4/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0boho_miami",
+                "description": "Our doors open daily at 5 PM, welcoming you to indulge in a one-of-a-kind dining experience surrounded by lush greenery and Bohemian charm.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "470+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "reel",
+                "reelLength": "0:52",
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "The textured surfaces throughout BOHO Caf\u00e9 create visual depth that prevents the space from feeling flat or monotonous. Rough natural fibers contrast with smooth marble, matte paint finishes play against glossy accents, and soft textiles balance hard architectural elements.",
+                "question": "What makes a cafe boho?",
+                "title": "BOHO Caf\u00e9 Makeover: Biophilic Design & Bold Colors - DNL Interiors",
+                "url": "https://dnlinteriors.com/small-space-big-impact-transforming-boho-cafe-with-biophilic-design-and-bold-color/#:~:text=The%20textured%20surfaces%20throughout%20BOHO,textiles%20balance%20hard%20architectural%20elements.",
+                "date": null
+            },
+            {
+                "answer": "Breakfast items range from $1 to $7, with specialty coffees priced between $1.75 and $3. Baked goods are $2 to $3, soups are $4-5, and snacks are $1.75 to $5. Frozen drinks and smoothies are $4.75 to $5.50.",
+                "question": "What is the average price range at CoHo Cafe?",
+                "title": "Coho Cafe Breakfast and Coffee Menu | PDF | Cooking, Food & Wine",
+                "url": "https://www.scribd.com/doc/153271401/Coho-Menu#:~:text=with%20their%20prices.-,Breakfast%20items%20range%20from%20%241%20to%20%247%2C%20with%20specialty%20coffees,smoothies%20are%20%244.75%20to%20%245.50.",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What does Gen Z look for in a coffee shop?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "The Heart of Boho Cafe Decor: Natural Elements and Textures Think weathered wood tables that tell stories through their grain, woven rattan chairs that embrace guests like old friends, and jute rugs that ground the space in earthy authenticity.",
+                "question": "What kind of furniture is in a boho cafe?",
+                "title": "Boho Cafe Decor Ideas: Create Relaxed, Inspiring Spaces",
+                "url": "https://www.sipthestyle.com/boho-cafe-decor-ideas-for-a-relaxed-vibe#:~:text=The%20Heart%20of%20Boho%20Cafe%20Decor%3A%20Natural%20Elements%20and%20Textures&text=Think%20weathered%20wood%20tables%20that,the%20space%20in%20earthy%20authenticity.",
+                "date": "Jul 7, 2025"
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/tY9AdhKAJGuNgxHPv/records/2PvirhxjlvJDNQi-0.html?signature=1EDnVz7ClAwDVtwG8ka3m"
+    }
+]

@@ -1,0 +1,260 @@
+[
+    {
+        "#debug": {
+            "requestId": "eQQ2Yj7S6T8BKP4",
+            "url": "http://www.google.com/search?q=CHIKMAGALUR+COFFEE",
+            "loadedUrl": "http://www.google.com/search?q=CHIKMAGALUR+COFFEE",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "CHIKMAGALUR COFFEE",
+            "url": "http://www.google.com/search?q=CHIKMAGALUR+COFFEE",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=CHIKMAGALUR+COFFEE",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Chikmagalur coffee powder",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+powder&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "Chikmagalur coffee powder 1kg price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+powder+1kg+price&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhrEAE"
+            },
+            {
+                "title": "Chikmagalur coffee brands",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+brands&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Chikmagalur coffee near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+near+me&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Chikmagalur coffee beans",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+beans&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Chikmagalur coffee owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+owner&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhqEAE"
+            },
+            {
+                "title": "Chikmagalur coffee price list",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+price+list&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Chikmagalur coffee website",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+website&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhnEAE"
+            },
+            {
+                "title": "Chikmagalur coffee powder",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+powder&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhiEAE"
+            },
+            {
+                "title": "Chikmagalur coffee powder 1kg price",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+powder+1kg+price&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhrEAE"
+            },
+            {
+                "title": "Chikmagalur coffee brands",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+brands&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Chikmagalur coffee near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+near+me&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Chikmagalur coffee beans",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+beans&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "Chikmagalur coffee owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+owner&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhqEAE"
+            },
+            {
+                "title": "Chikmagalur coffee price list",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+price+list&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Chikmagalur coffee website",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Chikmagalur+coffee+website&sa=X&ved=2ahUKEwiJmJ3T5a-UAxUmhGMGHbSoJbAQ1QJ6BAhnEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Panduranga Coffee Works | Best Chikmagalur Coffee",
+                "url": "https://www.pandurangacoffee.com/",
+                "displayedUrl": "https://www.pandurangacoffee.com",
+                "description": "Shop Best Chikmagalur Coffee Online from Panduranga Coffee Works. Buy Coffee Powder, Roasted Beans, Tea, Spices, Brewing Accessories.",
+                "emphasizedKeywords": [
+                    "Shop Best Chikmagalur Coffee Online"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Chikmagalur Coffee Cafe",
+                "url": "https://www.chikmagalurcoffeecafe.com/",
+                "displayedUrl": "https://www.chikmagalurcoffeecafe.com",
+                "description": "\"Our mission is to provide high-quality, sustainable coffee that brings people together and enriches their lives. We are committed to sourcing and roasting the\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "provide high-quality, sustainable coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Need suggestions to buy coffee in Chikkamagaluru.",
+                "url": "https://www.reddit.com/r/IndiaCoffee/comments/1blk0iz/need_suggestions_to_buy_coffee_in_chikkamagaluru/",
+                "displayedUrl": "Reddit\u00a0\u203a\u00a0r/IndiaCoffee",
+                "description": "I visited the Siri Coffee Bar in the town, which is worth checking out. There is also the World of Coffee Experience Cafe. You will get to taste & buy in both\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Siri Coffee Bar in the town"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "commentsAmount": "7 comments",
+                "lastUpdated": "2 years ago",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "CoffeeGo.in -Chikmagalur Coffee Company Buy Fresh ...",
+                "url": "https://coffeego.in/?srsltid=AfmBOoqLRKFkMmqILus4OfYulfVuE-RK5tXQTB5IkqIUXfKqLWZivt2U",
+                "displayedUrl": "https://coffeego.in",
+                "description": "CoffeeGo.in is a Chikmagalur Coffee Company. We explore Chikmagalur Best Filter Coffee For Our Coffee Lovers. Here You Can Order And Taste Chikmagalur Best\u00a0...",
+                "emphasizedKeywords": [
+                    "Chikmagalur Best Filter Coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Speciality Single Origin Chikmagalur Region",
+                "url": "https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-chikmagalur-region",
+                "displayedUrl": "https://www.thirdwavecoffeeroasters.com \u203a products \u203a sp...",
+                "description": "Situated in the beautiful Chikmagalur region of Karnataka, we are proud producers of hand-picked and sun-dried Arabica coffee. Our coffee plants grow\u00a0...",
+                "emphasizedKeywords": [
+                    "hand-picked and sun-dried Arabica coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "The History of the Coffee Country of India - Chikmagalur",
+                "url": "https://www.theserai.in/chikmagalur-resort/blogs/the-history-of-the-coffee-country-of-india---chikmagalur.html",
+                "displayedUrl": "https://www.theserai.in \u203a chikmagalur-resort \u203a blogs \u203a t...",
+                "description": "Chikmagalur is one of the highest producers of coffee in the country, and the lifestyle and culture of Chikmagalur has evolved around this agrarian aspect.Read more",
+                "emphasizedKeywords": [
+                    "Chikmagalur is one of the highest producers of coffee in the country"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Nick Of Time Indian Coffee Ground | 100% Arabica AA ...",
+                "url": "https://www.amazon.com/Ground-Coffee-Chicory-Arabica-Chikmagalur/dp/B077TQ9XHH",
+                "displayedUrl": "https://www.amazon.com \u203a Ground-Coffee-Chicory-Ar...",
+                "description": "Our coffee is crafted from 100% Arabica Dark Roast AA Grade beans, carefully sourced from the renowned Chikmagalur region, and roasted in small batches on\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "carefully sourced from the renowned Chikmagalur region"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Chikmagalur estate coffee -Medium roast (80:20)",
+                "url": "https://chikmagalurestatecoffee.com/products/chikmagalur-estate-coffee-medium-roast-80-20",
+                "displayedUrl": "https://chikmagalurestatecoffee.com \u203a products \u203a chikm...",
+                "description": "This signature medium roast blend contains 80% pure Arabica coffee and 20% high-quality chicory. It's the perfect balance of boldness, body, and aroma.Read more",
+                "emphasizedKeywords": [
+                    "80% pure Arabica coffee and 20% high-quality chicory"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Ideal altitude and climate conditions for arabica cultivation. The Western Ghats blessed Chikmagalur with the perfect elevation sweet spot for growing premium arabica coffee. Sitting comfortably between 3,000 to 5,000 feet above sea level, these hills create an environment where coffee plants absolutely thrive.",
+                "question": "Why is Chikmagalur famous for coffee?",
+                "title": "How Chikmagalur gave birth to Coffee in India - 5 Senses Tours",
+                "url": "https://5sensestours.com/how-chikmagalur-gave-birth-to-coffee-in-india/#:~:text=Ideal%20altitude%20and%20climate%20conditions,where%20coffee%20plants%20absolutely%20thrive.",
+                "date": "Nov 22, 2025"
+            },
+            {
+                "answer": "There are two varieties of coffee farmed in Chikmagalur: Arabica and Robusta. While Robusta beans are renowned for their robust flavour and high caffeine concentration, Arabica beans are noted for their rich aroma and moderate flavour. The flavour of the coffee is improved by hand-picking and sun-drying the beans.",
+                "question": "What kind of coffee is in Chikmagalur?",
+                "title": "History Of Chikmagalur Coffee - CoffeeGo.in",
+                "url": "https://coffeego.in/blogs/coffee/chikmagalur-coffee-history-of-chikmagalur-coffee#:~:text=There%20are%20two%20varieties%20of,and%20sun%2Ddrying%20the%20beans.",
+                "date": "Feb 23, 2023"
+            },
+            {
+                "answer": null,
+                "question": "What coffee is good for gastritis?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is the Speciality of Chikmagalur?",
+                "title": "Chikmagalur Famous Things to Buy - The Serai",
+                "url": "https://www.theserai.in/chikmagalur-resort/blogs/chikmagalur-famous-things-to-buy.html#:~:text=Chikmagalur%2C%20nestled%20in%20the%20serene,for%20perfect%20souvenirs%20or%20gifts.",
+                "date": null
+            }
+        ],
+        "aiOverview": {
+            "type": "static",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://www.pandurangacoffee.com/",
+                    "title": "Panduranga Coffee Works | Best Chikmagalur Coffee |Shop Online",
+                    "description": "Happy Day Grand Aroma Pure Coffee Without Chicory (for Black Coffee/With milk consumers) Sale price Price \u20b91,400.00. Tax included."
+                },
+                {
+                    "url": "https://www.reddit.com/r/IndiaCoffee/comments/1blk0iz/need_suggestions_to_buy_coffee_in_chikkamagaluru/",
+                    "title": "Need suggestions to buy coffee in Chikkamagaluru. : r/IndiaCoffee",
+                    "description": "I need suggestions for good coffee in Chikkamagaluru- Plantations, coffee tasting and coffee to buy. Upvote 9 Downvote 7 Go to com..."
+                },
+                {
+                    "url": "https://www.thirdwavecoffeeroasters.com/products/speciality-single-origin-chikmagalur-region",
+                    "title": "Speciality Single Origin Chikmagalur Region | Third Wave Coffee",
+                    "description": "Stone Fruit, Raisins. Situated in the beautiful Chikmagalur region of Karnataka, we are proud producers of hand-picked and sun-dri..."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/Y3GnIYfg1iK0Ruxeg/records/eQQ2Yj7S6T8BKP4-0.html?signature=DaMFXnr08sEEjo3da5F0"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "#debug": {
+            "requestId": "hoT5YwGgrNHNaVn",
+            "url": "http://www.google.com/search?q=%40Whelp%27s+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=%40Whelp%27s+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "@Whelp's Cafe",
+            "url": "http://www.google.com/search?q=%40Whelp%27s+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=%40Whelp%27s+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "@Whelp's cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=%40Whelp%27s+cafe+menu&sa=X&ved=2ahUKEwiks-yk46-UAxXua2wGHRj8Fv8Q1QJ6BAhYEAE"
+            },
+            {
+                "title": "@Whelp's cafe reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=%40Whelp%27s+cafe+reviews&sa=X&ved=2ahUKEwiks-yk46-UAxXua2wGHRj8Fv8Q1QJ6BAhcEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "@Whelp's Cafe (@whelpscafe) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/whelpscafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0whelpscafe",
+                "description": "Where Good times Brew & Friends meet Anew. Follow. Message. Whelp's Cafe Address: Balaji Anugraha, 1606, 7th Cross, 1604, 20th Main\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Whelp's Cafe Address: Balaji Anugraha, 1606, 7th Cross"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "100+ followers",
+                "channelName": "whelpscafe",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "@Whelps Cafe: A Cozy Culinary Haven in HSR Layout ...",
+                "url": "https://whelps-cafe.menu-world.com/",
+                "displayedUrl": "https://whelps-cafe.menu-world.com",
+                "description": "@Whelp's Cafe, nestled in the heart of HSR Layout, Bangalore, is a charming spot that promises a delightful escape with its cozy ambiance and a thoughtfully\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "nestled in the heart of HSR Layout, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "@Whelp's Cafe | Koramangala 1st Block, Bangalore",
+                "url": "https://www.district.in/dining/bangalore/@whelps-cafe-koramangala-1st-block-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a @whelps-cafe-koraman...",
+                "description": "Cross, 20th Main Road, 1st Sector, HSR Layout, Koramangala 1st Block, Bangalore. Open \u2022 8:00 AM to 11:00 PM. Directions Share. Reviews; About; Location\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "20th Main Road, 1st Sector, HSR Layout, Koramangala 1st Block, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Order Food Online from Whelps Cafe in HSR, Bangalore",
+                "url": "https://www.swiggy.com/city/bangalore/whelps-cafe-hsr-rest1246164",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR",
+                "description": "Enjoy delicious meals from Whelps Cafe in HSR, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery on Swiggy.",
+                "emphasizedKeywords": [
+                    "Whelps Cafe in HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Reel by @Whelp's Cafe (@whelpscafe) \u00b7 February 24, 2025",
+                "url": "https://www.instagram.com/p/DGcqQloS38S/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0whelpscafe",
+                "description": "Whelp's Cafe Address: Balaji Anugraha, 1606, 7th Cross, 1604, 20th Main Rd, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102.Read more",
+                "emphasizedKeywords": [
+                    "1606, 7th Cross, 1604, 20th Main Rd, Agara Village, 1st Sector, HSR Layout, Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "30+ likes",
+                "lastUpdated": "1 year ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "@Whelp's Cafe, HSR Layout Sector 4, Bangalore",
+                "url": "https://magicpin.in/Bangalore/Hsr-Layout-Sector-4/Restaurant/@WhelpS-Cafe/store/1b0307b/?srsltid=AfmBOorII35tS4G2yclRRlRiIsgnf47IlJP-MGn5bn9fAslmDoH7rGxZ",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "AddressBalaji Anugraha, 1606, 7th Cross, 1604, 20th Main Rd, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, HSR Layout Sector 4,\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "th Cross"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Whelp's Cafe, Bengaluru - Restaurant Guru",
+                "url": "https://restaurant-guru.in/Whelps-Cafe-Bengaluru",
+                "displayedUrl": "https://restaurant-guru.in \u203a Bengaluru, Karnataka",
+                "description": "Whelp's Cafe in Bengaluru rated 3.8 out of 5 on Restaurant Guru: 233 reviews by visitors, 26 photos. Explore menu, check opening hours and\u00a0...",
+                "date": "2026-04-16T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Whelp's Cafe in Bengaluru rated 3.8 out of 5"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Whelp's Cafe, \u043a\u0430\u0444\u0435, \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440",
+                "url": "https://yandex.ru/maps/org/whelp_cafe/69257270262/",
+                "displayedUrl": "https://yandex.ru \u203a ... \u203a \u041a\u0430\u0444\u0435",
+                "description": "\u041a\u0430\u0444\u0435 @Whelp's Cafe \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440. \u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0447\u0430\u0441\u044b \u0440\u0430\u0431\u043e\u0442\u044b. \u041f\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043c\u0430\u0440\u0448\u0440\u0443\u0442 \u0432 \u042f\u043d\u0434\u0435\u043a\u0441 \u041a\u0430\u0440\u0442\u0430\u0445.",
+                "emphasizedKeywords": [
+                    "\u041a\u0430\u0444\u0435 @Whelp's Cafe \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 \u0448\u0442\u0430\u0442 \u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430, \u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Babai Tiffins, HSR Layout",
+                "url": "https://www.snapchat.com/place/babaitiffinshsrlayout/3c07de14-1c9c-11ec-a518-3745c86b0a7c",
+                "displayedUrl": "https://www.snapchat.com \u203a place \u203a babaitiffinshsrlayout",
+                "description": "@Whelp's Cafe. Caf\u00e9. Closed. Place story thumbnail for @Whelp's Cafe. 3/7/2026. Place story thumbnail for @Whelp's Cafe Awesome. 3/8/2026. Place story thumbnail\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Whelp's Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Some good foods for a cafe include:\nSandwiches.Soups and salads.Breakfast items.Pastries and desserts.Coffee and tea.Specialty dishes.Classic entrees.",
+                "question": "What are caf\u00e9 menu items?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Key Cafe Job Roles\n13. Cafe Owner. The cafe owner is the start of the list, from a hierarchical standpoint, of the people who work at a cafe. ... 12. Cafe Manager. The cafe manager is responsible for the daily cafe management operations. ... 11. Cafe Accountant. ... Servers. ... Chef. ... Kitchen Prep Workers. ... Barista. ... Mixologist or Bartender.",
+                "question": "Who are the workers in a coffee shop?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Coffee shops specialize in coffee-based beverages with limited food options, designed for quick visits or solo time. Caf\u00e9s offer a more extensive menu with a focus on food and a comfortable, social environment for longer stays.",
+                "question": "How is a coffee lounge different from a caf\u00e9?",
+                "title": null,
+                "url": null,
+                "date": "May 27, 2025"
+            },
+            {
+                "answer": "A caf\u00e9 is a type of restaurant which typically serves coffee and tea, in addition to light refreshments such as baked goods or snacks.",
+                "question": "What is a caf\u00e9 in English?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/kjEAs3fRJsuWTmnAm/records/hoT5YwGgrNHNaVn-0.html?signature=1KLqQ3RYrc6ClZAX9dvNH"
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "#debug": {
+            "requestId": "HnTp6aSclaa5IcK",
+            "url": "http://www.google.com/search?q=The+Faith+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=The+Faith+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "The Faith Cafe",
+            "url": "http://www.google.com/search?q=The+Faith+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=The+Faith+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "The faith cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+faith+cafe+menu&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "The Faith Cafe photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Faith+Cafe+photos&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Faith based cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Faith+based+cafe&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAhAEAE"
+            },
+            {
+                "title": "Faith Cafe Tampa",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Faith+Cafe+Tampa&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Trinity Cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Trinity+Cafe&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Faith Cafe volunteer",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Faith+Cafe+volunteer&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Faith Cafe Beaverton",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Faith+Cafe+Beaverton&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "Trinity Cafe Tampa",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Trinity+Cafe+Tampa&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "The faith cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+faith+cafe+menu&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "The Faith Cafe photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Faith+Cafe+photos&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Faith based cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Faith+based+cafe&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAhAEAE"
+            },
+            {
+                "title": "Faith Cafe Tampa",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Faith+Cafe+Tampa&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Trinity Cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Trinity+Cafe&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Faith Cafe volunteer",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Faith+Cafe+volunteer&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "Faith Cafe Beaverton",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Faith+Cafe+Beaverton&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "Trinity Cafe Tampa",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Trinity+Cafe+Tampa&sa=X&ved=2ahUKEwiq-8ru4q-UAxWnwjgGHWB4AewQ1QJ6BAg7EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "The Faith Cafe \u2013 Finding God All Around Us",
+                "url": "https://thefaithcafe.com/",
+                "displayedUrl": "https://thefaithcafe.com",
+                "description": "God Himself, the perfect and holy One, entered our messy, sinful world in the form of Jesus and dwelt with us for 33 years. Then He died on a Cross for our sins\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "God Himself, the perfect and holy One"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Faith Cafe",
+                "url": "https://www.faithcafetampa.org/",
+                "displayedUrl": "https://www.faithcafetampa.org",
+                "description": "The Faith Cafe in Tampla Florida provides free meals to people in need. Warm Meals We offer our neighbors a comfortable, safe place to come and enjoy a meal\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "provides free meals to people in need"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Faith Caf\u00e9, \u2013 Feeding our neighbors more than a meal",
+                "url": "https://www.faithcafeor.org/",
+                "displayedUrl": "https://www.faithcafeor.org",
+                "description": "Faith Cafe is located at 5150 SW Watson Ave. in Beaverton, Oregon \u00b7 Faith Cafe offers free, home-style hot meals every Sunday at 4:15 pm at Bethel\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Faith Cafe is located at 5150 SW Watson Ave. in Beaverton, Oregon"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Faith Cafe - Crossroads Fitness",
+                "url": "https://www.crossroadsfitnesscenter.com/faithcafe",
+                "displayedUrl": "https://www.crossroadsfitnesscenter.com \u203a faithcafe",
+                "description": "We are a small caf\u00e9 with the goal of providing quality, nutrient dense food. We work in conjunction with a trained medical staff and nutritionists.Read more",
+                "emphasizedKeywords": [
+                    "We are a small caf\u00e9 with the goal of providing quality, nutrient dense food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "What We Do - Faith Cafe",
+                "url": "https://www.faithcafetampa.org/what-we-do",
+                "displayedUrl": "https://www.faithcafetampa.org \u203a what-we-do",
+                "description": "We provide warm meals, resources, and services to the Tampa, Florida, community in need. Every Tuesday, Thursday and Saturday, we also provide clothing and\u00a0...",
+                "emphasizedKeywords": [
+                    "warm meals, resources, and services"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Welcome to the Faith Cafe! \u2013 The Faith Cafe",
+                "url": "https://thefaithcafe.com/welcome-to-the-faith-cafe/",
+                "displayedUrl": "https://thefaithcafe.com \u203a welcome-to-the-faith-cafe",
+                "description": "We'll cover topics like Christian living, the Bible, nature and gardening, baking, etc. Some of the posts might be serious, others will be more light-hearted.Read more",
+                "emphasizedKeywords": [
+                    "Christian living, the Bible, nature and gardening, baking"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Faith Cafe: Home",
+                "url": "https://faith-cafe.square.site/",
+                "displayedUrl": "https://faith-cafe.square.site",
+                "description": "Faith Caf\u00e9 \u00b7 Stay in the Loop \u00b7 Faith Cafe-Florence \u00b7 Faith Cafe-Lawrenceburg \u00b7 Faith Cafe-Shoals. 1105 US Highway 72E Tuscumbia, Alabama 35674 cafe@igotofaith.Read more",
+                "emphasizedKeywords": [
+                    "1105 US Highway 72E Tuscumbia, Alabama 35674"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "FAITH COFFEE SHOP - Updated May 2026",
+                "url": "https://www.yelp.com/biz/faith-coffee-shop-bakersfield-5",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Food \u203a Coffee & Tea",
+                "description": "FAITH COFFEE SHOP - Try Our New Menu - 5131 Office Park Dr, Bakersfield, CA 93309, 130 Photos, (661) 432-7796, Mon - 7:00 am - 7:00 pm, Tue - 7:00 am - 7:00\u00a0...",
+                "emphasizedKeywords": [
+                    "5131 Office Park Dr, Bakersfield, CA 93309"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 60,
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Faith Cafe | Columbia CT",
+                "url": "https://www.facebook.com/FaithCafe106/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Faith Cafe",
+                "description": "We specialize in all gluten free facility and other food allergies. We are a small cafe with lots of flavor. We had a wonderful response to our last promotion\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "We specialize in all gluten free facility and other food allergies"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 21,
+                "followersAmount": "890+ followers",
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Faith Caf\u00e9",
+                "url": "https://www.catholicgrandparentsassociation.org/faithcafe/",
+                "displayedUrl": "https://www.catholicgrandparentsassociation.org \u203a faith...",
+                "description": "The Faith Caf\u00e9 sees Grandparents from around the world gathering for an hour to hear from a guest speaker, to share moments of prayer and reflection.Read more",
+                "emphasizedKeywords": [
+                    "The Faith Caf\u00e9"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "In the spirit of service, we serve our guests plates of food and a drink of their choice, as if they are in a restaurant. We do not have a buffet line they are expected to walk through, and we make sure volunteers clean up after our guests; our guests are not expected to throw away their trash.",
+                "question": "What makes The Faith cafe unique?",
+                "title": "What We Do - Faith Cafe",
+                "url": "https://www.faithcafetampa.org/what-we-do#:~:text=In%20the%20spirit%20of%20service,to%20throw%20away%20their%20trash.",
+                "date": null
+            },
+            {
+                "answer": "What is Faith Cafe. \"CAFE\" in Faith Cafe stands for Catholic Adult Formation Event. The Faith Cafe ministry creates and hosts educational and inspirational events designed to help strengthen our knowledge of our Catholic faith.",
+                "question": "What is the purpose of a faith cafe?",
+                "title": "Faith Cafe - St. John Vianney Catholic Church, Walnut Creek, CA",
+                "url": "https://sjvianney.org/aff/62657-faith-cafe#:~:text=What%20is%20Faith%20Cafe,knowledge%20of%20our%20Catholic%20faith.",
+                "date": null
+            },
+            {
+                "answer": "It felt like finding a little oasis in the middle of a busy day. What truly sets faith-based coffee shops apart, in my opinion, is the atmosphere. It's usually so much more peaceful and intentional than your average cafe.",
+                "question": "What's the atmosphere like in a faith cafe?",
+                "title": "Found the Cutest Faith-Based Coffee Shop! My Amazing Experience \u2615\ufe0f",
+                "url": "https://www.lemon8-app.com/@taylorramirezz_/7410474289311138309?region=us#:~:text=It%20felt%20like%20finding%20a,intentional%20than%20your%20average%20cafe.",
+                "date": "Sep 3, 2024"
+            },
+            {
+                "answer": "Faith Caf\u00e9 We invite you to enjoy a wide array of nutritious and delicious options from salads to sandwiches, hot meals to homemade desserts. You and your loved ones can get a great meal, or snack, at a reasonable price.",
+                "question": "Does The Faith cafe offer desserts?",
+                "title": "Cafe | fchtexas",
+                "url": "https://fchtexas.com/cafe/#:~:text=Faith%20Caf%C3%A9&text=We%20invite%20you%20to%20enjoy,snack%2C%20at%20a%20reasonable%20price.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/pKhgDHnkPC5tZF9nN/records/HnTp6aSclaa5IcK-0.html?signature=767N7QZIJBJ0cn7YkSWE"
+    }
+]

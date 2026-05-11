@@ -1,0 +1,196 @@
+[
+    {
+        "#debug": {
+            "requestId": "Klq5Rkufzlkm0iX",
+            "url": "http://www.google.com/search?q=Iris+Cafe+HSR",
+            "loadedUrl": "http://www.google.com/search?q=Iris+Cafe+HSR",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Iris Cafe HSR",
+            "url": "http://www.google.com/search?q=Iris+Cafe+HSR",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Iris+Cafe+HSR",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Iris Cafe, HSR menu",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=af156264804c4707&gl=US&hl=en&q=Iris+Cafe,+HSR+menu&sa=X&ved=2ahUKEwiV65K44a-UAxU5VPEDHVm5GDEQ1QJ6BAhrEAE"
+            },
+            {
+                "title": "Iris Cafe Jayanagar",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=af156264804c4707&gl=US&hl=en&q=Iris+Cafe+Jayanagar&sa=X&ved=2ahUKEwiV65K44a-UAxU5VPEDHVm5GDEQ1QJ6BAh-EAE"
+            },
+            {
+                "title": "Iris cafe JP Nagar menu",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=af156264804c4707&gl=US&hl=en&q=Iris+cafe+JP+Nagar+menu&sa=X&ved=2ahUKEwiV65K44a-UAxU5VPEDHVm5GDEQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "Iris cafe HSR reviews",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=af156264804c4707&gl=US&hl=en&q=Iris+cafe+HSR+reviews&sa=X&ved=2ahUKEwiV65K44a-UAxU5VPEDHVm5GDEQ1QJ6BAh2EAE"
+            },
+            {
+                "title": "Iris Cafe HSR photos",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=af156264804c4707&gl=US&hl=en&q=Iris+Cafe+HSR+photos&sa=X&ved=2ahUKEwiV65K44a-UAxU5VPEDHVm5GDEQ1QJ6BAh1EAE"
+            },
+            {
+                "title": "Iris cafe koramangala",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=af156264804c4707&gl=US&hl=en&q=Iris+cafe+koramangala&sa=X&ved=2ahUKEwiV65K44a-UAxU5VPEDHVm5GDEQ1QJ6BAh0EAE"
+            },
+            {
+                "title": "Iris Cafe and Kitchen Jayanagar photos",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=af156264804c4707&gl=US&hl=en&q=Iris+Cafe+and+Kitchen+Jayanagar+photos&sa=X&ved=2ahUKEwiV65K44a-UAxU5VPEDHVm5GDEQ1QJ6BAhyEAE"
+            },
+            {
+                "title": "Iris Cafe HSR offers",
+                "url": "https://www.google.com/search?newwindow=1&sca_esv=af156264804c4707&gl=US&hl=en&q=Iris+Cafe+HSR+offers&sa=X&ved=2ahUKEwiV65K44a-UAxU5VPEDHVm5GDEQ1QJ6BAhxEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "IRIS Caf\u00e9 @ HSR Layout",
+                "url": "https://iriscafe.in/iris-cafe-hsr-layout/",
+                "displayedUrl": "https://iriscafe.in \u203a iris-cafe-hsr-layout",
+                "description": "Located in the lively HSR Layout, Iris Caf\u00e9 offers a cozy space to enjoy fresh, flavorful dishes. Our menu features a mix of original recipes made with the\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Located in the lively HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Iris Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/iris-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "17/J, 18th Cross, Sector 3, HSR, Bangalore. Popular Dishes: Wood Fire Pizza, Grilled Chicken Steak, Hot Chocolate, Pasta, Pizzas, Desserts.Read more",
+                "emphasizedKeywords": [
+                    "17/J, 18th Cross, Sector 3, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Iris Caf\u00e9 & Kitchen \u2013 Your Choice",
+                "url": "https://iriscafe.in/",
+                "displayedUrl": "https://iriscafe.in",
+                "description": "Iris Cafe HSR. 17/J, 18th Cross Rd, Sector 3, HSR Layout, Bengaluru, Karnataka 560102. Email : hsr@iriscafe.in. Phone : +91 080 4156 6935. GET DIRECTION. Iris\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Iris Cafe HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Iris Cafe (@iriscafe_official) \u2022 Instagram photos and videos",
+                "url": "https://www.instagram.com/iriscafe_official/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0iriscafe_official",
+                "description": "Not just a caf\u00e9, it's a vibe \u2728 Good food \u2022 Great coffee \u2022 Better company HSR \u2022 JP Nagar \u2022 Jayanagar \u00b7 New menu, new cravings, New Iris vibes. \u00b7 A cafe that\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Good food \u2022 Great coffee \u2022"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "7.8K+ followers",
+                "channelName": "iriscafe_official",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "A Visual Tour of Iris Cafe HSR: Fancy, Vibrant and Family ...",
+                "url": "https://www.localguidesconnect.com/t/a-visual-tour-of-iris-cafe-hsr-fancy-vibrant-and-family-friendly/503964",
+                "displayedUrl": "https://www.localguidesconnect.com \u203a a-visual-tour-of-...",
+                "description": "The interior environment looks calm and attractive, and the decor exudes a premium vibe. Nice capture. Thanks @Noorx1302 for sharing your honest\u00a0...Read more",
+                "date": "2026-01-21T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "The interior environment looks calm and attractive"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Iris Cafe | HSR, Bangalore | Italian Restaurant",
+                "url": "https://www.district.in/dining/bangalore/iris-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a iris-cafe-hsr-bangalore",
+                "description": "Iris Caf\u00e9 in HSR Layout is a lovely place if you enjoy quiet, aesthetic caf\u00e9s. The ambience is soothing, it's pet-friendly, and the food lives up to the vibe\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Iris Caf\u00e9 in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Iris Cafe & Kitchen | HSR Layout",
+                "url": "https://www.turiya.co/360/Iris/Cafe/HSRLayout/",
+                "displayedUrl": "https://www.turiya.co \u203a Iris \u203a Cafe \u203a HSRLayout",
+                "description": "Escape the Chaos of everyday life at Iris Caf\u00e9. Our Warm and inviting atmosphere offers a perfect haven for work, friends, or relaxation.",
+                "emphasizedKeywords": [
+                    "Iris Caf\u00e9"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Not just a caf\u00e9, it's your perfect escape \ud83d\ude0d\u2728 At Iris Cafe and ...",
+                "url": "https://www.instagram.com/reel/DW3DlgwAqMf/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0iriscafe_official",
+                "description": "Outlets: 1\ufe0f\u20e3 HSR Layout \u2013 18th Cross Rd, Sector 3, Bengaluru \u2013 560102 | 9035533248 2\ufe0f\u20e3 J. P. Nagar \u2013 735, 16th Cross, 29th Main Rd, 6th Phase,\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "5 likes",
+                "lastUpdated": "1 month ago",
+                "channelName": "reel",
+                "reelLength": "0:07",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Bangalore's most expensive restaurant in HSR layout iris Cafe ...",
+                "url": "https://www.youtube.com/watch?v=orENmQ-Zv6A",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0ROCKING RASHEED",
+                "description": "Google maps link :- https://maps.app.goo.g... Location :- 17/J, 18th Cross Rd, Sector 3, HSR Layout, Bengaluru, Karnataka 560102 Discription\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "10.5K+ views",
+                "lastUpdated": "5 months ago",
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/TZ2cENIAVZgaZBEUS/records/Klq5Rkufzlkm0iX-0.html?signature=EqT6CUh3qE2Uklq08gCJ"
+    }
+]

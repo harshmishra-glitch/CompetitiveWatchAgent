@@ -1,0 +1,259 @@
+[
+    {
+        "#debug": {
+            "requestId": "uOP3Uyja7Z6T5Vs",
+            "url": "http://www.google.com/search?q=The+Amrith+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=The+Amrith+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "The Amrith Cafe",
+            "url": "http://www.google.com/search?q=The+Amrith+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=The+Amrith+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "The amrith cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+amrith+cafe+menu&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "The amrith cafe hsr layout",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+amrith+cafe+hsr+layout&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAhAEAE"
+            },
+            {
+                "title": "Amarith cafe Newport Beach",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amarith+cafe+Newport+Beach&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Amarith cafe Corona del Mar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amarith+cafe+Corona+del+Mar&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Amarith Farmhouse Garden Grove",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amarith+Farmhouse+Garden+Grove&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "The Amrith Cafe photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Amrith+Cafe+photos&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "The Amrith cafe reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Amrith+cafe+reviews&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Amarith farmhouse cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amarith+farmhouse+cafe&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg9EAE"
+            },
+            {
+                "title": "The amrith cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+amrith+cafe+menu&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "The amrith cafe hsr layout",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+amrith+cafe+hsr+layout&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAhAEAE"
+            },
+            {
+                "title": "Amarith cafe Newport Beach",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amarith+cafe+Newport+Beach&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Amarith cafe Corona del Mar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amarith+cafe+Corona+del+Mar&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg_EAE"
+            },
+            {
+                "title": "Amarith Farmhouse Garden Grove",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amarith+Farmhouse+Garden+Grove&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg8EAE"
+            },
+            {
+                "title": "The Amrith Cafe photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Amrith+Cafe+photos&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg6EAE"
+            },
+            {
+                "title": "The Amrith cafe reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Amrith+cafe+reviews&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Amarith farmhouse cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Amarith+farmhouse+cafe&sa=X&ved=2ahUKEwiX0Zql4q-UAxWjVKQEHQxqPCkQ1QJ6BAg9EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Amarith Farmhouse Cafe: Organic Food & ...",
+                "url": "https://www.amarithfarmhouse.com/",
+                "displayedUrl": "https://www.amarithfarmhouse.com",
+                "description": "Discover the delicious breakfast menu at Amarith Cafe in Orange, CA. Browse the latest dishes, read reviews, and check ratings to start your day off right!",
+                "emphasizedKeywords": [
+                    "Amarith Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "AMARITH CAFE - Restaurant Reviews",
+                "url": "https://www.yelp.com/biz/amarith-cafe-orange-4",
+                "displayedUrl": "https://www.yelp.com \u203a Orange, CA \u203a Restaurants \u203a Cafes",
+                "description": "AMARITH CAFE - Try Our New Menu - 500 S Main St, Ste 102, Orange, CA 92868, 359 Photos, (714) 667-8045, Mon - 7:00 am - 4:00 pm, Tue - 7:00 am - 4:00 pm, ...",
+                "emphasizedKeywords": [
+                    "AMARITH CAFE"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.5,
+                "numberOfReviews": 296,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "The Amrith Cafe (@theamrithcafe)",
+                "url": "https://www.instagram.com/theamrithcafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0theamrithcafe",
+                "description": "HSR Layout \u00b7 Craving a flavorful treat? \u00b7 Experience satisfaction at every bite with The Amrith Cafe's wholesome meals, now at pocket- \u00b7 Beat the Bengaluru ...Read more",
+                "emphasizedKeywords": [
+                    "The Amrith Cafe's"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "390+ followers",
+                "channelName": "theamrithcafe",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "The Amrith Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/the-amrith-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "169, 9th Main, Sector 6, HSR, Bangalore. Average Cost \u20b9300 for two people (approx.) Exclusive of applicable taxes and charges, if any.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.9,
+                "numberOfReviews": 8,
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Menu - Amarith Farmhouse Cafe: Organic Food & Healthy ...",
+                "url": "https://www.amarithfarmhouse.com/menu",
+                "displayedUrl": "https://www.amarithfarmhouse.com \u203a menu",
+                "description": "Explore a farmhouse menu with fresh breakfast, burgers, salads, and scratch-made dishes crafted with organic ingredients daily at Amarith Farmhouse.",
+                "emphasizedKeywords": [
+                    "Amarith"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "The Amrith Cafe | HSR, Bangalore | South Indian Restaurant",
+                "url": "https://www.district.in/dining/bangalore/the-amrith-cafe-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a the-amrith-cafe-hsr-ban...",
+                "description": "The Amrith Cafe. 3.9. 169, 9th Main, Sector 6, HSR, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "The Amrith Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "The Amrith Cafe",
+                "url": "https://www.facebook.com/61556691684360/videos/",
+                "displayedUrl": "https://www.facebook.com \u203a ... \u203a The Amrith Cafe",
+                "description": "The Amrith Cafe. 1637 likes. South Indian Restaurant.",
+                "emphasizedKeywords": [
+                    "The Amrith Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 1,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "AMARITH FARMHOUSE RESTAURANT & PIE SHOPPE",
+                "url": "https://www.yelp.com/biz/amarith-farmhouse-restaurant-and-pie-shoppe-fountain-valley-2",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Breakfast & Brunch",
+                "description": "AMARITH FARMHOUSE RESTAURANT & PIE SHOPPE - Try Our New Menu - 18279 Brookhurst St, Ste 6, Fountain Valley, CA 92708, 1039 Photos, (714) 962-9881, ...",
+                "emphasizedKeywords": [
+                    "AMARITH"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": 814,
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "The Amrith Cafe on Instagram: \"Welcome to the Amrith Caf\u00e9 ...",
+                "url": "https://www.instagram.com/reel/C4coyHmyRnG/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0theamrithcafe",
+                "description": "The Masala Vada is perfectly crisp. And the Avarekalu Palav may look simple, but it's really really good. They also serve daily meals and the\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "50+ likes",
+                "lastUpdated": "2 years ago",
+                "channelName": "reel",
+                "reelLength": "1:00",
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "The Amrith Cafe, HSR layout #indiancuisine #ytshortsindia ...",
+                "url": "https://www.youtube.com/shorts/WChrcCbplAo",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0UnstoppableCravings",
+                "description": "The Amrith Cafe, HSR layout #indiancuisine #ytshortsindia #foodie #southindian #unstoppablecravings. 11.",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "190+ views",
+                "lastUpdated": "10 hours ago",
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Amarith Farmhouse Restaurant & Pie Shoppe works beautifully as a relaxed breakfast or brunch stop before exploring the wider Orange County coastline. Arrive in the morning when the dining room fills with the gentle clatter of coffee mugs and the scent of fresh pie crust drifting from the kitchen.",
+                "question": "What is the best time to visit Amarith Farmhouse?",
+                "title": "Amarith Farmhouse Restaurant & Pie Shoppe, Fountain Valley",
+                "url": "https://foresyteapp.com/amarith-farmhouse-restaurant-and-pie-shoppe-fountain-valley/#:~:text=Amarith%20Farmhouse%20Restaurant%20%26%20Pie%20Shoppe%20works%20beautifully%20as%20a%20relaxed,crust%20drifting%20from%20the%20kitchen.",
+                "date": null
+            },
+            {
+                "answer": "Our Mission. At Amarith Farmhouse Restaurant & Pie Shoppe, we aim to provide delicious and satisfying dishes that our guests can enjoy everyday, knowing each ingredient is selected with dedication to health and freshness. We love real quality food and stand against preservatives and artificial flavors and colors.",
+                "question": "What is the main focus of Amarith Farmhouse?",
+                "title": "Amarith Farmhouse - Amarith Farmhouse Cafe: Organic Food ...",
+                "url": "https://www.amarithfarmhouse.com/#:~:text=Our%20Mission,and%20artificial%20flavors%20and%20colors.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/cVereyRv1x6a5mCYw/records/uOP3Uyja7Z6T5Vs-0.html?signature=sOmStACmzR8CUkT3OFCY"
+    }
+]

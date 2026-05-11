@@ -1,0 +1,234 @@
+[
+    {
+        "#debug": {
+            "requestId": "Wm1oEHQnmw11lHa",
+            "url": "http://www.google.com/search?q=The+Hole+In+The+Wall+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=The+Hole+In+The+Wall+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "The Hole In The Wall Cafe",
+            "url": "http://www.google.com/search?q=The+Hole+In+The+Wall+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=The+Hole+In+The+Wall+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "The hole in the wall cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+hole+in+the+wall+cafe+menu&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhcEAE"
+            },
+            {
+                "title": "The hole in the wall cafe nyc",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+hole+in+the+wall+cafe+nyc&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "The hole in the wall cafe near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+hole+in+the+wall+cafe+near+me&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "The Hole In The Wall Cafe Beverly Hills",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Hole+In+The+Wall+Cafe+Beverly+Hills&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Hole In The Wall Cafe llc Oak Ridge menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Hole+In+The+Wall+Cafe+llc+Oak+Ridge+menu&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "The hole in the wall cafe reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+hole+in+the+wall+cafe+reviews&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhoEAE"
+            },
+            {
+                "title": "Hole In The Wall Cafe llc photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Hole+In+The+Wall+Cafe+llc+photos&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhkEAE"
+            },
+            {
+                "title": "Hole In The Wall Cafe Oak Ridge",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Hole+In+The+Wall+Cafe+Oak+Ridge&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "The hole in the wall cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+hole+in+the+wall+cafe+menu&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhcEAE"
+            },
+            {
+                "title": "The hole in the wall cafe nyc",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+hole+in+the+wall+cafe+nyc&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "The hole in the wall cafe near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+hole+in+the+wall+cafe+near+me&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhuEAE"
+            },
+            {
+                "title": "The Hole In The Wall Cafe Beverly Hills",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Hole+In+The+Wall+Cafe+Beverly+Hills&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Hole In The Wall Cafe llc Oak Ridge menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Hole+In+The+Wall+Cafe+llc+Oak+Ridge+menu&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhtEAE"
+            },
+            {
+                "title": "The hole in the wall cafe reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+hole+in+the+wall+cafe+reviews&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhoEAE"
+            },
+            {
+                "title": "Hole In The Wall Cafe llc photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Hole+In+The+Wall+Cafe+llc+photos&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhkEAE"
+            },
+            {
+                "title": "Hole In The Wall Cafe Oak Ridge",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Hole+In+The+Wall+Cafe+Oak+Ridge&sa=X&ved=2ahUKEwiz37775K-UAxVgRPEDHWMUEbUQ1QJ6BAhgEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Hole In The Wall Cafe",
+                "url": "https://holeinthewallcafe.toast.site/",
+                "displayedUrl": "https://holeinthewallcafe.toast.site",
+                "description": "We are a family owned and operated full service restaurant serving breakfast and daily lunch specials.",
+                "emphasizedKeywords": [
+                    "family owned and operated full service restaurant"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "THE HOLE IN THE WALL CAFE - Coffee & Tea",
+                "url": "https://www.yelp.com/biz/the-hole-in-the-wall-cafe-beverly-hills",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Food \u203a Coffee & Tea",
+                "description": "THE HOLE IN THE WALL CAFE - Try Our New Menu - 8900 Wilshire Blvd, Ste 101, Beverly Hills, CA 90211, 27 Photos, (424) 274-3636, Mon - 8:00 am - 5:00 pm,\u00a0...",
+                "emphasizedKeywords": [
+                    "8900 Wilshire Blvd, Ste 101, Beverly Hills, CA 90211"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.7,
+                "numberOfReviews": 27,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Hole In The Wall - NYC",
+                "url": "https://holeinthewallnyc.com/",
+                "displayedUrl": "https://holeinthewallnyc.com",
+                "description": "Located in Financial District, Flatiron, Murray Hill and Williamsburg. Come say hello for breakfast, lunch, dinner or a few cocktails.Read more",
+                "emphasizedKeywords": [
+                    "Located in Financial District, Flatiron, Murray Hill and Williamsburg"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "A Hole Coffee (@aholecoffee)",
+                "url": "https://www.instagram.com/aholecoffee/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0aholecoffee",
+                "description": "5.7K+ followers \u00b7 77 following \u00b7 77 posts \u00b7 @aholecoffee: \u201cNew coffee spot on the East Side of ATX! Mon-Thur 7am-2pm Fri-Sun 7am-4pm\u201d",
+                "emphasizedKeywords": [
+                    "Mon-Thur 7am-2pm Fri-Sun 7am-4pm"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "5.7K+ followers",
+                "channelName": "aholecoffee",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Hole In The Wall Cafe | Oak Ridge TN",
+                "url": "https://www.facebook.com/p/Hole-In-The-Wall-Cafe-61550281118228/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Hole In The Wall Cafe",
+                "description": "979 Oak Ridge Tpke, Oak Ridge, TN 37830. Hours: Mon\u2013Fri: 7AM\u20132PM Sat (Breakfast Only): 7AM\u201312PM Sun: ClosedRead more",
+                "emphasizedKeywords": [
+                    "979 Oak Ridge Tpke, Oak Ridge, TN 37830"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.9,
+                "numberOfReviews": 28,
+                "followersAmount": "3.5K+ followers",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Hole In The Wall Coffee - San Francisco Restaurants",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g60713-d5073511-Reviews-Hole_In_The_Wall_Coffee-San_Francisco_California.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a Restaurant_Review-g607...",
+                "description": "This place redefines pour over coffee! In fact since being here, all we want is our coffee made fresh using their pour over system.Read more",
+                "emphasizedKeywords": [
+                    "made fresh using their pour over system"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": 15,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Grab Your Coffee Delivered Through a Hole in the Wall",
+                "url": "https://www.austinites101.com/blog/post/a-hole-coffee-austin-hole-in-wall-hidden-shop/",
+                "displayedUrl": "https://www.austinites101.com \u203a blog \u203a post \u203a a-hole-c...",
+                "description": "You can find this Eastside coffee spot right next to Kitty Cohens at 2312 Morelos St., Austin, TX 78702! Drop by to try it as they're open daily\u00a0...Read more",
+                "date": "2025-09-30T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "2312 Morelos St., Austin, TX 78702"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "The Hole in the Wall Cafe in Bangalore is famous for its hearty, all-day breakfast, especially its extensive egg dishes (like omelette pizzas), fluffy pancakes, loaded burgers (especially beef), and all served in a cozy, house-turned-restaurant setting with vibrant decor and a lively, sometimes crowded, vibe.",
+                "question": "What is famous in the Hole in the Wall Cafe?",
+                "title": "The Hole in the Wall Cafe in Bangalore is famous for its hearty ...",
+                "url": "https://www.instagram.com/reel/DUVQwzqk-gR/#:~:text=debaleenachakraborty-,The%20Hole%20in%20the%20Wall%20Cafe%20in%20Bangalore%20is%20famous,lively%2C%20sometimes%20crowded%2C%20vibe.",
+                "date": "Feb 4, 2026"
+            },
+            {
+                "answer": "Remember to bring cash or a check because credit cards are not accepted.",
+                "question": "Are hole-in-the-wall cafes cash only?",
+                "title": "Hole In The Wall Cafe - Rochester Restaurants - Tripadvisor",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g56562-d8772124-Reviews-Hole_In_The_Wall_Cafe-Rochester_Texas.html#:~:text=Remember%20to%20bring%20cash%20or,credit%20cards%20are%20not%20accepted.",
+                "date": null
+            },
+            {
+                "answer": "Hukilau Cafe-Kualoa Ranch- Wahinepee St, Laie, Oahu, Hi- In the movie the caf\u00e9 was like the one in the first picture but it's currently like the one in the second one. Lucy's Place \u2013 47343 G Kam Highway \u2013 Unfortunately the place where \u201creal Lucy\u201d lived is not open to the public.",
+                "question": "Does the cafe from 50 First Dates still exist?",
+                "title": "Hawaii: Locations of the movie \u201c50 First Dates\u201d + Tour - Martha Sachser",
+                "url": "https://nyandabout.com/en/2016/02/hawaii-locations-of-the-movie-50-first-dates-tour.html#:~:text=Hukilau%20Cafe%2DKualoa%20Ranch%2D%20Wahinepee,not%20open%20to%20the%20public.",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Who is the owner of Hole in the wall Cafe?",
+                "title": "The Hole in the Wall Cafe",
+                "url": "https://theholeinthewallcafe.org/#:~:text=Started%20in%202009%20in%20a,homemade%20food%20to%20Bangalore%20foodies.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/GPTRFVnnOlNnLcTEK/records/Wm1oEHQnmw11lHa-0.html?signature=1xXvGnjGbaZuLjeUCuok9"
+    }
+]

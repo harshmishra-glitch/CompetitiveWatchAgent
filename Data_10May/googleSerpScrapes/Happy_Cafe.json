@@ -1,0 +1,227 @@
+[
+    {
+        "#debug": {
+            "requestId": "dm6KeeeWeNx0zK0",
+            "url": "http://www.google.com/search?q=Happy+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=Happy+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Happy Cafe",
+            "url": "http://www.google.com/search?q=Happy+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Happy+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Happy cafe menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Happy+cafe+menu&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQ1QJ6BAh5EAE"
+            },
+            {
+                "title": "Happy Cafe game",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Happy+Cafe+game&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQ1QJ6BQiXARAB"
+            },
+            {
+                "title": "Happy Cafe photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Happy+Cafe+photos&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQ1QJ6BQiWARAB"
+            },
+            {
+                "title": "Happy cafe near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Happy+cafe+near+me&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQ1QJ6BQiOARAB"
+            },
+            {
+                "title": "Happy Cafe hours",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Happy+Cafe+hours&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQ1QJ6BQiNARAB"
+            },
+            {
+                "title": "Happy Cafe Virginia Beach",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Happy+Cafe+Virginia+Beach&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQ1QJ6BQiMARAB"
+            },
+            {
+                "title": "Happy Cafe Virginia Beach menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Happy+Cafe+Virginia+Beach+menu&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQ1QJ6BQiGARAB"
+            },
+            {
+                "title": "Happy cafe menu with prices",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Happy+cafe+menu+with+prices&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQ1QJ6BAh_EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Happy Cafe | Eat | Converse | Be Happy | Awesome ...",
+                "url": "https://www.happycafevabeach.com/",
+                "displayedUrl": "https://www.happycafevabeach.com",
+                "description": "Get ready for a delicious morning meal with our breakfast sandwiches or warm bowls or oats. Breakfast Enjoy our delicious sandwiches, soups, or salads,\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [
+                    {
+                        "title": "Breakfast",
+                        "url": "https://www.happycafevabeach.com/copy-of-kids-breakfast",
+                        "description": "We offer Gluten free bread and Beyond Vegan sausage ..."
+                    },
+                    {
+                        "title": "Order Online",
+                        "url": "https://www.happycafevabeach.com/order-online",
+                        "description": "Bread Pudding is now available for shipping in the USA. New \u00b7 OG ..."
+                    },
+                    {
+                        "title": "All Products",
+                        "url": "https://www.happycafevabeach.com/category/all-products",
+                        "description": "New \u00b7 Rum Raisin Bread Pudding. Price$10.50. Happy Cafe ..."
+                    },
+                    {
+                        "title": "More results from happycafevabeach.com\u00a0\u00bb",
+                        "url": "https://www.google.com/search?q=Happy+Cafe+site:happycafevabeach.com&sca_esv=af156264804c4707&gl=US&hl=en&sa=X&ved=2ahUKEwimw7q_5a-UAxVQTqQEHTieHuMQrAN6BAhBEAE",
+                        "description": ""
+                    }
+                ],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Happy Cafe - Restaurant Reviews",
+                "url": "https://www.yelp.com/biz/happy-cafe-virginia-beach",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a Cafes",
+                "description": "HAPPY CAFE - Try Our New Menu - 1270 Diamond Springs Rd, Ste 102, Virginia Beach, VA 23455, 557 Photos, (757) 390-2828, Mon - Closed, Tue - 10:00 am - 3:00\u00a0...",
+                "emphasizedKeywords": [
+                    "1270 Diamond Springs Rd, Ste 102, Virginia Beach, VA 23455"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Happy Cafe (@happycafevab)",
+                "url": "https://www.instagram.com/happycafevab/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0happycafevab",
+                "description": "Full Bar & Restaurant Catering & Event Party Space Rental Vegan Menu Available We would love to cater your next Event! Virginia Beach, VA.Read more",
+                "emphasizedKeywords": [
+                    "Full Bar & Restaurant"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "7.4K+ followers",
+                "channelName": "happycafevab",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Cafe Happy",
+                "url": "https://cafe-happy.com/",
+                "displayedUrl": "https://cafe-happy.com",
+                "description": "I love this place! They have a huge variety: healthy smoothies, boba smoothies, milk tea, and fruit tea. They even have food options, only vegetarian though.Read more",
+                "emphasizedKeywords": [
+                    "healthy smoothies, boba smoothies, milk tea, and fruit tea"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Happy Cafe - Virginia Beach Restaurants",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g58277-d19265622-Reviews-Happy_Cafe-Virginia_Beach_Virginia.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a Restaurant_Review-g582...",
+                "description": "The menu is creative and thoughtful. The sound of a dish gets you excited and the taste exceeds expectations! There are talented and caring people working at\u00a0...Read more",
+                "date": "2025-04-14T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "The menu is creative and thoughtful"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "My Happy Cafe: Specializes In Pancakes And Muffin",
+                "url": "https://myhappycafediamond.com/",
+                "displayedUrl": "https://myhappycafediamond.com",
+                "description": "New & Clean, fast friendly service with fresh ingredients. Busiest on sunday mornings, cream of chicken soup. Breakfast all day, cubed potatoes or hash browns\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "New & Clean, fast friendly service with fresh ingredients"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Happy Cafe Trailer",
+                "url": "https://www.youtube.com/watch?v=xX4zO8Z6WhM",
+                "displayedUrl": "YouTube\u00a0\u203a\u00a0Nordcurrent",
+                "description": "Start and expand your own caf\u00e9! Grow fresh ingredients on your organic farm and cook hundreds of dishes from all around the world!",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "2.1M+ views",
+                "lastUpdated": "8 years ago",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Happy Cafe - Virginia Beach Virginia Restaurant",
+                "url": "https://www.happycow.net/reviews/happy-cafe-virginia-beach-298582",
+                "displayedUrl": "https://www.happycow.net \u203a ... \u203a Virginia Beach",
+                "description": "Serves meat, vegan options available. Breakfast & brunch place with a bar. Offers vegan breakfast items including vegan sausage, hash browns, fruit, and avocado\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Breakfast & brunch place with a bar"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "A Happy Caf\u00e9 is a caf\u00e9 that is part of the Happy Caf\u00e9 Network created by members of the Action for Happiness movement. It is a place where those seeking happier lives for themselves and others can connect with each other over a coffee and learn science-based skills for enhancing psychological wellbeing.",
+                "question": "What is a happy cafe?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "How many volumes of Happy Cafe are there?",
+                "title": null,
+                "url": "https://en.wikipedia.org/wiki/Happy_Cafe",
+                "date": null
+            },
+            {
+                "answer": "Happy Out started out as Bull Island's only cafe in 2017, a passion project for uncle and nephew combo, Karl McCullagh and Brian Hanratty.",
+                "question": "Who owns the happy out cafe?",
+                "title": null,
+                "url": null,
+                "date": "Apr 29, 2024"
+            },
+            {
+                "answer": null,
+                "question": "What type of food is Virginia Beach known for?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/7IMarbzPL1he4K12L/records/dm6KeeeWeNx0zK0-0.html?signature=1F1RGBdL4AmyrE6D8M57P"
+    }
+]

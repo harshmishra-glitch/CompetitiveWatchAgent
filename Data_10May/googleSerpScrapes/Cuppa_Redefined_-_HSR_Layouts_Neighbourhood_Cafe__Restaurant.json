@@ -1,0 +1,185 @@
+[
+    {
+        "#debug": {
+            "requestId": "uKWOkP19BiCiZtt",
+            "url": "http://www.google.com/search?q=Cuppa+Redefined+-+HSR+Layout%27s+Neighbourhood+Cafe+%26+Restaurant",
+            "loadedUrl": "http://www.google.com/search?q=Cuppa+Redefined+-+HSR+Layout%27s+Neighbourhood+Cafe+%26+Restaurant",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Cuppa Redefined - HSR Layout's Neighbourhood Cafe & Restaurant",
+            "url": "http://www.google.com/search?q=Cuppa+Redefined+-+HSR+Layout%27s+Neighbourhood+Cafe+%26+Restaurant",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Cuppa+Redefined+-+HSR+Layout%27s+Neighbourhood+Cafe+%26+Restaurant",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Cuppa Redefined, hsr layout's neighbourhood Cafe restaurant menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cuppa+Redefined,+hsr+layout%27s+neighbourhood+Cafe+restaurant+menu&sa=X&ved=2ahUKEwjp26LU4a-UAxUa4ckDHReiOA4Q1QJ6BQiBARAB"
+            },
+            {
+                "title": "Cuppa redefined, HSR layout's neighbourhood cafe restaurant offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cuppa+redefined,+HSR+layout%27s+neighbourhood+cafe+restaurant+offers&sa=X&ved=2ahUKEwjp26LU4a-UAxUa4ckDHReiOA4Q1QJ6BQiTARAB"
+            },
+            {
+                "title": "Cuppa redefined, hsr layout's neighbourhood cafe restaurant reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cuppa+redefined,+hsr+layout%27s+neighbourhood+cafe+restaurant+reviews&sa=X&ved=2ahUKEwjp26LU4a-UAxUa4ckDHReiOA4Q1QJ6BQiaARAB"
+            },
+            {
+                "title": "Cuppa redefined mysore's neighbourhood cafe restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cuppa+redefined+mysore%27s+neighbourhood+cafe+restaurant&sa=X&ved=2ahUKEwjp26LU4a-UAxUa4ckDHReiOA4Q1QJ6BQiVARAB"
+            },
+            {
+                "title": "Cuppa Redefined HSR layout's neighbourhood caf\u00e9 restaurant photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cuppa+Redefined+HSR+layout%27s+neighbourhood+caf%C3%A9+restaurant+photos&sa=X&ved=2ahUKEwjp26LU4a-UAxUa4ckDHReiOA4Q1QJ6BQiUARAB"
+            },
+            {
+                "title": "Cuppa redefined mysore's neighbourhood cafe restaurant photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cuppa+redefined+mysore%27s+neighbourhood+cafe+restaurant+photos&sa=X&ved=2ahUKEwjp26LU4a-UAxUa4ckDHReiOA4Q1QJ6BQiRARAB"
+            },
+            {
+                "title": "Cuppa Bistro",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cuppa+Bistro&sa=X&ved=2ahUKEwjp26LU4a-UAxUa4ckDHReiOA4Q1QJ6BQiJARAB"
+            },
+            {
+                "title": "Cuppa Redefined owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Cuppa+Redefined+owner&sa=X&ved=2ahUKEwjp26LU4a-UAxUa4ckDHReiOA4Q1QJ6BQiFARAB"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Cuppa Redefined, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/cuppa-redefined-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "This place is known for pool table, large servings, board games, ambience was super cool, customizable dishes, good wifi.Read more",
+                "emphasizedKeywords": [
+                    "pool table, large servings, board games, ambience was super cool"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 860,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "CUPPA REDEFINED - HSR, Bengaluru - Tripadvisor",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g297628-d23863349-Reviews-Cuppa_Redefined_HSR-Bengaluru_Bangalore_District_Karnataka.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a ... \u203a Bengaluru Restaurants",
+                "description": "They have huge variety of options to choose from. Like healthy juices, thickshakes, vegan options, salads, pizza, burgers, desserts, ice-cream and what not.Read more",
+                "emphasizedKeywords": [
+                    "They have huge variety of options to choose from"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.8,
+                "numberOfReviews": 25,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Cuppa Redefined",
+                "url": "https://www.instagram.com/cuppa.redefined/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0cuppa.redefined",
+                "description": "Cuppa Redefined - Restore . Revive . Refresh Locations: HSR Layout, Mall of Mysore Franchise enquiries: +91 78478 17999 \u00b7 Big news. \u00b7 Looking for an experienced\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Locations: HSR Layout, Mall of Mysore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "6.9K+ followers",
+                "channelName": "cuppa.redefined",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Cuppa Redefined - HSR Layout's Neighbourhood Cafe ...",
+                "url": "https://cuppa-redefined-hsr-layouts-neighbourhood-cafe-restaurant.goto-where.com/",
+                "displayedUrl": "https://cuppa-redefined-hsr-layouts-neighbourhood-cafe-restaurant.goto-where.com",
+                "description": "Experience gourmet burgers, exceptional coffee, and a cozy atmosphere at Cuppa Redefined in HSR Layout, Bengaluru. Enjoy fresh, flavorful dishes and\u00a0...",
+                "emphasizedKeywords": [
+                    "gourmet burgers, exceptional coffee, and a cozy atmosphere"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Continental food at | Cuppa Bangalore",
+                "url": "https://www.cuppaofficial.com/",
+                "displayedUrl": "https://www.cuppaofficial.com",
+                "description": "Cuppa is one of the Best Cafes in Bangalore offering delicious and tasty continental food and beverages at an affordable price. Check out our Conti menu and\u00a0...",
+                "emphasizedKeywords": [
+                    "Cuppa is one of the Best Cafes in Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "CUPPA REDEFINED HSR layout Cuppa Redefined, also ...",
+                "url": "https://www.instagram.com/reel/DP21Lw1ka5B/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0sharadamurthy",
+                "description": "Cuppa Redefined, also known as HSR Layout's beloved neighbourhood caf\u00e9 and restaurant, perfectly blends vintage charm with a warm, welcoming\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "150+ likes",
+                "lastUpdated": "6 months ago",
+                "channelName": "reel",
+                "reelLength": "0:46",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Cuppa Redefined - HSR Layout's Neighbourhood Cafe & ...",
+                "url": "https://wanderlog.com/place/details/11972315/cuppa-redefined-hsr-layouts-neighbourhood-cafe--restaurant",
+                "displayedUrl": "https://wanderlog.com \u203a place \u203a details \u203a cuppa-redefin...",
+                "description": "Cuppa Redefined in HSR Layout offers a fantastic experience with exceptional coffee, delicious food, and a cozy atmosphere. Reviewers praise the friendly and\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Cuppa Redefined in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "\ud83d\udccdCUPPA REDEFINED HSR layout ...",
+                "url": "https://www.facebook.com/100086484512233/posts/cuppa-redefined-hsr-layoutcuppa-redefined-also-known-as-hsr-layouts-beloved-neig/836923075867169/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0\ud835\udd65\ud835\udd52\ud835\udd63\ud835\udd52_\ud835\udd64\ud835\udd65\ud835\udd52\ud835\udd63",
+                "description": "Renowned for its excellent food, this cozy spot has become a local favourite, especially for its signature OG Burger \u2014 a must-try for any foodie\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Renowned for its excellent food"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "6 months ago",
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/xO7SbiWI5bJM7IbGL/records/uKWOkP19BiCiZtt-0.html?signature=mwOhYps63v87ZXxyEnLq"
+    }
+]

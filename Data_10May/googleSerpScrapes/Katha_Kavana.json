@@ -1,0 +1,236 @@
+[
+    {
+        "#debug": {
+            "requestId": "LatyalXdOCI2UCN",
+            "url": "http://www.google.com/search?q=Katha+Kavana",
+            "loadedUrl": "http://www.google.com/search?q=Katha+Kavana",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Katha Kavana",
+            "url": "http://www.google.com/search?q=Katha+Kavana",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Katha+Kavana",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Katha kavana photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+kavana+photos&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Katha kavana menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+kavana+menu&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAhEEAE"
+            },
+            {
+                "title": "Katha Kavana offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+Kavana+offers&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Katha Kavana HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+Kavana+HSR&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Katha Kavana reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+Kavana+reviews&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Katha kavana jayanagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+kavana+jayanagar&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Katha Kavana owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+Kavana+owner&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Katha kavana cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+kavana+cafe&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg3EAE"
+            },
+            {
+                "title": "Katha kavana photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+kavana+photos&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg2EAE"
+            },
+            {
+                "title": "Katha kavana menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+kavana+menu&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAhEEAE"
+            },
+            {
+                "title": "Katha Kavana offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+Kavana+offers&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Katha Kavana HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+Kavana+HSR&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Katha Kavana reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+Kavana+reviews&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg-EAE"
+            },
+            {
+                "title": "Katha kavana jayanagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+kavana+jayanagar&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg7EAE"
+            },
+            {
+                "title": "Katha Kavana owner",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+Kavana+owner&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg4EAE"
+            },
+            {
+                "title": "Katha kavana cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Katha+kavana+cafe&sa=X&ved=2ahUKEwjQkbD94q-UAxVWSvEDHcX3M3wQ1QJ6BAg3EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Katha Kavana (@katha_kavana) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/katha_kavana/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0katha_kavana",
+                "description": "A caf\u00e9 with a soul. Serving coffee that's as rich as its stories. Crafted for thinkers, dreamers, and sippers alike. HSR layout, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "A caf\u00e9 with a soul"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "2.3K+ followers",
+                "channelName": "katha_kavana",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Katha Kavana, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/katha-kavana-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Katha Kavana \u00b7 Cafe \u00b7 Coffee \u00b7 Fast Food. 243, 17th Cross, 9th Main, Sector 6, HSR, Bangalore. ClosedOpens at 10:45am. Order online. Order Online.Read more",
+                "emphasizedKeywords": [
+                    "243, 17th Cross, 9th Main, Sector 6, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.2,
+                "numberOfReviews": 25,
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Katha Kavana (@katha_kavana) \u00b7 Bangalore",
+                "url": "https://www.instagram.com/katha_kavana/reels/",
+                "displayedUrl": "https://www.instagram.com \u203a katha_kavana",
+                "description": "A caf\u00e9 with a soul. Serving coffee that's as rich as its stories. Crafted for thinkers, dreamers, and sippers alike. \ud83d\udccdHSR layout, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "A caf\u00e9 with a soul"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "katha_kavana",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Katha Kavana | HSR, Bangalore | Book Table",
+                "url": "https://www.district.in/dining/bangalore/katha-kavana-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a katha-kavana-hsr-bang...",
+                "description": "Katha Kavana Bangalore; Katha Kavana, HSR: View menu, reviews, photos, contact details, location, phone number, book a table and more for Katha Kavana",
+                "emphasizedKeywords": [
+                    "Katha Kavana, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Katha Kavana at HSR layout has become one of my ...",
+                "url": "https://www.instagram.com/p/DVG5sUjj9LA/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0simplykani",
+                "description": "New cafe in HSR Layout\u2026. Spacious and comfy interiors, good to work from and great coffee. If you're looking for pocket friendly cafe to work\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Spacious and comfy interiors, good to work from and great coffee"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "20+ likes",
+                "lastUpdated": "2 months ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Order Food Online from Katha Kavana in Sector 6, Bangalore",
+                "url": "https://www.swiggy.com/city/bangalore/katha-kavana-sector-6-hsr-rest1040756",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR",
+                "description": "Enjoy delicious meals from Katha Kavana in Sector 6, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery on Swiggy.",
+                "emphasizedKeywords": [
+                    "Katha Kavana in Sector 6, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.7,
+                "numberOfReviews": 8,
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Katha Kavana in HSR Layout,Bangalore - Order Food Online",
+                "url": "https://www.justdial.com/Bangalore/Katha-Kavana-Sector-6-Hsr-Layout/080PXX80-XX80-250121104213-W9X9_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a Bangalore \u203a Katha-Kavana-Se...",
+                "description": "Nestled near Sector 6 in HSR Layout, Katha Kavana is a convenient stop for both locals and visitors exploring the city. The restaurant's interior is elegantly\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Nestled near Sector 6 in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4,
+                "numberOfReviews": 435,
+                "type": "organic",
+                "position": 7
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Katha means a story that starts with you, Kavana is where coffee and connection meet. A sip, a pause, a new conversation, Every cup is an invitation to linger. Come, experience the story brewed just for you.",
+                "question": "What is the meaning of Katha Kavana?",
+                "title": "Katha means a story that starts with you, Kavana is where coffee and ...",
+                "url": "https://www.instagram.com/p/DFEy6ZZBdcs/#:~:text=Katha%20means%20a%20story%20that,story%20brewed%20just%20for%20you.",
+                "date": "Jan 20, 2025"
+            },
+            {
+                "answer": "Additionally, Katha Powder is valued for oral health, aiding in gum strength and fresh breath. Its antioxidant-rich profile also promotes skin clarity and overall wellness. Regular use of Katha Powder can help maintain digestive balance, enhance oral hygiene, and contribute to a healthy, rejuvenated body.",
+                "question": "What are the benefits of Katha Kavana?",
+                "title": "Katha Powder Benefits for Digestion & Skin | Ayurvedic Wellness",
+                "url": "https://akkinatural.com/blogs/katha-powder-benefits-for-digestion-skin-ayurvedic-wellness#:~:text=Additionally%2C%20Katha%20Powder%20is%20valued,to%20a%20healthy%2C%20rejuvenated%20body.",
+                "date": "Oct 9, 2025"
+            },
+            {
+                "answer": null,
+                "question": "What are the top 3 coffee chains?",
+                "title": "List of coffeehouse chains - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/List_of_coffeehouse_chains#:~:text=Starbucks%2C%20Luckin%20Coffee%20and%20Dunkin,companies%20in%20the%20world%2C%20respectively.",
+                "date": null
+            },
+            {
+                "answer": "A balanced coffee shop menu covers classic espresso drinks, trending cold options, and high-margin grab-and-go food. Core offerings typically include lattes, cappuccinos, and drip coffee alongside pastries, sandwiches, seasonal specials, and dairy alternatives.",
+                "question": "What is usually on a cafe menu?",
+                "title": "Coffee Shop Menu Ideas: The Ultimate Guide to Menu Development",
+                "url": "https://www.7shifts.com/blog/coffee-shop-menu-ideas/#:~:text=A%20balanced%20coffee%20shop%20menu,seasonal%20specials%2C%20and%20dairy%20alternatives.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/5eaLbXgVzZdrpN0Mt/records/LatyalXdOCI2UCN-0.html?signature=JoIABYfVf0JLvvzuAdX7"
+    }
+]

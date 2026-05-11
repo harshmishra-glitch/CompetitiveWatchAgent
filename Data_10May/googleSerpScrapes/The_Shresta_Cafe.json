@@ -1,0 +1,224 @@
+[
+    {
+        "#debug": {
+            "requestId": "Dz6XYQpNJ27KEyT",
+            "url": "http://www.google.com/search?q=The+Shresta+Cafe",
+            "loadedUrl": "http://www.google.com/search?q=The+Shresta+Cafe",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "The Shresta Cafe",
+            "url": "http://www.google.com/search?q=The+Shresta+Cafe",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=The+Shresta+Cafe",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "The Shresta Cafe, Hosur Road, Bangalore",
+                "url": "https://www.zomato.com/bangalore/the-shresta-cafe-hosur-road-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a Hosur Road",
+                "description": "The Shresta Cafe \u00b7 Juices \u00b7 Shake \u00b7 Beverages \u00b7 Sandwich \u00b7 Fast Food \u00b7 Street Food. Near Sri Venkateshwara Gandiga Angadi, Opp To Mataji Hardware, Near Tirumala\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Juices"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "\ud835\udc12\ud835\udc2b\ud835\udc1a\ud835\udc2c\ud835\udc21\ud835\udc2d\ud835\udc1e\ud835\udc1a\u00ae\ufe0f\ud835\udc1c\ud835\udc1a\ud835\udc1f\ud835\udc1e (@srashteacafe)",
+                "url": "https://www.instagram.com/srashteacafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0srashteacafe",
+                "description": "Cafe & Art Studio \u201ctea that tastes like home\u201d Women led business RR nagar Uttarahalli Road | Bengaluru \ud83d\udccd Opp to RNSIT college | CLICK LINKRead more",
+                "emphasizedKeywords": [
+                    "Cafe & Art Studio"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "230+ followers",
+                "channelName": "srashteacafe",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "The Shresta Cafe, Hosur Road order online",
+                "url": "https://www.zomato.com/bangalore/the-shresta-cafe-hosur-road-bangalore/order",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a The Shresta Cafe",
+                "description": "Order food online from The Shresta Cafe, Hosur Road, Bengaluru. Get great offers and super fast food delivery when you order food online from The Shresta\u00a0...",
+                "emphasizedKeywords": [
+                    "Order food online from The Shresta Cafe, Hosur Road, Bengaluru"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Shrestha cafe & sekuwa | Lalitpur",
+                "url": "https://www.facebook.com/Shrestha-cafe-sekuwa-2308670786076395/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Shrestha cafe & sekuwa",
+                "description": "Shrestha cafe & sekuwa, Lalitpur. 634 likes \u00b7 66 were here. Newari khaja set# momo# chowmein# sekuwa buff/mutton/chicken# chhoilla# vuttan buff/mutton#...",
+                "emphasizedKeywords": [
+                    "Shrestha cafe & sekuwa, Lalitpur"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "630+ followers",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "The Shresta Cafe Photos",
+                "url": "https://www.zomato.com/bangalore/the-shresta-cafe-hosur-road-bangalore/photos",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a The Shresta Cafe",
+                "description": "Near Sri Venkateshwara Gandiga Angadi, Opp To Mataji Hardware, Near Tirumala Theatre, 24Th Main 1St Sector Hsr Layout, Agara, Hosur Road, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "Near Sri Venkateshwara Gandiga Angadi"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Shrestha cafe, cafe, Kathmandu, Ward 13, Tahachal Marg",
+                "url": "https://yandex.com/maps/org/shrestha_cafe/152256707496/",
+                "displayedUrl": "https://yandex.com \u203a Maps \u203a Kathmandu \u203a Cafes",
+                "description": "Cafe Shrestha cafe Kathmandu, Ward 13, Tahachal Marg. View 1 photo. Get directions in Yandex Maps.",
+                "emphasizedKeywords": [
+                    "Shrestha cafe Kathmandu, Ward 13, Tahachal Marg"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Shreshta Upachar in Nagarbhavi,Bangalore - Order Food ...",
+                "url": "https://www.justdial.com/Bangalore/Shreshta-Upachar-Near-Maruti-Nagar-Bus-Stop-Nagarbhavi/080PXX80-XX80-191120144511-I8K4_BZDET",
+                "displayedUrl": "https://www.justdial.com \u203a ... \u203a Restaurants in Nagarbhavi",
+                "description": "Near Maruti Nagar Bus Stop, Nagarbhavi Main Road, Nagarbhavi, Bangalore-560072, Karnataka. DirectionCopy. Similar Restaurants.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.5,
+                "numberOfReviews": 449,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Shrestha Cafe",
+                "url": "https://findallnepal.com/shrestha-cafe-4769583120",
+                "displayedUrl": "https://findallnepal.com \u203a shrestha-cafe-4769583120",
+                "description": "Shrestha Cafe. kathmandu, Kathmandu, Province-3, Nepal. 9808470232. Get Direction CREATE NOW. Your Business Profile. will look like this. Browse some websites.Read more",
+                "emphasizedKeywords": [
+                    "Shrestha Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "SHRESTHA CAFE & RESTRO",
+                "url": "https://www.youtube.com/channel/UCGjBqY-4SzFsVgsx1SOXSLw",
+                "displayedUrl": "https://www.youtube.com \u203a channel",
+                "description": "SHRESTHA CAFE & RESTRO. Home. Shorts. Library. SHRESTHA CAFE & RESTRO. @SHRESTHACAFERESTRO. 60 subscribers\u202211 videos. More about this channel ...moreRead more",
+                "emphasizedKeywords": [
+                    "SHRESTHA CAFE & RESTRO"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Shrestha Cafe & Restro: A Culinary Journey",
+                "url": "https://www.tiktok.com/@shresthacaferestro3/video/7628652277384891668",
+                "displayedUrl": "TikTok\u00a0\u203a\u00a0shresthacaferestro3",
+                "description": "Experience the unique flavors of Shrestha Cafe & Restro, a must-visit dining destination. Discover authentic Nepali cuisine and more! #\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Shrestha Cafe & Restro"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "views": "3.5K+ views",
+                "lastUpdated": "3 weeks ago",
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What is the best restaurant on Shelter Island?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What food is on a cafe menu?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What are the prices like at Cafe 17?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is Honeytree Cafe's most popular dish?",
+                "title": null,
+                "url": null,
+                "date": null
+            }
+        ],
+        "aiOverview": {
+            "type": "live",
+            "content": "",
+            "sources": [
+                {
+                    "url": "https://www.zomato.com/chandigarh/shrestha-cafe-nayagaon-nayagaon?amp=1",
+                    "title": "Shrestha Cafe - Zomato",
+                    "description": "* Address. Shop 2, Dashmesh Nagar, Nayagaon, Nayagaon. * Average Cost. \u20b9150 for one order (approx.) * Reviews."
+                },
+                {
+                    "url": "https://www.facebook.com/100054557104193/posts/3004764626467004/",
+                    "title": "Shrestha cafe & sekuwa's post - Facebook",
+                    "description": "Jul 11, 2021 \u2014 Shrestha cafe & sekuwa is at Koteshwor-32. ... Shrestha cafe & sekuwa is at Koteshwor- 32."
+                },
+                {
+                    "url": "https://www.instagram.com/reel/DEpUE0FzOmE/",
+                    "title": "Srashtea\u00ae\ufe0fcafe on Instagram: \"What you want??? Srashtea ...",
+                    "description": "Jan 10, 2025 \u2014 Srashtea cafe in RR Nagar, Channasandra road, opposite RNS institute of technology, offers homemade dessert cups and more."
+                }
+            ]
+        },
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/8NZy6F08fASDvfFNF/records/Dz6XYQpNJ27KEyT-0.html?signature=7o9LFHla0VlBABrgdubX"
+    }
+]

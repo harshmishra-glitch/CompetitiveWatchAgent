@@ -1,0 +1,221 @@
+[
+    {
+        "#debug": {
+            "requestId": "syczm2iHnXIJdf0",
+            "url": "http://www.google.com/search?q=Glen%27s+Bakehouse+%28HSR+Layout%29",
+            "loadedUrl": "http://www.google.com/search?q=Glen%27s+Bakehouse+%28HSR+Layout%29",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Glen's Bakehouse (HSR Layout)",
+            "url": "http://www.google.com/search?q=Glen%27s+Bakehouse+%28HSR+Layout%29",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Glen%27s+Bakehouse+%28HSR+Layout%29",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Glen's bakehouse hsr layout reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Glen%27s+bakehouse+hsr+layout+reviews&sa=X&ved=2ahUKEwib1cjG4a-UAxU25skDHa-xOnsQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Glen's Bakehouse, hsr Layout menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Glen%27s+Bakehouse,+hsr+Layout+menu&sa=X&ved=2ahUKEwib1cjG4a-UAxU25skDHa-xOnsQ1QJ6BQiXARAB"
+            },
+            {
+                "title": "Glen's bakehouse, hsr Layout offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Glen%27s+bakehouse,+hsr+Layout+offers&sa=X&ved=2ahUKEwib1cjG4a-UAxU25skDHa-xOnsQ1QJ6BQiTARAB"
+            },
+            {
+                "title": "Glen's Bakehouse, HSR Layout Photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Glen%27s+Bakehouse,+HSR+Layout+Photos&sa=X&ved=2ahUKEwib1cjG4a-UAxU25skDHa-xOnsQ1QJ6BQiMARAB"
+            },
+            {
+                "title": "Glen's bakehouse hsr layout prices",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Glen%27s+bakehouse+hsr+layout+prices&sa=X&ved=2ahUKEwib1cjG4a-UAxU25skDHa-xOnsQ1QJ6BQiGARAB"
+            },
+            {
+                "title": "Glen Bakehouse near me",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Glen+Bakehouse+near+me&sa=X&ved=2ahUKEwib1cjG4a-UAxU25skDHa-xOnsQ1QJ6BQiAARAB"
+            },
+            {
+                "title": "Glen bakehouse, Jayanagar",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Glen+bakehouse,+Jayanagar&sa=X&ved=2ahUKEwib1cjG4a-UAxU25skDHa-xOnsQ1QJ6BAh4EAE"
+            },
+            {
+                "title": "Glen Bakehouse, Sarjapur",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Glen+Bakehouse,+Sarjapur&sa=X&ved=2ahUKEwib1cjG4a-UAxU25skDHa-xOnsQ1QJ6BAh3EAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Glen`s Bakehouse, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/glen-s-bakehouse-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Glen`s Bakehouse \u00b7 Bakery \u00b7 Cafe \u00b7 Italian. 2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore. Open now9am \u2013 11:30pm (Today).Read more",
+                "emphasizedKeywords": [
+                    "2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 546,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Glen's Bakehouse, HSR Layout, Bangalore",
+                "url": "https://www.glensbakehouse.com/contact-us/hsr-layout",
+                "displayedUrl": "https://www.glensbakehouse.com \u203a contact-us \u203a hsr-layout",
+                "description": "Discover the magic of freshly baked and cooked artisanal items at Glen's Bakehouse.",
+                "emphasizedKeywords": [
+                    "freshly baked and cooked artisanal items"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Glen's Bakehouse - HSR Layout",
+                "url": "https://www.swiggy.com/city/bangalore/glens-bakehouse-hsr-layout-rest519252",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Enjoy delicious meals from Glen's Bakehouse in HSR Layout, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery on\u00a0...",
+                "emphasizedKeywords": [
+                    "Glen's Bakehouse in HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.6,
+                "numberOfReviews": null,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Glen`s Bakehouse | HSR, Bangalore | Bakery Restaurant",
+                "url": "https://www.district.in/dining/bangalore/glen-s-bakehouse-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a glen-s-bakehouse-hsr-b...",
+                "description": "Glen`s Bakehouse. 2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore. See all outlets. Get directions \u00b7 +919513734879. Select Location. location. Use Current\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Glen's Bakehouse - Simply Delectable Cakes, Pastries ...",
+                "url": "https://www.glensbakehouse.com/",
+                "displayedUrl": "https://www.glensbakehouse.com",
+                "description": "Choose from a wide array of pastries, cakes, pizzas, burgers, salads, kinds of pasta, milkshakes, cold drinks, hot beverages and quick bites.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Glen's Bakehouse (HSR Layout) - 2337, SECTOR 1 ... - Corner",
+                "url": "https://www.corner.inc/place/557170",
+                "displayedUrl": "https://www.corner.inc \u203a place",
+                "description": "Charming caf\u00e9 and bakery with killer sourdough pizza and all-day breakfast. open. Sunday: 9:00 AM \u2013 11:30 PM.Read more",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Glens Bakehouse Hsr Layout",
+                "url": "https://www.instagram.com/popular/glens-bakehouse-hsr-layout/",
+                "displayedUrl": "https://www.instagram.com \u203a popular \u203a glens-bakehous...",
+                "description": "Glen's Bakehouse, HSR Layout Red velvet \u20b9159 Fudgy brownie \u20b9100 Overall rating ... Glen's Bakehouse, HSR Layout (Bangalore) #brunching #bangalorediaries\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Red velvet \u20b9159 Fudgy brownie \u20b9100"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "channelName": "popular",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Menu of Glen`s Bakehouse, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/glen-s-bakehouse-hsr-bangalore/menu",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a HSR \u203a Glen`s Bakehouse",
+                "description": "2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore. Open now9am \u2013 11:30pm (Today). Order online. Order Online. Glen`s Bakehouse Menu. Food Menu menu\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "2337, Sector 1, 17th Cross, 24th Main, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 543,
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "Glen's Bakehouse",
+                "url": "https://www.snapchat.com/place/glens-bakehouse/1e642df8-b194-11ec-a9c7-972cad347891",
+                "displayedUrl": "https://www.snapchat.com \u203a place \u203a glens-bakehouse",
+                "description": "Address 2337, Sector 1, 24th Main, HSR Layout, 17th Cross, Bengaluru, Karnataka ; Order with Zomato ; Call 095137 34879 ; Website glensbakehouse.com ; Closed Monday\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "2337, Sector 1, 24th Main, HSR Layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": "Address.Popular Dishes. Red Velvet Chocolate Cupcake, Citrus Chicken, Frozen Mud Pie, Signature Coffee, Banana Pie, Chicken Pot Pie.People Say This Place Is Known For. Elegant Decor, Cozy Vibe, Warm Ambience, Outside Seating, Cute Ambience, Beautiful Cafe.Average Cost. \u20b91,000 for two people (approx.) ... More Info.",
+                "question": "What is famous in Glens Bakehouse?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "Meet Glen Williams Glen Williams, the founder of Glen's Bakehouse, is quiet and intense with an unwavering commitment to creating culinary masterpieces.",
+                "question": "Who is the owner of Glen's Bakehouse?",
+                "title": null,
+                "url": null,
+                "date": null
+            },
+            {
+                "answer": "\ud83c\udf70 Must Try: Red Velvet Cupcake \u2764\ufe0f, Chicken/ Veg Lasagna \ud83c\udf5d, Thick Milkshakes \ud83e\udd64, Cheesecakes & their signature coffee \u2615 \u2b50 Rating: 4.3/5 \u2013 cozy ambience + consistent quality.",
+                "question": "What are popular items at Glens Bake House?",
+                "title": null,
+                "url": null,
+                "date": "Apr 17, 2026"
+            },
+            {
+                "answer": "No, Glen's Bakehouse does not serve alcohol.",
+                "question": "Does Glens Bakehouse serve alcohol?",
+                "title": "Glen's Bakehouse - Bannerghatta Road, South Bengaluru - EazyDiner",
+                "url": "https://www.eazydiner.com/bengaluru/glens-bakehouse-bannerghatta-road-south-bengaluru-701139/about#:~:text=No%2C%20Glen's%20Bakehouse%20does%20not%20serve%20alcohol.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/tFQFEng2AUAD96La5/records/syczm2iHnXIJdf0-0.html?signature=1mqrue8R532injJArZVhF"
+    }
+]

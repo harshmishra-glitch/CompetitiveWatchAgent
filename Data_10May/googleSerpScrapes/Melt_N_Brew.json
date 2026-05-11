@@ -1,0 +1,205 @@
+[
+    {
+        "#debug": {
+            "requestId": "GEjTN6pEoI9c4Or",
+            "url": "http://www.google.com/search?q=Melt+N%27+Brew",
+            "loadedUrl": "http://www.google.com/search?q=Melt+N%27+Brew",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Melt N' Brew",
+            "url": "http://www.google.com/search?q=Melt+N%27+Brew",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Melt+N%27+Brew",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Melt n brew menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Melt+n+brew+menu&sa=X&ved=2ahUKEwiMnM3h46-UAxXy9zgGHfk2HtYQ1QJ6BAhsEAE"
+            },
+            {
+                "title": "Melt n brew offers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Melt+n+brew+offers&sa=X&ved=2ahUKEwiMnM3h46-UAxXy9zgGHfk2HtYQ1QJ6BAh9EAE"
+            },
+            {
+                "title": "Teatings",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Teatings&sa=X&ved=2ahUKEwiMnM3h46-UAxXy9zgGHfk2HtYQ1QJ6BAh8EAE"
+            },
+            {
+                "title": "The Faith Cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=The+Faith+Cafe&sa=X&ved=2ahUKEwiMnM3h46-UAxXy9zgGHfk2HtYQ1QJ6BAh4EAE"
+            },
+            {
+                "title": "Marseli cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Marseli+cafe&sa=X&ved=2ahUKEwiMnM3h46-UAxXy9zgGHfk2HtYQ1QJ6BAhxEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Melt N' Brew (@meltnbrewindia)",
+                "url": "https://www.instagram.com/meltnbrewindia/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0meltnbrewindia",
+                "description": "Coffee that hugs your soul \u2022 Bakes that melt your heart Real brews, real chocolate\u2014no fakes here! Sip, Vibe, Bite & Melt\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Coffee that hugs your soul"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "780+ followers",
+                "channelName": "meltnbrewindia",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Where every cup feels like home @meltnbrewindia #fyp #cafe ...",
+                "url": "https://www.instagram.com/reel/DW9HHL-DNDU/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0meltnbrewindia",
+                "description": "\u2022. Follow \u00b7 HSR Layout, Bangaluru. Photo by Melt N' Brew on April 28, 2026. May be a doodle. Photo by Melt N' Brew on April 28, 2026. May be an\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "10+ likes",
+                "lastUpdated": "1 month ago",
+                "channelName": "reel",
+                "reelLength": "0:25",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "MELT N DIP - Updated May 2026 - 90 Photos & 56 Reviews",
+                "url": "https://www.yelp.com/biz/melt-n-dip-greenfield",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a Creperies",
+                "description": "Amazingly delicious Belgian chocolate crepes! An extensive variety is available to choose from. My son got the banana wrapped crepe and my daughter got the\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Belgian chocolate crepes"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.4,
+                "numberOfReviews": 56,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Melt n Dip - Bridgeview 8258 South Harlem Avenue, Unit D",
+                "url": "https://order.toasttab.com/online/melt-n-dip-bridgeview-8258-south-harlem-avenue-unit-d",
+                "displayedUrl": "https://order.toasttab.com \u203a online \u203a melt-n-dip-bridgevi...",
+                "description": "Order online from 8258 South Harlem Avenue, Unit D, including Crepe, Waffle, Cookies. Get the best prices and service by ordering direct!",
+                "emphasizedKeywords": [
+                    "8258 South Harlem Avenue, Unit D"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Bread N' Brew",
+                "url": "https://breadnbrew.net/",
+                "displayedUrl": "https://breadnbrew.net",
+                "description": "Discover Our Specialties \u00b7 Fresh Pastries \u00b7 Premium Coffee \u00b7 Specialty Beverages \u00b7 Freshly Made Meals \u00b7 Tarts & Cakes \u00b7 Artisan Quality.Read more",
+                "emphasizedKeywords": [
+                    "Fresh Pastries"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Sweet 'n Brew Cafe | Addison IL",
+                "url": "https://www.facebook.com/Sweetnbrewcafe/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Sweet 'n Brew Cafe",
+                "description": "Sweet 'n Brew Cafe. European style Caf\u00e9, serving the top quality coffee, gelato, pastries, and crepes.Read more",
+                "emphasizedKeywords": [
+                    "European style Caf\u00e9"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 34,
+                "followersAmount": "1.5K+ followers",
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Melt n Dip \u2013 Crepes, Waffles, Desserts & Belgian Chocolate",
+                "url": "https://meltndip.com/",
+                "displayedUrl": "https://meltndip.com",
+                "description": "At Melt n Dip, we use only premium quality ingredients and 100% Belgian chocolate to satisfy your taste buds and elevate your mood!Read more",
+                "emphasizedKeywords": [
+                    "100% Belgian chocolate"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "The only green i trust\ud83c\udf80 @meltnbrewindia . . . . . . . #cafe ...",
+                "url": "https://www.instagram.com/p/DYCc6gBDJgf/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0meltnbrewindia",
+                "description": "Matcha, Matcha Latte, Green Tea Drinks, Bites and Brews Caf\u00e9, Signature Matcha, Premium Matcha Experience, Healthy Drinks, Antioxidant Rich\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "Matcha, Matcha Latte, Green Tea Drinks"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "5 likes",
+                "lastUpdated": "3 days ago",
+                "channelName": "p",
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "MELT N DIP - Updated May 2026 - 281 Photos & 98 Reviews",
+                "url": "https://www.yelp.com/biz/melt-n-dip-fishers",
+                "displayedUrl": "https://www.yelp.com \u203a ... \u203a Food \u203a Coffee & Tea",
+                "description": "MELT N DIP - Try Our New Menu - 9840 East 116th St, Fishers, IN 46037, 281 Photos, (317) 827-2120, Mon - 10:00 am - 11:00 pm, Tue - 10:00 am - 11:00 pm,\u00a0...",
+                "emphasizedKeywords": [
+                    "9840 East 116th St, Fishers, IN 46037"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.1,
+                "numberOfReviews": 98,
+                "type": "organic",
+                "position": 9
+            },
+            {
+                "title": "Melt N' Sip | Dessert Drink Appliances & Sweet Beverage Tools",
+                "url": "https://meltnsip.com/",
+                "displayedUrl": "https://meltnsip.com",
+                "description": "Melt N' Sip is a premium dessert drink appliance magazine for milk frothers, hot chocolate makers, chocolate melting pots, mug warmers, and seasonal drink\u00a0...",
+                "emphasizedKeywords": [
+                    "Melt N",
+                    "and"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 10
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/dQYLfcbQky0pq7NXM/records/GEjTN6pEoI9c4Or-0.html?signature=RfzQoG8KUTzKfaYdTb33"
+    }
+]

@@ -1,0 +1,253 @@
+[
+    {
+        "#debug": {
+            "requestId": "7CwKQ6MTM0BSXdf",
+            "url": "http://www.google.com/search?q=Coffee+makers",
+            "loadedUrl": "http://www.google.com/search?q=Coffee+makers",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Coffee makers",
+            "url": "http://www.google.com/search?q=Coffee+makers",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Coffee+makers",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Coffee makers for home",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+for+home&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhWEAE"
+            },
+            {
+                "title": "Keurig coffee makers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Keurig+coffee+makers&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAh0EAE"
+            },
+            {
+                "title": "Best coffee makers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Best+coffee+makers&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Coffee makers with grinder",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+with+grinder&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Coffee makers on sale Amazon",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+on+sale+Amazon&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhkEAE"
+            },
+            {
+                "title": "Coffee makers sale",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+sale&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Coffee makers nearby",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+nearby&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "5 star coffee makers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=5+star+coffee+makers&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhbEAE"
+            },
+            {
+                "title": "Coffee makers for home",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+for+home&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhWEAE"
+            },
+            {
+                "title": "Keurig coffee makers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Keurig+coffee+makers&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAh0EAE"
+            },
+            {
+                "title": "Best coffee makers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Best+coffee+makers&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhvEAE"
+            },
+            {
+                "title": "Coffee makers with grinder",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+with+grinder&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhpEAE"
+            },
+            {
+                "title": "Coffee makers on sale Amazon",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+on+sale+Amazon&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhkEAE"
+            },
+            {
+                "title": "Coffee makers sale",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+sale&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhjEAE"
+            },
+            {
+                "title": "Coffee makers nearby",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Coffee+makers+nearby&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhgEAE"
+            },
+            {
+                "title": "5 star coffee makers",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=5+star+coffee+makers&sa=X&ved=2ahUKEwibn6294q-UAxWKjGMGHS1YAIQQ1QJ6BAhbEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Coffee Makers: Single-Serve & Drip Coffee Machines",
+                "url": "https://www.mrcoffee.com/coffee-makers/",
+                "displayedUrl": "https://www.mrcoffee.com \u203a coffee-makers",
+                "description": "With our traditional drip coffee makers or specialty coffee makers, you can craft the perfect brew to fit your unique preferences. Enjoy a strong dark roast or\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "traditional drip coffee makers or specialty coffee makers"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Shop Coffee Makers",
+                "url": "https://www.keurig.com/c/coffeemakers101",
+                "displayedUrl": "https://www.keurig.com \u203a coffeemakers101",
+                "description": "Shop Coffee Makers on Keurig.com. Keurig offers a variety of coffee pods, makers, and accessories, with auto-delivery and loyalty offerings.",
+                "emphasizedKeywords": [
+                    "Shop Coffee Makers on Keurig.com"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "8 Best Coffee Makers of 2026, Lab Tested and Reviewed",
+                "url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-of-the-year-a9612622702/",
+                "displayedUrl": "https://www.consumerreports.org \u203a ... \u203a Coffee Makers",
+                "description": "The best lab-tested coffee makers, whether you're looking for a drip machine, pod coffee maker, or one that can handle both tasks.",
+                "date": "2026-03-11T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "The best lab-tested coffee makers"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Top Rated Coffee Makers And Drip Coffee Brewers",
+                "url": "https://www.seattlecoffeegear.com/collections/coffee-makers?srsltid=AfmBOoqXcpvWfPDYw1LXftnuSqTFfZqpeqInJfuggK4dWxOC-Q2ua_LM",
+                "displayedUrl": "https://www.seattlecoffeegear.com \u203a collections \u203a coffee...",
+                "description": "A huge selection of drip brewers, pour over equipment, presses, cold brewers, stove top coffee makers, and more, we're a one stop shop for everything you need.Read more",
+                "emphasizedKeywords": [
+                    "stove top coffee makers"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "The 9 Best Coffee Makers of 2026 | Reviews by Wirecutter",
+                "url": "https://www.nytimes.com/wirecutter/reviews/best-coffee-maker/",
+                "displayedUrl": "https://www.nytimes.com \u203a Kitchen \u203a Coffee",
+                "description": "We've tried nearly every method of making coffee, from cold-brew coffee makers and the Chemex to moka pots and Moccamasters.Read more",
+                "date": "2026-03-20T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "cold-brew coffee makers"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Coffee & Espresso Makers",
+                "url": "https://www.target.com/c/coffee-makers-tea-espresso-kitchen-appliances-dining/-/N-5xtro",
+                "displayedUrl": "https://www.target.com \u203a ... \u203a Kitchen Appliances",
+                "description": "Make cafe style coffee at home with Target coffee makers. Choose drip, pod or espresso machines in compact sizes. Free shipping on orders $35+.",
+                "emphasizedKeywords": [
+                    "Choose drip, pod or espresso machines in compact sizes"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Coffee Makers - Walmart.com",
+                "url": "https://www.walmart.com/browse/home/coffee-makers/4044_90548_90546_1115306_5438660",
+                "displayedUrl": "https://www.walmart.com \u203a ... \u203a Coffee Makers",
+                "description": "A coffee maker brings fast, consistent brewing to your kitchen, with options for drip pots, single-serve cups, and programmable settings for daily routines.Read more",
+                "emphasizedKeywords": [
+                    "fast, consistent brewing to your"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Amazon Best Sellers: Best Coffee Machines",
+                "url": "https://www.amazon.com/Best-Sellers-Coffee-Machines/zgbs/home-garden/289745",
+                "displayedUrl": "https://www.amazon.com \u203a zgbs \u203a home-garden",
+                "description": "Coffee Machines \u00b7 #1 \u00b7 BLACK+DECKER 12-Cup Digital Coffee Maker, Programmable, Washable Basket Filter, \u00b7 #2 \u00b7 Ninja 12-Cup Programmable Coffee Brewer, 2 Brew\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "BLACK+DECKER 12-Cup Digital Coffee Maker"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "The Best Coffee Makers of 2026, According to Our Tests",
+                "url": "https://www.foodandwine.com/best-coffee-makers-8622173",
+                "displayedUrl": "https://www.foodandwine.com \u203a best-coffee-makers-86...",
+                "description": "The Breville Barista Express Espresso Machine consistently performs well in our espresso machine testing. It is one of the best espresso\u00a0...Read more",
+                "date": "2026-03-16T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "Breville Barista Express Espresso Machine"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "What is the best coffee machine to have at home?",
+                "title": null,
+                "url": "https://www.reddit.com/r/IndiaCoffee/comments/1t6ymvp/which_one_is_better_for_a_beginner/",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is the most reliable coffee machine brand?",
+                "title": null,
+                "url": "https://www.reddit.com/r/science/comments/1jjfwlv/boiled_coffee_in_a_pot_contains_high_levels_of/",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Does Keurig coffee have cholesterol?",
+                "title": null,
+                "url": "https://www.tiktok.com/@inspiringdesignsnet/video/7633842427094109470",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "What is a good coffee machine for home use?",
+                "title": null,
+                "url": "https://www.instagram.com/reel/DLP8PX1oqlH/",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/A0dqziRlYnksUh7pl/records/7CwKQ6MTM0BSXdf-0.html?signature=1lUYOcqLUscL4DxmukqL2"
+    }
+]

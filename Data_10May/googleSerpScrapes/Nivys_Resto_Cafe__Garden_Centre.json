@@ -1,0 +1,188 @@
+[
+    {
+        "#debug": {
+            "requestId": "RbYUVJSn0zfhAB2",
+            "url": "http://www.google.com/search?q=Nivys+Resto+Cafe+%26+Garden+Centre",
+            "loadedUrl": "http://www.google.com/search?q=Nivys+Resto+Cafe+%26+Garden+Centre",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Nivys Resto Cafe & Garden Centre",
+            "url": "http://www.google.com/search?q=Nivys+Resto+Cafe+%26+Garden+Centre",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Nivys+Resto+Cafe+%26+Garden+Centre",
+        "hasNextPage": true,
+        "serpProviderCode": "L",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Nivys resto cafe & garden centre restaurant menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Nivys+resto+cafe+%26+garden+centre+restaurant+menu&sa=X&ved=2ahUKEwjquOCx4a-UAxVxnSYFHaDCLd8Q1QJ6BAhmEAE"
+            },
+            {
+                "title": "Nivys resto cafe & garden centre menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Nivys+resto+cafe+%26+garden+centre+menu&sa=X&ved=2ahUKEwjquOCx4a-UAxVxnSYFHaDCLd8Q1QJ6BAh_EAE"
+            },
+            {
+                "title": "Nivys resto cafe & garden centre reviews",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Nivys+resto+cafe+%26+garden+centre+reviews&sa=X&ved=2ahUKEwjquOCx4a-UAxVxnSYFHaDCLd8Q1QJ6BAh7EAE"
+            },
+            {
+                "title": "Nivys Cafe Menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Nivys+Cafe+Menu&sa=X&ved=2ahUKEwjquOCx4a-UAxVxnSYFHaDCLd8Q1QJ6BAh0EAE"
+            },
+            {
+                "title": "Nivys Resto Cafe Nivy's roots shoots menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Nivys+Resto+Cafe+Nivy%27s+roots+shoots+menu&sa=X&ved=2ahUKEwjquOCx4a-UAxVxnSYFHaDCLd8Q1QJ6BAhyEAE"
+            },
+            {
+                "title": "Nivys resto cafe & garden centre photos",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Nivys+resto+cafe+%26+garden+centre+photos&sa=X&ved=2ahUKEwjquOCx4a-UAxVxnSYFHaDCLd8Q1QJ6BAhvEAE"
+            },
+            {
+                "title": "Nivys cafe HSR",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Nivys+cafe+HSR&sa=X&ved=2ahUKEwjquOCx4a-UAxVxnSYFHaDCLd8Q1QJ6BAhrEAE"
+            },
+            {
+                "title": "Bakeyard the garden Cafe",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&hl=en&q=Bakeyard+the+garden+Cafe&sa=X&ved=2ahUKEwjquOCx4a-UAxVxnSYFHaDCLd8Q1QJ6BAhpEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Nivys Resto Cafe, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/nivys-resto-cafe-4-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Nivys Resto Cafe, Cafe, Fast Food, Healthy Food, Mexican, Thai, Korean, Italian, Beverages, 98/1, Survey 98/4, Reliable Residency Layout, Phase 3, Lakedew, HSR\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "98/1, Survey 98/4, Reliable Residency Layout, Phase 3, Lakedew, HSR"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 912,
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Nivy's Resto Cafe & Garden Centre (@nivysrestocafe)",
+                "url": "https://www.instagram.com/nivysrestocafe/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0nivysrestocafe",
+                "description": "Nivy's - South Bangalore's favorite Garden caf\u00e9 , restaurant & party spot with indoor/outdoor vibes-a store for exotic plants, pots & d\u00e9cor in Harlur.Read more",
+                "emphasizedKeywords": [
+                    "South Bangalore's favorite Garden caf\u00e9 , restaurant & party spot"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "11.9K+ followers",
+                "channelName": "nivysrestocafe",
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Nivys Restocafe AndGardencentre (@nivys.s)",
+                "url": "https://www.facebook.com/nivys.s/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Nivys Restocafe AndGardencentre",
+                "description": "Work doesn't always need walls. Sometimes, all you need is fresh air, greenery, and a quiet corner. Come work from nature at Nivy's \u2014 where calm meets\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "fresh air, greenery, and a quiet corner"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "1.7K+ followers",
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Nivys Cafe (Nivys Resto Cafe & Garden Centre) in Haralur ...",
+                "url": "https://www.instagram.com/reel/DX156Y5x2k7/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0the.reelcompany",
+                "description": "Nivys Cafe (Nivys Resto Cafe & Garden Centre) in Haralur, Bengaluru is not just a normal caf\u00e9\u2014it's more like a garden-themed hangout spot + caf\u00e9\u00a0...",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "likes": "120+ likes",
+                "lastUpdated": "1 week ago",
+                "channelName": "reel",
+                "reelLength": "1:16",
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Nivys Resto Cafe - HSR Layout",
+                "url": "https://www.swiggy.com/city/bangalore/nivys-resto-cafe-hsr-layout-rest608519",
+                "displayedUrl": "https://www.swiggy.com \u203a Bangalore \u203a HSR Layout",
+                "description": "Enjoy delicious meals from Nivys Resto Cafe in HSR Layout, Bangalore. Browse menu, check reviews, and order food online for fast doorstep delivery on\u00a0...",
+                "emphasizedKeywords": [
+                    "Nivys Resto Cafe in HSR Layout, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4,
+                "numberOfReviews": 53,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Nivys Resto Cafe | HSR, Bangalore | Book Table",
+                "url": "https://www.district.in/dining/bangalore/nivys-resto-cafe-4-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a nivys-resto-cafe-4-hsr-...",
+                "description": "This is best Bengaluru Garden Cafe. From entry to food eating area you will get variety of plants which makes this place as Garden Cafe. And half of the\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "best Bengaluru Garden Cafe"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "Nivy'S Resto Cafe & Garden Centre | Bangalore",
+                "url": "https://www.facebook.com/p/NivyS-Resto-Cafe-Garden-Centre-100063762235485/",
+                "displayedUrl": "Facebook\u00a0\u203a\u00a0Nivy\u2019S Resto Cafe & Garden Centre",
+                "description": "South Bangalore's favorite Garden Caf\u00e9, Restaurant & Party Spot Indoor & outdoor vibes | Birthdays \u2022 Kitty parties \u2022 Meetups \u2022 Workshops \u2022 Book launches\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "South Bangalore's favorite Garden Caf\u00e9, Restaurant & Party Spot"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 5,
+                "numberOfReviews": 8,
+                "followersAmount": "4.3K+ followers",
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Nivys Resto Cafe & Garden Centre - Somasundara Palya, ...",
+                "url": "https://magicpin.in/Bangalore/Somasundara-Palya/Restaurant/Nivys-Resto-Cafe-and-Garden-Centre/store/19368ba/?srsltid=AfmBOoruZ36xW1Pgv0_Iua8k36Qj_gkN6X3zsl4M-aZupNb82pcYX0Uz",
+                "displayedUrl": "https://magicpin.in \u203a ... \u203a Restaurant",
+                "description": "Nivys Resto Cafe & Garden Centre. Restaurant . Cost for two: \u20b9800. Restaurant Cost for two: \u20b9800. Somasundara Palya, Kasavanahalli, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "Nivys Resto Cafe & Garden Centre"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/Q1KGfatEsfISNdZfv/records/RbYUVJSn0zfhAB2-0.html?signature=6vOyIuuUd5UilNO2fGkE"
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "#debug": {
+            "requestId": "6Z9srLbVDMX79aa",
+            "url": "http://www.google.com/search?q=Kafe+Viva",
+            "loadedUrl": "http://www.google.com/search?q=Kafe+Viva",
+            "method": "GET",
+            "retryCount": 0,
+            "errorMessages": [],
+            "statusCode": 200
+        },
+        "#error": false,
+        "searchQuery": {
+            "term": "Kafe Viva",
+            "url": "http://www.google.com/search?q=Kafe+Viva",
+            "device": "DESKTOP",
+            "page": 1,
+            "type": "SEARCH",
+            "domain": "google.com",
+            "countryCode": "US",
+            "languageCode": null,
+            "locationUule": null,
+            "resultsPerPage": 10
+        },
+        "url": "http://www.google.com/search?q=Kafe+Viva",
+        "hasNextPage": true,
+        "serpProviderCode": "N",
+        "resultsTotal": null,
+        "relatedQueries": [
+            {
+                "title": "Kafe viva restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kafe+viva+restaurant&sa=X&ved=2ahUKEwijjYyi5K-UAxWYXEEAHQ7oD-YQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Kafe viva menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kafe+viva+menu&sa=X&ved=2ahUKEwijjYyi5K-UAxWYXEEAHQ7oD-YQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Kafe viva nyc",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kafe+viva+nyc&sa=X&ved=2ahUKEwijjYyi5K-UAxWYXEEAHQ7oD-YQ1QJ6BAhCEAE"
+            },
+            {
+                "title": "Kafe viva restaurant",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kafe+viva+restaurant&sa=X&ved=2ahUKEwijjYyi5K-UAxWYXEEAHQ7oD-YQ1QJ6BAhDEAE"
+            },
+            {
+                "title": "Kafe viva menu",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kafe+viva+menu&sa=X&ved=2ahUKEwijjYyi5K-UAxWYXEEAHQ7oD-YQ1QJ6BAhBEAE"
+            },
+            {
+                "title": "Kafe viva nyc",
+                "url": "https://www.google.com/search?sca_esv=af156264804c4707&gl=US&hl=en&q=Kafe+viva+nyc&sa=X&ved=2ahUKEwijjYyi5K-UAxWYXEEAHQ7oD-YQ1QJ6BAhCEAE"
+            }
+        ],
+        "paidResults": [],
+        "paidProducts": [],
+        "organicResults": [
+            {
+                "title": "Kafe Viva (@kafe__viva)",
+                "url": "https://www.instagram.com/kafe__viva/",
+                "displayedUrl": "Instagram\u00a0\u203a\u00a0kafe__viva",
+                "description": "73 followers \u00b7 0 following \u00b7 25 posts \u00b7 @kafe__viva: \u201cComfort and Pleasure in Every Cup\u2615\ufe0f \u201c Coffee fuels the body, Tea soothes the soul .",
+                "emphasizedKeywords": [],
+                "siteLinks": [],
+                "productInfo": {},
+                "followersAmount": "70+ followers",
+                "channelName": "kafe__viva",
+                "type": "organic",
+                "position": 1
+            },
+            {
+                "title": "Kafe Viva",
+                "url": "https://kafeviva.com/",
+                "displayedUrl": "https://kafeviva.com",
+                "description": "Where handcrafted beverages meet an atmosphere of quiet luxury. Every cup tells a story of passion, precision, and warmth. Explore Our Menu Scan Table QR.Read more",
+                "emphasizedKeywords": [
+                    "Where handcrafted beverages meet an atmosphere of quiet luxury"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 2
+            },
+            {
+                "title": "Kafe Viva, HSR, Bangalore",
+                "url": "https://www.zomato.com/bangalore/kafe-viva-2-hsr-bangalore",
+                "displayedUrl": "https://www.zomato.com \u203a ... \u203a South Bangalore \u203a HSR",
+                "description": "Kafe Viva \u00b7 Sandwich \u00b7 Fast Food \u00b7 Street Food \u00b7 Tea \u00b7 Shake \u00b7 Beverages. 962, Shop 2, Ground Floor, 26th Main, 8th Cross, Sector 1, HSR, Bangalore.Read more",
+                "emphasizedKeywords": [
+                    "962, Shop 2, Ground Floor, 26th Main, 8th Cross, Sector 1, HSR, Bangalore"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.3,
+                "numberOfReviews": 15,
+                "type": "organic",
+                "position": 3
+            },
+            {
+                "title": "Caff\u00e8 Viva: Low Carb Coffee Blend in Philippines | Caff\u00e8 VIVA ...",
+                "url": "https://www.caffeviva.com/",
+                "displayedUrl": "https://www.caffeviva.com",
+                "description": "Welcome to Caff\u00e8 VIVA! Discover our exceptional low carb blend, expertly crafted for health-conscious individuals in the Philippines.Read more",
+                "emphasizedKeywords": [
+                    "exceptional low carb blend"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 4
+            },
+            {
+                "title": "Cafe Viva menu photos - Pizza",
+                "url": "https://m.yelp.com/biz/cafe-viva-new-york-5",
+                "displayedUrl": "https://m.yelp.com \u203a New York, NY \u203a Restaurants \u203a Pizza",
+                "description": "CAFE VIVA - CLOSED - Try Our New Menu - 2578 Broadway, New York, NY 10025, 190 Photos, (212) 663-8482, Mon - 11:30 am - 9:00 pm, Tue - 11:30 am - 9:00 pm,\u00a0...",
+                "emphasizedKeywords": [
+                    "2578 Broadway, New York, NY 10025"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 3.7,
+                "numberOfReviews": 279,
+                "type": "organic",
+                "position": 5
+            },
+            {
+                "title": "Kafe Viva | HSR, Bangalore | Book Table",
+                "url": "https://www.district.in/dining/bangalore/kafe-viva-2-hsr-bangalore",
+                "displayedUrl": "https://www.district.in \u203a dining \u203a kafe-viva-2-hsr-bangal...",
+                "description": "quaint little cafe near 27th Main har layout. yummy omlette bread and super krispy fries. friendly staff and the place is very clean and well maintained. About\u00a0...Read more",
+                "emphasizedKeywords": [
+                    "quaint little cafe near 27th Main har layout"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 6
+            },
+            {
+                "title": "CAFE VIVA GOURMET PIZZA, New York City - Manhattan ...",
+                "url": "https://www.tripadvisor.com/Restaurant_Review-g60763-d967818-Reviews-Cafe_Viva_Gourmet_Pizza-New_York_City_New_York.html",
+                "displayedUrl": "https://www.tripadvisor.com \u203a Restaurant_Review-g607...",
+                "description": "Cafe Viva Gourmet Pizza, New York City: See 30 unbiased reviews of Cafe Viva Gourmet Pizza, rated 4.3 of 5 on Tripadvisor and ranked #3609 of 8996\u00a0...",
+                "emphasizedKeywords": [
+                    "Cafe Viva Gourmet Pizza, New York City"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "averageRating": 4.3,
+                "numberOfReviews": 30,
+                "type": "organic",
+                "position": 7
+            },
+            {
+                "title": "Kafe Viva - Home",
+                "url": "https://www.facebook.com/352130258531692",
+                "displayedUrl": "https://www.facebook.com \u203a ...",
+                "description": "Kafe Viva, Simitli, Bulgaria. 96 likes \u00b7 7 talking about this \u00b7 1829 were here. Cafe.",
+                "emphasizedKeywords": [
+                    "Kafe Viva, Simitli, Bulgaria"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 8
+            },
+            {
+                "title": "An ode to Cafe Viva, the Upper West Side's most distinctive ...",
+                "url": "https://www.jta.org/2022/08/31/ny/an-ode-to-cafe-viva-the-upper-west-sides-most-distinctive-kosher-pizzeria",
+                "displayedUrl": "https://www.jta.org \u203a 2022/08/31 \u203a an-ode-to-cafe-viva...",
+                "description": "The Upper West Side establishment, which had been open for three decades, abruptly closed its business on Monday. My family had ordered a Viva\u00a0...Read more",
+                "date": "2022-08-31T12:00:00.000Z",
+                "emphasizedKeywords": [
+                    "abruptly closed its business on Monday"
+                ],
+                "siteLinks": [],
+                "productInfo": {},
+                "type": "organic",
+                "position": 9
+            }
+        ],
+        "suggestedResults": [],
+        "peopleAlsoAsk": [
+            {
+                "answer": null,
+                "question": "Is it caff\u00e9 or caff\u00e8?",
+                "title": "How to Pronounce ''Caff\u00e8'' Correctly! (Coffee in Italian) - YouTube",
+                "url": "https://www.youtube.com/watch?v=nJMMj5bVPPE",
+                "date": null
+            },
+            {
+                "answer": null,
+                "question": "Where is Cova caf\u00e9?",
+                "title": "cova - Instagram",
+                "url": "https://www.instagram.com/p/DNLf19CMuee/#:~:text=until%2016%20August.-,%F0%9F%93%8D%20Shop%202%2C%20401%20St%20John's,%2C%20Sea%20Point%2C%20Cape%20Town!",
+                "date": null
+            },
+            {
+                "answer": "Signature Coffee\nHorchata Latte. $5.50 \u2022 100% (5) A creamy blend of cinnamon, vanilla & espresso for a sweet & comforting treat.Horchata Sweet Foam. $5.75. Iced americano & vanilla topped with a horchata sweet foam & cinnamon.Olla Latte. $5.50. ... Cacao Latte. $5.50. ... Dirty Chai Latte. $5.50.",
+                "question": "What are the signature drinks at Viva caf\u00e9?",
+                "title": "Order Viva Cafe (Koreatown) Menu Delivery\u3010Menu & Prices\u3011",
+                "url": "https://www.ubereats.com/store/viva-cafe-koreatown/jNllS-aVVKyNDnH8l3Rf4Q",
+                "date": null
+            },
+            {
+                "answer": "A caf\u00e9 is sometimes called a coffeehouse or a coffee shop or tea shop in English, a caf\u00e9 in French and a bar in Italian (cafe, a misspelling due to the difficulty of typing the accented \"\u00e9\", and caf\u00e9 are the common spellings used in English, French, Spanish, Portuguese et al.",
+                "question": "Which one is correct, caf\u00e9 or caf\u00e9?",
+                "title": "Caf\u00e9 - Simple English Wikipedia, the free encyclopedia",
+                "url": "https://simple.wikipedia.org/wiki/Caf%C3%A9#:~:text=A%20caf%C3%A9%20is%20sometimes%20called,%2C%20Spanish%2C%20Portuguese%20et%20al.",
+                "date": null
+            }
+        ],
+        "customData": null,
+        "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/jAxFQ2SB6xCldnhGS/records/6Z9srLbVDMX79aa-0.html?signature=1ad6Ep9CknZfPN5ryEII2"
+    }
+]
